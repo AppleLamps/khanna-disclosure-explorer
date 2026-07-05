@@ -1,0 +1,42 @@
+{
+  "pdf_page": 59,
+  "printed_label": "Page 59 of 309",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Declaration of Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MERCK & CO., INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "META PLATFORMS INC-CLASS A CMN CLASS A", "value": "$100,001-$250,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "METLIFE, INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "METROPOLITAN GOVT NASHVILLE & REV 5% 07/01/30 JJ DAVIDSON CNTY TENN", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "METROPOLITAN WASH D C ARPTS REV 5% 10/01/28 AO AUTH ARPT SYS REV RE", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "METTLER-TOLEDO INTL CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MGM RESORTS INTERNATIONAL CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MICROCHIP TECHNOLOGY INCORPORA CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MICROSOFT CORPORATION CMN", "value": "$250,001-$500,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MID-AMERICA APT CMNTYS INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MINNEAPOLIS MINN SPL SCH DIST GO 1.1500% 12/15/25 JD TAXABLE-QUALIFIED", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MODERNA, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "value": "$15,001-$50,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MOLINA HEALTHCARE, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MOLSON COORS BEVERAGE CO CMN CLASS B", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MONDELEZ INTERNATIONAL, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MONGODB, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MONOLITHIC POWER SYSTEMS, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MONSTER BEVERAGE CORPORATION CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MOODY'S CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MORGAN STANLEY CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 500 INDEX BUFFERED CAPPE", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 500 INDEX BUFFERED CAPPE", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 5, "field": "asset_name", "read": "METROPOLITAN WASH D C ARPTS REV 5% 10/01/28 AO AUTH ARPT SYS REV RE", "note": "name truncated at column edge after 'REV R'; last visible characters read RE (tess: RH)"},
+    {"row": 9, "field": "amount_of_income", "read": "$15,001-$50,000", "note": "X alignment closest to column VII; VI ($5,001-$15,000) possible but less likely"},
+    {"row": 14, "field": "amount_of_income", "read": "$5,001-$15,000", "note": "X sits between V and VII header centers; best alignment is VI"},
+    {"row": 23, "field": "asset_name", "read": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 500 INDEX BUFFERED CAPPE", "note": "name truncated at right edge of Block A (likely 'CAPPED...'); rows 23 and 24 identical"}
+  ],
+  "page_confidence": "high"
+}

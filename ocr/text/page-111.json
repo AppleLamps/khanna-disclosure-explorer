@@ -1,0 +1,42 @@
+{
+  "pdf_page": 111,
+  "printed_label": "Page 110 of 309",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "M & R Trust Partnership"},
+    {"kind": "group", "text": "- 2020 Trust FBO Khanna Children"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CLEVELAND OHIO WTR REV REV 5% 01/01/25 JJ", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CLEVELAND OHIO WTR REV REV 5% 01/01/25 JJ BDS 2017B BEO SUB LIEN", "value": "$50,001-$100,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CLOUDFLARE, INC. CMN CLASS A", "value": "$15,001-$50,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CMS ENERGY CORPORATION CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLERAIN TWP OHIO GO 5% 12/01/24 JD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS OHIO CITY SCH DIST GO 5% 12/01/25 JD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS OHIO CITY SCH DIST GO 5% 12/01/26 JD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS OHIO GO 4% 04/01/25 AO", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS OHIO GO 4% 04/01/25 AO VARIOUS PURP ULTD TAX BDS 2017A UT B", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS OHIO GO 4% 08/15/25 FA", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS OHIO GO 4% 08/15/25 FA GO VAR PURP ULTD TAX BDS 2016 A UT BE", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS OHIO GO 5% 04/01/24 AO", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS OHIO GO 5% 04/01/25 AO", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS OHIO GO 5% 04/01/25 AO PURPOSE UNLIMITED TAX BONDS (TAX-EX", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS OHIO GO 5% 07/01/25 JJ", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS OHIO GO 5% 07/01/25 JJ GO VAR PURP REF BDS 2016-1 LT BEO", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS, OHIO (CITY OF) GO 5.0000% 07/01/24 JJ", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CONNECTICUT ST GO 5% 04/15/24 AO", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CONSTELLATION BRANDS, INC. 2.25% 08/01/2031 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CONSTELLATION BRANDS, INC. 2.25% 08/01/2031 USD SR LIEN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CROWDSTRIKE HOLDINGS, INC. CMN", "value": "$15,001-$50,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CROWN CASTLE INTL CORP 1.05% 07/15/2026 USD SR LIEN", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CUBESMART LP 2.0% 05/18/2032 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 11, "field": "value", "read": "$15,001-$50,000", "note": "X near D/E boundary; full-page alignment and income level favor D ($15,001-$50,000), E possible"},
+    {"row": 11, "field": "asset_name", "read": "COLUMBUS OHIO GO 4% 04/01/25 AO VARIOUS PURP ULTD TAX BDS 2017A UT B", "note": "name truncated at cell edge after 'UT B'"},
+    {"row": 13, "field": "asset_name", "read": "COLUMBUS OHIO GO 4% 08/15/25 FA GO VAR PURP ULTD TAX BDS 2016 A UT BE", "note": "name truncated at cell edge; trailing characters 'BE' partially cut (likely BEO)"},
+    {"row": 16, "field": "asset_name", "read": "COLUMBUS OHIO GO 5% 04/01/25 AO PURPOSE UNLIMITED TAX BONDS (TAX-EX", "note": "name truncated at cell edge inside parenthetical (TAX-EX...; tesseract read '(TAX-E')"}
+  ],
+  "page_confidence": "high"
+}

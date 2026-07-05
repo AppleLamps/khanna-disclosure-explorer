@@ -1,0 +1,43 @@
+{
+  "pdf_page": 140,
+  "printed_label": "Page 137 of 309",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN TOWER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTUITIVE SURGICAL, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CISCO SYSTEMS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/NVDA FLEX EURO PM 590 EXP 03/01/2024", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/1/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/LLY FLEX EURO PM @ 695 EXP 03/01/2024", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/AXP FLEX EURO PM @ 202.5 EXP 03/01/2024", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/ISRG FLEX EURO PM 365 EXP 03/01/2024", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/ACN FLEX EURO PM @ 355 EXP 03/01/2024", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OLD DOMINION FREIGHT LINE, INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "3/1/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NVIDIA CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/1/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PROCTER & GAMBLE COMPANY (THE) CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ELI LILLY & CO CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROSS STORES,INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICROSOFT CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN EXPRESS CO. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LEAR CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/8/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BORGWARNER INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/8/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BORGWARNER INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/12/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/15/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/15/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/15/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WELLS FARGO & CO (NEW) CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/18/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BORGWARNER INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/18/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "N V R INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/20/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BECTON, DICKINSON AND COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/21/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KKR & CO. INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/21/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BORGWARNER INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/21/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SBA COMMUNICATIONS CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/22/2024", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 21, "field": "date", "read": "3/15/2024", "note": "CATERPILLAR row: tesseract read 3/18/2024, but full page and BR quadrant both clearly show three 3/15/2024 rows (PEPSICO, BERKSHIRE, CATERPILLAR) before the two 3/18/2024 rows"}
+  ],
+  "page_confidence": "high"
+}

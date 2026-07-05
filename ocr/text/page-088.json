@@ -1,0 +1,39 @@
+{
+  "pdf_page": 88,
+  "printed_label": "Page 87 of 309",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 480 EXP 03/28/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 480 EXP 08/16/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 485 EXP 07/19/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 485 EXP 10/31/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 486 EXP 04/19/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 489 EXP 03/22/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 490 EXP 06/07/2024", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 490 EXP 10/18/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 495 EXP 04/30/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 495 EXP 06/21/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 497 EXP 04/05/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 500 EXP 05/10/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 500 EXP 05/17/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 509 EXP 05/31/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 510 EXP 05/03/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 510 EXP 07/31/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 513 EXP 07/26/2024", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 515 EXP 07/12/2024", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 515 EXP 11/29/2024", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 519 EXP 08/16/2024", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 520 EXP 11/15/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 521 EXP 09/30/2024", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 527 EXP 08/30/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PUT/XSP @ 530 EXP 09/06/2024", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 12, "field": "asset_name", "read": "PUT/XSP @ 500 EXP 05/10/2024", "note": "tesseract read the date as 08/10/2024, but hi-res crop clearly shows 05/10/2024"}
+  ],
+  "page_confidence": "high"
+}

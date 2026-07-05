@@ -1,0 +1,26 @@
+{
+  "pdf_page": 332,
+  "printed_label": "Page 308 of 309",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "MURA Holdings - 2020 Trust FBO Khanna Children"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BOOKING HOLDINGS INC COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/5/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ISHARES TR 0-3 MONTH TREASURY", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/5/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ISHARES TR 0-3 MONTH TREASURY", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/13/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JOHNSON &JOHNSON COM USD1.00", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/13/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CISCO SYSTEMS INC", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "8/19/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ISHARES TR 0-3 MONTH TREASURY", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/19/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ISHARES TR 0-3 MONTH TREASURY", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "11/12/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TARGA RESOURCES CORP", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/12/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DISNEY WALT CO COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/27/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ISHARES TR 0-3 MONTH TREASURY", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "11/27/2024", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "text", "read": "MURA Holdings - 2020 Trust FBO Khanna Children", "note": "Header printed across two bold lines ('MURA Holdings' / '- 2020 Trust FBO Khanna Children'); joined as one wrapped portfolio header, continuation of page 307 group"},
+    {"row": 5, "field": "asset_name", "read": "JOHNSON &JOHNSON COM USD1.00", "note": "No space after ampersand as printed; tesseract noise read 'USDT.00' but crop clearly shows USD1.00"}
+  ],
+  "page_confidence": "high"
+}

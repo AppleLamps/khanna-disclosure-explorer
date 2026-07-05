@@ -1,0 +1,43 @@
+{
+  "pdf_page": 254,
+  "printed_label": "Page 238 of 309",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ARTHUR J GALLAGHER & CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HASBRO, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LYONDELLBASELL INDUSTRIES N.V. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ETSY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CROWN CASTLE INTL CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BATH & BODY WORKS. INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CARNIVAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FRANKLIN RESOURCES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CARMAX, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOLSON COORS BEVERAGE CO CMN CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BIO-TECHNE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WEYERHAEUSER COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIVE NATION ENTERTAINMENT INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BALL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KEURIG DR PEPPER INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VENTAS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CELANESE CORPORATION COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAC HOLDINGS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BECTON, DICKINSON AND COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VICI PROPERTIES INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NORFOLK SOUTHERN CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SIMON PROPERTY GROUP INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DIGITAL REALTY TRUST, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AIRBNB, INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UBER TECHNOLOGIES, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HCA HEALTHCARE, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/28/2024", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 6, "field": "asset_name", "read": "BATH & BODY WORKS. INC. CMN", "note": "period after WORKS in both crop and tesseract; could be a comma in the original print"}
+  ],
+  "page_confidence": "high"
+}

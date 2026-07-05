@@ -1,0 +1,43 @@
+{
+  "pdf_page": 181,
+  "printed_label": "Page 173 of 309",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "2020 Trust FBO Khanna Children"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GLOBAL PAYMENTS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARNIVAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PULTEGROUP INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AON PUBLIC LIMITED COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "W.R. BERKLEY CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REPUBLIC SERVICES INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN INTL GROUP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHARTER COMMUNICATIONS, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROPER TECHNOLOGIES INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VICI PROPERTIES INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGENCY CENTERS CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALIGN TECHNOLOGY, INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EQUITY RESIDENTIAL CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MC DONALDS CORP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ZIONS BANCORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERISK ANALYTICS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HENRY SCHEIN INC COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BROWN FORMAN CORP CL B CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MSCI INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE KRAFT HEINZ CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CATALENT. INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TAKE TWO INTERACTIVE SOFTWARE INC", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INVITATION HOMES INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LIVE NATION ENTERTAINMENT INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CF INDUSTRIES HOLDINGS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NORDSON CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 23, "field": "asset_name", "read": "CATALENT. INC. CMN", "note": "punctuation after CATALENT appears as a period in both crop and tesseract; possibly a comma in original"}
+  ],
+  "page_confidence": "high"
+}

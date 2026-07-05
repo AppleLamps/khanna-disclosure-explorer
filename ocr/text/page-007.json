@@ -1,0 +1,43 @@
+{
+  "pdf_page": 7,
+  "printed_label": "Page 7 of 309",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CARMAX, INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CBM INVESTORS, L.P.", "eif": true, "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHARLES SCHWAB CORPORATION (TH HYBRID PERPETUAL USD SER G JRSUB", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHARLES SCHWAB CORPORATION (TH HYBRID PERPETUAL USD SER H JRSUB", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHARLES SCHWAB CORPORATION (TH HYBRID PERPETUAL USD SER K JRSUB", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CISCO SYSTEMS, INC. CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL SER T SUB LIEN CPN 04/25/16 6.25%", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL USD SER AA JRSUB LIEN CPN 09/21/23 7.6", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL USD SER DD JRSUB LIEN CPN 07/30/24 7.0", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL USD SER EE JRSUB LIEN CPN 12/03/24 6.7", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL USD SER W JRSUB LIEN CPN 12/10/20 4.0", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL USD SER Z JRSUB LIEN CPN 03/07/23 7.37", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. LINKED TO BASKET OF INDICES", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. LINKED TO BASKET OF INDICES UPSIDE LEVERED CAPPED W E", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIZENS FINANCIAL GROUP, INC. HYBRID PERPETUAL USD SER F JRSUB LIEN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIZENS FINANCIAL GROUP, INC. HYBRID PERPETUAL USD SER G JRSUB LIEN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CMS ENERGY CORPORATION HYBRID 06/01/2050 USD JRSUB LIEN CPN 05/28/20", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLGATE-PALMOLIVE CO CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COMERICA INCORPORATED HYBRID PERPETUAL USD JRSUB LIEN CPN 05/26/2", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CORVEX DYNAMIC EQUITY SELECT LLC CLASS BA SERIES 1", "eif": true, "value": "$1,000,001-$5,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CVS HEALTH CORP CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "DANAHER CORPORATION CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 4, "field": "asset_name", "read": "CHARLES SCHWAB CORPORATION (TH HYBRID PERPETUAL USD SER G JRSUB", "note": "name truncated at cell edge on the form (applies to SER H and SER K rows too); '(TH' likely start of a truncated word"},
+    {"row": 10, "field": "asset_name", "read": "...CPN 09/21/23 7.6", "note": "coupon rate digits cut off at cell edge; same truncation on SER DD (7.0), SER EE (6.7), SER W (4.0), SER Z (7.37) rows"},
+    {"row": 12, "field": "income_types", "read": "INTEREST", "note": "X sits in INTEREST column though sibling Citigroup preferred rows are marked DIVIDENDS"},
+    {"row": 21, "field": "asset_name", "read": "COMERICA INCORPORATED HYBRID PERPETUAL USD JRSUB LIEN CPN 05/26/2", "note": "italic row, date truncated at cell edge"},
+    {"row": 8, "field": "value", "read": "None", "note": "value None with transaction P only (no sale shown); recorded as seen"}
+  ],
+  "page_confidence": "high"
+}

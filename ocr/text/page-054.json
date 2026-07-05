@@ -1,0 +1,41 @@
+{
+  "pdf_page": 54,
+  "printed_label": "Page 54 of 309",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Declaration of Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "FIRSTENERGY CORP. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "FISERV, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "FLORIDA ST BRD ED PUB ED DB 5% 06/01/31 JD CAP OUTLAY REF BDS 2021 B U", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "FMC CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "FORD MOTOR COMPANY CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "FORTINET, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "FORTIVE CORPORATION CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "FOX CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "FRANKLIN RESOURCES INC CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "FREEPORT-MCMORAN INC CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "GARMIN LTD CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "GARTNER, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "GE HEALTHCARE TECHNOLOGIES INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "GE VERNOVA LLC CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "GEN DIGITAL INC CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "GENERAC HOLDINGS INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "GENERAL MILLS INC CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "GENERAL MOTORS COMPANY CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "GENUINE PARTS CO. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "GILEAD SCIENCES CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "GLOBAL PAYMENTS INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "GLOBE LIFE INC CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "GOLDMAN SACHS BANK USA DEPOSIT (BDA)", "value": "$500,001-$1,000,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "GRAND IS N Y CENT SCH DIST GO 4% 12/01/28-CA JD SCH DIST SERIAL BDS 201", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 3, "field": "asset_name", "read": "FLORIDA ST BRD ED PUB ED DB 5% 06/01/31 JD CAP OUTLAY REF BDS 2021 B U", "note": "name truncated at column edge; likely continues (e.g. 'UT...')"},
+    {"row": 24, "field": "asset_name", "read": "GRAND IS N Y CENT SCH DIST GO 4% 12/01/28-CA JD SCH DIST SERIAL BDS 201", "note": "name truncated at column edge; trailing year incomplete (e.g. '2019/201x')"},
+    {"row": 23, "field": "value", "read": "$500,001-$1,000,000", "note": "X sits between G and H gridlines in low-res view; hi-res BR crop places it in column H; adjacent G ($250,001-$500,000) possible but less consistent with $15,001-$50,000 interest"}
+  ],
+  "page_confidence": "high"
+}

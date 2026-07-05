@@ -1,0 +1,43 @@
+{
+  "pdf_page": 324,
+  "printed_label": "Page 300 of 309",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "MURA Holdings"},
+    {"kind": "group", "text": "- Ritu Ahuja 1994 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "RIVERSIDE TECHNOLOGY CAPITAL SOLUTIONS II - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/8/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI GLADEBROOK VENTURE FUND - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/6/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI GLADEBROOK VENTURE FUND - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/27/2024", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI GP STAKING FUND - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/24/2024", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI GP STAKING FUND - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/13/2024", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI CAPITAL SPORTS & ENTERTAINMENT SEEDING FUND - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/13/2024", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI CAPITAL SPORTS & ENTERTAINMENT SEEDING FUND - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/14/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI CAPITAL SPORTS & ENTERTAINMENT SEEDING FUND - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2024", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI CAPITAL SPORTS & ENTERTAINMENT SEEDING FUND - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/22/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI CAPITAL SPORTS & ENTERTAINMENT SEEDING FUND - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/16/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ORANGEWOOD III - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/13/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SILVER POINT DISTRESSED OPPORTUNITY II FUND - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/29/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PCM UNISON HOLDINGS GP, LLC - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/30/2024", "notification_date": null, "amount": "$500,001-$1,000,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL (SPX) NEW S&P 500 JUN 21 24 $4600", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/17/2024", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL (SPX) NEW S&P 500 JUN 21 24 $4700", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/17/2024", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED STATES TREAS BILLS ZERO CPN 9/5/2024", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/26/2024", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERSUS CAPITAL REAL ASSETS", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "8/23/2024", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI MANAGED VOL INCOME INSTL", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/23/2024", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERSUS CAPITAL REAL ASSETS", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "11/26/2024", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FIDELITY GOVERNMENT CASH RESERVES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/31/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 02/08/2024", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/8/2024", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERSUS CAPITAL REAL ASSETS", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/14/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FIDELITY GOVERNMENT CASH RESERVES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED STATES TREASURY BILL ZERO CPN 5/30/2024", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/1/2024", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 03/07/2024", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/7/2024", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI MANAGED VOL INCOME INSTL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/26/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VANGUARD SPECIALIZED FUNDS DIV APP ETF", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/27/2024", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 10, "field": "date", "read": "6/26/2024", "note": "tesseract read 8/26/2024, but both TR and BR quadrant crops clearly show 6/26/2024"}
+  ],
+  "page_confidence": "high"
+}

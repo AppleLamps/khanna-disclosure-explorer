@@ -1,0 +1,43 @@
+{
+  "pdf_page": 278,
+  "printed_label": "Page 259 of 309",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HUMANA INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/11/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 559 EXP 12/06/2024", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/15/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CARTER'S, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/16/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NCR VOYIX CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/17/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/21/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINTEREST INC CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/22/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 555 EXP 01/17/2025", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/22/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SS&C TECHNOLOGIES HOLDINGS, IN CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/22/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NCR VOYIX CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/23/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINTEREST INC CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/24/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINTEREST INC CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/25/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUN & BRADSTREET HOLDINGS, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/25/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINTEREST INC CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GRAPHIC PACKAGING HLDGCO CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/28/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINTEREST INC CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 555 EXP 12/13/2024", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/29/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ULTRA CLEAN HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/30/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINTEREST INC CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/30/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NASDAQ INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/30/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/30/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BARCLAYS BANK PLC LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/31/2024", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUN & BRADSTREET HOLDINGS, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ULTRA CLEAN HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/4/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUN & BRADSTREET HOLDINGS, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/5/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ULTRA CLEAN HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/5/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ULTRA CLEAN HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/7/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINTEREST INC CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/7/2024", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 26, "field": "date", "read": "11/5/2024", "note": "low-res full page could be read as 11/6/2024; high-res crop and tesseract both read 11/5/2024"}
+  ],
+  "page_confidence": "high"
+}

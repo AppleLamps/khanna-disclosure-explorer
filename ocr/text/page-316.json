@@ -1,0 +1,43 @@
+{
+  "pdf_page": 316,
+  "printed_label": "Page 292 of 309",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "M & R Trust Partnership - 2020 Trust FBO Khanna Children"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN TOWER CORPORATION 2.3% 09/15/2031 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/18/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NXP B.V. 2.5% 05/11/2031 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/18/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CONSTELLATION BRANDS, INC. 2.25% 08/01/2031 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/18/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EVERSOURCE ENERGY 5.85% 04/15/2031 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/18/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NEXTERA ENERGY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/21/2024", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ATLASSIAN CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/21/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BROADCOM INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/21/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GE VERNOVA LLC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "11/21/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "APPLOVIN CORPORATION CMN CLASS A", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "11/21/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRANE TECHNOLOGIES PUBLIC LIMI CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "11/21/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MARVELL TECHNOLOGY, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "11/21/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DELL TECHNOLOGIES INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "11/21/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMAZON.COM INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "11/21/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NEW ALBANY PLAIN LOC SCH DIST GO 4% 12/01/25 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/2/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO HSG FIN AGY MULTIFAMILY REV 3.8500% 07/01/25 JJ", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2024", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST DB 5% 05/01/25 MN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2024", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CUBESMART LP 2.0% 05/18/2032 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WASTE CONNECTIONS INC 3.2% 06/01/2032 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AEP TEXAS INC 4.7% 05/15/2032 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JM SMUCKER CO 2.125% 03/15/2032 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BELL CANADA 2.15% 02/15/2032 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "T-MOBILE USA, INC. 2.7% 03/15/2032 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC 2.539% 02/01/2032 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROPER TECHNOLOGIES INC 4.75% 02/15/2032", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTOZONE INC 4.75% 08/01/2032 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMGEN INC. 2.0% 01/15/2032 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST WTR DEV AUTH WTR REV 5% 12/01/25 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/4/2024", "notification_date": null, "amount": "$50,001-$100,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 10, "field": "asset_name", "read": "TRANE TECHNOLOGIES PUBLIC LIMI CMN", "note": "name appears truncated on form ('LIMI'); transcribed verbatim, tesseract agrees"},
+    {"row": 16, "field": "asset_name", "read": "OHIO ST DB 5% 05/01/25 MN", "note": "tesseract read 'DB 6%' but crop shows 5%, matching identical asset on pdf page 315"}
+  ],
+  "page_confidence": "high"
+}

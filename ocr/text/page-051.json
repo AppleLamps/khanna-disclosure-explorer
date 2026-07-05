@@ -1,0 +1,41 @@
+{
+  "pdf_page": 51,
+  "printed_label": "Page 51 of 309",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Declaration of Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CORPAY INC CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CORTEVA, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "COSTAR GROUP, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "COSTCO WHOLESALE CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CRH PUBLIC LIMITED COMPANY CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CROWDSTRIKE HOLDINGS, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CROWN CASTLE INTL CORP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CSX CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CUMMINS INC COMMON STOCK", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CVS HEALTH CORP CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "D.R. HORTON, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DANAHER CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DARDEN RESTAURANTS, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DAYFORCE INC CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DECKERS OUTDOORS CORP CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DEERE & COMPANY CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DELTA AIR LINES, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DEXCOM, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DIGITAL REALTY TRUST, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DISCOVER FINANCIAL SERVICES CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DISTRICT COLUMBIA DB 5% 12/01/32 JD GO REF BDS 2024C UT BEO", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DISTRICT COLUMBIA INCOME TAX REV 2.1880% 03/01/25 MS REV TAXABLE SEC", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DISTRICT COLUMBIA INCOME TAX REV 5% 10/01/30 AO REV SECD REF BDS 202", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "amount_of_income", "read": "$15,001-$50,000", "note": "X clearly in column VII in both TR and BR crops; unusually large relative to asset value but consistent with S(part) capital gains"},
+    {"row": 23, "field": "asset_name", "read": "DISTRICT COLUMBIA INCOME TAX REV 2.1880% 03/01/25 MS REV TAXABLE SEC", "note": "name truncated at column edge; likely continues (e.g. 'SECD...'); rate 2.1880% could read 2,1880% in tesseract"},
+    {"row": 24, "field": "asset_name", "read": "DISTRICT COLUMBIA INCOME TAX REV 5% 10/01/30 AO REV SECD REF BDS 202", "note": "name truncated at column edge; trailing year partially visible, possibly '2020'"}
+  ],
+  "page_confidence": "high"
+}

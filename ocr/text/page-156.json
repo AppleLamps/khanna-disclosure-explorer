@@ -1,0 +1,14 @@
+{
+  "pdf_page": 156,
+  "printed_label": "Page 152 of 309",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ahuja Grandchildren's Education Trust"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ULTRA CLEAN HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/26/2024", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

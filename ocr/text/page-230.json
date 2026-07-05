@@ -1,0 +1,22 @@
+{
+  "pdf_page": 230,
+  "printed_label": "Page 215 of 309",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja Declaration of Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/17/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "OKTA, INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/18/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROYAL BANK OF CANADA LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/19/2024", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NASDAQ INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/19/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "OKTA, INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/20/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/20/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "OKTA, INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/27/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ULTRA CLEAN HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/27/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "OKTA, INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/31/2024", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

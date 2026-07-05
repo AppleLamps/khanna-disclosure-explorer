@@ -1,0 +1,40 @@
+{
+  "pdf_page": 25,
+  "printed_label": "Page 25 of 309",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "2020 Trust FBO Khanna Children"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHIPOTLE MEXICAN GRILL, INC. CMN", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHUBB LIMITED CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHURCH & DWIGHT CO INC 5.6% 11/15/2032 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHURCH & DWIGHT CO INC 5.6% 11/15/2032 USD SR LIEN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHURCH & DWIGHT CO., INC. CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CIGNA GROUP/THE CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CINCINNATI FINANCIAL CRP CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CINTAS CORPORATION CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CISCO SYSTEMS, INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 03/20/2030 USD SR LIEN CPN 03/20/19 3.98%", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 04/23/2029 USD SR LIEN CPN 04/23/18 4.075%", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 07/24/2028 USD SR LIEN CPN 07/24/17 3.668%", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 11/05/2030 USD SR LIEN CPN 11/05/19 2.976%", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. LINKED TO S&P 500 INDEX STRUCTURED NOTE DUE 08/20/2025", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIZENS FINANCIAL GROUP, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CLOROX CO (THE) (DELAWARE) CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CME GROUP INC. CMN CLASS A", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COCA-COLA COMPANY (THE) CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLGATE-PALMOLIVE CO CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLUMBUS OHIO GO 5% 08/15/30 FA GO VAR PURP UNLTD TAX BDS 2023 A UT", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "COMCAST CORPORATION CMN CLASS A VOTING", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COMERICA INCORPORATED CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 22, "field": "asset_name", "read": "COLUMBUS OHIO GO 5% 08/15/30 FA GO VAR PURP UNLTD TAX BDS 2023 A UT", "note": "name runs to cell edge; one truncated character visible after 'UT' (possibly 'B'); 'UNLTD' could read 'UNLTO'"},
+    {"row": 15, "field": "asset_name", "read": "CITIGROUP INC. LINKED TO S&P 500 INDEX STRUCTURED NOTE DUE 08/20/2025", "note": "tesseract read 08/20/2024; hi-res crop clearly shows 2025, final digit tight against cell border"}
+  ],
+  "page_confidence": "high"
+}

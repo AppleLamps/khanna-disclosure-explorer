@@ -1,0 +1,21 @@
+{
+  "pdf_page": 323,
+  "printed_label": "Page 299 of 309",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "ARECO LP - 2020 Trust FBO Khanna Children"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIDELITY GOVERNMENT CASH RESERVES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/30/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VANGUARD SPECIALIZED FUNDS DIV APP ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/1/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIDELITY GOVERNMENT CASH RESERVES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/31/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 12/12/2024", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/12/2024", "notification_date": null, "amount": "$500,001-$1,000,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VANGUARD SPECIALIZED FUNDS DIV APP ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/26/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIDELITY GOVERNMENT CASH RESERVES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/31/2024", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "text", "read": "ARECO LP - 2020 Trust FBO Khanna Children", "note": "Header printed as two bold lines: 'ARECO LP' then '- 2020 Trust FBO Khanna Children'; combined as one wrapped group header following spec convention"}
+  ],
+  "page_confidence": "high"
+}

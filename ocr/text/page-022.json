@@ -1,0 +1,43 @@
+{
+  "pdf_page": 22,
+  "printed_label": "Page 22 of 309",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "2020 Trust FBO Khanna Children"},
+    {"kind": "asset", "owner": "DC", "asset_name": "APTIV PLC CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ARCH CAPITAL FINANCE LLC 4.011% 12/15/2026 USD SR LIEN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ARCH CAPITAL GROUP LTD. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ARCHER-DANIELS-MIDLAND COMPANY CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ARISTA NETWORKS, INC. CMN", "value": "$15,001-$50,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ARTHUR J GALLAGHER & CO CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AT&T INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AUTODESK, INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AUTOMATIC DATA PROCESSING INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AUTONATION INC 4.75% 06/01/2030 USD SR LIEN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "AUTOZONE, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AVALONBAY COMMUNITIES INC CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AVERY DENNISON CORPORATION CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BALL CORPORATION CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORP CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 07/23/2029 USD SR LIEN CPN 0", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 10/22/2030 USD SR LIEN CPN 10", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 10/24/2026 USD SR LIEN CPN 10", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF NEW YORK MELLON CORPOR HYBRID MTN 10/25/2028 USD SR LIEN C", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BARCLAYS BANK PLC LINKED TO S&P 500 INDEX", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BARCLAYS BANK PLC LINKED TO S&P 500 INDEX CNTNGNT CPN W BUFFER STR", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BATH & BODY WORKS, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 16, "field": "asset_name", "read": "BANK OF AMERICA CORPORATION HYBRID MTN 07/23/2029 USD SR LIEN CPN 0", "note": "coupon suffix truncated at cell edge after 'CPN 0'"},
+    {"row": 17, "field": "asset_name", "read": "BANK OF AMERICA CORPORATION HYBRID MTN 10/22/2030 USD SR LIEN CPN 10", "note": "suffix truncated at cell edge; last digit partially cut, read as 10"},
+    {"row": 18, "field": "asset_name", "read": "BANK OF AMERICA CORPORATION HYBRID MTN 10/24/2026 USD SR LIEN CPN 10", "note": "suffix truncated at cell edge; last digit partially cut, read as 10"},
+    {"row": 19, "field": "asset_name", "read": "BANK OF NEW YORK MELLON CORPOR HYBRID MTN 10/25/2028 USD SR LIEN C", "note": "name truncated at cell edge after 'C'"},
+    {"row": 21, "field": "asset_name", "read": "BARCLAYS BANK PLC LINKED TO S&P 500 INDEX CNTNGNT CPN W BUFFER STR", "note": "name truncated at cell edge; tesseract read trailing token as STA"}
+  ],
+  "page_confidence": "high"
+}

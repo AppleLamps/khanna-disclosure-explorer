@@ -1,0 +1,39 @@
+{
+  "pdf_page": 4,
+  "printed_label": "Page 4 of 309",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AAPL FLEX EURO  PM  265 EXP 03/07/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AAPL FLEX EURO  PM 185 EXP 06/07/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AAPL FLEX EURO  PM 195 EXP 07/05/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AAPL FLEX EURO  PM 210 EXP 08/02/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/ACN FLEX EURO  PM  @  395 EXP 02/07/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/ACN FLEX EURO  PM  @ 355 EXP 03/01/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AMT FLEX EURO  PM  @  225 EXP 02/07/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AMT FLEX EURO  PM  @  230 EXP 01/03/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AMZN FLEX EURO  PM  217.5 EXP 01/03/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AMZN FLEX EURO  PM  255 EXP 02/07/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AMZN FLEX EURO  PM 205 EXP 12/06/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AXP FLEX EURO  PM  @  300 EXP 01/03/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AXP FLEX EURO  PM  @  335 EXP 02/07/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AXP FLEX EURO  PM  @ 202.5 EXP 03/01/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/DDOG FLEX EURO  PM  182.5 EXP 02/07/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/DHR FLEX EURO  PM  @  255 EXP 02/07/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/DHR FLEX EURO  PM  @  270 EXP 01/03/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/GE FLEX EURO  PM   @ 150 EXP 04/05/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/GEV FLEX EURO  PM  @  360 EXP 01/03/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/GEV FLEX EURO  PM  @  410 EXP 02/07/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/GEV FLEX EURO  PM  @ 155 EXP 07/05/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/GEV FLEX EURO  PM  @ 205 EXP 10/04/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/GEV FLEX EURO  PM  @ 235 EXP 11/01/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/GOOGL FLEX EURO  PM  185 EXP 01/03/2025", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 10, "field": "asset_name", "read": "CALL/AMZN FLEX EURO  PM  255 EXP 02/07/2025", "note": "strike read as 255 in hi-res crop; tesseract read 265"}
+  ],
+  "page_confidence": "high"
+}

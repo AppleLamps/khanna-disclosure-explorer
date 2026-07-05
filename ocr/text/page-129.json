@@ -1,0 +1,39 @@
+{
+  "pdf_page": 129,
+  "printed_label": "Page 127 of 309",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "MURA Holdings"},
+    {"kind": "group", "text": "- Ritu Ahuja 1994 Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAI CAPITAL MANAGEMENT, LLC, WEALTH MANAGEMENT, INDEPENDENCE, OH", "value": "Spouse/DC Asset over $1,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "JANA STRATEGIC BENCHMARKS", "value": "$250,001-$500,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$50,001-$100,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "RIVERSIDE TECHNOLOGY CAPITAL SOLUTIONS II FUND", "value": "$50,001-$100,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$2,501-$5,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "RIVERSIDE TECHNOLOGY CAPITAL SOLUTIONS II SELECT FUND", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "OAK STREET MAI SPECIAL OPPORTUNITY FUND", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAI GLADE BROOK VENTURE FUND", "value": "Spouse/DC Asset over $1,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAI GP STAKING FUND", "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ORANGEWOOD OSS SPV FUND", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ORANGEWOOD III FUND", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SILVER POINT DISTRESSED OPPORTUNITY FUND II", "value": "$50,001-$100,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$5,001-$15,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAI CAPITAL SPORTS & ENTERTAINMENT SEEDING FUND", "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "PCM UNISON HOLDINGS GP, LLC", "value": "$500,001-$1,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "FIDELITY GOVERNMENT CASH RESERVES", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AB LARGE CAP GROWTH ADVISOR", "value": "Spouse/DC Asset over $1,000,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$50,001-$100,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "T ROWE PRICE MID CAP GROWTH FUND CL I", "value": "$500,001-$1,000,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$50,001-$100,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "VERSUS CAPITAL REAL ASSETS", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "VANGUARD SPECIALIZED FUNDS DIV APP", "value": "$250,001-$500,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "VANGUARD MID-CAP GROWTH FUND", "value": "$250,001-$500,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TORONTO DOMINION BANK SER E NOTE", "value": "$500,001-$1,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "AZURITE II FUND", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "AZURITE III FUND", "value": "$50,001-$100,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "FIDELITY GOVERNMENT CASH RESERVES", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ISHARES TR 0-3 MONTH TREASURY", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S,S(part)"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 5, "field": "value", "read": "$50,001-$100,000", "note": "X position for both RIVERSIDE rows read as column E; full-page thumbnail could suggest D ($15,001-$50,000), hi-res crops say E"}
+  ],
+  "page_confidence": "high"
+}

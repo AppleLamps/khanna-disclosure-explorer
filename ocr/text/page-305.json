@@ -1,0 +1,42 @@
+{
+  "pdf_page": 305,
+  "printed_label": "Page 281 of 309",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1995 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STRYKER CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/5/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WELLS FARGO & COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/5/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BECTON, DICKINSON AND COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/6/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE HOME DEPOT, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/6/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/6/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBVIE INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/6/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN INTL GROUP, INC, CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/12/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "JPMORGAN CHASE & CO. HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/16/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/16/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/16/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/16/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/16/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/16/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/17/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/17/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/17/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STRYKER CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/17/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/18/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/18/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/18/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/18/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STRYKER CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "12/19/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "12/19/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STRYKER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "12/19/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/20/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PRUDENTIAL FINANCIAL, INC. HYBRID 09/01/2052 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/20/2024", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LAS VEGAS VY NEV WTR DIST DB 5% 06/01/32 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/23/2024", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 7, "field": "asset_name", "read": "AMERICAN INTL GROUP, INC, CMN", "note": "punctuation after INC looks like a comma in crop and tesseract agrees, but could be a period as in other rows"}
+  ],
+  "page_confidence": "high"
+}

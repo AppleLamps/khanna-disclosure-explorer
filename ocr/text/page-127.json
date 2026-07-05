@@ -1,0 +1,41 @@
+{
+  "pdf_page": 127,
+  "printed_label": "Page 125 of 309",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "ARECO LP"},
+    {"kind": "group", "text": "- Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI WEALTH INCOME AND GROWTH FUND, LP", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI CAPITAL INCOME AND GROWTH FUND II, LP", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI CAPITAL INCOME AND GROWTH FUND III, LP", "value": "None", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$100,001-$1,000,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PARK CENTER PLAZA HOLDINGS LP, OFFICE BUILDINGS, INDEPENDENCE, OH", "value": "$15,001-$50,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$5,001-$15,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI CAPITAL INCOME AND GROWTH FUND IV, LP", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI CAPITAL INCOME AND GROWTH FUND V, LP", "value": "$50,001-$100,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$5,001-$15,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI DIVERSIFIED REAL ESTATE INCOME FUND, LP", "value": "$15,001-$50,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITYMARK US APT FUND II", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITYMARK US APT FUND III", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "OAK STREET MAI SPECIAL OPPORTUNTIY FUND", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI CAPITAL INCOME AND GROWTH FUND VI, LP", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OAK TRUST NET LEASE TRUST OP UNITS", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITYMARK TX5 CO-INVEST FUND", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ARECO GOLF/MAYFIELD SAND RIDGE, COUNTRY CLUB, CLEVELAND, OH", "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BARRINGTON GOLF CLUB, COUNTRY CLUB, AURORA, OH", "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "FIDELITY GOVERNMENT CASH RESERVES", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "FPA NEW INCOME FUND", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "VANGUARD SPECIALIZED FUNDS DIV APP ETF", "value": "$100,001-$250,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HAMILTON CNTY OHIO HOSP FACS REV VAR 03.24000% 06/01/2027 REV BDS TH", "value": "$1,001-$15,000", "income_types": ["TAX-DEFERRED"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HARRIS CNTY TEX CULTURAL ED FACS FIN 03.30000% 10/01/2045 CORP REV HO", "value": "$1,001-$15,000", "income_types": ["TAX-DEFERRED"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OHIO ST HOSP REV VAR BDS UNIVERSITY HOSPS 03.25000% 01/15/2051 HLTH S", "value": "$1,001-$15,000", "income_types": ["TAX-DEFERRED"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COMMERCIAL PROPERTY LOCATION: WALTON, OH 44146", "value": "$100,001-$250,000", "income_types": ["RENT"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 21, "field": "asset_name", "read": "HAMILTON CNTY OHIO HOSP FACS REV VAR 03.24000% 06/01/2027 REV BDS TH", "note": "name runs off the column edge; text truncated after 'TH' (tesseract read 'THI')"},
+    {"row": 22, "field": "asset_name", "read": "HARRIS CNTY TEX CULTURAL ED FACS FIN 03.30000% 10/01/2045 CORP REV HO", "note": "name runs off the column edge; last visible letters 'HO' partially cut, could be 'HC'"},
+    {"row": 23, "field": "asset_name", "read": "OHIO ST HOSP REV VAR BDS UNIVERSITY HOSPS 03.25000% 01/15/2051 HLTH S", "note": "name runs off the column edge; text truncated after 'S'"},
+    {"row": 24, "field": "asset_name", "read": "COMMERCIAL PROPERTY LOCATION: WALTON, OH 44146", "note": "punctuation after LOCATION ambiguous, colon or period (tesseract read a period)"}
+  ],
+  "page_confidence": "high"
+}
