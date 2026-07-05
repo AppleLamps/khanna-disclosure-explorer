@@ -1,0 +1,12 @@
+# Deploy only what the site serves: site/ and ocr/pages/ (Document-tab scans).
+/disclosures.pdf
+/README.md
+/ocr/text
+/ocr/descr
+/ocr/tess
+/ocr/hires
+/ocr/quads
+/ocr/*.py
+/ocr/*.sh
+/ocr/*.md
+/ocr/*.json
