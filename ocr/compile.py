@@ -112,7 +112,7 @@ for f in sorted(glob.glob(f"{SRC}/page-*.json")):
         continue
     m = re.search(r"page-(\d+)\.json", f)
     d["pdf_page"] = int(m.group(1))
-    d["image"] = f"../ocr/pages/page-{m.group(1)}.jpg"
+    d["image"] = f"ocr/pages/page-{m.group(1)}.jpg"
     pages.append(d)
 pages.sort(key=lambda p: p["pdf_page"])
 
@@ -120,7 +120,7 @@ got = {p["pdf_page"] for p in pages}
 for missing in sorted(set(range(1, 334)) - got):
     problems.append(f"missing page {missing}")
     pages.append({
-        "pdf_page": missing, "image": f"../ocr/pages/page-{missing:03d}.jpg",
+        "pdf_page": missing, "image": f"ocr/pages/page-{missing:03d}.jpg",
         "printed_label": None, "section": None, "page_type": "pending",
         "rows": [], "uncertainties": [], "page_confidence": "pending",
         "free_text": "This page has not been transcribed yet. The original scan is shown here; the structured transcription will be added when the OCR run resumes.",
@@ -158,10 +158,9 @@ for p in pages:
                            "tx": r.get("transaction")})
 
 # ---------- write ----------
-os.makedirs("site", exist_ok=True)
 out = {"source_pdf": SOURCE_PDF, "filer": "Rep. Ro Khanna (CA-17)", "filing": "2024 Annual Financial Disclosure (Form A), filed August 2025",
        "pages": pages, "assets": assets, "transactions": txs}
-with open("site/data.js", "w") as fh:
+with open("data.js", "w") as fh:
     fh.write("window.FD_DATA = ")
     json.dump(out, fh, separators=(",", ":"))
     fh.write(";")

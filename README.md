@@ -8,10 +8,10 @@ An independent, searchable transcription of Rep. Ro Khanna's (CA-17) 2024 annual
 
 ```sh
 python3 -m http.server 8742
-# open http://localhost:8742/site/index.html
+# open http://localhost:8742/
 ```
 
-Everything is static — `site/index.html` + `site/data.js` + images. Deploy by serving this directory on any static host.
+Everything is static — `index.html` + `data.js` + images. Deploy by serving this directory on any static host.
 
 ## Deploy to Vercel
 
@@ -19,11 +19,11 @@ The repo is zero-config for Vercel:
 
 1. [vercel.com/new](https://vercel.com/new) → import `khanna-disclosure-explorer` from GitHub.
 2. Keep all defaults (no framework, no build command — it's detected as a static deployment). Deploy.
-3. The site is served at `https://khanna-disclosure-explorer.vercel.app/` — `vercel.json` rewrites `/` to `/site/index.html` and sets long-lived caching for the page scans.
+3. The site is served at `https://khanna-disclosure-explorer.vercel.app/` (the app lives at the repo root; `vercel.json` sets long-lived caching for the page scans).
 
 Or from the CLI: `npm i -g vercel && vercel --prod` in this directory.
 
-`.vercelignore` uploads only what the site serves (`site/` + `ocr/pages/`), skipping the source PDF and pipeline files. The social-card tags (`og:url`, `og:image`, `twitter:image`) are hardcoded to the default project URL above — update them in `site/index.html` if you rename the project or attach a custom domain.
+`.vercelignore` uploads only what the site serves (`index.html`, `data.js`, `assets/`, `ocr/pages/`), skipping the source PDF and pipeline files. The social-card tags (`og:url`, `og:image`, `twitter:image`) are hardcoded to the default project URL above — update them in `index.html` if you rename the project or attach a custom domain.
 
 ## What's in the site
 
