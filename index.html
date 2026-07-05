@@ -104,7 +104,6 @@
   .data tr:hover td{background:#f8faff}
   .data td.num{font-variant-numeric:tabular-nums}
   .data td.pg a{white-space:nowrap;text-decoration:none}
-  .data a.rowlink{font-size:11px;opacity:.4} .data tr:hover a.rowlink{opacity:1}
   .data tr.hilite td{background:#fef3c7;box-shadow:inset 3px 0 0 var(--warn)}
   .chip{display:inline-block;font-size:11px;padding:1px 8px;border-radius:10px;background:var(--accent-soft);color:var(--accent);font-weight:600;max-width:100%}
   .chip.own{background:#f2f4f7;color:var(--muted)}
@@ -405,7 +404,7 @@ function makeTable(cfg){
     setSort:(k,d)=>{sortKey=k; sortDir=d;},
     showIndex:(rid)=>{const pos=filtered.findIndex(r=>r._i===rid); if(pos>=0&&pos>=shown){shown=pos+21;render();} return pos;}};
 }
-const pgLink = kind => r => `<td class="pg"><a href="#p${r.page}" data-goto="${r.page}">p.${r.page}</a><br><a class="rowlink" href="#${kind}-${r._i}" title="Link to this row">🔗</a></td>`;
+const pgLink = kind => r => `<td class="pg"><a href="#p${r.page}" data-goto="${r.page}">p.${r.page}</a></td>`;
 document.body.addEventListener('click', e=>{
   const a=e.target.closest('a[data-goto]');
   if(a){ e.preventDefault(); showView('doc'); showPage(+a.dataset.goto); }
@@ -601,10 +600,6 @@ function applyHash(){
   }
 }
 window.addEventListener('hashchange', applyHash);
-document.body.addEventListener('click', e=>{
-  const a = e.target.closest('a.rowlink');
-  if(a) setTimeout(applyHash, 0); // re-apply even when the hash is unchanged
-});
 
 // ================= DOCUMENT TAB =================
 const pages = D.pages||[]; const byPage = new Map(pages.map(p=>[p.pdf_page,p])); let cur = pages.length?pages[0].pdf_page:1;
