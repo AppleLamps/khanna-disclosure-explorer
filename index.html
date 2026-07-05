@@ -44,7 +44,7 @@
   .top .why b{color:#f2c94c}
   .top .why a{color:#93c5fd}
   .masthead{display:flex;gap:16px;align-items:flex-start}
-  .avatar{width:72px;height:72px;border-radius:50%;object-fit:cover;object-position:center 20%;border:2px solid #344054;flex:none}
+  .avatar{width:72px;height:72px;border-radius:50%;object-fit:cover;object-position:12% 30%;border:2px solid #344054;flex:none}
   .masttext{min-width:0;flex:1}
   .socials{display:flex;gap:6px;flex:none;margin-top:4px}
   .socials a{display:flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:8px;color:#98a2b3;border:1px solid #344054}
@@ -104,6 +104,8 @@
   .data tr:hover td{background:#f8faff}
   .data td.num{font-variant-numeric:tabular-nums}
   .data td.pg a{white-space:nowrap;text-decoration:none}
+  .data a.rowlink{font-size:11px;opacity:.4} .data tr:hover a.rowlink{opacity:1}
+  .data tr.hilite td{background:#fef3c7;box-shadow:inset 3px 0 0 var(--warn)}
   .chip{display:inline-block;font-size:11px;padding:1px 8px;border-radius:10px;background:var(--accent-soft);color:var(--accent);font-weight:600;max-width:100%}
   .chip.own{background:#f2f4f7;color:var(--muted)}
   .more{margin:14px auto;display:block;padding:8px 22px;border:1px solid var(--line);background:#fff;border-radius:8px;cursor:pointer;font-size:13px}
@@ -288,11 +290,13 @@ const tabs = document.querySelectorAll('nav.tabs button');
 function showView(v){
   tabs.forEach(b=>b.classList.toggle('on', b.dataset.v===v));
   document.querySelectorAll('.view').forEach(s=>s.classList.toggle('on', s.id==='v-'+v));
+  syncHash();
 }
 tabs.forEach(b=>b.onclick=()=>showView(b.dataset.v));
 
 // ================= OVERVIEW =================
 const A = D.assets, T = D.transactions;
+A.forEach((r,i)=>r._i=i); T.forEach((r,i)=>r._i=i);
 function sumRange(rows, klo, khi){
   // lo = sum of range minimums; hiF = sum of range maximums, using the row's
   // minimum as the floor for buckets with no upper bound ("over $1M"/"over $50M");
@@ -375,7 +379,7 @@ const rngS = s => (!s.any || (s.lo===0 && s.hiF===0)) ? 'None'
 
 // ================= generic table machinery =================
 function makeTable(cfg){
-  const {rows, theadEl, tbodyEl, cols, cntEl, moreBtn, filters, defaultSort} = cfg;
+  const {rows, theadEl, tbodyEl, cols, cntEl, moreBtn, filters, defaultSort, onChange} = cfg;
   let sortKey = defaultSort, sortDir = -1, shown = 100, filtered = rows;
   function apply(){
     filtered = rows.filter(r=>filters.every(f=>f(r)));
@@ -385,19 +389,23 @@ function makeTable(cfg){
       return sortDir*((x??-1)-(y??-1));
     });}
     render();
+    if(onChange) onChange();
   }
   function render(){
     theadEl.innerHTML='<tr>'+cols.map(c=>`<th data-k="${c.sort||''}"${c.w?` style="width:${c.w}"`:''}>${c.h}${c.sort===sortKey?` <span class="arr">${sortDir>0?'▲':'▼'}</span>`:''}</th>`).join('')+'</tr>';
-    tbodyEl.innerHTML = filtered.slice(0,shown).map(r=>'<tr>'+cols.map(c=>c.cell(r)).join('')+'</tr>').join('');
+    tbodyEl.innerHTML = filtered.slice(0,shown).map(r=>`<tr data-rid="${r._i}">`+cols.map(c=>c.cell(r)).join('')+'</tr>').join('');
     cntEl.textContent = `${filtered.length.toLocaleString()} of ${rows.length.toLocaleString()} rows`;
     moreBtn.style.display = filtered.length>shown?'block':'none';
   }
   theadEl.onclick=e=>{const th=e.target.closest('th'); if(!th||!th.dataset.k)return;
     if(sortKey===th.dataset.k)sortDir*=-1; else {sortKey=th.dataset.k; sortDir=th.dataset.k==='name'?1:-1;} apply();};
   moreBtn.onclick=()=>{shown+=200;render();};
-  return {apply, reset:()=>{shown=100;apply();}};
+  return {apply, reset:()=>{shown=100;apply();},
+    getSort:()=>({k:sortKey,d:sortDir}),
+    setSort:(k,d)=>{sortKey=k; sortDir=d;},
+    showIndex:(rid)=>{const pos=filtered.findIndex(r=>r._i===rid); if(pos>=0&&pos>=shown){shown=pos+21;render();} return pos;}};
 }
-const pgLink = r => `<td class="pg"><a href="#" data-goto="${r.page}">p.${r.page}</a></td>`;
+const pgLink = kind => r => `<td class="pg"><a href="#p${r.page}" data-goto="${r.page}">p.${r.page}</a><br><a class="rowlink" href="#${kind}-${r._i}" title="Link to this row">🔗</a></td>`;
 document.body.addEventListener('click', e=>{
   const a=e.target.closest('a[data-goto]');
   if(a){ e.preventDefault(); showView('doc'); showPage(+a.dataset.goto); }
@@ -416,7 +424,7 @@ fillSel(afEls.group,'All portfolios', uniq(A,'group').sort());
 afEls.val.innerHTML = VAL_STEPS.map(([v,l])=>`<option value="${v}">${l}</option>`).join('');
 fillSel(afEls.inc,'All income types', uniq(A.flatMap(a=>a.income_types||[])).sort());
 const aTable = makeTable({
-  rows:A, defaultSort:'vlo',
+  rows:A, defaultSort:'vlo', onChange:()=>syncHash(),
   theadEl:document.querySelector('#atable thead'), tbodyEl:document.querySelector('#atable tbody'),
   cntEl:afEls.cnt, moreBtn:afEls.more,
   cols:[
@@ -428,7 +436,7 @@ const aTable = makeTable({
     {h:'Income type', w:'12%', cell:r=>`<td>${esc((r.income_types||[]).join(', '))}${r.other_income?' ('+esc(r.other_income)+')':''}</td>`},
     {h:'Income', sort:'ilo', w:'10%', cell:r=>`<td class="num">${esc(r.income_amt||'—')}</td>`},
     {h:'Tx', w:'4%', cell:r=>`<td>${esc(r.tx||'')}</td>`},
-    {h:'Page', w:'5%', cell:pgLink},
+    {h:'Page', w:'5%', cell:pgLink('asset')},
   ],
   filters:[
     r=>!afEls.q.value || (r.name+' '+(r.group||'')+' '+(r.desc||'')).toLowerCase().includes(afEls.q.value.toLowerCase()),
@@ -459,7 +467,7 @@ tfEls.amt.innerHTML = VAL_STEPS.map(([v,l])=>`<option value="${v}">${l==='Any va
 const tDateKey = t=>{const m=(t.date||'').match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/); return m?+`${m[3]}${m[1].padStart(2,'0')}${m[2].padStart(2,'0')}`:0;};
 T.forEach(t=>t._dk=tDateKey(t));
 const tTable = makeTable({
-  rows:T, defaultSort:'lo',
+  rows:T, defaultSort:'lo', onChange:()=>syncHash(),
   theadEl:document.querySelector('#ttable thead'), tbodyEl:document.querySelector('#ttable tbody'),
   cntEl:tfEls.cnt, moreBtn:tfEls.more,
   cols:[
@@ -469,7 +477,7 @@ const tTable = makeTable({
     {h:'Owner', sort:'owner', w:'6%', cell:r=>`<td><span class="chip own">${esc(r.owner||'—')}</span></td>`},
     {h:'Type', sort:'tx_type', w:'11%', cell:r=>`<td>${esc(r.tx_type||'—')}${r.cap_gain?' <span title="capital gain over $200">✓cg</span>':''}</td>`},
     {h:'Amount', sort:'lo', w:'13%', cell:r=>`<td class="num">${esc(r.amount||'—')}</td>`},
-    {h:'Page', w:'5%', cell:pgLink},
+    {h:'Page', w:'5%', cell:pgLink('tx')},
   ],
   filters:[
     r=>!tfEls.q.value || (r.name+' '+(r.group||'')).toLowerCase().includes(tfEls.q.value.toLowerCase()),
@@ -518,6 +526,86 @@ window.buildTxCsv = () => [
 document.getElementById('af-csv').onclick = () => downloadCsv('khanna-2024-fd-assets.csv', window.buildAssetsCsv());
 document.getElementById('tf-csv').onclick = () => downloadCsv('khanna-2024-fd-transactions.csv', window.buildTxCsv());
 
+// ================= deep links =================
+function syncHash(){
+  const v = document.querySelector('nav.tabs button.on')?.dataset.v || 'overview';
+  let h = '#'+v;
+  if(v==='assets'){
+    const p = new URLSearchParams();
+    if(afEls.q.value) p.set('q', afEls.q.value);
+    if(afEls.cls.value) p.set('cls', afEls.cls.value);
+    if(afEls.owner.value) p.set('owner', afEls.owner.value);
+    if(afEls.group.value) p.set('group', afEls.group.value);
+    if(+afEls.val.value) p.set('val', afEls.val.value);
+    if(afEls.inc.value) p.set('inc', afEls.inc.value);
+    const s = aTable.getSort(); if(s.k!=='vlo'||s.d!==-1){ p.set('sort', s.k); p.set('dir', s.d); }
+    const qs = p.toString(); if(qs) h += '?'+qs;
+  } else if(v==='txs'){
+    const p = new URLSearchParams();
+    if(tfEls.q.value) p.set('q', tfEls.q.value);
+    if(tfEls.type.value) p.set('type', tfEls.type.value);
+    if(tfEls.cls.value) p.set('cls', tfEls.cls.value);
+    if(tfEls.owner.value) p.set('owner', tfEls.owner.value);
+    if(tfEls.month.value) p.set('month', tfEls.month.value);
+    if(+tfEls.amt.value) p.set('amt', tfEls.amt.value);
+    const s = tTable.getSort(); if(s.k!=='lo'||s.d!==-1){ p.set('sort', s.k); p.set('dir', s.d); }
+    const qs = p.toString(); if(qs) h += '?'+qs;
+  } else if(v==='doc'){
+    h = '#p'+cur;
+  }
+  history.replaceState(null, '', h==='#overview' ? location.pathname+location.search : h);
+}
+let hiliteTimer;
+function highlightRow(tableEl, rid){
+  const tr = tableEl.querySelector(`tr[data-rid="${rid}"]`);
+  if(!tr) return;
+  document.querySelectorAll('tr.hilite').forEach(x=>x.classList.remove('hilite'));
+  tr.classList.add('hilite');
+  tr.scrollIntoView({block:'center'});
+  clearTimeout(hiliteTimer); hiliteTimer = setTimeout(()=>tr.classList.remove('hilite'), 6000);
+}
+function applyHash(){
+  let h = location.hash || '';
+  try { h = decodeURIComponent(h); } catch(e) {}
+  let m;
+  if((m = h.match(/^#p(\d+)$/))){ showView('doc'); showPage(+m[1]); return; }
+  if((m = h.match(/^#(asset|tx)-(\d+)$/))){
+    const kind = m[1], rid = +m[2];
+    if(kind==='asset'){
+      afEls.q.value=''; ['cls','owner','group','inc'].forEach(k=>afEls[k].value=''); afEls.val.value='0';
+      aTable.reset(); showView('assets');
+      aTable.showIndex(rid); highlightRow(document.getElementById('atable'), rid);
+    } else {
+      tfEls.q.value=''; ['type','cls','owner','month'].forEach(k=>tfEls[k].value=''); tfEls.amt.value='0';
+      tTable.reset(); showView('txs');
+      tTable.showIndex(rid); highlightRow(document.getElementById('ttable'), rid);
+    }
+    return;
+  }
+  if((m = h.match(/^#(assets|txs|overview|doc)(?:\?(.*))?$/))){
+    const v = m[1], p = new URLSearchParams(m[2]||'');
+    if(v==='assets'){
+      afEls.q.value = p.get('q')||''; afEls.cls.value = p.get('cls')||'';
+      afEls.owner.value = p.get('owner')||''; afEls.group.value = p.get('group')||'';
+      afEls.val.value = p.get('val')||'0'; afEls.inc.value = p.get('inc')||'';
+      if(p.get('sort')) aTable.setSort(p.get('sort'), +(p.get('dir')||-1));
+      aTable.reset();
+    } else if(v==='txs'){
+      tfEls.q.value = p.get('q')||''; tfEls.type.value = p.get('type')||'';
+      tfEls.cls.value = p.get('cls')||''; tfEls.owner.value = p.get('owner')||'';
+      tfEls.month.value = p.get('month')||''; tfEls.amt.value = p.get('amt')||'0';
+      if(p.get('sort')) tTable.setSort(p.get('sort'), +(p.get('dir')||-1));
+      tTable.reset();
+    }
+    showView(v);
+  }
+}
+window.addEventListener('hashchange', applyHash);
+document.body.addEventListener('click', e=>{
+  const a = e.target.closest('a.rowlink');
+  if(a) setTimeout(applyHash, 0); // re-apply even when the hash is unchanged
+});
+
 // ================= DOCUMENT TAB =================
 const pages = D.pages||[]; const byPage = new Map(pages.map(p=>[p.pdf_page,p])); let cur = pages.length?pages[0].pdf_page:1;
 const SL = {cover:'Cover & Preliminary',schedule_a:'Schedule A — Assets',schedule_b:'Schedule B — Transactions',
@@ -530,7 +618,7 @@ const SL = {cover:'Cover & Preliminary',schedule_a:'Schedule A — Assets',sched
     const t=p.page_type||'other';
     if(t!==last){h+=`<div class="sec">${esc(SL[t]||t)}</div>`;last=t;}
     const nr=(p.rows||[]).filter(r=>r.kind!=='group').length;
-    h+=`<a href="#" data-p="${p.pdf_page}" id="toc-${p.pdf_page}"><span style="overflow:hidden;text-overflow:ellipsis">PDF ${p.pdf_page} · ${esc(p.printed_label||'')}${nr?` · ${nr}`:''}</span><span class="dot ${esc(p.page_confidence||'')}"></span></a>`;
+    h+=`<a href="#p${p.pdf_page}" data-p="${p.pdf_page}" id="toc-${p.pdf_page}"><span style="overflow:hidden;text-overflow:ellipsis">PDF ${p.pdf_page} · ${esc(p.printed_label||'')}${nr?` · ${nr}`:''}</span><span class="dot ${esc(p.page_confidence||'')}"></span></a>`;
   }
   const toc=document.getElementById('toc'); toc.innerHTML=h;
   toc.onclick=e=>{const a=e.target.closest('a[data-p]'); if(a){e.preventDefault(); showPage(+a.dataset.p);}};
@@ -569,6 +657,7 @@ function showPage(n){
   document.getElementById('txtpane').innerHTML=h||'<div class="free" style="color:var(--muted)">No content on this page.</div>';
   document.querySelectorAll('.toc a.active').forEach(a=>a.classList.remove('active'));
   const ta=document.getElementById('toc-'+n); if(ta){ta.classList.add('active');ta.scrollIntoView({block:'nearest'});}
+  if(document.getElementById('v-doc').classList.contains('on')) syncHash();
 }
 document.getElementById('prev').onclick=()=>showPage(cur-1);
 document.getElementById('next').onclick=()=>showPage(cur+1);
@@ -580,6 +669,7 @@ document.addEventListener('keydown',e=>{
   }
 });
 if(pages.length) showPage(cur);
+applyHash();
 })();
 </script>
 </body>
