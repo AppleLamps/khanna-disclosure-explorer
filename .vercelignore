@@ -10,3 +10,7 @@
 /ocr/*.sh
 /ocr/*.md
 /ocr/*.json
+/docs/*/hires
+/docs/*/quads
+/docs/*/tess
+/docs/*/text

@@ -1,0 +1,31 @@
+{
+  "pdf_page": 14,
+  "printed_label": "14/116",
+  "section": "Schedule A - Assets and \"Unearned Income\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Transposed spreadsheet attachment (MS M R Schedule A 12.31.16): assets are columns, buckets are rows; filled black cell = selection. Two income-amount blocks: 'Amount of Income: Current Year' and 'Amount of Income: Preceding Year January 1, 2016 - December 31, 2016'. EIF header row blank for all columns.",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "Apple Inc", "ticker": "AAPL", "eif": null,
+     "value": "A: None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Stratasys Inc", "ticker": "SSYS", "eif": null,
+     "value": "A: None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Ensco Plc", "ticker": "ESV", "eif": null,
+     "value": "A: None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "National-Oil Well Varco Inc", "ticker": "NOV", "eif": null,
+     "value": "A: None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Chevron Corporation", "ticker": "CVX", "eif": null,
+     "value": "A: None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ConocoPhillips", "ticker": "COP", "eif": null,
+     "value": "A: None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None", "transaction": null}
+  ],
+  "free_text": "Footer: MS M R Schedule A 12.31.16. Page header fields 'Page ___ of ___' left blank. All six assets marked None/None/None/None across all four blocks (continuous black bars spanning all columns).",
+  "uncertainties": [],
+  "page_confidence": "high"
+}

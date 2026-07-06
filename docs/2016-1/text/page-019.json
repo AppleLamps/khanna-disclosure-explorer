@@ -1,0 +1,24 @@
+{
+  "pdf_page": 19,
+  "printed_label": "19/116",
+  "section": "Schedule A - Assets and \"Unearned Income\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "JPMorgan Chase & Co", "ticker": "JPM", "eif": null,
+     "value": "None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "None", "amount_of_income_preceding_year": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Capital One Finl Corp", "ticker": "COF", "eif": null,
+     "value": "None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "None", "amount_of_income_preceding_year": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Franklin Res Inc Com", "ticker": "BEN", "eif": null,
+     "value": "None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "None", "amount_of_income_preceding_year": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "State Street Corp", "ticker": "STT", "eif": null,
+     "value": "None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "None", "amount_of_income_preceding_year": "None", "transaction": null}
+  ],
+  "free_text": "Spreadsheet-style attachment page (footer: \"MS M R Schedule A 12.31.16\"). Transposed grid: each COLUMN is one asset; rows are the bucket labels. Selections are indicated by solid BLACK-FILLED cells (convention confirmed on page 13 of this document, where fills vary by column). Blocks: Value of Asset (A: None ... L: Over $50,000,000, Spouse/DC Asset over $1,000,000); Type of Income (None/Dividends/Rent/Interest/Capital Gains/Excepted/Blind Trust/Tax-Deferred/Other Type of Income); Amount of Income: Current Year; Amount of Income: Preceding Year January 1, 2016 - December 31, 2016. Bucket labels carry letter prefixes (\"A:\", \"B:\", ...) which are stripped in `value`/amount fields. EIF row blank for all columns. All four assets on this page: black fill on the None row of every block; no other cells filled. \"Page ___ of ___\" left blank.",
+  "uncertainties": [],
+  "page_confidence": "high"
+}

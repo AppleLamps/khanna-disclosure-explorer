@@ -1,0 +1,30 @@
+{
+  "pdf_page": 4,
+  "printed_label": "4/116",
+  "section": "Schedule A: Assets and \"Unearned\" Income (typed attachment)",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "owner": "SP", "text": "Ritu Ahuja 1994 Trust:"},
+    {"kind": "group", "owner": "SP", "text": "MURA Holdings, LLC:"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAI Capital Management, LLC", "eif": null, "value": "Spouse/DC Asset over $1,000,000", "income_types": ["Partnership"], "other_income_spec": null, "income_current_year": "N/A", "income_preceding_year": "$100,001-$1,000,000"},
+    {"kind": "asset", "owner": "SP", "asset_name": "Trademark", "eif": null, "value": "None", "income_types": ["Partnership"], "other_income_spec": null, "income_current_year": "N/A", "income_preceding_year": "$15,001-$50,000"},
+    {"kind": "asset", "owner": "SP", "asset_name": "Trademark", "eif": null, "value": "None", "income_types": ["Ordinary Gain"], "other_income_spec": null, "income_current_year": "N/A", "income_preceding_year": "$5,001-$15,000"},
+    {"kind": "asset", "owner": "SP", "asset_name": "Trademark", "eif": null, "value": "None", "income_types": ["Capital Gain"], "other_income_spec": null, "income_current_year": "N/A", "income_preceding_year": "$100,001-$1,000,000"},
+    {"kind": "asset", "owner": "SP", "asset_name": "Huntington Bank Checking", "eif": null, "value": "$50,001-$100,000", "income_types": ["None"], "other_income_spec": null, "income_current_year": "N/A", "income_preceding_year": "None"},
+    {"kind": "group", "owner": "SP", "text": "Ritu Ahuja 1995 Trust:"},
+    {"kind": "group", "owner": "SP", "text": "ARECO LP:"},
+    {"kind": "group", "owner": null, "text": "See attached MS Areco Schedule"},
+    {"kind": "group", "owner": "SP", "text": "Ritu Ahuja 1994 Trust & Ritu Ahuja 1995 Trust:"},
+    {"kind": "group", "owner": "SP", "text": "M&R Trust Partnership:"},
+    {"kind": "group", "owner": "SP", "text": "See attached MS MR Schedule"},
+    {"kind": "group", "owner": "SP", "text": "Ritu Ahuja Rev. Trust:"},
+    {"kind": "group", "owner": "SP", "text": "Ritu Ahuja 1994 Trust:"},
+    {"kind": "group", "owner": "SP", "text": "Ritu Ahuja 1995 Trust:"},
+    {"kind": "group", "owner": "SP", "text": "M&R Trust Partnership:"},
+    {"kind": "group", "owner": "SP", "text": "See attached GS Schedule"}
+  ],
+  "free_text": "Typed attachment table, continuation of Schedule A. Columns: SP, DC, JT | Asset | EIF | Value of Asset | Income Type(s) | Income Current Year | Income Preceding Year. \"Page ___ of ___\" left blank. Three cross-reference notes point to further attached schedules: \"See attached MS Areco Schedule\" (under Ritu Ahuja 1995 Trust / ARECO LP), \"See attached MS MR Schedule\" (under Ritu Ahuja 1994 Trust & Ritu Ahuja 1995 Trust / M&R Trust Partnership), and \"See attached GS Schedule\" (under Ritu Ahuja Rev. Trust / Ritu Ahuja 1994 Trust / Ritu Ahuja 1995 Trust / M&R Trust Partnership).",
+  "uncertainties": [],
+  "page_confidence": "high"
+}

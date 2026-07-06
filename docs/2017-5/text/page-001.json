@@ -1,0 +1,11 @@
+{
+  "pdf_page": 1,
+  "printed_label": "Page 1 of 5",
+  "section": "UNITED STATES HOUSE OF REPRESENTATIVES - Periodic Transaction Report",
+  "page_type": "ptr_cover",
+  "filer": "Rohit Khanna",
+  "rows": [],
+  "free_text": "# UNITED STATES HOUSE OF REPRESENTATIVES — Periodic Transaction Report\n\n- **NAME:** Rohit Khanna\n- **OFFICE TELEPHONE:** (202) 225-2631\n- **[X] Member of the U.S. House of Representatives** — State: CA, District: 17 (File an original and 2 copies)\n- **[ ] Officer or Employee** — Employing Office: (blank) (File an original and 1 copy)\n- **Did you purchase any shares that were allocated as a part of an Initial Public Offering?** Yes: [ ]  No: [X]\n- **Initial report or amendment:** [X] Initial Report  [ ] Amendment\n- **Date of Report Being Amended:** (blank)\n\nStamps/annotations:\n- \"HAND DELIVERED\"\n- \"LEGISLATIVE RESOURCE [CENTER]\" received stamp: \"2017 MAY 11 AM 11:44 — OFFICE OF THE CLERK, U.S. HOUSE OF REPRESENTATIVES\"\n- Handwritten \"Page 1 of 5\" (the \"5\" handwritten)\n- Handwritten initials next to \"(For Official Use Only)\"\n- Printed notice: \"A $200 penalty shall be assessed against anyone who files more than 30 days late.\"\n\nTransaction grid: greyed example row (\"Example: Mega Corp. Common Stock\", JT, Sale X, 02/05/015, 03/07/15, amount B X) ignored per spec. The only entry in the grid is the handwritten/typed text \"Please see the attached\" in the first asset-name cell; no checkboxes marked, no data rows.",
+  "uncertainties": [],
+  "page_confidence": "high"
+}

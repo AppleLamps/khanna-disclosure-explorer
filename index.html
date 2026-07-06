@@ -59,6 +59,8 @@
   nav.tabs button{background:none;border:none;color:#98a2b3;font-size:14px;font-weight:600;padding:10px 14px;cursor:pointer;border-radius:8px 8px 0 0}
   nav.tabs button:hover{color:#fff}
   nav.tabs button.on{background:var(--bg);color:var(--ink)}
+  nav.tabs select{margin-left:auto;align-self:center;background:#1d2939;color:#e5e9f0;border:1px solid #344054;border-radius:8px;padding:6px 10px;font-size:13px;font-weight:600}
+  .toc .sec.doc{background:#101828;color:#f2c94c;font-weight:700;letter-spacing:.08em;position:sticky;top:0;z-index:2;padding:8px 12px}
 
   main{padding:22px 0 60px}
   .view{display:none} .view.on{display:block}
@@ -285,16 +287,32 @@
 </div></main>
 
 <footer><div class="wrap">
-  <div><b>Methodology.</b> The official filing is a 333-page paper scan with no machine-readable text. Each page is OCR-transcribed with a large vision model reading the full page plus four high-resolution crops, cross-checked against a conventional OCR engine (Tesseract). Readings that could not be resolved with confidence are flagged inline in the Document tab, and an independent second-pass verification of every page is part of the pipeline. All dollar figures are the statutory ranges the form requires, not exact values. <span id="fstats"></span></div>
+  <div><b>Methodology.</b> The official filings are paper scans with no machine-readable text. Each page is OCR-transcribed with a large vision model reading the full page plus four high-resolution crops, cross-checked against a conventional OCR engine (Tesseract). Readings that could not be resolved with confidence are flagged inline in the Document tab, and an independent second-pass verification of every page is part of the pipeline. All dollar figures are the statutory ranges the form requires, not exact values. <span id="fstats"></span></div>
   <div>This is an unofficial, best-effort transcription for transparency purposes. For authoritative data, consult the <a id="srclink2" href="#" target="_blank" rel="noopener">original filing</a>. Header photo: Kevin Dietsch/Getty Images (editorial).</div>
 </div></footer>
 
-<script src="data.js"></script>
+<script>
+const FD_YEARS = {'2016':'data-2016.js','2017':'data-2017.js','2024':'data-2024.js'};
+const FD_YEAR = (()=>{const y=new URLSearchParams(location.search).get('year');return FD_YEARS[y]?y:'2024';})();
+document.write('<script src="'+FD_YEARS[FD_YEAR]+'"><\/script>');
+</script>
 <script>
 (() => {
 const D = window.FD_DATA || {pages:[],assets:[],transactions:[]};
-document.getElementById('srclink').href = D.source_pdf;
+const META = D.meta || {};
+if (META.kicker) document.querySelector('.kicker').textContent = META.kicker;
+if (META.why_html) document.querySelector('.top .why').innerHTML = '<b>Why this site exists:</b> ' + META.why_html;
+const srcEl = document.getElementById('srclink'); if (srcEl && !srcEl.getAttribute('href').length) srcEl.href = D.source_pdf;
+if (document.getElementById('srclink')) document.getElementById('srclink').href = D.source_pdf;
 document.getElementById('srclink2').href = D.source_pdf;
+// year selector in the tab bar
+(() => {
+  const sel = document.createElement('select');
+  sel.id = 'yearsel'; sel.title = 'Filing year';
+  sel.innerHTML = Object.keys(FD_YEARS).map(y=>`<option value="${y}"${y===FD_YEAR?' selected':''}>${y}</option>`).join('');
+  sel.onchange = () => { location.href = location.pathname + (sel.value==='2024' ? '' : '?year='+sel.value); };
+  document.querySelector('nav.tabs').appendChild(sel);
+})();
 
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const fmt$ = n => {
@@ -342,7 +360,7 @@ const rngS = s => (!s.any || (s.lo===0 && s.hiF===0)) ? 'None'
       `Exact sum of income-range minimums: ${exact$(inc.lo)}; maximums: ${exact$(inc.hiF)}${inc.open?` (+${inc.open} open-ended)`:''}.`],
     ['Transactions (2024)', T.length.toLocaleString(), 'total value '+rngS(txTot),
       `Exact sum of transaction-range minimums: ${exact$(txTot.lo)}; maximums: ${exact$(txTot.hiF)}${txTot.open?` (+${txTot.open} open-ended)`:''}.`],
-    ['Document', ((D.pages||[]).filter(p=>p.page_type!=='pending').length)+' / 333 pages', 'transcribed from the official scan', ''],
+    ['Document', ((D.pages||[]).filter(p=>p.page_type!=='pending').length)+' / '+(D.pages||[]).length+' pages', 'transcribed from the official scans', ''],
   ];
   document.getElementById('statcards').innerHTML = cards.map(c=>
     `<div class="card" ${c[3]?`title="${esc(c[3])}"`:''}><div class="k">${c[0]}</div><div class="v">${c[1]}</div><div class="d">${c[2]}</div></div>`).join('');
@@ -637,8 +655,9 @@ const SL = {cover:'Cover & Preliminary',schedule_a:'Schedule A — Assets',sched
   schedule_f:'Schedule F — Agreements',schedule_g:'Schedule G — Gifts',schedule_h:'Schedule H — Travel',
   schedule_i:'Schedule I — Charity',exclusions:'Exclusions',letter:'Letters',other:'Other',pending:'Not yet transcribed'};
 (function buildToc(){
-  let last=null, h='';
+  let last=null, lastDoc=null, h='';
   for(const p of pages){
+    if(p.doc_label && p.doc_label!==lastDoc){h+=`<div class="sec doc">${esc(p.doc_label)}</div>`;lastDoc=p.doc_label;last=null;}
     const t=p.page_type||'other';
     if(t!==last){h+=`<div class="sec">${esc(SL[t]||t)}</div>`;last=t;}
     const nr=(p.rows||[]).filter(r=>r.kind!=='group').length;
@@ -668,7 +687,7 @@ function rowsTable(p){
 function showPage(n){
   if(!byPage.has(n))return; cur=n; const p=byPage.get(n);
   document.getElementById('pageimg').src=p.image;
-  document.getElementById('pageno').textContent=`PDF ${p.pdf_page}/${pages.length?pages[pages.length-1].pdf_page:333}`;
+  document.getElementById('pageno').textContent=`Page ${p.pdf_page}/${pages.length}`;
   document.getElementById('pagemeta').textContent=[p.printed_label,p.section].filter(Boolean).join(' — ');
   const cb=document.getElementById('confbadge');
   cb.textContent=p.page_confidence?`confidence: ${p.page_confidence}`:''; cb.className='badge '+(p.page_confidence||'');

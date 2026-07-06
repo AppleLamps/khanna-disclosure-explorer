@@ -1,0 +1,31 @@
+{
+  "pdf_page": 13,
+  "printed_label": "13/116",
+  "section": "Schedule A - Assets and \"Unearned Income\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Transposed spreadsheet attachment (MS M R Schedule A 12.31.16): assets are columns, buckets are rows; filled black cell = selection. Two income-amount blocks: 'Amount of Income: Current Year' and 'Amount of Income: Preceding Year January 1, 2016 - December 31, 2016'. EIF header row blank for all columns.",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "Eurostoxx 50 Structured Note", "ticker": "SPOUK", "eif": null,
+     "value": "A: None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Allergan PLC", "ticker": "AGN", "eif": null,
+     "value": "C: $1,001-$15,000", "income_types": ["Capital Gains"], "other_income_spec": null,
+     "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "FMC Technologies", "ticker": "FTI", "eif": null,
+     "value": "A: None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Allergan Inc", "ticker": "AGNEZ", "eif": null,
+     "value": "A: None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "T-Rowe Price Group Inc", "ticker": "TROW", "eif": null,
+     "value": "A: None", "income_types": ["None"], "other_income_spec": null,
+     "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None", "transaction": null}
+  ],
+  "free_text": "Footer: MS M R Schedule A 12.31.16. Page header fields 'Page ___ of ___' left blank.",
+  "uncertainties": [
+    {"row": 4, "field": "ticker", "read": "AGNEZ", "note": "Unusual ticker for Allergan Inc; printed text clearly reads AGNEZ (tesseract agrees)."},
+    {"row": 2, "field": "amount_of_income", "read": "A: None (both years)", "note": "Allergan PLC marked Capital Gains as income type but None for both income-amount blocks; transcribed as marked."}
+  ],
+  "page_confidence": "high"
+}

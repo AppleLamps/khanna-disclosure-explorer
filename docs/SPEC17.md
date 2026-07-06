@@ -1,0 +1,42 @@
+# OCR extraction spec — Khanna 2016/2017 filings (Form B, Form A, PTRs)
+
+15 scanned documents under `docs/` in /Users/multivac/Code/khanna:
+- `2016-1` — CY-2016 Financial Disclosure STATEMENT (Form B, new member), 116 pages
+- `2017-1` — CY-2017 Financial Disclosure REPORT (Form A annual), 149 pages
+- `2017-2` … `2017-14` — Periodic Transaction Reports (PTRs) filed during 2017, 3–11 pages each
+
+All are rotated-then-corrected image scans. Per document `<doc>`, per page NNN (001-based per document):
+- `docs/<doc>/pages/page-NNN.jpg` — full page, readable orientation (layout + row inventory)
+- `docs/<doc>/quads/page-NNN-{TL,TR,BL,BR}.jpg` — hi-res overlapping crops (fine print, exact X columns; ~8% overlap)
+- `docs/<doc>/tess/page-NNN.txt` — tesseract cross-check (names/dates only)
+
+Output: `docs/<doc>/text/page-NNN.json` — SAME JSON schema as the 2024 spec (`ocr/SPEC.md`), with these notes:
+
+## Page types
+Everything from ocr/SPEC.md plus:
+- `cover` — Form B/Form A cover: transcribe all fields & yes/no answers into `free_text` (markdown).
+- `ptr_cover` — PTR first page (NAME, filing status boxes, example row): `free_text`, plus any real data rows if present.
+- `ptr` — PTR continuation/attachment pages listing transactions.
+
+## Schedule A grids (both 2016-1 and 2017-1)
+Same method as 2024: Block A owner+asset name (left crops), Blocks B/C/D/E checkbox columns (right crops), row-position alignment. IMPORTANT: these older forms may use slightly different bucket labels than 2024 — transcribe the EXACT printed column-header text for whichever column holds the X (e.g. if the form prints "$1,000,001-$5,000,000" or "Over $50,000,000", copy that verbatim). Same for income-type columns (older forms may list e.g. EXCEPTED/BLIND TRUST). Do not force 2024 wording.
+
+## PTR transaction rows
+```json
+{"kind": "tx", "owner": "SP", "asset_name": "MEGA CORP COMMON STOCK",
+ "tx_type": "Purchase" | "Sale" | "Exchange",
+ "date": "02/05/2015", "notification_date": "03/07/2015",
+ "amount": "$15,001-$50,000"}
+```
+- `owner` from the SP/DC/JT column (may be blank).
+- Dates are printed MMDDYY or MM/DD/YY — normalize to MM/DD/YYYY (e.g. 020515 → 02/05/2015).
+- `amount` = exact printed bucket text of the checked column (A–K).
+- Some PTR pages are typed attachment tables ("Please see the attached") rather than the grid — transcribe those tables row by row with the same fields.
+- Ignore the greyed "Example: Mega Corp" row.
+
+## Schedule B (2017-1 annual) — same as 2024 spec (tx rows with cap_gain_over_200, date, amount).
+
+## Cover/label discipline
+Record the printed page label you actually see in `printed_label` (these documents use styles like "1/116", "Page 1 of 5", or handwritten numbers; copy as printed, null if absent).
+
+All other rules from ocr/SPEC.md apply verbatim: transcribe exactly, never skip a row, flag anything uncertain in `uncertainties`, one valid JSON file per page written IMMEDIATELY after each page.

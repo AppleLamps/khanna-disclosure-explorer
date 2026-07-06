@@ -1,0 +1,21 @@
+{
+  "pdf_page": 34,
+  "printed_label": "34/116",
+  "section": "Schedule A - Assets and \"unearned Income\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "Adtran Inc", "ticker": "ADTN", "eif": null,
+     "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null,
+     "amount_of_income_current_year": "None", "amount_of_income_preceding_year": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Ag Mtg Invt Tr Inc Com", "ticker": "MITT", "eif": null,
+     "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null,
+     "amount_of_income_current_year": "None", "amount_of_income_preceding_year": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Alexander & Baldwin Inc", "ticker": "ALEX", "eif": null,
+     "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null,
+     "amount_of_income_current_year": "None", "amount_of_income_preceding_year": "$201-$1,000", "transaction": null}
+  ],
+  "free_text": "Typed attachment grid (MS ARECO Schedule A 12.31.16): assets are columns; rows are attribute buckets (Value of Asset; Type of Income; Amount of Income: Current Year; Amount of Income: Preceding Year January 1, 2016 - December 31, 2016). EIF row blank for all columns. Value of Asset = A: None for all three assets; Amount of Income Current Year = A: None for all three. Page __ of __ blank in header.",
+  "uncertainties": [],
+  "page_confidence": "high"
+}

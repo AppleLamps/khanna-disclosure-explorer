@@ -4,3 +4,6 @@ ocr/quads/
 ocr/tess/
 
 .DS_Store
+docs/*/hires/
+docs/*/quads/
+docs/*/tess/
