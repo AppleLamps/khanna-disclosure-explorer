@@ -129,15 +129,24 @@ pages.sort(key=lambda p: p["pdf_page"])
 
 # ---------- flatten rows ----------
 assets, txs = [], []
-cur_group, cur_type = None, None
+cur_group, cur_type, prev_group = None, None, None
 for p in pages:
     if p.get("page_type") != cur_type:
-        cur_group, cur_type = None, p.get("page_type")
+        cur_group, cur_type, prev_group = None, p.get("page_type"), None
     for r in p.get("rows") or []:
         if r.get("kind") == "group":
-            g = re.sub(r"^[\s\-\u2013\u2014]+", "", (r.get("text") or "")).strip()
-            cur_group = g or cur_group
+            raw = (r.get("text") or "").strip()
+            g = re.sub(r"^[\s\-\u2013\u2014]+", "", raw).strip()
+            if raw.startswith("-") and prev_group:
+                # sub-trust line directly under a parent-entity line: combine
+                cur_group = f"{prev_group} - {g}"
+            else:
+                cur_group = g or cur_group
+                prev_group = g or None
+                continue
+            prev_group = None
             continue
+        prev_group = None
         name = r.get("asset_name") or ""
         cls = classify(name)
         base = {
