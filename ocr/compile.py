@@ -24,13 +24,13 @@ def bucket_range(s):
 # ---------- asset classification ----------
 CLASS_RULES = [
     ("Options", re.compile(r"^(CALL|PUT)[ /]|FLEX EURO PM|\bEXP \d{2}/\d{2}/\d{4}", re.I)),
-    ("Structured notes", re.compile(r"LINKED TO|BASKET OF INDICES|BUFFERED|CONTINGENT|UPSIDE LEVERED|CAPPED|BUFFER STRUCTUR|COMMLNKED|COMM LINKED", re.I)),
-    ("Preferred & hybrid securities", re.compile(r"\bPFD\b|HYBRID PERPETUAL|PERPETUAL USD|JRSUB|JR SUB|SR LIEN|\bCPN\b|PREFERRED", re.I)),
+    ("Structured notes", re.compile(r"LINKED TO|BASKET OF INDICES|BUFFERED|CONTINGENT|UPSIDE LEVERED|CAPPED|BUFFER STRUCTUR|COMMLNKED|COMM LINKED|\bSER [A-Z] NOTE\b", re.I)),
+    ("Preferred & hybrid securities", re.compile(r"\bPFD\b|\bHYBRID\b|PERPETUAL USD|JRSUB|JR SUB|SR LIEN|\bCPN\b|PREFERRED", re.I)),
     ("Municipal & gov bonds", re.compile(r"\d(\.\d+)?%.*\d{2}/\d{2}/\d{2}|\b(GO|REV|SCH DIST|SCHS|WTR|SWR|DEV AUTH|EXMP|VLG|BLDG CORP|TRANSN|HWY|CONVENTION|CORRECTIONAL|ISSUES DTD|DB 5%|SPL REV|CAP FACS|RECPTS|OBLIG)\b", re.I)),
-    ("Common stock", re.compile(r"\bCMN\b|COMMON STOCK", re.I)),
-    ("Hedge funds & private funds", re.compile(r"HEDGE FUND|FUND SELECT|COMMITMENT|PARTNERS\b|PARTNERSHIP|OPPORTUNITIES|CREDIT PARTNERS|\bLLC\b|\bL\.?P\.?\b|CAPITAL ACCESS|ACCESS LLC", re.I)),
-    ("Cash & deposits", re.compile(r"MONEY MARKET|CASH|DEPOSIT|CHECKING|SAVINGS|\bCD\b|TREASURY BILL|T-BILL", re.I)),
-    ("Funds & ETFs", re.compile(r"\bETF\b|INDEX FUND|MUTUAL FUND|\bFUND\b|TRUST UNITS", re.I)),
+    ("Common stock", re.compile(r"\bCMN\b|COMMON STOCK|\bCOM\b|\bADR\b|\bADS\b|\bISIN\b|^ABBOTT LABORATORIES$", re.I)),
+    ("Hedge funds & private funds", re.compile(r"HEDGE FUND|FUND SELECT|COMMITMENT|PARTNERS\b|PARTNERSHIP|OPPORTUNITIES|CREDIT PARTNERS|\bSLP\b|SOF ILP|ONSHORE \(|PE PREMIER|\bBPCP\b|OP UNITS|\bLLC\b|\bL\.?P\.?\b|CAPITAL ACCESS|ACCESS LLC", re.I)),
+    ("Cash & deposits", re.compile(r"MONEY MARKET|CASH|DEPOSIT|CHECKING|SAVINGS|\bCD\b|TREASURY BILL|T-BILL|MSILF|TREASURY SECURITIES|U ?S DOLLAR|U\.S\. DOLLAR", re.I)),
+    ("Funds & ETFs", re.compile(r"\bETF\b|INDEX FUND|MUTUAL FUND|\bFUNDS?\b|TRUST UNITS|ISHARES|VANGUARD|\bSPDR\b|JANA STRATEGIC|VERSUS CAPITAL|LARGE CAP", re.I)),
     ("Common stock", re.compile(r"\bCMN\b|COMMON STOCK|CLASS [AB]\b|\bINC\b|\bCORP\b|\bPLC\b|\bCO\b|COMPANY|\bN\.?V\.?\b|\.COM", re.I)),
 ]
 def classify(name):
@@ -127,6 +127,11 @@ for missing in sorted(set(range(1, 334)) - got):
     })
 pages.sort(key=lambda p: p["pdf_page"])
 
+# The filing prints the same trust two ways (Schedule A: "Ritu Declaration of
+# Trust", Schedule B: "Ritu Ahuja Declaration of Trust") - verified against the
+# scans of pages 44 and 220. Canonicalize to the fuller name.
+GROUP_ALIASES = {"Ritu Declaration of Trust": "Ritu Ahuja Declaration of Trust"}
+
 # ---------- flatten rows ----------
 assets, txs = [], []
 cur_group, cur_type, prev_group = None, None, None
@@ -151,7 +156,7 @@ for p in pages:
         cls = classify(name)
         base = {
             "page": p["pdf_page"], "label": p.get("printed_label"),
-            "group": cur_group, "owner": r.get("owner"),
+            "group": GROUP_ALIASES.get(cur_group, cur_group), "owner": r.get("owner"),
             "name": name, "cls": cls, "desc": descriptor(name, cls),
         }
         if r.get("kind") == "tx":
