@@ -237,7 +237,6 @@
     <div class="fbar">
       <input type="search" id="af-q" placeholder="Search assets…">
       <select id="af-cls"></select>
-      <select id="af-owner"></select>
       <select id="af-group"></select>
       <select id="af-val"></select>
       <select id="af-inc"></select>
@@ -255,7 +254,6 @@
       <input type="search" id="tf-q" placeholder="Search transactions…">
       <select id="tf-type"></select>
       <select id="tf-cls"></select>
-      <select id="tf-owner"></select>
       <select id="tf-month"></select>
       <select id="tf-amt"></select>
       <button class="clear" id="tf-clear">clear filters</button>
@@ -441,9 +439,8 @@ const uniq = (arr,k)=>[...new Set(arr.map(x=>typeof k==='function'?k(x):x[k]).fi
 
 // ================= ASSETS TAB =================
 const VAL_STEPS = [[0,'Any value'],[15001,'≥ $15K'],[50001,'≥ $50K'],[100001,'≥ $100K'],[250001,'≥ $250K'],[500001,'≥ $500K'],[1000001,'≥ $1M'],[5000001,'≥ $5M']];
-const afEls = Object.fromEntries(['q','cls','owner','group','val','inc','clear','cnt','more'].map(k=>[k,document.getElementById('af-'+k)]));
+const afEls = Object.fromEntries(['q','cls','group','val','inc','clear','cnt','more'].map(k=>[k,document.getElementById('af-'+k)]));
 fillSel(afEls.cls,'All classes', uniq(A,'cls').sort());
-afEls.owner.innerHTML = '<option value="">All owners</option>' + uniq(A,'owner').sort().map(v=>`<option value="${esc(v)}">${({SP:'Spouse (SP)',DC:'Dependent child (DC)',JT:'Joint (JT)'})[v]||esc(v)}</option>`).join('');
 fillSel(afEls.group,'All portfolios', uniq(A,'group').sort());
 afEls.val.innerHTML = VAL_STEPS.map(([v,l])=>`<option value="${v}">${l}</option>`).join('');
 fillSel(afEls.inc,'All income types', uniq(A.flatMap(a=>a.income_types||[])).sort());
@@ -464,26 +461,24 @@ const aTable = makeTable({
   filters:[
     r=>!afEls.q.value || (r.name+' '+(r.group||'')+' '+(r.desc||'')).toLowerCase().includes(afEls.q.value.toLowerCase()),
     r=>!afEls.cls.value || r.cls===afEls.cls.value,
-    r=>!afEls.owner.value || r.owner===afEls.owner.value,
     r=>!afEls.group.value || r.group===afEls.group.value,
     r=>!+afEls.val.value || (r.vlo||0) >= +afEls.val.value,
     r=>!afEls.inc.value || (r.income_types||[]).includes(afEls.inc.value),
   ],
 });
-function afWire(){ ['q','cls','owner','group','val','inc'].forEach(k=>{
+function afWire(){ ['q','cls','group','val','inc'].forEach(k=>{
   afEls[k].addEventListener(k==='q'?'input':'change', ()=>{aTable.reset(); afEls.clear.style.display='inline';});
 });
-  afEls.clear.onclick=()=>{afEls.q.value='';['cls','owner','group','inc'].forEach(k=>afEls[k].value='');afEls.val.value='0';afEls.clear.style.display='none';aTable.reset();};
+  afEls.clear.onclick=()=>{afEls.q.value='';['cls','group','inc'].forEach(k=>afEls[k].value='');afEls.val.value='0';afEls.clear.style.display='none';aTable.reset();};
 }
 afWire();
 function afSet({cls}){ afEls.clear.click(); if(cls){afEls.cls.value=cls; afEls.clear.style.display='inline';} aTable.reset(); }
 aTable.apply();
 
 // ================= TRANSACTIONS TAB =================
-const tfEls = Object.fromEntries(['q','type','cls','owner','month','amt','clear','cnt','more'].map(k=>[k,document.getElementById('tf-'+k)]));
+const tfEls = Object.fromEntries(['q','type','cls','month','amt','clear','cnt','more'].map(k=>[k,document.getElementById('tf-'+k)]));
 fillSel(tfEls.type,'All types', uniq(T,'tx_type').sort());
 fillSel(tfEls.cls,'All classes', uniq(T,'cls').sort());
-tfEls.owner.innerHTML = '<option value="">All owners</option>' + uniq(T,'owner').sort().map(v=>`<option value="${esc(v)}">${({SP:'Spouse (SP)',DC:'Dependent child (DC)',JT:'Joint (JT)'})[v]||esc(v)}</option>`).join('');
 const months = uniq(T, t=>{const m=(t.date||'').match(/^(\d{1,2})\/\d{1,2}\/(\d{4})$/); return m?`${m[2]}-${String(m[1]).padStart(2,'0')}`:null;}).sort();
 tfEls.month.innerHTML = '<option value="">All months</option>'+months.map(m=>`<option>${m}</option>`).join('');
 tfEls.amt.innerHTML = VAL_STEPS.map(([v,l])=>`<option value="${v}">${l==='Any value'?'Any amount':l}</option>`).join('');
@@ -505,15 +500,14 @@ const tTable = makeTable({
     r=>!tfEls.q.value || (r.name+' '+(r.group||'')).toLowerCase().includes(tfEls.q.value.toLowerCase()),
     r=>!tfEls.type.value || r.tx_type===tfEls.type.value,
     r=>!tfEls.cls.value || r.cls===tfEls.cls.value,
-    r=>!tfEls.owner.value || r.owner===tfEls.owner.value,
     r=>{if(!tfEls.month.value)return true; const m=(r.date||'').match(/^(\d{1,2})\/\d{1,2}\/(\d{4})$/); return m && `${m[2]}-${String(m[1]).padStart(2,'0')}`===tfEls.month.value;},
     r=>!+tfEls.amt.value || (r.lo||0) >= +tfEls.amt.value,
   ],
 });
-['q','type','cls','owner','month','amt'].forEach(k=>{
+['q','type','cls','month','amt'].forEach(k=>{
   tfEls[k].addEventListener(k==='q'?'input':'change', ()=>{tTable.reset(); tfEls.clear.style.display='inline';});
 });
-tfEls.clear.onclick=()=>{tfEls.q.value='';['type','cls','owner','month'].forEach(k=>tfEls[k].value='');tfEls.amt.value='0';tfEls.clear.style.display='none';tTable.reset();};
+tfEls.clear.onclick=()=>{tfEls.q.value='';['type','cls','month'].forEach(k=>tfEls[k].value='');tfEls.amt.value='0';tfEls.clear.style.display='none';tTable.reset();};
 tTable.apply();
 
 // ================= CSV EXPORT =================
@@ -556,7 +550,6 @@ function syncHash(){
     const p = new URLSearchParams();
     if(afEls.q.value) p.set('q', afEls.q.value);
     if(afEls.cls.value) p.set('cls', afEls.cls.value);
-    if(afEls.owner.value) p.set('owner', afEls.owner.value);
     if(afEls.group.value) p.set('group', afEls.group.value);
     if(+afEls.val.value) p.set('val', afEls.val.value);
     if(afEls.inc.value) p.set('inc', afEls.inc.value);
@@ -567,7 +560,6 @@ function syncHash(){
     if(tfEls.q.value) p.set('q', tfEls.q.value);
     if(tfEls.type.value) p.set('type', tfEls.type.value);
     if(tfEls.cls.value) p.set('cls', tfEls.cls.value);
-    if(tfEls.owner.value) p.set('owner', tfEls.owner.value);
     if(tfEls.month.value) p.set('month', tfEls.month.value);
     if(+tfEls.amt.value) p.set('amt', tfEls.amt.value);
     const s = tTable.getSort(); if(s.k!=='lo'||s.d!==-1){ p.set('sort', s.k); p.set('dir', s.d); }
@@ -594,11 +586,11 @@ function applyHash(){
   if((m = h.match(/^#(asset|tx)-(\d+)$/))){
     const kind = m[1], rid = +m[2];
     if(kind==='asset'){
-      afEls.q.value=''; ['cls','owner','group','inc'].forEach(k=>afEls[k].value=''); afEls.val.value='0';
+      afEls.q.value=''; ['cls','group','inc'].forEach(k=>afEls[k].value=''); afEls.val.value='0';
       aTable.reset(); showView('assets');
       aTable.showIndex(rid); highlightRow(document.getElementById('atable'), rid);
     } else {
-      tfEls.q.value=''; ['type','cls','owner','month'].forEach(k=>tfEls[k].value=''); tfEls.amt.value='0';
+      tfEls.q.value=''; ['type','cls','month'].forEach(k=>tfEls[k].value=''); tfEls.amt.value='0';
       tTable.reset(); showView('txs');
       tTable.showIndex(rid); highlightRow(document.getElementById('ttable'), rid);
     }
@@ -608,13 +600,13 @@ function applyHash(){
     const v = m[1], p = new URLSearchParams(m[2]||'');
     if(v==='assets'){
       afEls.q.value = p.get('q')||''; afEls.cls.value = p.get('cls')||'';
-      afEls.owner.value = p.get('owner')||''; afEls.group.value = p.get('group')||'';
+      afEls.group.value = p.get('group')||'';
       afEls.val.value = p.get('val')||'0'; afEls.inc.value = p.get('inc')||'';
       if(p.get('sort')) aTable.setSort(p.get('sort'), +(p.get('dir')||-1));
       aTable.reset();
     } else if(v==='txs'){
       tfEls.q.value = p.get('q')||''; tfEls.type.value = p.get('type')||'';
-      tfEls.cls.value = p.get('cls')||''; tfEls.owner.value = p.get('owner')||'';
+      tfEls.cls.value = p.get('cls')||'';
       tfEls.month.value = p.get('month')||''; tfEls.amt.value = p.get('amt')||'0';
       if(p.get('sort')) tTable.setSort(p.get('sort'), +(p.get('dir')||-1));
       tTable.reset();
