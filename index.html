@@ -499,7 +499,7 @@ const tTable = makeTable({
     {h:'Date', sort:'_dk', w:'10%', cell:r=>`<td class="num">${esc(r.date||'—')}</td>`},
     {h:'Asset', sort:'name', w:'41%', cell:r=>`<td>${esc(r.name)}${r.group?`<br><span style="color:var(--muted);font-size:11px">${esc(r.group)}</span>`:''}</td>`},
     {h:'Class', sort:'cls', w:'16%', cell:r=>`<td><span class="chip">${esc(r.cls)}</span></td>`},
-    {h:'Type', sort:'tx_type', w:'11%', cell:r=>`<td>${esc(r.tx_type||'—')}${r.cap_gain?' <span title="capital gain over $200">✓cg</span>':''}</td>`},
+    {h:'Type', sort:'tx_type', w:'11%', cell:r=>`<td>${esc(r.tx_type||'—')}</td>`},
     {h:'Amount', sort:'lo', w:'14%', cell:r=>`<td class="num">${esc(r.amount||'—')}</td>`},
     {h:'Page', sort:'page', w:'8%', cell:pgLink('tx')},
   ],
