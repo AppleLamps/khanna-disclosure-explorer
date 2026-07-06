@@ -427,6 +427,11 @@ function makeTable(cfg){
     setSort:(k,d)=>{sortKey=k; sortDir=d;},
     showIndex:(rid)=>{const pos=filtered.findIndex(r=>r._i===rid); if(pos>=0&&pos>=shown){shown=pos+21;render();} return pos;}};
 }
+const rngLines = v => {
+  if(!v) return '—';
+  const m = v.match(/^(\$[\d,]+)\s*-\s*(\$[\d,]+.*)$/);
+  return m ? `<span style="white-space:nowrap">${esc(m[1])} –</span><br><span style="white-space:nowrap">${esc(m[2])}</span>` : esc(v);
+};
 const TXW = {P:'Purchased', S:'Sold', 'S(part)':'Partial sale', E:'Exchanged'};
 const txWords = t => (t||'').split(/(?<=\))\s*[,.\s]\s*|(?<=[PSE])\s*[,.\s]\s*(?=[PSE])/).filter(Boolean).map(x=>TXW[x.trim()]||x).join(', ');
 const pgLink = kind => r => `<td class="pg"><a href="#p${r.page}" data-goto="${r.page}">p.${r.page}</a></td>`;
@@ -456,7 +461,7 @@ const aTable = makeTable({
     {h:'Class', sort:'cls', w:'11%', cell:r=>`<td><span class="chip">${esc(r.cls)}</span></td>`},
     {h:'Value', sort:'vlo', w:'11%', cell:r=>`<td class="num">${esc(r.value||'—')}</td>`},
     {h:'Income type', w:'11%', cell:r=>`<td>${esc((r.income_types||[]).join(', '))}${r.other_income?' ('+esc(r.other_income)+')':''}</td>`},
-    {h:'Income', sort:'ilo', w:'9%', cell:r=>`<td class="num">${esc(r.income_amt||'—')}</td>`},
+    {h:'Income', sort:'ilo', w:'9%', cell:r=>`<td class="num">${rngLines(r.income_amt)}</td>`},
     {h:'Transaction', w:'10%', cell:r=>`<td title="${esc(r.tx||'No transaction reported; held through the year')}">${(r.tx||'').trim()?esc(txWords(r.tx)):'<span style="color:var(--muted)">Held</span>'}</td>`},
     {h:'Page', w:'5%', cell:pgLink('asset')},
   ],
