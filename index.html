@@ -317,7 +317,7 @@ tabs.forEach(b=>b.onclick=()=>showView(b.dataset.v));
 
 // ================= OVERVIEW =================
 const A = D.assets, T = D.transactions;
-A.forEach((r,i)=>r._i=i); T.forEach((r,i)=>r._i=i);
+A.forEach((r,i)=>{r._i=i; r._inc=(r.income_types||[]).concat(r.other_income?[r.other_income.trim()==='PTN'?'Partnership':r.other_income]:[]).join(', ');}); T.forEach((r,i)=>r._i=i);
 function sumRange(rows, klo, khi){
   // lo = sum of range minimums; hiF = sum of range maximums, using the row's
   // minimum as the floor for buckets with no upper bound ("over $1M"/"over $50M");
@@ -420,7 +420,7 @@ function makeTable(cfg){
     moreBtn.style.display = filtered.length>shown?'block':'none';
   }
   theadEl.onclick=e=>{const th=e.target.closest('th'); if(!th||!th.dataset.k)return;
-    if(sortKey===th.dataset.k)sortDir*=-1; else {sortKey=th.dataset.k; sortDir=th.dataset.k==='name'?1:-1;} apply();};
+    if(sortKey===th.dataset.k)sortDir*=-1; else {sortKey=th.dataset.k; sortDir=['name','tx','_inc','page','cls','tx_type'].includes(th.dataset.k)?1:-1;} apply();};
   moreBtn.onclick=()=>{shown+=200;render();};
   return {apply, reset:()=>{shown=100;apply();},
     getSort:()=>({k:sortKey,d:sortDir}),
@@ -460,10 +460,10 @@ const aTable = makeTable({
     {h:'What it is', w:'21%', cell:r=>`<td style="color:#3c4657">${esc(r.desc||'')}</td>`},
     {h:'Class', sort:'cls', w:'11%', cell:r=>`<td><span class="chip">${esc(r.cls)}</span></td>`},
     {h:'Value', sort:'vlo', w:'11%', cell:r=>`<td class="num">${rngLines(r.value)}</td>`},
-    {h:'Income type', w:'11%', cell:r=>{const p=(r.income_types||[]).map(esc); if(r.other_income) p.push(r.other_income.trim()==='PTN'?`<span title="PTN — partnership income write-in on the form">Partnership</span>`:esc(r.other_income)); return `<td>${p.join(', ')}</td>`;}},
+    {h:'Income type', sort:'_inc', w:'11%', cell:r=>{const p=(r.income_types||[]).map(esc); if(r.other_income) p.push(r.other_income.trim()==='PTN'?`<span title="PTN — partnership income write-in on the form">Partnership</span>`:esc(r.other_income)); return `<td>${p.join(', ')}</td>`;}},
     {h:'Income', sort:'ilo', w:'9%', cell:r=>`<td class="num">${rngLines(r.income_amt)}</td>`},
-    {h:'Transaction', w:'10%', cell:r=>`<td title="${esc(r.tx||'No transaction reported; held through the year')}">${(r.tx||'').trim()?esc(txWords(r.tx)):'<span style="color:var(--muted)">Held</span>'}</td>`},
-    {h:'Page', w:'5%', cell:pgLink('asset')},
+    {h:'Transaction', sort:'tx', w:'10%', cell:r=>`<td title="${esc(r.tx||'No transaction reported; held through the year')}">${(r.tx||'').trim()?esc(txWords(r.tx)):'<span style="color:var(--muted)">Held</span>'}</td>`},
+    {h:'Page', sort:'page', w:'5%', cell:pgLink('asset')},
   ],
   filters:[
     r=>!afEls.q.value || (r.name+' '+(r.group||'')+' '+(r.desc||'')).toLowerCase().includes(afEls.q.value.toLowerCase()),
@@ -501,7 +501,7 @@ const tTable = makeTable({
     {h:'Class', sort:'cls', w:'16%', cell:r=>`<td><span class="chip">${esc(r.cls)}</span></td>`},
     {h:'Type', sort:'tx_type', w:'11%', cell:r=>`<td>${esc(r.tx_type||'—')}${r.cap_gain?' <span title="capital gain over $200">✓cg</span>':''}</td>`},
     {h:'Amount', sort:'lo', w:'14%', cell:r=>`<td class="num">${esc(r.amount||'—')}</td>`},
-    {h:'Page', w:'8%', cell:pgLink('tx')},
+    {h:'Page', sort:'page', w:'8%', cell:pgLink('tx')},
   ],
   filters:[
     r=>!tfEls.q.value || (r.name+' '+(r.group||'')).toLowerCase().includes(tfEls.q.value.toLowerCase()),
