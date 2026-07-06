@@ -36,20 +36,26 @@
   a{color:var(--accent)}
   .wrap{max-width:1280px;margin:0 auto;padding:0 20px}
 
-  header.top{background:#101828;color:#fff;padding:26px 0 0}
-  .top h1{margin:0;font-size:24px;font-weight:750;letter-spacing:-.01em}
-  .top .why{margin:10px 0 0;font-size:13.5px;max-width:860px;color:#eaecf0;background:#1d2939;border-left:3px solid #f2c94c;border-radius:0 8px 8px 0;padding:8px 12px}
+  header.top{background:linear-gradient(180deg,#0c1424 0%,#101828 100%);color:#fff;padding:30px 0 0;border-top:3px solid #f2c94c}
+  .top h1{margin:2px 0 0;font-size:27px;font-weight:750;letter-spacing:-.015em;line-height:1.15}
+  .kicker{font-size:11px;font-weight:650;text-transform:uppercase;letter-spacing:.14em;color:#8ea0bd}
+  .top .why{margin:18px 0 0;font-size:13.5px;line-height:1.6;max-width:940px;color:#e5e9f0;background:rgba(29,41,57,.75);border-left:3px solid #f2c94c;border-radius:0 10px 10px 0;padding:12px 16px}
   .top .why b{color:#f2c94c}
   .top .why a{color:#93c5fd}
-  .masthead{display:flex;gap:16px;align-items:flex-start}
-  .avatar{width:72px;height:72px;border-radius:50%;object-fit:cover;object-position:12% 30%;border:2px solid #344054;flex:none}
+  .masthead{display:flex;gap:18px;align-items:center}
+  .avatar{width:84px;height:84px;border-radius:50%;object-fit:cover;object-position:12% 30%;border:2px solid #f2c94c;box-shadow:0 0 0 4px rgba(242,201,76,.15);flex:none}
   .masttext{min-width:0;flex:1}
-  .socials{display:flex;gap:6px;flex:none;margin-top:4px}
-  .socials a{display:flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:8px;color:#98a2b3;border:1px solid #344054}
-  .socials a:hover{color:#fff;border-color:#98a2b3;background:#1d2939}
+  .socials{display:flex;gap:8px;flex:none;align-self:center}
+  .socials a{display:flex;align-items:center;justify-content:center;width:36px;height:36px;border-radius:10px;color:#98a2b3;border:1px solid #344054;transition:all .15s}
+  .socials a:hover{color:#fff;border-color:#f2c94c;background:#1d2939}
   .socials svg{width:18px;height:18px}
-  @media(max-width:720px){.masthead{flex-wrap:wrap}.socials{order:2;margin-left:88px;margin-top:-6px}}
-  nav.tabs{display:flex;gap:4px;margin-top:18px;flex-wrap:wrap}
+  @media(max-width:720px){
+    .masthead{flex-wrap:wrap;gap:14px}
+    .avatar{width:64px;height:64px}
+    .socials{flex-basis:calc(100% - 78px);margin-left:78px;justify-content:flex-start;margin-top:-6px}
+    .top h1{font-size:21px}
+  }
+  nav.tabs{display:flex;gap:4px;margin-top:22px;flex-wrap:wrap}
   nav.tabs button{background:none;border:none;color:#98a2b3;font-size:14px;font-weight:600;padding:10px 14px;cursor:pointer;border-radius:8px 8px 0 0}
   nav.tabs button:hover{color:#fff}
   nav.tabs button.on{background:var(--bg);color:var(--ink)}
@@ -169,13 +175,8 @@
     <div class="masthead">
       <img class="avatar" src="assets/khanna.jpg" alt="Rep. Ro Khanna at a House hearing" title="Photo: Kevin Dietsch/Getty Images">
       <div class="masttext">
-        <h1>Ro Khanna — Financial Disclosure Explorer</h1>
-        <p class="why"><b>Why this site exists:</b> Rep. Ro Khanna (CA-17) disclosed at least $98.7 million in holdings
-          as 333 pages of hand-delivered, unsearchable paper scans rather than filing through the House's electronic system.
-          This site is an independent OCR transcription of his
-          <a id="srclink" href="#" target="_blank" rel="noopener">official filing (Clerk of the House, PDF)</a>
-          that makes those pages readable, searchable, and analyzable. All dollar figures are the statutory ranges
-          reported on the form, not exact values.</p>
+        <div class="kicker">2024 Annual Financial Disclosure · U.S. House · California 17th</div>
+        <h1>Ro Khanna Financial Disclosure Explorer</h1>
       </div>
       <div class="socials">
         <a href="https://www.facebook.com/RepRoKhanna" target="_blank" rel="noopener" aria-label="Rep. Khanna on Facebook" title="Facebook">
@@ -186,6 +187,12 @@
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><rect x="2.8" y="2.8" width="18.4" height="18.4" rx="5"/><circle cx="12" cy="12" r="4.1"/><circle cx="17.35" cy="6.65" r="0.6" fill="currentColor" stroke="none"/></svg></a>
       </div>
     </div>
+    <p class="why"><b>Why this site exists:</b> Rep. Ro Khanna (CA-17) disclosed at least $98.7 million in holdings
+      as 333 pages of hand-delivered, unsearchable paper scans rather than filing through the House's electronic system.
+      This site is an independent OCR transcription of his
+      <a id="srclink" href="#" target="_blank" rel="noopener">official filing (Clerk of the House, PDF)</a>
+      that makes those pages readable, searchable, and analyzable. All dollar figures are the statutory ranges
+      reported on the form, not exact values.</p>
     <nav class="tabs">
       <button data-v="overview" class="on">Overview</button>
       <button data-v="assets">Assets</button>
