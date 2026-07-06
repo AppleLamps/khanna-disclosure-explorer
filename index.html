@@ -373,7 +373,7 @@ const rngS = s => (!s.any || (s.lo===0 && s.hiF===0)) ? 'None'
   // top holdings
   const top = [...A].sort((a,b)=>(b.vlo||0)-(a.vlo||0)).slice(0,12);
   document.getElementById('tophold').innerHTML = top.map(a=>
-    `<li><span>${esc(a.name)}<br><span style="color:var(--muted);font-size:11.5px">${esc(a.group||'')}${a.owner?' · '+esc(a.owner):''}</span></span>
+    `<li><span>${esc(a.name)}<br><span style="color:var(--muted);font-size:11.5px">${esc(a.group||'')}${a.owner?' · '+esc(a.owner):''} · <a href="#p${a.page}" data-goto="${a.page}" title="View this line on the original disclosure page">disclosure p.${esc(a.label ? a.label.replace(/Page (\d+) of \d+/,'$1') : a.page)}</a></span></span>
      <span class="r">${rng$(a.vlo,a.vhi)}</span></li>`).join('');
 
   // groups
