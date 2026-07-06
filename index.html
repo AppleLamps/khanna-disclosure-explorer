@@ -457,7 +457,7 @@ const aTable = makeTable({
     {h:'Value', sort:'vlo', w:'11%', cell:r=>`<td class="num">${esc(r.value||'—')}</td>`},
     {h:'Income type', w:'11%', cell:r=>`<td>${esc((r.income_types||[]).join(', '))}${r.other_income?' ('+esc(r.other_income)+')':''}</td>`},
     {h:'Income', sort:'ilo', w:'9%', cell:r=>`<td class="num">${esc(r.income_amt||'—')}</td>`},
-    {h:'Transaction', w:'10%', cell:r=>`<td title="${esc(r.tx||'')}">${esc(txWords(r.tx))}</td>`},
+    {h:'Transaction', w:'10%', cell:r=>`<td title="${esc(r.tx||'No transaction reported; held through the year')}">${(r.tx||'').trim()?esc(txWords(r.tx)):'<span style="color:var(--muted)">Held</span>'}</td>`},
     {h:'Page', w:'5%', cell:pgLink('asset')},
   ],
   filters:[
