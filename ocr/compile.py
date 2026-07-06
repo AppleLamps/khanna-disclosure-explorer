@@ -135,7 +135,8 @@ for p in pages:
         cur_group, cur_type = None, p.get("page_type")
     for r in p.get("rows") or []:
         if r.get("kind") == "group":
-            cur_group = (r.get("text") or "").strip() or cur_group
+            g = re.sub(r"^[\s\-\u2013\u2014]+", "", (r.get("text") or "")).strip()
+            cur_group = g or cur_group
             continue
         name = r.get("asset_name") or ""
         cls = classify(name)
@@ -153,7 +154,7 @@ for p in pages:
             vlo, vhi = bucket_range(r.get("value"))
             ilo, ihi = bucket_range(r.get("amount_of_income"))
             assets.append({**base, "value": r.get("value"), "vlo": vlo, "vhi": vhi,
-                           "income_types": r.get("income_types") or [],
+                           "income_types": [("N/A" if t.strip().upper() == "NONE" else t.strip().capitalize()) for t in (r.get("income_types") or [])],
                            "other_income": r.get("other_income_spec"),
                            "income_amt": r.get("amount_of_income"), "ilo": ilo, "ihi": ihi,
                            "tx": r.get("transaction")})
