@@ -1,0 +1,22 @@
+{
+  "pdf_page": 11,
+  "printed_label": "Page 11 of 149",
+  "section": "Schedule A: Assets and \"Unearned\" Income",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table, transposed spreadsheet layout: one asset per COLUMN, category rows down the left (EIF; SP,DC,JT; Stock Name; Ticker; Transaction; Value of Asset A-L; Type of Income; Amount of Income A-K). Black-filled cells mark the selected bucket. Transaction row is solid black across all five asset columns. EIF row is black-filled for the 'Riverview Strategic Opportunities I LP' column only. Footer/group label bottom-left: 'MS MR Trust Partnership'. Single Amount of Income block on this page.",
+  "rows": [
+    {"kind": "group", "text": "MS MR Trust Partnership"},
+    {"kind": "asset", "owner": "SP", "asset_name": "Priceline Group", "ticker": "PCLN", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["None"], "other_income_spec": null, "amount_of_income": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "S&P Global Inc", "ticker": "SPGI", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["Dividends", "Capital Gains"], "other_income_spec": null, "amount_of_income": "C: $201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Visa Inc", "ticker": "V", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["Dividends"], "other_income_spec": null, "amount_of_income": "B: $1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Riverview Strategic Opportunities I LP", "ticker": "BAQ57DPV", "eif": "black-filled", "value": "F: $100,001-$250,000", "income_types": ["None"], "other_income_spec": null, "amount_of_income": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Cash", "ticker": null, "eif": null, "value": "D: $15,001-$50,000", "income_types": ["Interest"], "other_income_spec": null, "amount_of_income": "B: $1-$200", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": "all", "field": "transaction", "read": null, "note": "entire Transaction row is a solid black band across all five columns; treated as no transaction code"},
+    {"row": 4, "field": "ticker", "read": "BAQ57DPV", "note": "character after Q ambiguous 5 vs S; tesseract read 'BAQS7DPV', hi-res crop favors '5'"}
+  ],
+  "page_confidence": "high"
+}

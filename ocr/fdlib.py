@@ -157,11 +157,12 @@ def flatten(pages, doc=None):
                                 "amount": r.get("amount"), "lo": lo, "hi": hi})
             else:
                 vlo, vhi = bucket_range(r.get("value"))
-                ilo, ihi = bucket_range(r.get("amount_of_income"))
+                amt = r.get("amount_of_income") or r.get("amount_of_income_preceding_year")
+                ilo, ihi = bucket_range(amt)
                 out_assets.append({**base, "value": r.get("value"), "vlo": vlo, "vhi": vhi,
                                    "income_types": norm_income_types(r.get("income_types")),
                                    "other_income": r.get("other_income_spec"),
-                                   "income_amt": r.get("amount_of_income"), "ilo": ilo, "ihi": ihi,
+                                   "income_amt": amt, "ilo": ilo, "ihi": ihi,
                                    "tx": r.get("transaction")})
     return out_assets, out_txs
 

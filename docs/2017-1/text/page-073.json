@@ -1,0 +1,29 @@
+{
+  "pdf_page": 73,
+  "printed_label": "Page 73 of 149",
+  "section": "Schedule B: Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment spreadsheet in transposed layout: each COLUMN is one transaction; field names run down the left (EIF, SP/DC/JT, Security Name, Ticker, Transaction, Amount of Transaction A-L + Spouse/DC, Type of Transaction, Capital Gain, Transaction Date). Filled (solid black) cells mark the selected amount bucket and transaction type. The 'SP, DC, JT' row and the 'Transaction' row are solid black continuous bands across all 4 columns (formatting artifact) - owner designation not readable on this page; transaction type taken from the 'Type of Transaction' block. EIF row blank for all columns. Capital Gain row unchecked for all columns. Footer/sheet label: 'MS Areco'. 4 transaction columns transcribed left to right as rows below.",
+  "rows": [
+    {"kind": "group", "text": "MS Areco"},
+    {"kind": "tx", "owner": null, "asset_name": "MSILF Tax Emept Port Inst", "ticker": "MTXXX", "eif": false,
+     "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/31/2017",
+     "notification_date": null, "amount": "B: $1-$1,000"},
+    {"kind": "tx", "owner": null, "asset_name": "MSILF Tax Emept Port Inst", "ticker": "MTXXX", "eif": false,
+     "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/31/2017",
+     "notification_date": null, "amount": "B: $1-$1,000"},
+    {"kind": "tx", "owner": null, "asset_name": "MSILF Tax Emept Port Inst", "ticker": "MTXXX", "eif": false,
+     "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "11/16/2017",
+     "notification_date": null, "amount": "D: $15,001-$50,000"},
+    {"kind": "tx", "owner": null, "asset_name": "MSILF Tax Emept Port Inst", "ticker": "MTXXX", "eif": false,
+     "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "11/16/2017",
+     "notification_date": null, "amount": "C: $1,001-$15,000"}
+  ],
+  "free_text": "Note: Dependent Child reporting was not applicable last year\n\nFooter: MS Areco",
+  "uncertainties": [
+    {"row": 1, "field": "owner", "read": null, "note": "'SP, DC, JT' row is one continuous black band across all 4 columns; owner designation unreadable (same fill artifact as 'Transaction' row). Applies to all 4 tx rows."},
+    {"row": 1, "field": "asset_name", "read": "MSILF Tax Emept Port Inst", "note": "'Emept' transcribed verbatim as printed (likely typo for 'Exempt' in source document); tesseract agrees. Applies to all 4 columns."}
+  ],
+  "page_confidence": "high"
+}

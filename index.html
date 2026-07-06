@@ -356,9 +356,9 @@ const rngS = s => (!s.any || (s.lo===0 && s.hiF===0)) ? 'None'
     `The form reports ranges, not exact values; the true total lies between these bounds (and above the maximum shown, per the open-ended holdings).`;
   const cards = [
     ['Reported holdings', rngS(tot), `${A.length.toLocaleString()} line-items · min ${exact$(tot.lo)} · ${tot.open} with no upper bound`, totTip],
-    ['Unearned income (2024)', rngS(inc), `dividends, interest, gains, rent · min ${exact$(inc.lo)}`,
+    [`Unearned income (${(D.meta||{}).year||''})`, rngS(inc), `dividends, interest, gains, rent · min ${exact$(inc.lo)}`,
       `Exact sum of income-range minimums: ${exact$(inc.lo)}; maximums: ${exact$(inc.hiF)}${inc.open?` (+${inc.open} open-ended)`:''}.`],
-    ['Transactions (2024)', T.length.toLocaleString(), 'total value '+rngS(txTot),
+    [`Transactions (${(D.meta||{}).year||''})`, T.length.toLocaleString(), 'total value '+rngS(txTot),
       `Exact sum of transaction-range minimums: ${exact$(txTot.lo)}; maximums: ${exact$(txTot.hiF)}${txTot.open?` (+${txTot.open} open-ended)`:''}.`],
     ['Document', ((D.pages||[]).filter(p=>p.page_type!=='pending').length)+' / '+(D.pages||[]).length+' pages', 'transcribed from the official scans', ''],
   ];

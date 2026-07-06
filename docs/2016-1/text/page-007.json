@@ -14,7 +14,7 @@
      "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None",
      "transaction": null},
     {"kind": "asset", "owner": "SP", "asset_name": "Ecolab Inc", "ticker": "ECL", "eif": null,
-     "value": "C: $1,001-$15,000", "income_types": ["Dividends"], "other_income_spec": null,
+     "value": "C: $1,001-$15,000", "income_types": ["Dividends", "Capital Gains"], "other_income_spec": null,
      "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "D: $1,001-$2,500",
      "transaction": null},
     {"kind": "asset", "owner": "SP", "asset_name": "IHS Inc Com", "ticker": "I H S", "eif": null,

@@ -1,0 +1,22 @@
+{
+  "pdf_page": 62,
+  "printed_label": "Page 62 of 149",
+  "section": "Schedule B: Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table in transposed spreadsheet layout: each COLUMN is one transaction; field names run down the left. Solid black cells mark selected amount bucket, transaction type, and capital-gain flag; the 'Transaction' row is a solid black separator across all columns. Footer sheet label: 'MS MR Trust Partnership'. 7 transaction columns, all owner SP, transcribed left to right as rows below.",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "Scharles Schwab (SCHW)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "06/14/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Charles Schwab (SCHW)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "09/21/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CME Group (CME)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "02/01/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CME Group (CME)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "03/13/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Cognizant Tech Solutions (CTSH)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "03/13/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Cognizant Tech Solutions (CTSH)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "08/07/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Ecolab Inc (ECL)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "03/13/2017", "notification_date": null, "amount": "B: $1-$1,000"}
+  ],
+  "free_text": "Footer: MS MR Trust Partnership",
+  "uncertainties": [
+    {"row": 1, "field": "asset_name", "read": "Scharles Schwab", "note": "Typed as printed - filer typo for 'Charles Schwab'; tesseract agrees with 'Scharles Schwab'. Transcribed verbatim."}
+  ],
+  "page_confidence": "high"
+}

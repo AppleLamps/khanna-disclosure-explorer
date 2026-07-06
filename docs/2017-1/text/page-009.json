@@ -1,0 +1,22 @@
+{
+  "pdf_page": 9,
+  "printed_label": "Page 9 of 149",
+  "section": "Schedule A: Assets and \"Unearned\" Income",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table, transposed spreadsheet layout: one asset per COLUMN, category rows down the left (EIF; SP,DC,JT; Stock Name; Ticker; Transaction; Value of Asset A-L; Type of Income; Amount of Income A-K). Black-filled cells mark the selected bucket. Transaction row is solid black across all five asset columns. EIF row empty. Footer/group label bottom-left: 'MS MR Trust Partnership'. Single Amount of Income block on this page.",
+  "rows": [
+    {"kind": "group", "text": "MS MR Trust Partnership"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CME Group Inc", "ticker": "CME", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["Dividends"], "other_income_spec": null, "amount_of_income": "C: $201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Cognizant Tech Solutions", "ticker": "CTSH", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["Dividends"], "other_income_spec": null, "amount_of_income": "B: $1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Ecolab Inc", "ticker": "ECL", "eif": null, "value": "C: $1,001-$15,000", "income_types": ["Dividends"], "other_income_spec": null, "amount_of_income": "B: $1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Equinix Inc Com Par $0.001", "ticker": "EQIX", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["Dividends"], "other_income_spec": null, "amount_of_income": "C: $201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Facebook Inc", "ticker": "FB", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["None"], "other_income_spec": null, "amount_of_income": "A: None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": "all", "field": "transaction", "read": null, "note": "entire Transaction row is a solid black band across all five columns; treated as no transaction code"},
+    {"row": 4, "field": "asset_name", "read": "Equinix Inc Com Par $0.001", "note": "tesseract read '$0,001'; hi-res crop shows '$0.001'"}
+  ],
+  "page_confidence": "high"
+}

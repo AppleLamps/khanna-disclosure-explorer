@@ -29,6 +29,51 @@ def doc_pages(doc, label, seq_start):
     return pages, seq, problems
 
 
+def _blocksig(p):
+    """Which field-blocks a schedule_a attachment page fills: v/i/a (empty if not mergeable)."""
+    rows = [r for r in p.get("rows") or [] if r.get("kind") == "asset"]
+    if not rows or p.get("page_type") != "schedule_a" or any(r.get("kind") == "group" for r in p.get("rows") or []):
+        return rows, None
+    sig = set()
+    for r in rows:
+        if r.get("value"): sig.add("v")
+        if r.get("income_types") or r.get("other_income_spec"): sig.add("i")
+        if r.get("amount_of_income") or r.get("amount_of_income_preceding_year") or r.get("amount_of_income_current_year"): sig.add("a")
+    return rows, (sig if len(sig) == 1 else None)
+
+
+def merge_block_runs(pages):
+    """Return a copy of pages where consecutive single-block sheet pages with equal
+    row counts and disjoint blocks are merged (rows land on the first page of the run)."""
+    import copy
+    pages = copy.deepcopy(pages)
+    i = 0
+    while i < len(pages):
+        rows_i, sig_i = _blocksig(pages[i])
+        if not sig_i:
+            i += 1; continue
+        run = [(pages[i], rows_i, sig_i)]
+        j = i + 1
+        while j < len(pages):
+            rows_j, sig_j = _blocksig(pages[j])
+            if sig_j and len(rows_j) == len(rows_i) and all(sig_j != s for _, _, s in run):
+                run.append((pages[j], rows_j, sig_j)); j += 1
+            else:
+                break
+        if len(run) > 1:
+            base = run[0][1]
+            for pg, rows, _ in run[1:]:
+                for k, r in enumerate(rows):
+                    b = base[k]
+                    for f in ("value", "income_types", "other_income_spec", "amount_of_income",
+                              "amount_of_income_preceding_year", "amount_of_income_current_year", "transaction"):
+                        if not b.get(f) and r.get(f):
+                            b[f] = r[f]
+                pg["rows"] = []
+        i = j if len(run) > 1 else i + 1
+    return pages
+
+
 def tx_year(t):
     m = re.search(r"/(\d{4})$", t.get("date") or "")
     return int(m.group(1)) if m else None
@@ -40,7 +85,7 @@ def build(year, docs, asset_doc, tx_rule, meta):
     for doc, label in docs:
         pages, seq, probs = doc_pages(doc, label, seq)
         problems += probs
-        a, t = fdlib.flatten(pages, doc=doc)
+        a, t = fdlib.flatten(merge_block_runs(pages), doc=doc)
         if doc == asset_doc:
             all_assets += a
         all_txs += [x for x in t if tx_rule(doc, x)]

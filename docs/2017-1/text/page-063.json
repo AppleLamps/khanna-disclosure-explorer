@@ -1,0 +1,23 @@
+{
+  "pdf_page": 63,
+  "printed_label": "Page 63 of 149",
+  "section": "Schedule B: Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table in transposed spreadsheet layout: each COLUMN is one transaction; field names run down the left. Solid black cells mark selected amount bucket, transaction type, and capital-gain flag; the 'Transaction' row is a solid black separator across all columns. Footer sheet label: 'MS MR Trust Partnership'. 8 transaction columns, all owner SP, transcribed left to right as rows below.",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "Ecolab Inc (ECL)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/21/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Equinix Inc Com Par $0.001 (EQIX)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "03/13/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Facebook (FB)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "03/13/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "IHS Markit LTD (INFO)", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "01/05/2017", "notification_date": null, "amount": "B: $1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "IHS Markit LTD (INFO)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "03/13/2017", "notification_date": null, "amount": "B: $1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Illumina Inc (ILMN)", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "02/01/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Illumina Inc (ILMN)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "03/13/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Illumina Inc (ILMN)", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "04/27/2017", "notification_date": null, "amount": "C: $1,001-$15,000"}
+  ],
+  "free_text": "Footer: MS MR Trust Partnership",
+  "uncertainties": [
+    {"row": 4, "field": "cap_gain_over_200", "read": "false", "note": "IHS Markit LTD 1/5/2017 is a Partial Sale but the Capital Gain Exceeded $200 cell under its column is unfilled (white) in the BR quad; recorded as seen."}
+  ],
+  "page_confidence": "high"
+}
