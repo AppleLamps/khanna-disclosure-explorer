@@ -146,7 +146,8 @@ for p in pages:
         }
         if r.get("kind") == "tx":
             lo, hi = bucket_range(r.get("amount"))
-            txs.append({**base, "tx_type": r.get("tx_type"), "cap_gain": bool(r.get("cap_gain_over_200")),
+            tx_type = re.sub(r",\s*", ", ", (r.get("tx_type") or "").strip()) or None
+            txs.append({**base, "tx_type": tx_type, "cap_gain": bool(r.get("cap_gain_over_200")),
                         "date": r.get("date"), "amount": r.get("amount"), "lo": lo, "hi": hi})
         else:
             vlo, vhi = bucket_range(r.get("value"))
