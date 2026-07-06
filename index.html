@@ -450,7 +450,10 @@ const afEls = Object.fromEntries(['q','cls','group','val','inc','clear','cnt','m
 fillSel(afEls.cls,'All classes', uniq(A,'cls').sort());
 fillSel(afEls.group,'All portfolios', uniq(A,'group').sort());
 afEls.val.innerHTML = VAL_STEPS.map(([v,l])=>`<option value="${v}">${l}</option>`).join('');
-fillSel(afEls.inc,'All income types', [...new Set(A.flatMap(a=>a.income_types||[]))].sort());
+(()=>{ const vals = new Set(A.flatMap(a=>a.income_types||[]));
+  if (A.some(a=>a.other_income)) vals.add('Partnership');
+  if (A.some(a=>!(a.income_types||[]).length && !a.other_income)) vals.add('Not marked');
+  fillSel(afEls.inc,'All income types', [...vals].sort()); })();
 const aTable = makeTable({
   rows:A, defaultSort:'vlo', onChange:()=>syncHash(),
   theadEl:document.querySelector('#atable thead'), tbodyEl:document.querySelector('#atable tbody'),
@@ -470,7 +473,10 @@ const aTable = makeTable({
     r=>!afEls.cls.value || r.cls===afEls.cls.value,
     r=>!afEls.group.value || r.group===afEls.group.value,
     r=>!+afEls.val.value || (r.vlo||0) >= +afEls.val.value,
-    r=>!afEls.inc.value || (r.income_types||[]).includes(afEls.inc.value),
+    r=>{const v=afEls.inc.value; if(!v) return true;
+      if(v==='Not marked') return !(r.income_types||[]).length && !r.other_income;
+      if(v==='Partnership') return (r.other_income||'').trim()==='PTN';
+      return (r.income_types||[]).includes(v);},
   ],
 });
 function afWire(){ ['q','cls','group','val','inc'].forEach(k=>{
