@@ -460,7 +460,7 @@ const aTable = makeTable({
     {h:'What it is', w:'21%', cell:r=>`<td style="color:#3c4657">${esc(r.desc||'')}</td>`},
     {h:'Class', sort:'cls', w:'11%', cell:r=>`<td><span class="chip">${esc(r.cls)}</span></td>`},
     {h:'Value', sort:'vlo', w:'11%', cell:r=>`<td class="num">${esc(r.value||'—')}</td>`},
-    {h:'Income type', w:'11%', cell:r=>`<td>${esc((r.income_types||[]).join(', '))}${r.other_income?' ('+esc(r.other_income)+')':''}</td>`},
+    {h:'Income type', w:'11%', cell:r=>{const p=(r.income_types||[]).map(esc); if(r.other_income) p.push(r.other_income.trim()==='PTN'?`<span title="PTN — partnership income write-in on the form">Partnership</span>`:esc(r.other_income)); return `<td>${p.join(', ')}</td>`;}},
     {h:'Income', sort:'ilo', w:'9%', cell:r=>`<td class="num">${rngLines(r.income_amt)}</td>`},
     {h:'Transaction', w:'10%', cell:r=>`<td title="${esc(r.tx||'No transaction reported; held through the year')}">${(r.tx||'').trim()?esc(txWords(r.tx)):'<span style="color:var(--muted)">Held</span>'}</td>`},
     {h:'Page', w:'5%', cell:pgLink('asset')},
