@@ -443,7 +443,7 @@ const afEls = Object.fromEntries(['q','cls','group','val','inc','clear','cnt','m
 fillSel(afEls.cls,'All classes', uniq(A,'cls').sort());
 fillSel(afEls.group,'All portfolios', uniq(A,'group').sort());
 afEls.val.innerHTML = VAL_STEPS.map(([v,l])=>`<option value="${v}">${l}</option>`).join('');
-fillSel(afEls.inc,'All income types', uniq(A.flatMap(a=>a.income_types||[])).sort());
+fillSel(afEls.inc,'All income types', [...new Set(A.flatMap(a=>a.income_types||[]))].sort());
 const aTable = makeTable({
   rows:A, defaultSort:'vlo', onChange:()=>syncHash(),
   theadEl:document.querySelector('#atable thead'), tbodyEl:document.querySelector('#atable tbody'),
