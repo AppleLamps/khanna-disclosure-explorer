@@ -229,6 +229,29 @@ def annual_year_build(year, n_docs, annual_idx, annual_pages):
                         "are viewable in the Document tab (their trades duplicate Schedule B).")})
 
 
-# ---- 2021: annual = 2021-13 (303p); ---- 2022: annual = 2022-15 (367p)
+def ptr_year_build(year, n_docs, ext_idx):
+    """PTR-only year (no annual filed yet): no holdings; transactions summed across all PTRs."""
+    docs, k = [], 1
+    for i in range(1, n_docs + 1):
+        if i == ext_idx:
+            docs.append((f"{year}-{i}", "Financial Disclosure Extension Request"))
+        else:
+            docs.append((f"{year}-{i}", f"Periodic Transaction Report #{k} ({year})"))
+            k += 1
+    build(year, docs, None, lambda doc, t: True,
+          {"year": year, "ptr_only": True, "source_pdf": f"docs/src/{year}-1.pdf",
+           "kicker": f"{year} Periodic Transaction Reports · U.S. House · California 17th",
+           "why_html": (f"In {year}, Rep. Ro Khanna (CA-17) filed his periodic transaction reports as hand-delivered, "
+                        "unsearchable paper scans rather than through the House's electronic filing system. This site "
+                        f"transcribes <a id=\"srclink\" href=\"docs/src/{year}-1.pdf\" target=\"_blank\" rel=\"noopener\">those filings (PDF)</a> "
+                        "to make his trading readable, searchable, and analyzable. No annual holdings statement is shown "
+                        f"for {year} — the annual disclosure covering these holdings is filed the following spring. "
+                        "Dollar figures are the statutory ranges reported on the forms.")})
+
+# ---- annual years
 annual_year_build("2021", 14, 13, 303)
 annual_year_build("2022", 16, 15, 367)
+annual_year_build("2023", 15, 14, 327)
+# ---- PTR-only years (no annual filed for the calendar year yet)
+ptr_year_build("2025", 13, 13)
+ptr_year_build("2026", 5, None)

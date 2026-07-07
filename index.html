@@ -212,25 +212,25 @@
   <!-- ============ OVERVIEW ============ -->
   <section class="view on" id="v-overview">
     <div class="cards" id="statcards"></div>
-    <div class="panel">
+    <div class="panel" id="panel-clsbars">
       <h2>Holdings by asset class</h2>
       <p class="note">Dark bar = sum of range minimums; light bar = sum of range maximums. Click a class to browse its holdings.</p>
       <div id="clsbars"></div>
     </div>
-    <div class="twocol">
-      <div class="panel">
+    <div class="twocol" id="overview-twocol">
+      <div class="panel" id="panel-tophold">
         <h2>Largest holdings</h2>
         <p class="note">Ranked by the minimum of the reported value range.</p>
         <ul class="plain" id="tophold"></ul>
       </div>
       <div>
-        <div class="panel">
+        <div class="panel" id="panel-groups">
           <h2>Portfolios &amp; trusts</h2>
           <p class="note">Family trusts and partnerships under which assets are reported. SP = spouse, DC = dependent child, JT = joint.</p>
           <ul class="plain" id="groups"></ul>
         </div>
         <div class="panel">
-          <h2>Trading activity (Schedule B)</h2>
+          <h2>Trading activity</h2>
           <ul class="plain" id="txsum"></ul>
         </div>
       </div>
@@ -295,7 +295,7 @@
 </div></footer>
 
 <script>
-const FD_YEARS = {'2016':'data-2016.js','2017':'data-2017.js','2018':'data-2018.js','2019':'data-2019.js','2020':'data-2020.js','2021':'data-2021.js','2022':'data-2022.js','2024':'data-2024.js'};
+const FD_YEARS = {'2016':'data-2016.js','2017':'data-2017.js','2018':'data-2018.js','2019':'data-2019.js','2020':'data-2020.js','2021':'data-2021.js','2022':'data-2022.js','2023':'data-2023.js','2024':'data-2024.js','2025':'data-2025.js','2026':'data-2026.js'};
 const FD_YEAR = (()=>{const y=new URLSearchParams(location.search).get('year');return FD_YEARS[y]?y:'2024';})();
 document.write('<script src="'+FD_YEARS[FD_YEAR]+'"><\/script>');
 </script>
@@ -361,16 +361,27 @@ const rngS = s => (!s.any || (s.lo===0 && s.hiF===0)) ? 'None'
   const totTip = `Exact sum of range minimums: ${exact$(tot.lo)}.\n`+
     `Sum of range maximums: ${exact$(tot.hiF)} — a floor, because ${tot.open} holdings are reported only as "over $1,000,000" or "over $50,000,000" with no upper bound.\n`+
     `The form reports ranges, not exact values; the true total lies between these bounds (and above the maximum shown, per the open-ended holdings).`;
+  const ptrOnly = !!(D.meta||{}).ptr_only;
+  const holdingsCard = ptrOnly
+    ? ['Reported holdings', 'No annual filing', `${(D.meta||{}).year||''} is reported via transaction reports; the annual holdings statement is filed the next spring`, '']
+    : ['Reported holdings', rngS(tot), `${A.length.toLocaleString()} line-items · min ${exact$(tot.lo)} · ${tot.open} with no upper bound`, totTip];
+  const incomeCard = ptrOnly
+    ? [`Transactions total`, rngS(txTot), 'combined value across all transaction reports',
+       `Exact sum of transaction-range minimums: ${exact$(txTot.lo)}; maximums: ${exact$(txTot.hiF)}${txTot.open?` (+${txTot.open} open-ended)`:''}.`]
+    : [`Unearned income (${(D.meta||{}).year||''})`, rngS(inc), `dividends, interest, gains, rent · min ${exact$(inc.lo)}`,
+      `Exact sum of income-range minimums: ${exact$(inc.lo)}; maximums: ${exact$(inc.hiF)}${inc.open?` (+${inc.open} open-ended)`:''}.`];
   const cards = [
-    ['Reported holdings', rngS(tot), `${A.length.toLocaleString()} line-items · min ${exact$(tot.lo)} · ${tot.open} with no upper bound`, totTip],
-    [`Unearned income (${(D.meta||{}).year||''})`, rngS(inc), `dividends, interest, gains, rent · min ${exact$(inc.lo)}`,
-      `Exact sum of income-range minimums: ${exact$(inc.lo)}; maximums: ${exact$(inc.hiF)}${inc.open?` (+${inc.open} open-ended)`:''}.`],
+    holdingsCard, incomeCard,
     [`Transactions (${(D.meta||{}).year||''})`, T.length.toLocaleString(), 'total value '+rngS(txTot),
       `Exact sum of transaction-range minimums: ${exact$(txTot.lo)}; maximums: ${exact$(txTot.hiF)}${txTot.open?` (+${txTot.open} open-ended)`:''}.`],
     ['Document', ((D.pages||[]).filter(p=>p.page_type!=='pending').length)+' / '+(D.pages||[]).length+' pages', 'transcribed from the official scans', ''],
   ];
   document.getElementById('statcards').innerHTML = cards.map(c=>
     `<div class="card" ${c[3]?`title="${esc(c[3])}"`:''}><div class="k">${c[0]}</div><div class="v">${c[1]}</div><div class="d">${c[2]}</div></div>`).join('');
+  if (ptrOnly) {
+    ['panel-clsbars','panel-tophold','panel-groups'].forEach(id=>{const el=document.getElementById(id); if(el) el.style.display='none';});
+    document.getElementById('overview-twocol').style.gridTemplateColumns = '1fr';
+  }
 
   // class bars
   const by = {};
