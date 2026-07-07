@@ -1,0 +1,31 @@
+{
+  "pdf_page": 3,
+  "printed_label": "Page 3 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Standard (non-transposed) Schedule A grid, filled by hand/typed with X marks. Block B value columns A-M and Block D amount columns I-XII are printed over a heavy grey stipple/shading that partially obscures which cell holds the X; asset names, owner column, EIF, income-type and transaction are legible. Group/portfolio subheaders appear as bold rows with no marks. Block B columns: A=None, B=$1-$1,000, C=$1,001-$15,000, D=$15,001-$50,000, E=$50,001-$100,000, F=$100,001-$250,000, G=$250,001-$500,000, H=$500,001-$1,000,000, I=$1,000,001-$5,000,000, J=$5,000,001-$25,000,000, K=$25,000,001-$50,000,000, L=Over $50,000,000, M=Spouse/DC Asset over $1,000,000. Block D columns: I=None, II=$1-$200, III=$201-$1,000, IV=$1,001-$2,500, V=$2,501-$5,000, VI=$5,001-$15,000, VII=$15,001-$50,000, VIII=$50,001-$100,000, IX=$100,001-$1,000,000, X=$1,000,001-$5,000,000, XI=Over $5,000,000, XII=Spouse/DC Asset with income over $1,000,000.",
+  "rows": [
+    {"kind": "group", "text": "Khanna Family Bank Accounts:"},
+    {"kind": "asset", "owner": "SP", "asset_name": "Citibank Checking", "eif": null, "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Citibank Savings", "eif": null, "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "JT", "asset_name": "Citibank Checking", "eif": null, "value": "$250,001-$500,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "JT", "asset_name": "Citibank Savings", "eif": null, "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Citibank Checking", "eif": null, "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Citibank Savings", "eif": null, "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "group", "text": "Ritu Ahuja Life Insurance"},
+    {"kind": "asset", "owner": "SP", "asset_name": "Pacific Life Insurance Co-Universal Life", "eif": null, "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "group", "text": "Ritu Ahuja Rev. Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "Condo NY", "eif": null, "value": "$1,000,001-$5,000,000", "income_types": ["RENT"], "other_income_spec": null, "amount_of_income": "$100,001-$1,000,000", "transaction": null},
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "Kayne Anderson Mezzanine Partners", "eif": "X", "value": "$1-$1,000", "income_types": ["Other Type of Income"], "other_income_spec": "PTRN", "amount_of_income": "$1-$200", "transaction": "S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": "all asset rows", "field": "value", "read": "see per-row value", "note": "Block B value columns printed over heavy grey shading; exact X column is low-confidence for every row on this page"},
+    {"row": "all asset rows", "field": "amount_of_income", "read": "see per-row amount_of_income", "note": "Block D amount columns printed over heavy grey shading; exact X column is low-confidence for every row"},
+    {"row": 10, "field": "income_types/value/amount", "read": "Condo NY = RENT, value $1,000,001-$5,000,000, amount $100,001-$1,000,000", "note": "SP-owned NY condo under Ritu Ahuja Rev. Trust; income type could be NONE and value/amount could fall in the Spouse/DC (M/XII) catch-all columns rather than a numeric bucket"},
+    {"row": 12, "field": "other_income_spec", "read": "PTRN", "note": "written in the Other Type of Income column; interpreted as partnership income; transaction column shows S (sale)"}
+  ],
+  "page_confidence": "low"
+}

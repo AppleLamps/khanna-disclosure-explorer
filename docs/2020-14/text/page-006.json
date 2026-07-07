@@ -1,0 +1,33 @@
+{
+  "pdf_page": 6,
+  "printed_label": "Page 6 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Standard (non-transposed) Schedule A grid continuation of the ARECO LP portfolio (MAI funds, real estate, country/golf clubs, warehouse fund). No group header rows on this page. Fund rows carry EIF (Excepted Investment Fund) checked; the two country/golf club rows do not. Most rows show 'PTRN' in the Block C Other Type of Income column; several rows show a Block C NONE checkbox with Block D None. Block E (Transaction) shows 'P' (purchase) for four rows: MAI Wealth Income and Growth IV (SP and DC) and MAI Diversified Real Estate Income (SP and DC). Block B value columns and Block D amount columns sit over heavy grey shading; exact value bucket is low-confidence. Block B: A=None,B=$1-$1,000,C=$1,001-$15,000,D=$15,001-$50,000,E=$50,001-$100,000,F=$100,001-$250,000,G=$250,001-$500,000,H=$500,001-$1,000,000,I=$1,000,001-$5,000,000,J=$5,000,001-$25,000,000,K=$25,000,001-$50,000,000,L=Over $50,000,000,M=Spouse/DC Asset over $1,000,000. Block D: I=None,II=$1-$200,III=$201-$1,000,IV=$1,001-$2,500,V=$2,501-$5,000,VI=$5,001-$15,000,VII=$15,001-$50,000,VIII=$50,001-$100,000,IX=$100,001-$1,000,000,X=$1,000,001-$5,000,000,XI=Over $5,000,000,XII=Spouse/DC Asset with income over $1,000,000.",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "Park Center Plaza", "eif": "X", "value": "$15,001-$50,000", "income_types": ["Other Type of Income"], "other_income_spec": "PTRN", "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAI Wealth Income and Growth IV", "eif": "X", "value": "Spouse/DC Asset over $1,000,000", "income_types": ["Other Type of Income"], "other_income_spec": "PTRN", "amount_of_income": "$100,001-$1,000,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Wealth Income and Growth IV", "eif": "X", "value": "$15,001-$50,000", "income_types": ["Other Type of Income"], "other_income_spec": "PTRN", "amount_of_income": "$50,001-$100,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAI Wealth Income and Growth V", "eif": "X", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Wealth Income and Growth V", "eif": "X", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAI Diversified Real Estate Income", "eif": "X", "value": "$100,001-$250,000", "income_types": ["Other Type of Income"], "other_income_spec": "PTRN", "amount_of_income": "$100,001-$1,000,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Diversified Real Estate Income", "eif": "X", "value": "$15,001-$50,000", "income_types": ["Other Type of Income"], "other_income_spec": "PTRN", "amount_of_income": "$15,001-$50,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "Citymark Capital II", "eif": "X", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Citymark Capital II", "eif": "X", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Mayfield Sand Ridge Country Club", "eif": null, "value": "$100,001-$250,000", "income_types": ["Other Type of Income"], "other_income_spec": "PTRN", "amount_of_income": "$2,501-$5,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Mayfield Sand Ridge Country Club", "eif": null, "value": "$1,001-$15,000", "income_types": ["Other Type of Income"], "other_income_spec": "PTRN", "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Barrington Golf Club", "eif": null, "value": "$100,001-$250,000", "income_types": ["Other Type of Income"], "other_income_spec": "PTRN", "amount_of_income": "$100,001-$1,000,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Barrington Golf Club", "eif": null, "value": "$15,001-$50,000", "income_types": ["Other Type of Income"], "other_income_spec": "PTRN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAI Industrial Warehouse Fund", "eif": "X", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Industrial Warehouse Fund", "eif": "X", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": "all asset rows", "field": "value", "read": "see per-row value", "note": "Block B value columns are heavily shaded; exact value bucket is low-confidence for every asset row"},
+    {"row": 2, "field": "value", "read": "Spouse/DC Asset over $1,000,000 (col M)", "note": "MAI Wealth Income and Growth IV (SP) value X is at the far-right of Block B; could be col I/L rather than the M spouse catch-all"},
+    {"row": 12, "field": "amount_of_income", "read": "$100,001-$1,000,000 (col IX)", "note": "Barrington Golf Club (SP) amount X reads in the shaded far-right of Block D and could be col X ($1,000,001-$5,000,000) or a considerably lower bucket"},
+    {"row": "3,7,13", "field": "amount_of_income", "read": "cols VII-VIII", "note": "amount X's fall in the shaded right half of Block D; adjacent-column error possible"}
+  ],
+  "page_confidence": "low"
+}

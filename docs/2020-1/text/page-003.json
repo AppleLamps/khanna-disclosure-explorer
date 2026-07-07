@@ -1,0 +1,29 @@
+{
+  "pdf_page": 3,
+  "printed_label": "Page 3 of 6",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Areca"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BOOKING HOLDINGS INC", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BOOKING HOLDINGS INC", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NETFLIX INC", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NETFLIX INC", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALIGN TECHNOLOGY", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALIGN TECHNOLOGY", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NVIDIA CORPORATION", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NVIDIA CORPORATION", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMAZON COM INC", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMAZON COM INC", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTUIT INC", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTUIT INC", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ILLUMINA INC", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ILLUMINA INC", "tx_type": "Sale", "date": "12/27/2019", "notification_date": "01/03/2020", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "group_text", "read": "Areca", "note": "italic group header; could read 'Areco'"}
+  ],
+  "page_confidence": "high"
+}
