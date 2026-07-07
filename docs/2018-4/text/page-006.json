@@ -1,0 +1,30 @@
+{
+  "pdf_page": 6,
+  "printed_label": "Page 6 of 309",
+  "section": "Schedule A: Assets and \"Unearned\" Income",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table, standard readable layout (continuation). ARECO LP Commercial Property is a grouped rental: three SP location rows share a single 'Rent (for all properties)' income entry with amount $100,001-$1,000,000 (printed on the group's first/SP line), and three DC location rows share 'Rent (for all properties)' with amount $15,001-$50,000 (printed on the first DC line). Shared rent income/amount recorded on the first row of each owner group; subsequent location rows carry only their asset value. 'Partnership' income recorded in other_income_spec. Final two entries are trust pointers to 'See attached MS Areco Schedule' with no value/income cells.",
+  "rows": [
+    {"kind": "group", "text": "ARECO LP Commercial Property:"},
+    {"kind": "asset", "owner": "SP", "asset_name": "Location: Cincinnati, OH", "eif": null, "value": "$250,001-$500,000", "income_types": ["RENT"], "other_income_spec": "(for all properties; covers the 3 SP ARECO locations)", "amount_of_income": "$100,001-$1,000,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Location: Harahan, LA 70123", "eif": null, "value": "$50,001-$100,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Location: Walton, OH 44146", "eif": null, "value": "Spouse/DC Asset over $1,000,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Location: Cincinnati, OH", "eif": null, "value": "$15,001-$50,000", "income_types": ["RENT"], "other_income_spec": "(for all properties; covers the 3 DC ARECO locations)", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Location: Harahan, LA 70123", "eif": null, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Location: Walton, OH 44146", "eif": null, "value": "$100,001-$250,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust: MURA Holdings, LLC :"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAI Capital Management, LLC", "eif": null, "value": "Spouse/DC Asset over $1,000,000", "income_types": [], "other_income_spec": "Partnership", "amount_of_income": "$100,001-$1,000,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Huntington Bank Checking", "eif": null, "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Convelo Promissory Note", "eif": null, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "group", "text": "Grandchildren's Trust: ASK Partners, LLC"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Transtar/Speedstar Holding Co.", "eif": null, "value": "Spouse/DC Asset over $1,000,000", "income_types": [], "other_income_spec": "Partnership", "amount_of_income": "$100,001-$1,000,000", "transaction": "P, S-Partial"},
+    {"kind": "group", "text": "Grandchildren's Trust:"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Transmaxx, LLC", "eif": null, "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Ritu Ahuja 1995 Trust: ARECO LP - See attached MS Areco Schedule", "eif": null, "value": null, "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Grandchildren's Trust: ARECO LP - See attached MS Areco Schedule", "eif": null, "value": null, "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

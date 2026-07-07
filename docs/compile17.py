@@ -205,3 +205,30 @@ build("2020", DOCS2020, "2020-14",
                     "that makes his finances readable, searchable, and analyzable. Dollar figures are the statutory ranges "
                     "reported on the form. Transactions are from the annual report's Schedule B; the separately filed PTRs "
                     "are viewable in the Document tab (their trades duplicate Schedule B).")})
+
+
+def annual_year_build(year, n_docs, annual_idx, annual_pages):
+    """Standard build: annual = <year>-<annual_idx>, all other docs browsable PTRs/admin."""
+    annual = f"{year}-{annual_idx}"
+    docs = [(annual, f"{year} Annual Financial Disclosure (Form A)")]
+    k = 1
+    for i in range(1, n_docs + 1):
+        if i == annual_idx:
+            continue
+        docs.append((f"{year}-{i}", f"Periodic Transaction Report / filing #{k} ({year})"))
+        k += 1
+    build(year, docs, annual,
+          lambda doc, t, a=annual: doc == a,
+          {"year": year, "source_pdf": f"docs/src/{annual}.pdf",
+           "kicker": f"{year} Annual Financial Disclosure (Form A) + PTRs · U.S. House · California 17th",
+           "why_html": (f"Rep. Ro Khanna (CA-17) disclosed his {year} finances as {annual_pages} pages of hand-delivered, "
+                        "unsearchable paper scans rather than filing through the House's electronic system. This site is a "
+                        f"transcription of <a id=\"srclink\" href=\"docs/src/{annual}.pdf\" target=\"_blank\" rel=\"noopener\">his filing (PDF)</a> "
+                        "that makes his finances readable, searchable, and analyzable. Dollar figures are the statutory ranges "
+                        "reported on the form. Transactions are from the annual report's Schedule B; the separately filed PTRs "
+                        "are viewable in the Document tab (their trades duplicate Schedule B).")})
+
+
+# ---- 2021: annual = 2021-13 (303p); ---- 2022: annual = 2022-15 (367p)
+annual_year_build("2021", 14, 13, 303)
+annual_year_build("2022", 16, 15, 367)

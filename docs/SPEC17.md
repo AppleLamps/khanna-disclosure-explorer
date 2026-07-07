@@ -61,3 +61,8 @@ Same conventions/schema, `docs/<doc>/...`. The set:
 - `2020-14` — 2020 Annual Financial Disclosure REPORT (Form A), 326 pages (holdings + Schedule B; same typed-spreadsheet/transposed layouts).
 - `2020-1..2020-13, 2020-15` — Periodic Transaction Reports (PTRs); some may be amendments (check the cover's "Amendment" box).
 - `2020-16` — Financial Disclosure Extension Request (1p, text-native): page_type `letter`, rows [], full form into `free_text`.
+
+## 2021 & 2022 documents
+Same conventions/schema, `docs/<doc>/...`.
+- 2021: annual = `2021-13` (303p, Form A); `2021-12` (1p) = Extension Request (letter); rest = PTRs (`2021-8` is 23p).
+- 2022: annual = `2022-15` (367p, Form A); `2022-14` (1p) = Extension Request (letter); rest = PTRs (several long: 2022-6 67p, 2022-7 34p, 2022-10 32p — heavy trading year). Check each PTR cover for the "Amendment" box.
