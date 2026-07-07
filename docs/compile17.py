@@ -30,33 +30,42 @@ def doc_pages(doc, label, seq_start):
 
 
 def _blocksig(p):
-    """Which field-blocks a schedule_a attachment page fills: v/i/a (empty if not mergeable)."""
-    rows = [r for r in p.get("rows") or [] if r.get("kind") == "asset"]
-    if not rows or p.get("page_type") != "schedule_a" or any(r.get("kind") == "group" for r in p.get("rows") or []):
-        return rows, None
+    """For a schedule_a attachment page, return (asset_rows, group_key, single_block_sig).
+    group_key is the tuple of the page's group-header texts (so split-sheets that repeat
+    the same trust header can still merge). single_block_sig is one of {'v','i','a'} when the
+    page fills exactly one field-block, else None (fully-populated pages are not mergeable)."""
+    all_rows = p.get("rows") or []
+    rows = [r for r in all_rows if r.get("kind") == "asset"]
+    groups = tuple(r.get("text", "") for r in all_rows if r.get("kind") == "group")
+    if not rows or p.get("page_type") != "schedule_a":
+        return rows, None, None
     sig = set()
     for r in rows:
         if r.get("value"): sig.add("v")
         if r.get("income_types") or r.get("other_income_spec"): sig.add("i")
-        if r.get("amount_of_income") or r.get("amount_of_income_preceding_year") or r.get("amount_of_income_current_year"): sig.add("a")
-    return rows, (sig if len(sig) == 1 else None)
+        if (r.get("amount_of_income") or r.get("amount_of_income_preceding_year")
+                or r.get("amount_of_income_current_year") or r.get("transaction")): sig.add("a")
+    return rows, groups, (sig if len(sig) == 1 else None)
 
 
 def merge_block_runs(pages):
-    """Return a copy of pages where consecutive single-block sheet pages with equal
-    row counts and disjoint blocks are merged (rows land on the first page of the run)."""
+    """Return a copy of pages where a run of consecutive single-block schedule_a sheets
+    that share the same group header(s), have equal asset-row counts, and fill disjoint
+    field-blocks is merged onto the run's first page (later pages emptied). Handles the
+    Value / Type-of-Income / Amount split-sheet layout used in the Form A annuals."""
     import copy
     pages = copy.deepcopy(pages)
     i = 0
     while i < len(pages):
-        rows_i, sig_i = _blocksig(pages[i])
+        rows_i, grp_i, sig_i = _blocksig(pages[i])
         if not sig_i:
             i += 1; continue
         run = [(pages[i], rows_i, sig_i)]
         j = i + 1
         while j < len(pages):
-            rows_j, sig_j = _blocksig(pages[j])
-            if sig_j and len(rows_j) == len(rows_i) and all(sig_j != s for _, _, s in run):
+            rows_j, grp_j, sig_j = _blocksig(pages[j])
+            if (sig_j and grp_j == grp_i and len(rows_j) == len(rows_i)
+                    and all(sig_j != s for _, _, s in run)):
                 run.append((pages[j], rows_j, sig_j)); j += 1
             else:
                 break
@@ -69,7 +78,7 @@ def merge_block_runs(pages):
                               "amount_of_income_preceding_year", "amount_of_income_current_year", "transaction"):
                         if not b.get(f) and r.get(f):
                             b[f] = r[f]
-                pg["rows"] = []
+                pg["rows"] = [gr for gr in (pg.get("rows") or []) if gr.get("kind") != "asset"]
         i = j if len(run) > 1 else i + 1
     return pages
 
