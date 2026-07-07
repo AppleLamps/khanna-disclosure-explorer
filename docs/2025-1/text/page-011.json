@@ -1,0 +1,29 @@
+{
+  "pdf_page": 11,
+  "printed_label": "Page 11 of 34",
+  "section": "SCHEDULE B - TRANSACTIONS (Periodic Transaction Report)",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "LOWES COMPANIES INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTERCONTINENTAL EXCHANGE INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COSTCO WHOLESALE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JOHNSON & JOHNSON CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "T-MOBILE US, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PRUDENTIAL FINANCIAL INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HILTON WORLDWIDE HOLDINGS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERTEX PHARMACEUTICALS INCORPO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMPHENOL CORP CL-A (NEW) CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CITIGROUP INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTOZONE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NXP SEMICONDUCTORS N.V. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NIKE CLASS-B CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN EXPRESS CO. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HCA HEALTHCARE, INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COMCAST CORPORATION CMN CLASS A VOTING", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CROWN CASTLE INTL CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

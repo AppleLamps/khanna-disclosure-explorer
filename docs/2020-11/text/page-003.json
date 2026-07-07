@@ -1,0 +1,29 @@
+{
+  "pdf_page": 3,
+  "printed_label": "Page 3 of 5",
+  "section": "Periodic Transaction Report - transactions grid",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Areco"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DANAHER CORPORATION", "tx_type": "Purchase", "cap_gain_over_200": false, "partial": false, "date": "10/19/2020", "notification_date": "11/04/2020", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DANAHER CORPORATION", "tx_type": "Purchase", "cap_gain_over_200": false, "partial": false, "date": "10/19/2020", "notification_date": "11/04/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ECOLAB INC.", "tx_type": "Sale", "cap_gain_over_200": true, "partial": false, "date": "10/19/2020", "notification_date": "11/04/2020", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ECOLAB INC.", "tx_type": "Sale", "cap_gain_over_200": true, "partial": false, "date": "10/19/2020", "notification_date": "11/04/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHIPOTLE MEXICAN GRILL INC", "tx_type": "Purchase", "cap_gain_over_200": false, "partial": false, "date": "10/26/2020", "notification_date": "11/04/2020", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHIPOTLE MEXICAN GRILL INC", "tx_type": "Purchase", "cap_gain_over_200": false, "partial": false, "date": "10/26/2020", "notification_date": "11/04/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALPHABET INC. CL A", "tx_type": "Sale", "cap_gain_over_200": true, "partial": false, "date": "10/26/2020", "notification_date": "11/04/2020", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALPHABET INC. CL A", "tx_type": "Sale", "cap_gain_over_200": true, "partial": false, "date": "10/26/2020", "notification_date": "11/04/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SNAP INC. CL A", "tx_type": "Sale", "cap_gain_over_200": true, "partial": true, "date": "10/28/2020", "notification_date": "11/04/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SNAP INC. CL A", "tx_type": "Sale", "cap_gain_over_200": true, "partial": true, "date": "10/28/2020", "notification_date": "11/04/2020", "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICROSOFT CORP", "tx_type": "Purchase", "cap_gain_over_200": false, "partial": false, "date": "10/28/2020", "notification_date": "11/04/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "S&P GLOBAL INC.", "tx_type": "Purchase", "cap_gain_over_200": false, "partial": false, "date": "10/29/2020", "notification_date": "11/04/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DANAHER CORPORATION", "tx_type": "Purchase", "cap_gain_over_200": false, "partial": false, "date": "10/29/2020", "notification_date": "11/04/2020", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "group_text", "read": "Areco", "note": "bold italic group subheader, low legibility; page 2 held 'M&R Trust Partnership' in this position"},
+    {"row": 10, "field": "amount", "read": null, "note": "DC SNAP INC. CL A row shows no X in any amount column A-K (SP SNAP row above is checked A); recorded null"}
+  ],
+  "page_confidence": "medium"
+}

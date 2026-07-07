@@ -1,0 +1,32 @@
+{
+  "pdf_page": 3,
+  "printed_label": "Rohit Khanna Page 3 of 34",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MILLS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MILLS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/21/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MARTIN MARIETTA MATERIALS,INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/07/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO. HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/28/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/31/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/MRVL FLEX EURO PM 102 EXP 01/03/2025", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/03/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NASDAQ INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/21/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VISA INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/28/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMAZON.COM INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/28/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EDISON INTERNATIONAL HYBRID PERPETUAL USD", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/09/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DEERE & COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/03/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/15/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PARKER-HANNIFIN CORP. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/07/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WELLS FARGO & COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/15/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WELLS FARGO & COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/14/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WELLS FARGO & COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/13/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DEERE & COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/28/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 6, "field": "tx_type", "read": "Purchase", "note": "CALL/MRVL FLEX EURO option row: no X visible in Purchase/Sale/Exchange columns; inferred Purchase from context (option acquisition, amount A checked)."},
+    {"row": 15, "field": "date", "read": "01/14/2025", "note": "Second Wells Fargo row; full page and quad show 01/14/25, tesseract misread as 01/24/25."}
+  ],
+  "page_confidence": "high"
+}

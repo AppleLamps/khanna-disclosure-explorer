@@ -1,0 +1,42 @@
+{
+  "pdf_page": 13,
+  "printed_label": "Page 13 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Standard House Form A grid, continuation of THE M&R TRUST PARTNERSHIP (Ritu Ahuja 1994 Trust / 1995 Trust). Block B value cols A-M (A=None, B=$1-$1,000, C=$1,001-$15,000, D=$15,001-$50,000, E=$50,001-$100,000, ... I=$1,000,001-$5,000,000). Block C income types NONE/DIVIDENDS/RENT/INTEREST/CAPITAL GAINS/EXCEPTED-BLIND TRUST/TAX-DEFERRED/Other. Block D amount cols I-XII (I=None, II=$1-$200, III=$201-$1,000, ... VI=$5,001-$15,000, VII=$15,001-$50,000). Alphabetical spouse (SP) equity list S-W plus two trailing rows (LIBERTY MEDIA, SLACK) appended out of alpha. Value/amount X columns read against hi-res quad crops with per-cell darkness profiling to defeat the heavy grey stipple. Several purchased-and-held rows show amount None with Block C left blank/stipple (no income-type X distinguishable from background).",
+  "rows": [
+    {"kind": "group", "text": "THE M&R TRUST PARTNERSHIP"},
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "group", "text": "Ritu Ahuja 1995 Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SNAP INC. CL A(SNAP)", "eif": null, "value": "$50,001-$100,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P, S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SPDR S&P 500 ETF TRUST(SPY)", "eif": "EIF", "value": "None", "income_types": [], "other_income_spec": null, "amount_of_income": "None", "transaction": "P, S, S(Part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SQUARE INC CLASS A(SQ)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SUMMIT MATLS INC CL A(SUM)", "eif": null, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TRANSDIGM GROUP INC(TDG)", "eif": null, "value": "$15,001-$50,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TRANSUNION(TRU)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TRG II ONSHORE(AII4)", "eif": "EIF", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TYLER TECHNOLOGIES INC(TYL)", "eif": null, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "VAIL RESORTS(MTN)", "eif": null, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "VANGUARD DIVIDEND APPRECIATION(VIG)", "eif": "EIF", "value": "$1,000,001-$5,000,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "VERISIGN INC(VRSN)", "eif": null, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "VERISK ANALYTICS INC COM(VRSK)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "VISA INC CL A(V)", "eif": null, "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "VORNADO REALTY TRUST(VNO)", "eif": null, "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "VULCAN MATERIALS CO(VMC)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "WIX COM LTD(WIX)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIBERTY MEDIA CORP DEL (LSXMR)", "eif": null, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SLACK TECHNOLOGIES INC CL A(WORK)", "eif": null, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 10, "field": "asset_name", "read": "TRG II ONSHORE(AII4)", "note": "fund code in parens unclear (AII4 / A#14 / AI14); EIF marked; Block C NONE column X confirmed, amount None"},
+    {"row": 5, "field": "value", "read": "SPY = None value, None amount, tx P,S,S(Part)", "note": "value col A (None) and amount col I (None) both X'd despite recorded sales; EIF fully/partially sold; no income-type X visible"},
+    {"row": 19, "field": "value", "read": "LIBERTY MEDIA (LSXMR) = value None but DIVIDENDS marked with amount $1-$200", "note": "value col A (None) X'd yet DIVIDENDS+amount present; transcribed as marked"},
+    {"row": 4, "field": "value", "read": "SNAP = E ($50,001-$100,000)", "note": "Block B col E X (E-column stipple baseline near 0, X darkness 19 vs neighbors); confirmed vs crop"},
+    {"row": 16, "field": "value", "read": "VISA = E ($50,001-$100,000)", "note": "Block B col E X confirmed against stipple baseline"},
+    {"row": 7, "field": "income_types", "read": "SUM/TYL/VAIL/VRSN/SLACK income blank, amount None", "note": "purchased/held rows show amount col I (None); Block C left blank/stipple with no distinguishable income-type X (a faint NONE marking cannot be ruled out against the grey background)"},
+    {"row": 6, "field": "amount_of_income", "read": "SQ=II ($1-$200), VRSK=II, VNO=II, VMC=II, LSXMR=II", "note": "Block D col II vs III distinction near scan resolution; II-column stipple baseline low so X's read as II"}
+  ],
+  "page_confidence": "medium"
+}
