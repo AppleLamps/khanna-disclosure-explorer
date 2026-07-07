@@ -1,0 +1,36 @@
+{
+  "pdf_page": 5,
+  "printed_label": "Page 5 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "Kayne Anderson Real Estate Partners III, L.P.", "eif": true, "value": "$1-$1,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Kayne Anderson Energy Fund 6, LP", "eif": true, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Resilience Fund II LP", "eif": true, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Resilience Fund III LP", "eif": true, "value": "$50,001-$100,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$2,501-$5,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Resilience Fund IV LP", "eif": true, "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Resilience OneSky, LLC", "eif": true, "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$2,501-$5,000", "transaction": null},
+    {"kind": "group", "text": "ARECO LP"},
+    {"kind": "group", "text": "- 2010 Grandchildren Trust"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Wealth Income and Growth Fund, LP", "eif": true, "value": "$1-$1,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$5,001-$15,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund II, LP", "eif": true, "value": "$1-$1,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund III, LP", "eif": true, "value": "$50,001-$100,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Park Center Plaza Holdings LP", "eif": true, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$5,001-$15,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund IV, LP", "eif": true, "value": "$15,001-$50,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$5,001-$15,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund V, LP", "eif": true, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Diversified Real Estate Income Fund, LP", "eif": true, "value": "$15,001-$50,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Citymark US Apt Fund II", "eif": true, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$2,501-$5,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Industrial Warehouse Fund", "eif": true, "value": "None", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Areco Golf/Mayfield Sand Ridge, Country Clu", "eif": true, "value": "$15,001-$50,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$100,001-$1,000,000", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"note": "No printed group header at top of page; first six rows (Kayne Anderson Real Estate Partners III through Resilience OneSky) continue a trust group carried over from the previous page. Groups 'ARECO LP' and '- 2010 Grandchildren Trust' are the printed headers on this page."},
+    {"row": 1, "field": "value", "read": "$1-$1,000 (col B)", "note": "Kayne Anderson Real Estate Partners III value mark faint; strongest ink in Block B col B."},
+    {"row": 17, "field": "asset_name", "note": "Areco Golf/Mayfield Sand Ridge name truncated at right edge of Block A (likely 'Country Club')."},
+    {"row": 17, "field": "value", "read": "$15,001-$50,000 (col D)", "note": "MAI Industrial Warehouse Fund value read as None (Block B col A, EIF+A both X); Areco Golf value col D."},
+    {"note": "Rows 5 (Resilience IV) and 13 (MAI Capital V) show Block C = NONE yet a Block D amount in col II ($1-$200); as printed. Block D columns verified against column-labeled overlays."}
+  ],
+  "page_confidence": "medium"
+}

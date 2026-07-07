@@ -1,0 +1,28 @@
+{
+  "pdf_page": 18,
+  "printed_label": "Page 18 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Standard House Form A grid, continuation of ARECO L.P. / Grandchildren Trust; all rows owner DC. Short page: 9 rows (M-V equities plus ECOLAB), the grandchildren-trust counterpart of page 16. Most equities valued C ($1,001-$15,000); XLF and ECL sold to None; VIG (EIF) valued E. Row grid on solid separators (9 rows), Block B cols A-M and Block C/D on detected gridlines; X's profiled with strict ink threshold vs stipple.",
+  "rows": [
+    {"kind": "group", "text": "ARECO L.P."},
+    {"kind": "group", "text": "Grandchildren Trust"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NIKE INC B(NKE)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NVIDIA CORPORATION(NVDA)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PAYPAL HLDGS INC COM(PYPL)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "S&P GLOBAL INC COM(SPGI)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SNAP INC. CL A(SNAP)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "THE FINANCIAL SEL SECT SPDR FD(XLF)", "eif": "EIF", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S, S(Part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "VANGUARD DIVIDEND APPRECIATION(VIG)", "eif": "EIF", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "VISA INC CL A(V)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ECOLAB INC(ECL)", "eif": null, "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 8, "field": "value", "read": "XLF & ECOLAB = value None (sold)", "note": "Block B col A (None) X'd; XLF tx S,S(Part) with amount V, ECL tx S with amount III"},
+    {"row": 9, "field": "value", "read": "VANGUARD DIV APPR (VIG) = E ($50,001-$100,000)", "note": "Block B col E X; smaller than the spouse-account VIG holding; EIF, DIVIDENDS amount IV"},
+    {"row": 10, "field": "amount_of_income", "read": "VISA = II ($1-$200)", "note": "Block D col II vs III near scan resolution under stipple"}
+  ],
+  "page_confidence": "medium"
+}

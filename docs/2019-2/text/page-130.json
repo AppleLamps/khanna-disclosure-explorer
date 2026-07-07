@@ -1,0 +1,24 @@
+{
+  "pdf_page": 130,
+  "printed_label": "Rohit Khanna 130 of 210",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "ALIGN TECHNOLOGY (ALGN)", "tx_type": "Purchase", "cap_gain_over_200": null, "date": "09/06/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALIGN TECHNOLOGY (ALGN)", "tx_type": "Purchase", "cap_gain_over_200": null, "date": "09/06/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "DC", "asset_name": "ECOLAB INC (ECL)", "tx_type": "Partial Sale", "cap_gain_over_200": null, "date": "09/06/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "ECOLAB INC (ECL)", "tx_type": "Partial Sale", "cap_gain_over_200": null, "date": "09/06/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "DC", "asset_name": "BLACKROCK LIQ MUNICASH INST (MCSXX)", "tx_type": "Sale", "cap_gain_over_200": null, "date": "09/18/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "BLACKROCK LIQ MUNICASH INST (MCSXX)", "tx_type": "Sale", "cap_gain_over_200": null, "date": "09/18/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "DC", "asset_name": "VANGUARD DIVIDEND APPRECIATION (VIG)", "tx_type": "Partial Sale", "cap_gain_over_200": null, "date": "09/18/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "VANGUARD DIVIDEND APPRECIATION (VIG)", "tx_type": "Partial Sale", "cap_gain_over_200": null, "date": "09/18/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "DC", "asset_name": "ADOBE INC (ADBE)", "tx_type": "Purchase", "cap_gain_over_200": null, "date": "09/23/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "ADOBE INC (ADBE)", "tx_type": "Purchase", "cap_gain_over_200": null, "date": "09/23/2019", "notification_date": null, "amount": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "layout", "read": "TRANSPOSED 'Areco Schedule B' grid (continuation of p.122-129): each COLUMN is one transaction (10 columns). Header rows give EIF marker (only cols 5-8: BLACKROCK/MCSXX and VANGUARD/VIG), owner (DC/SP), asset name, ticker, Transaction type (P/S(Part)/S), and Transaction Date (bottom row). The left-hand ROW-LABEL column (Amount of Transaction A-L buckets, Type of Transaction, Capital Gain) is off-page on the preceding sheet (p.122). The amount matrix and Capital Gain rows are unlabeled here and degraded (X marks are dark bars), so amount=null and cap_gain_over_200=null for every tx.", "note": "use the p.122 'Areco Schedule B' A-L bucket/Type/Capital-Gain label key to resolve amounts by row position"}
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,21 @@
+{
+  "pdf_page": 112,
+  "printed_label": "Rohit Khanna 112 of 210",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "M and R Schedule B"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COGNIZANT TECH SOLUTIONS CL A(CTSH)", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "01/16/2019", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ESTEE LAUDER CO INC CL A(EL)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "01/16/2019", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUINIX INC(EQIX)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "01/16/2019", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NIKE INC B(NKE)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "01/16/2019", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALLERGAN PLC SHS", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "01/24/2019", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ISHARES RUSSELL 2000 ETF(IWM)", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "02/05/2019", "notification_date": null, "amount": "$100,001-$250,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "layout", "read": "transposed Schedule B: each of the 6 columns is one transaction; fields (Security Name, Ticker, Transaction, Amount A-L, Type of Transaction, Capital Gain, Date) run down the rows. CTSH and IWM columns are marked EIF in the top header row."}
+  ],
+  "page_confidence": "high"
+}

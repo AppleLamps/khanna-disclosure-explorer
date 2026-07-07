@@ -1,0 +1,39 @@
+{
+  "pdf_page": 17,
+  "printed_label": "Page 17 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Standard House Form A grid. New sub-portfolio group 'ARECO L.P. / Grandchildren Trust'; all rows owner DC (dependent child). 19 rows: same A-I equity list as the ARECO/Ritu 1995 Trust (page 15) plus MICROSOFT and NETFLIX, at smaller position sizes (most valued C, $1,001-$15,000). Row grid anchored on solid horizontal separators (19 rows); Block B cols A-M and Block C/D on detected gridlines. GOOGL and IWF sold to None year-end value; BANK DEPOSIT PROGRAM valued E. X's profiled with strict ink threshold vs stipple.",
+  "rows": [
+    {"kind": "group", "text": "ARECO L.P."},
+    {"kind": "group", "text": "Grandchildren Trust"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ADOBE INC(ADBE)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ALIGN TECHNOLOGY(ALGN)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ALPHABET INC CL A(GOOGL)", "eif": null, "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMAZON COM INC(AMZN)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICAN TOWER REIT COM(AMT)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK DEPOSIT PROGRAM(BDPS)", "eif": null, "value": "$50,001-$100,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHIPOTLE MEXICAN GRILL INC COM(CMG)", "eif": null, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CME GROUP INC(CME)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DANAHER CORPORATION(DHR)", "eif": null, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "EQUINIX INC(EQIX)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ESTEE LAUDER CO INC CL A(EL)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "FACEBOOK INC CL A(FB)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "IHS MARKIT LTD(INFO)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ILLUMINA INC(ILMN)", "eif": null, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "INTUIT INC(INTU)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "INTUITIVE SURGICAL INC(ISRG)", "eif": null, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ISHARES RUSSELL 1000 GRW ETF(IWF)", "eif": "EIF", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MICROSOFT CORP(MSFT)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NETFLIX INC(NFLX)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 9, "field": "amount_of_income", "read": "CMG/DHR/ILMN/ISRG income blank, amount None", "note": "held growth stocks; no distinguishable income-type X and no clear Block D X against stipple - recorded as no income / None amount (some carry a lone P transaction)"},
+    {"row": 8, "field": "value", "read": "BANK DEPOSIT PROGRAM = E ($50,001-$100,000)", "note": "Block B col E X confirmed via raw profile; smaller than the Ritu-trust deposit; interest amount II"},
+    {"row": 5, "field": "value", "read": "GOOGL & IWF = value None (sold, tx S)", "note": "Block B col A (None) X'd; capital gains amount III"},
+    {"row": 4, "field": "amount_of_income", "read": "II ($1-$200) vs III ($201-$1,000) across small-amount rows", "note": "Block D II/III distinction near scan resolution under stipple"}
+  ],
+  "page_confidence": "medium"
+}

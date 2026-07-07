@@ -1,0 +1,29 @@
+{
+  "pdf_page": 25,
+  "printed_label": "Page 25 of 34",
+  "section": "Type of Transaction / Amount of Transaction (PTR)",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "KELLANOVA CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/24/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INGERSOLL RAND INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KIMBERLY-CLARK CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PRUDENTIAL FINANCIAL INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MCKESSON CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NIKE CLASS-B CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE PROGRESSIVE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MARRIOTT INTERNATIONAL, INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FEDEX CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EXPEDITORS INTERNATIONAL OF WA CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PACCAR INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITEDHEALTH GROUP INCORPORATE CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MARTIN MARIETTA MATERIALS,INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHURCH & DWIGHT CO., INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TRANE TECHNOLOGIES PUBLIC LIMI CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED RENTALS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

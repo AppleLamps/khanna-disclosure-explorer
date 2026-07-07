@@ -1,0 +1,22 @@
+{
+  "pdf_page": 33,
+  "printed_label": "Page 33 of 34",
+  "section": "Type of Transaction / Amount of Transaction (PTR)",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST MAJOR NEW ST REV 5% 12/15/25 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/15/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST UNIV GEN RCPTS REV 5% 12/01/25 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/02/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MIAMI UNIV OHIO GEN RCPTS REV 5% 09/01/25 MS", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/07/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST HIGHER EDL FAC REV REV 5% 11/01/25 MN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/15/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COLUMBUS OHIO GO 5% 07/01/25 JJ", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/02/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHEVRON CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/16/2025", "notification_date": "02/04/2025", "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIRSTENERGY CORP. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/16/2025", "notification_date": "02/04/2025", "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TEXAS TRANSN COMMN GO 5% 04/01/31 AO", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/16/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ELASTIC N.V. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/23/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DELL TECHNOLOGIES INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/16/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

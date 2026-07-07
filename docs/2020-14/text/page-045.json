@@ -1,0 +1,43 @@
+{
+  "pdf_page": 45,
+  "printed_label": "Page 45 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SQUARE, INC. CMN CLASS A", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ST LOUIS MO GEN FD REV REV 2.5000% 06/01/20 JD TAX & REV ANTIC NTS 2019 BEO", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "STANLEY BLACK & DECKER, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "STARBUCKS CORP. CMN", "value": "$100,001-$250,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "STATE OF OREGON GO 5.0000% 05/01/21 MN GENERAL OBLIGATION BONDS 2017 SERIES A", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "STATE STREET CORPORATION (NEW) CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "STEEL DYNAMICS, INC. CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "STERICYCLE, INC. CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "STERLING BANCORP CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "STORE CAPITAL CORPORATION CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": "PTRN", "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "STRYKER CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SUN COMMUNITIES, INC CMN", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": "PTRN", "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SVB FINANCIAL GROUP CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SYNCHRONY FINANCIAL CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SYNOPSYS INC. CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SYSCO CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "T. ROWE PRICE GROUP, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TAKE TWO INTERACTIVE SOFTWARE INC", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TAPESTRY, INC. CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TARGA RESOURCES CORP. CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TARGET CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TD AMERITRADE HOLDING CORP CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TE CONNECTIVITY LTD CMN", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TECHNIPFMC PLC CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TERADATA CORPORATION CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": null, "field": "value,income_types,amount_of_income,transaction", "note": "Transposed Ritu Ahuja 1994 Trust grid (SP-owned), continuing alphabetically (S->T). Printed over heavy grey stipple. Block B (value) best-effort. Block C (income type) best-effort/low-confidence. Block D (amount of income) not legibly resolvable under stipple -> null all rows. Block E (transaction) shows scattered P/S marks but per-row alignment unreliable -> null all rows."},
+    {"row": 4, "field": "value", "read": "$100,001-$250,000", "note": "STARBUCKS: Block B X sits mid-block; exact column uncertain under stipple (could be $50,001-$100,000)."},
+    {"row": 10, "field": "other_income_spec", "read": "PTRN", "note": "STORE CAPITAL shows a 'PTRN' write-in in the Block C Other Type of Income column alongside CAPITAL GAINS."},
+    {"row": 12, "field": "other_income_spec", "read": "PTRN", "note": "SUN COMMUNITIES shows a 'PTRN' write-in in the Block C Other Type of Income column alongside CAPITAL GAINS."}
+  ],
+  "page_confidence": "low"
+}

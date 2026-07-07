@@ -1,0 +1,24 @@
+{
+  "pdf_page": 132,
+  "printed_label": "Rohit Khanna 132 of 210",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "AMAZON COM INC (AMZN)", "tx_type": "Sale", "cap_gain_over_200": null, "date": "12/27/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMAZON COM INC (AMZN)", "tx_type": "Sale", "cap_gain_over_200": null, "date": "12/27/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "DC", "asset_name": "BOOKING HOLDINGS INC (BKNG)", "tx_type": "Sale", "cap_gain_over_200": null, "date": "12/27/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "BOOKING HOLDINGS INC (BKNG)", "tx_type": "Sale", "cap_gain_over_200": null, "date": "12/27/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "DC", "asset_name": "ILLUMINA INC (ILMN)", "tx_type": "Partial Sale", "cap_gain_over_200": null, "date": "12/27/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "ILLUMINA INC (ILMN)", "tx_type": "Partial Sale", "cap_gain_over_200": null, "date": "12/27/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTUIT INC (INTU)", "tx_type": "Sale", "cap_gain_over_200": null, "date": "12/27/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTUIT INC (INTU)", "tx_type": "Sale", "cap_gain_over_200": null, "date": "12/27/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "DC", "asset_name": "ISHARES RUSSELL 1000 GRW ETF (IWF)", "tx_type": "Purchase", "cap_gain_over_200": null, "date": "12/27/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "ISHARES RUSSELL 1000 GRW ETF (IWF)", "tx_type": "Purchase", "cap_gain_over_200": null, "date": "12/27/2019", "notification_date": null, "amount": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "layout", "read": "TRANSPOSED 'Areco Schedule B' grid (continuation of p.122-131): each COLUMN is one transaction (10 columns). No EIF markers on this sheet. Header rows give owner (DC/SP), asset name, ticker, Transaction type (S/S(Part)/P), and Transaction Date (bottom row, all 12/27/2019). The left-hand ROW-LABEL column (Amount of Transaction A-L buckets, Type of Transaction, Capital Gain) is off-page on the preceding sheet (p.122). The amount matrix and Capital Gain rows are unlabeled here and degraded (X marks are dark bars), so amount=null and cap_gain_over_200=null for every tx.", "note": "use the p.122 'Areco Schedule B' A-L bucket/Type/Capital-Gain label key to resolve amounts by row position"}
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,41 @@
+{
+  "pdf_page": 39,
+  "printed_label": "Page 39 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEWMONT CORP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEWS CORPORATION CMN CLASS A", "value": "$15,001-$50,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEWS CORPORATION CMN CLASS B", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEXTERA ENERGY, INC. CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NIELSEN HLDGS PLC CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NIKE CLASS-B CMN CLASS B", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NISOURCE INC. CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NOBLE ENERGY INC CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NORDSTROM, INC. CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NORFOLK SOUTHERN CORP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NORTH SLOPE BORO ALASKA GO 5% 06/30/20 JD GEN PURP GO BDS 2019 A UT BEO", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NORTHERN TRUST CORP CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NORTHROP GRUMMAN CORP CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NORTONLIFELOCK IN CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NORWEGIAN CRUISE LINE HLDG LTD CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NOV INC. COMMON STOCK CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NRG ENERGY, INC. CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NU SKIN ENTERPRISES, INC. CMN CLASS A", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NUCOR CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NUTANIX, INC. CMN CLASS A", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NVIDIA CORPORATION CMN", "value": "$50,001-$100,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NXP SEMICONDUCTORS N.V. CMN", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "OCCIDENTAL PETROLEUM CORP CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "OGE ENERGY CORP (HOLDING CO) CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "O-I GLASS, INC. CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": null, "field": "value,income_types,amount_of_income,transaction", "read": "best-effort", "note": "Transposed Ritu Ahuja 1994 Trust grid (SP-owned) over heavy grey stipple. Block B (value) best-effort. Block C (income type) best-effort/low-confidence. Block D (amount of income) not legibly resolvable under stipple -> null all rows. Block E (transaction) shows scattered P/S marks but per-row alignment unreliable -> null all rows."},
+    {"row": 21, "field": "value", "read": "$50,001-$100,000", "note": "NVIDIA value X read in higher-value column (E); low confidence under stipple."}
+  ],
+  "page_confidence": "low"
+}

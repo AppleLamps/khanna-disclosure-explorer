@@ -1,0 +1,38 @@
+{
+  "pdf_page": 4,
+  "printed_label": "Page 4 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "ARECO LP"},
+    {"kind": "group", "text": "- 2010 Grandchildren Trust"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Wealth Income and Growth Fund, LP", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund II, LP", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund III, LP", "value": "$1,001-$15,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$5,001-$15,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Park Center Plaza Holdings LP, Office Buildings, Independence, OH", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund IV, LP", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund V, LP", "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$5,001-$15,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Diversified Real Estate Income Fund, LP", "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Citymark US Apt Fund II", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Citymark US Apt Fund III", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Oak Street MAI Special Opportunity Fund", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund VI, LP", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Oak Trust Net Lease Trust OP Units", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Citymark TX5 Co-Invest Fund", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Areco Golf/Mayfield Sand Ridge, Country Club, Cleveland, OH", "value": "$100,001-$250,000", "income_types": [], "other_income_spec": null, "amount_of_income": "$1,000,001-$5,000,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Barrington Golf Club, Country Club, Aurora, OH", "value": "$100,001-$250,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "FIDELITY GOVERNMENT CASH RESERVES", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VANGUARD SPECIALIZED FUNDS DIV APP", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNITED STATES TREAS BILLS ZERO CPN", "value": "$15,001-$50,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "layout / EIF", "read": "EIF-checked rows", "note": "EIF (Excepted Investment Fund) column checked for the MAI/Citymark/Oak funds (rows: MAI Wealth, MAI II, MAI III, MAI IV, MAI V, MAI Diversified, Citymark US Apt II, Citymark US Apt III, Oak Street MAI, MAI VI, Oak Trust Net Lease, Citymark TX5). NOT checked for Park Center Plaza, both golf clubs, Fidelity, Vanguard, US Treas. No dedicated schema field."},
+    {"row": 13, "field": "amount_of_income / income_types", "read": "Areco Golf: amount $1,000,001-$5,000,000 (col X), no income type marked", "note": "Areco Golf/Mayfield Sand Ridge row shows a Block D X in the far-right amount column (col X) with NO Block C type checkbox and value only $100,001-$250,000 — internally inconsistent; transcribed as seen. Asset name truncated on page (Cleveland, OH assumed)."},
+    {"row": 14, "field": "income_types / amount_of_income", "read": "Barrington Golf: no Block C or Block D marks", "note": "Barrington Golf Club row has value ($100,001-$250,000) but no income type and no amount checkbox marked (blank)."},
+    {"row": 15, "field": "amount_of_income", "read": "Fidelity col V, Vanguard col IV", "note": "Fidelity ($2,501-$5,000) and Vanguard ($1,001-$2,500) Block D amount columns each +/-1 uncertain. MAI III/V amount read as col VI ($5,001-$15,000), MAI Diversified col IV; all +/-1."},
+    {"row": 3, "field": "asset_name", "read": "Park Center Plaza Holdings LP, Office Buildings, Independence, OH", "note": "Name truncated at right margin on page; 'Independence, OH' inferred."}
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,36 @@
+{
+  "pdf_page": 21,
+  "printed_label": "Page 21 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "TE CONNECTIVITY LTD COM CHF0.57", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TELEFLEX INCORPORATED COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TEMPUR SEALY INTERNATIONAL INC", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TEXAS SOUTHMOST COLLEGE DIST TEX", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TJX COMPANIES INC", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TRANE TECHNOLOGIES PLC COM USD1", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TRUIST FINL CORP COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNION PAC CORP COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNITED PARCEL SERVICE INC", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNUM GROUP", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VISA INC", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VULCAN MATERIALS CO", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WALGREENS BOOTS ALLIANCE INC", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WELLS FARGO CO NEW COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WELLTOWER INC COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WILSON CNTY TENN GO REF BDS SER. 20", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "XYLEM INC COM USD0.01", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ZOETIS INC", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 4, "field": "asset_name", "read": "TEXAS SOUTHMOST COLLEGE DIST TEX", "note": "name truncated at right edge of Block A cell"},
+    {"row": 4, "field": "income_types", "read": "DIVIDENDS", "note": "X printed in DIVIDENDS column but asset is a municipal college district (income likely INTEREST); transcribed as printed"},
+    {"row": 6, "field": "asset_name", "read": "TRANE TECHNOLOGIES PLC COM USD1", "note": "share-denomination suffix possibly truncated (likely USD1.00)"},
+    {"row": 16, "field": "asset_name", "read": "WILSON CNTY TENN GO REF BDS SER. 20", "note": "name truncated at right edge; series year cut off"},
+    {"row": 16, "field": "income_types", "read": "DIVIDENDS", "note": "X printed in DIVIDENDS column but asset is a municipal GO bond (income likely INTEREST); transcribed as printed"}
+  ],
+  "page_confidence": "high"
+}

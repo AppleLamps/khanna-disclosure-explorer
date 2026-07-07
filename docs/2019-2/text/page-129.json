@@ -1,0 +1,24 @@
+{
+  "pdf_page": 129,
+  "printed_label": "Rohit Khanna 129 of 210",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "ESTEE LAUDER CO INC CL A (EL)", "tx_type": "Partial Sale", "cap_gain_over_200": null, "date": "09/04/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "ESTEE LAUDER CO INC CL A (EL)", "tx_type": "Partial Sale", "cap_gain_over_200": null, "date": "09/04/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTUIT INC (INTU)", "tx_type": "Purchase", "cap_gain_over_200": null, "date": "09/04/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTUIT INC (INTU)", "tx_type": "Purchase", "cap_gain_over_200": null, "date": "09/04/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTUITIVE SURGICAL INC (ISRG)", "tx_type": "Purchase", "cap_gain_over_200": null, "date": "09/04/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTUITIVE SURGICAL INC (ISRG)", "tx_type": "Purchase", "cap_gain_over_200": null, "date": "09/04/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "DC", "asset_name": "S&P GLOBAL INC COM (SPGI)", "tx_type": "Partial Sale", "cap_gain_over_200": null, "date": "09/04/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "S&P GLOBAL INC COM (SPGI)", "tx_type": "Partial Sale", "cap_gain_over_200": null, "date": "09/04/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "DC", "asset_name": "VISA INC CL A (V)", "tx_type": "Partial Sale", "cap_gain_over_200": null, "date": "09/04/2019", "notification_date": null, "amount": null},
+    {"kind": "tx", "owner": "SP", "asset_name": "VISA INC CL A (V)", "tx_type": "Partial Sale", "cap_gain_over_200": null, "date": "09/04/2019", "notification_date": null, "amount": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "layout", "read": "TRANSPOSED Schedule B grid ('Areco Schedule B', continuation of p.122): each COLUMN is one transaction (10 columns), all dated 09/04/2019. Row-label column (Amount A-L / Type / Capital Gain / Date) is off-page on p.122; amount matrix and Capital Gain rows are unlabeled and degraded (X marks are dark bars), so amount=null and cap_gain_over_200=null for every tx. No EIF markers on this page. owner/asset/ticker/tx_type/date captured; dates are the bottom row.", "note": "use the p.122 'Areco Schedule B' A-L bucket/Type/Capital-Gain label key to resolve amounts by row position"}
+  ],
+  "page_confidence": "medium"
+}

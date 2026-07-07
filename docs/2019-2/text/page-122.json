@@ -1,0 +1,20 @@
+{
+  "pdf_page": 122,
+  "printed_label": "Rohit Khanna 122 of 210",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "COGNIZANT TECH SOLUTIONS CL A (CTSH)", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "01/16/2019", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COGNIZANT TECH SOLUTIONS CL A (CTSH)", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "01/16/2019", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ESTEE LAUDER CO INC CL A (EL)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "01/16/2019", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ESTEE LAUDER CO INC CL A (EL)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "01/16/2019", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EQUINIX INC COM PAR $0.001 (EQIX)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "01/16/2019", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUINIX INC COM PAR $0.001 (EQIX)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "01/16/2019", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "layout", "read": "TRANSPOSED but FULLY LABELED Schedule B grid ('Areco Schedule B'): each COLUMN is one transaction (6 columns), with left-hand labels for owner (SP/DC/JT), Security Name, Ticker, Transaction, Amount of Transaction buckets A-L (+Spouse/DC Asset over $1,000,000), Type of Transaction (Purchase/Sale/Partial Sale/Exchange), Capital Gain Exceeded $200, and Transaction Date. Unlike pp.118-121 the bucket labels are present so amount and tx_type are resolved. X marks read from dark bars. Capital Gain row empty for all columns -> cap_gain_over_200=false. No transaction column carries an EIF marker (EIF box sits only over the label header). Bucket text transcribed verbatim ('$1-$1,000', '$1,001-$15,000').", "note": "'Areco' = filer entity/trust header for this Schedule B sheet"}
+  ],
+  "page_confidence": "high"
+}

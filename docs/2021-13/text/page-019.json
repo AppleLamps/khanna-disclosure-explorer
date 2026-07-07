@@ -1,0 +1,39 @@
+{
+  "pdf_page": 19,
+  "printed_label": "Page 19 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "MARTIN MARIETTA MATERIALS INC COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MCDONALD S CORP", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MCKESSON CORP", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "METRO WASTEWTR RECLAMATION DIST", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MGIC INVESTMENT CORP COM USD1.00", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MICROCHIP TECHNOLOGY INC. COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MICROSOFT CORP", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MORGAN STANLEY COM USD0.01", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MOSAIC CO NEW COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MSCI INC", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NATIONAL RETAIL PROPERTIES INC COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NEWMONT CORP COM ISIN #US6516391066", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NEXSTAR MEDIA GROUP INC CL A", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NIKE INC CLASS B COM NPV", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NORTH TEX TWY AUTH REV REF SECOND", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NORFOLK SOUTHN CORP COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ONEMAIN HLDGS INC COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "OTIS WORLDWIDE CORP COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PACCAR INC COM USD1.00", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PARAMOUNT GLOBAL CLASS B COM", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "asset_name", "read": "MARTIN MARIETTA MATERIALS INC COM", "note": "name truncated at right edge of Block A cell; likely trailing 'COM' suffix cut off"},
+    {"row": 4, "field": "asset_name", "read": "METRO WASTEWTR RECLAMATION DIST", "note": "name truncated at right edge; municipal district, remainder cut off"},
+    {"row": 4, "field": "income_types", "read": "DIVIDENDS", "note": "X printed in DIVIDENDS column but asset is a municipal district (income likely INTEREST); transcribed as printed"},
+    {"row": 12, "field": "asset_name", "read": "NEWMONT CORP COM ISIN #US6516391066", "note": "ISIN digits partly illegible/cut; tesseract read #USE51630109"},
+    {"row": 15, "field": "asset_name", "read": "NORTH TEX TWY AUTH REV REF SECOND", "note": "name truncated at right edge; bond, remainder cut off"},
+    {"row": 15, "field": "income_types", "read": "DIVIDENDS", "note": "X printed in DIVIDENDS column but asset is a municipal bond (income likely INTEREST); transcribed as printed"}
+  ],
+  "page_confidence": "high"
+}
