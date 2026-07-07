@@ -59,7 +59,10 @@
   nav.tabs button{background:none;border:none;color:#98a2b3;font-size:14px;font-weight:600;padding:10px 14px;cursor:pointer;border-radius:8px 8px 0 0}
   nav.tabs button:hover{color:#fff}
   nav.tabs button.on{background:var(--bg);color:var(--ink)}
-  nav.tabs select{margin-left:auto;align-self:center;background:#1d2939;color:#e5e9f0;border:1px solid #344054;border-radius:8px;padding:6px 10px;font-size:13px;font-weight:600}
+  nav.tabs .yearwrap{margin-left:auto;align-self:center;display:flex;align-items:center;gap:7px}
+  nav.tabs .yearwrap .yl{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:#f2c94c}
+  nav.tabs select{align-self:center;background:#f2c94c;color:#101828;border:1px solid #f2c94c;border-radius:8px;padding:7px 12px;font-size:13.5px;font-weight:750;cursor:pointer;box-shadow:0 1px 4px rgba(242,201,76,.35)}
+  nav.tabs select:hover{background:#f7d977;border-color:#f7d977}
   .toc .sec.doc{background:#101828;color:#f2c94c;font-weight:700;letter-spacing:.08em;position:sticky;top:0;z-index:2;padding:8px 12px}
 
   main{padding:22px 0 60px}
@@ -307,11 +310,16 @@ if (document.getElementById('srclink')) document.getElementById('srclink').href 
 document.getElementById('srclink2').href = D.source_pdf;
 // year selector in the tab bar
 (() => {
+  const wrap = document.createElement('div');
+  wrap.className = 'yearwrap';
+  const lbl = document.createElement('span');
+  lbl.className = 'yl'; lbl.textContent = 'Filing year';
   const sel = document.createElement('select');
-  sel.id = 'yearsel'; sel.title = 'Filing year';
+  sel.id = 'yearsel'; sel.title = 'Choose filing year';
   sel.innerHTML = Object.keys(FD_YEARS).map(y=>`<option value="${y}"${y===FD_YEAR?' selected':''}>${y}</option>`).join('');
   sel.onchange = () => { location.href = location.pathname + (sel.value==='2024' ? '' : '?year='+sel.value); };
-  document.querySelector('nav.tabs').appendChild(sel);
+  wrap.appendChild(lbl); wrap.appendChild(sel);
+  document.querySelector('nav.tabs').appendChild(wrap);
 })();
 
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
