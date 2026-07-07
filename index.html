@@ -192,12 +192,12 @@
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><rect x="2.8" y="2.8" width="18.4" height="18.4" rx="5"/><circle cx="12" cy="12" r="4.1"/><circle cx="17.35" cy="6.65" r="0.6" fill="currentColor" stroke="none"/></svg></a>
       </div>
     </div>
-    <p class="why"><b>Why this site exists:</b> Rep. Ro Khanna (CA-17) disclosed at least $98.7 million in holdings
-      as 333 pages of hand-delivered, unsearchable paper scans rather than filing through the House's electronic system.
-      This site is a transcription of his
-      <a id="srclink" href="#" target="_blank" rel="noopener">filing (Clerk of the House, PDF)</a>
-      that makes his finances readable, searchable, and analyzable. Dollar figures are the statutory ranges
-      reported on the form.</p>
+    <p class="why"><b>Why this site exists:</b> Rep. Ro Khanna (CA-17) files his House financial disclosures as
+      hand-delivered, unsearchable paper scans rather than through the House's electronic filing system.
+      This site transcribes those
+      <a id="srclink" href="#" target="_blank" rel="noopener">filings (Clerk of the House, PDF)</a>
+      to make his finances readable, searchable, and analyzable. Dollar figures are the statutory ranges
+      reported on the forms.</p>
     <nav class="tabs">
       <button data-v="overview" class="on">Overview</button>
       <button data-v="assets">Assets</button>
@@ -304,7 +304,6 @@ document.write('<script src="'+FD_YEARS[FD_YEAR]+'"><\/script>');
 const D = window.FD_DATA || {pages:[],assets:[],transactions:[]};
 const META = D.meta || {};
 if (META.kicker) document.querySelector('.kicker').textContent = META.kicker;
-if (META.why_html) document.querySelector('.top .why').innerHTML = '<b>Why this site exists:</b> ' + META.why_html;
 const srcEl = document.getElementById('srclink'); if (srcEl && !srcEl.getAttribute('href').length) srcEl.href = D.source_pdf;
 if (document.getElementById('srclink')) document.getElementById('srclink').href = D.source_pdf;
 document.getElementById('srclink2').href = D.source_pdf;
