@@ -48,3 +48,10 @@ Same conventions and schema as above, `docs/<doc>/...`. The set:
 - `2018-17` — PTR AMENDMENT (2p; "Amendment" box checked, amends the 11/09/2018 report). Page 1 is the cover, page 2 the attached tx table.
 - `2018-3` — Gift Disclosure Waiver Request (1p): transcribe the whole form into `free_text`, page_type `letter`, rows [].
 - `2018-18` — Financial Disclosure Extension Request (1p): same treatment, page_type `letter`, rows [].
+
+## 2019 documents
+Same conventions/schema, `docs/<doc>/...`. The set:
+- `2019-2` — 2019 Annual Financial Disclosure REPORT (Form A), 210 pages (holdings + Schedule B; same typed-spreadsheet/transposed layouts).
+- `2019-1, 2019-3, 2019-5..2019-14` — Periodic Transaction Reports (PTRs).
+- `2019-4` — PTR AMENDMENT (2p; amends the 01/10/2019 report).
+- `2019-15` — Financial Disclosure Extension Request (1p, text-native): page_type `letter`, rows [], full form into `free_text`.

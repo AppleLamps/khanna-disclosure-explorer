@@ -160,3 +160,31 @@ build("2018", DOCS2018, "2018-4",
                     "that makes his finances readable, searchable, and analyzable. Dollar figures are the statutory ranges "
                     "reported on the form. Transactions are from the annual report's Schedule B; the separately filed PTRs "
                     "are viewable in the Document tab (their trades duplicate Schedule B).")})
+
+# ---- 2019: holdings + transactions from the Form A annual; PTRs + admin forms browsable
+FD2019 = ("2019-2", "2019 Annual Financial Disclosure (Form A)")
+DOCS2019 = [FD2019,
+    ("2019-1", "Periodic Transaction Report #1 (filed 2019)"),
+    ("2019-3", "Periodic Transaction Report #2 (filed 2019)"),
+    ("2019-4", "Periodic Transaction Report — Amendment (Jan 2019)"),
+    ("2019-5", "Periodic Transaction Report #3 (filed 2019)"),
+    ("2019-6", "Periodic Transaction Report #4 (filed 2019)"),
+    ("2019-7", "Periodic Transaction Report #5 (filed 2019)"),
+    ("2019-8", "Periodic Transaction Report #6 (filed 2019)"),
+    ("2019-9", "Periodic Transaction Report #7 (filed 2019)"),
+    ("2019-10", "Periodic Transaction Report #8 (filed 2019)"),
+    ("2019-11", "Periodic Transaction Report #9 (filed 2019)"),
+    ("2019-12", "Periodic Transaction Report #10 (filed 2019)"),
+    ("2019-13", "Periodic Transaction Report #11 (filed 2019)"),
+    ("2019-14", "Periodic Transaction Report #12 (filed 2019)"),
+    ("2019-15", "Financial Disclosure Extension Request")]
+build("2019", DOCS2019, "2019-2",
+      lambda doc, t: doc == "2019-2",
+      {"year": "2019", "source_pdf": "docs/src/2019-2.pdf",
+       "kicker": "2019 Annual Financial Disclosure (Form A) + PTRs · U.S. House · California 17th",
+       "why_html": ("Rep. Ro Khanna (CA-17) disclosed his 2019 finances as 210 pages of hand-delivered, unsearchable "
+                    "paper scans rather than filing through the House's electronic system. This site is a transcription of "
+                    "<a id=\"srclink\" href=\"docs/src/2019-2.pdf\" target=\"_blank\" rel=\"noopener\">his filing (PDF)</a> "
+                    "that makes his finances readable, searchable, and analyzable. Dollar figures are the statutory ranges "
+                    "reported on the form. Transactions are from the annual report's Schedule B; the separately filed PTRs "
+                    "are viewable in the Document tab (their trades duplicate Schedule B).")})
