@@ -130,3 +130,33 @@ build("2017", [FD2017] + PTRS, "2017-1",
                     "that makes his finances readable, searchable, and analyzable. Dollar figures are the statutory ranges "
                     "reported on the form. Transactions are from the annual report's Schedule B; the separately filed PTRs "
                     "are viewable in the Document tab (their trades duplicate Schedule B).")})
+
+# ---- 2018: holdings + transactions from the Form A annual; PTRs + admin forms browsable
+FD2018 = ("2018-4", "2018 Annual Financial Disclosure (Form A)")
+DOCS2018 = [FD2018,
+    ("2018-2", "Periodic Transaction Report #1 (filed 2018)"),
+    ("2018-3", "Gift Disclosure Waiver Request"),
+    ("2018-5", "Periodic Transaction Report #2 (filed 2018)"),
+    ("2018-6", "Periodic Transaction Report #3 (filed 2018)"),
+    ("2018-7", "Periodic Transaction Report #4 (filed 2018)"),
+    ("2018-8", "Periodic Transaction Report #5 (filed 2018)"),
+    ("2018-9", "Periodic Transaction Report #6 (filed 2018)"),
+    ("2018-10", "Periodic Transaction Report #7 (filed 2018)"),
+    ("2018-11", "Periodic Transaction Report #8 (filed 2018)"),
+    ("2018-12", "Periodic Transaction Report #9 (filed 2018)"),
+    ("2018-13", "Periodic Transaction Report #10 (filed 2018)"),
+    ("2018-14", "Periodic Transaction Report #11 (filed 2018)"),
+    ("2018-15", "Periodic Transaction Report #12 (filed 2018)"),
+    ("2018-16", "Periodic Transaction Report #13 (filed 2018)"),
+    ("2018-17", "Periodic Transaction Report — Amendment (Nov 2018)"),
+    ("2018-18", "Financial Disclosure Extension Request")]
+build("2018", DOCS2018, "2018-4",
+      lambda doc, t: doc == "2018-4",
+      {"year": "2018", "source_pdf": "docs/src/2018-4.pdf",
+       "kicker": "2018 Annual Financial Disclosure (Form A) + PTRs · U.S. House · California 17th",
+       "why_html": ("Rep. Ro Khanna (CA-17) disclosed his 2018 finances as 309 pages of hand-delivered, unsearchable "
+                    "paper scans rather than filing through the House's electronic system. This site is a transcription of "
+                    "<a id=\"srclink\" href=\"docs/src/2018-4.pdf\" target=\"_blank\" rel=\"noopener\">his filing (PDF)</a> "
+                    "that makes his finances readable, searchable, and analyzable. Dollar figures are the statutory ranges "
+                    "reported on the form. Transactions are from the annual report's Schedule B; the separately filed PTRs "
+                    "are viewable in the Document tab (their trades duplicate Schedule B).")})

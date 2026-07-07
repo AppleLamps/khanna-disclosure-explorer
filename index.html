@@ -295,7 +295,7 @@
 </div></footer>
 
 <script>
-const FD_YEARS = {'2016':'data-2016.js','2017':'data-2017.js','2024':'data-2024.js'};
+const FD_YEARS = {'2016':'data-2016.js','2017':'data-2017.js','2018':'data-2018.js','2024':'data-2024.js'};
 const FD_YEAR = (()=>{const y=new URLSearchParams(location.search).get('year');return FD_YEARS[y]?y:'2024';})();
 document.write('<script src="'+FD_YEARS[FD_YEAR]+'"><\/script>');
 </script>

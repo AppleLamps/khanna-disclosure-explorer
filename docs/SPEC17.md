@@ -40,3 +40,11 @@ Same method as 2024: Block A owner+asset name (left crops), Blocks B/C/D/E check
 Record the printed page label you actually see in `printed_label` (these documents use styles like "1/116", "Page 1 of 5", or handwritten numbers; copy as printed, null if absent).
 
 All other rules from ocr/SPEC.md apply verbatim: transcribe exactly, never skip a row, flag anything uncertain in `uncertainties`, one valid JSON file per page written IMMEDIATELY after each page.
+
+## 2018 documents (added later)
+Same conventions and schema as above, `docs/<doc>/...`. The set:
+- `2018-4` — 2018 Annual Financial Disclosure REPORT (Form A), 309 pages (holdings + Schedule B; expect the same typed-spreadsheet attachments and transposed grids as 2017-1).
+- `2018-2, 2018-5..2018-16` — Periodic Transaction Reports (PTRs).
+- `2018-17` — PTR AMENDMENT (2p; "Amendment" box checked, amends the 11/09/2018 report). Page 1 is the cover, page 2 the attached tx table.
+- `2018-3` — Gift Disclosure Waiver Request (1p): transcribe the whole form into `free_text`, page_type `letter`, rows [].
+- `2018-18` — Financial Disclosure Extension Request (1p): same treatment, page_type `letter`, rows [].
