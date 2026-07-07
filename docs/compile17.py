@@ -188,3 +188,20 @@ build("2019", DOCS2019, "2019-2",
                     "that makes his finances readable, searchable, and analyzable. Dollar figures are the statutory ranges "
                     "reported on the form. Transactions are from the annual report's Schedule B; the separately filed PTRs "
                     "are viewable in the Document tab (their trades duplicate Schedule B).")})
+
+# ---- 2020: holdings + transactions from the Form A annual; PTRs + admin forms browsable
+FD2020 = ("2020-14", "2020 Annual Financial Disclosure (Form A)")
+DOCS2020 = [FD2020] + \
+    [(f"2020-{i}", f"Periodic Transaction Report #{i} (filed 2020)") for i in range(1, 14)] + \
+    [("2020-15", "Periodic Transaction Report #14 (filed 2020)"),
+     ("2020-16", "Financial Disclosure Extension Request")]
+build("2020", DOCS2020, "2020-14",
+      lambda doc, t: doc == "2020-14",
+      {"year": "2020", "source_pdf": "docs/src/2020-14.pdf",
+       "kicker": "2020 Annual Financial Disclosure (Form A) + PTRs · U.S. House · California 17th",
+       "why_html": ("Rep. Ro Khanna (CA-17) disclosed his 2020 finances as 326 pages of hand-delivered, unsearchable "
+                    "paper scans rather than filing through the House's electronic system. This site is a transcription of "
+                    "<a id=\"srclink\" href=\"docs/src/2020-14.pdf\" target=\"_blank\" rel=\"noopener\">his filing (PDF)</a> "
+                    "that makes his finances readable, searchable, and analyzable. Dollar figures are the statutory ranges "
+                    "reported on the form. Transactions are from the annual report's Schedule B; the separately filed PTRs "
+                    "are viewable in the Document tab (their trades duplicate Schedule B).")})

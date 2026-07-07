@@ -55,3 +55,9 @@ Same conventions/schema, `docs/<doc>/...`. The set:
 - `2019-1, 2019-3, 2019-5..2019-14` — Periodic Transaction Reports (PTRs).
 - `2019-4` — PTR AMENDMENT (2p; amends the 01/10/2019 report).
 - `2019-15` — Financial Disclosure Extension Request (1p, text-native): page_type `letter`, rows [], full form into `free_text`.
+
+## 2020 documents
+Same conventions/schema, `docs/<doc>/...`. The set:
+- `2020-14` — 2020 Annual Financial Disclosure REPORT (Form A), 326 pages (holdings + Schedule B; same typed-spreadsheet/transposed layouts).
+- `2020-1..2020-13, 2020-15` — Periodic Transaction Reports (PTRs); some may be amendments (check the cover's "Amendment" box).
+- `2020-16` — Financial Disclosure Extension Request (1p, text-native): page_type `letter`, rows [], full form into `free_text`.
