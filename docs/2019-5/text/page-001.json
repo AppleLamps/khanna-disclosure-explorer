@@ -1,0 +1,13 @@
+{
+  "pdf_page": 1,
+  "printed_label": "Page 1 of 6",
+  "section": "UNITED STATES HOUSE OF REPRESENTATIVES - Periodic Transaction Report",
+  "page_type": "ptr_cover",
+  "filer": "Rohit Khanna",
+  "rows": [],
+  "free_text": "**UNITED STATES HOUSE OF REPRESENTATIVES**\n**Periodic Transaction Report**\n\nStamped: HAND DELIVERED. LEGISLATIVE RESOURCE CENTER, 2019 MAR -8 PM 3:36 (For Official Use Only). Handwritten initials \"MC\".\n\n- **NAME:** Rohit Khanna\n- **OFFICE TELEPHONE:** 202-225-2631\n- [X] Member of the U.S. House of Representatives — State: CA, District: 17 (File an original and 2 copies)\n- [ ] Officer or Employee — Employing Office: ____ (File an original and 1 copy)\n- Did you purchase any shares that were allocated as a part of an Initial Public Offering? Yes [ ]  No [X]\n- Report type: [X] Initial Report   [ ] Amendment\n- Date of Report Being Amended: (blank)\n\nTransaction grid on this page contains no data rows; the body reads **\"Please see the attached\"** (transactions listed on following attachment pages).\n\n*A $200 penalty shall be assessed against anyone who files more than 30 days late.*",
+  "uncertainties": [
+    {"row": null, "field": "printed_label", "read": "Page 1 of 6", "note": "top-right label partially obscured by HAND DELIVERED stamp; '__ of 6' legible, page number inferred as 1"}
+  ],
+  "page_confidence": "high"
+}

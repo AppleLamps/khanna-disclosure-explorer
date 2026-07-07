@@ -1,0 +1,21 @@
+{
+  "pdf_page": 27,
+  "printed_label": "Page 27 of 309",
+  "section": "M&R Schedule A: Assets and Unearned Income",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table, transposed spreadsheet layout (one asset per column), section header 'M&R'. Four asset columns, all SP. Selections are black-filled cells, EXCEPT the Riverview column's Amount of Income which is marked with a typed 'X' at G rather than a black fill. The Transaction row is a black band under the Adobe and Alliance Data Systems columns (no P/S/E letter visible) - treated as a divider/redaction, transaction recorded null. Riverview Strategic Opportunities has the EIF cell marked.",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "Cash", "ticker": null, "eif": null, "value": "E: $50,001-$100,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "C: $201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Riverview Strategic Opportunities I Onshore", "ticker": "BAQ57", "eif": true, "value": "F: $100,001-$250,000", "income_types": ["OTHER"], "other_income_spec": null, "amount_of_income": "G: $15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Adobe Inc", "ticker": "ADBE", "eif": null, "value": "C: $1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "B: $1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Alliance Data Systems Corp", "ticker": "ADS", "eif": null, "value": "A: None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "B: $1-$200", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 3, "field": "value", "read": "A: None", "note": "black cell at A:None sits directly below the Transaction divider band in the ADS column; read as value None but could be an extension of the divider"},
+    {"row": 0, "field": "transaction", "read": "Transaction row black-filled under Adobe and Alliance Data Systems columns", "note": "black band with no P/S/E letter; treated as formatting divider, recorded null for all assets"},
+    {"row": 1, "field": "amount_of_income", "read": "G: $15,001-$50,000 marked with typed X", "note": "Riverview amount-of-income cell shows a faint typed 'X' at row G rather than a black fill"}
+  ],
+  "page_confidence": "medium"
+}

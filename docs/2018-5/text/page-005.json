@@ -1,0 +1,24 @@
+{
+  "pdf_page": 5,
+  "printed_label": "Page 5 of 5",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "AMEREN CORPORATION CMN", "tx_type": "Purchase", "date": "01/22/2018", "notification_date": "02/06/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SEMPRA ENERGY CMN", "tx_type": "Sale", "date": "01/22/2018", "notification_date": "02/06/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUITY RESIDENTIAL CMN", "tx_type": "Purchase", "date": "01/22/2018", "notification_date": "02/06/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CMS ENERGY CORPORATION CMN", "tx_type": "Sale", "date": "01/22/2018", "notification_date": "02/06/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REGENERON PHARMACEUTICAL INC CMN", "tx_type": "Purchase", "date": "01/22/2018", "notification_date": "02/06/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HCP, INC. CMN", "tx_type": "Sale", "date": "01/22/2018", "notification_date": "02/06/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VENTAS, INC. CMN", "tx_type": "Purchase", "date": "01/22/2018", "notification_date": "02/06/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE SOUTHERN CO. CMN", "tx_type": "Sale", "date": "01/22/2018", "notification_date": "02/06/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DIGITAL REALTY TRUST, INC. CMN", "tx_type": "Sale", "date": "01/22/2018", "notification_date": "02/06/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUKE ENERGY CORPORATION CMN", "tx_type": "Sale", "date": "01/22/2018", "notification_date": "02/06/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KIMCO REALTY CORPORATION CMN", "tx_type": "Sale", "date": "01/22/2018", "notification_date": "02/06/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ASPEN INSURANCE HOLDINGS LTD CMN", "tx_type": "Sale", "date": "01/22/2018", "notification_date": "02/06/2018", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}
