@@ -1,0 +1,18 @@
+{
+  "pdf_page": 20,
+  "printed_label": "Rohit Khanna 20 of 210",
+  "section": "Schedule A: Assets and \"Unearned\" Income",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Header 'Areco Schedule A'. Transposed spreadsheet, one asset per column, black-filled selection cells. 5 asset columns. Dividends row is a continuous black band spanning all five columns (all assets = Dividends).",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "CME GROUP INC(CME)", "ticker": "CME", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["Dividends"], "other_income_spec": null, "amount_of_income": "C: $201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "COGNIZANT TECH SOLUTIONS CL A(CTSH)", "ticker": "CTSH", "eif": null, "value": "A: None", "income_types": ["Dividends"], "other_income_spec": null, "amount_of_income": "B: $1-$200", "transaction": "S(Part), S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "COGNIZANT TECH SOLUTIONS CL A(CTSH)", "ticker": "CTSH", "eif": null, "value": "A: None", "income_types": ["Dividends"], "other_income_spec": null, "amount_of_income": "B: $1-$200", "transaction": "S(Part), S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ECOLAB INC(ECL)", "ticker": "ECL", "eif": null, "value": "C: $1,001-$15,000", "income_types": ["Dividends", "Capital Gains"], "other_income_spec": null, "amount_of_income": "B: $1-$200", "transaction": "S(Part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ECOLAB INC(ECL)", "ticker": "ECL", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["Dividends", "Capital Gains"], "other_income_spec": null, "amount_of_income": "C: $201-$1,000", "transaction": "S(Part)"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

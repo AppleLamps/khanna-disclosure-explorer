@@ -1,0 +1,16 @@
+{
+  "pdf_page": 2,
+  "printed_label": "Page 2 of 10",
+  "section": "Periodic Transaction Report - transaction attachment",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "M&R Trust Partnership"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FACEBOOK INC CL-A", "tx_type": "Purchase", "date": "04/01/2019", "notification_date": "05/01/2019", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN TOWER REIT COM", "tx_type": "Sale", "date": "04/01/2019", "notification_date": "05/01/2019", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TELARIA INC (Distribution received from an EIF)", "tx_type": "Purchase", "date": "04/30/2019", "notification_date": "05/03/2019", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

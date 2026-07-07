@@ -1,0 +1,17 @@
+{
+  "pdf_page": 16,
+  "printed_label": "Rohit Khanna 16 of 210",
+  "section": "Schedule A: Assets and \"Unearned\" Income",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table, transposed spreadsheet layout: one asset per column, attribute labels down the left. Selections are black-filled cells. Sheet title 'M and R Schedule A'. Two asset columns on this page.",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "Barclays Enhanced Trigger Jump Securities with an Auto-Call Feature on S&P 500 Index (SPX) due 2/13/2024", "ticker": "SQAGZ", "eif": null, "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TELARIA, INC", "ticker": "TLRA", "eif": null, "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "ticker", "read": "SQAGZ", "note": "ticker cell printed as 'SQAGZ .' with a trailing period/stray mark; recorded as SQAGZ"}
+  ],
+  "page_confidence": "high"
+}

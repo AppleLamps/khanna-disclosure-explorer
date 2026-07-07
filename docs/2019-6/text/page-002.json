@@ -1,0 +1,17 @@
+{
+  "pdf_page": 2,
+  "printed_label": "Page 2 of 9",
+  "section": "Periodic Transaction Report - Transactions (typed attachment)",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Areco"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALLERGAN PLC SHS", "tx_type": "Sale", "date": "03/29/2019", "notification_date": "04/01/2019", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALIGN TECHNOLOGY", "tx_type": "Purchase", "date": "03/29/2019", "notification_date": "04/01/2019", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALIGN TECHNOLOGY", "tx_type": "Purchase", "date": "03/29/2019", "notification_date": "04/01/2019", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PAYPAL HLDGS INC COM", "tx_type": "Sale", "date": "03/29/2019", "notification_date": "04/01/2019", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}
