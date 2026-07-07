@@ -116,7 +116,8 @@ build("2016", [FD2016] + PTRS, "2016-1",
                     "transaction reports as hand-delivered, unsearchable paper scans. This site is a transcription of "
                     "<a id=\"srclink\" href=\"docs/src/2016-1.pdf\" target=\"_blank\" rel=\"noopener\">those filings (PDF)</a> "
                     "that makes his finances readable, searchable, and analyzable. Dollar figures are the statutory ranges "
-                    "reported on the forms. Holdings are from the 2016 Form B; transactions are PTR trades dated 2016 and earlier.")})
+                    "reported on the forms. Holdings are from the 2016 Form B. No transactions are shown for 2016: the new-member "
+                    "Form B has no transaction schedule, and all of his PTR trades are dated 2017 (switch to the 2017 view).")})
 
 # ---- 2017: holdings + transactions from the Form A annual; PTRs browsable only
 build("2017", [FD2017] + PTRS, "2017-1",

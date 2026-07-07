@@ -1,0 +1,23 @@
+{
+  "pdf_page": 64,
+  "printed_label": "Page 64 of 149",
+  "section": "Schedule B: Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table in transposed spreadsheet layout: each COLUMN is one transaction; field labels run down the left (EIF, SP/DC/JT, Security Name, Ticker, Transaction, Amount of Transaction A: None through L: Over $50,000,000 plus Spouse/DC Asset over $1,000,000, Type of Transaction Purchase/Sale/Partial Sale/Exchange, Capital Gain Exceeded $200, Transaction Date). Selected cells are solid-black filled. The 'Transaction' label row is solid black across all 9 columns (formatting/divider, not data). EIF row blank for all columns. Footer sheet label: 'MS MR Trust Partnership'. 9 transaction columns, all owner SP, transcribed left to right as rows below.",
+  "rows": [
+    {"kind": "group", "text": "MS MR Trust Partnership"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Illumina Inc (ILMN)", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "9/21/2017", "notification_date": null, "amount": "B: $1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Intuitive Surgical (ISRG)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/9/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Intuitive Surgical (ISRG)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/13/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Intuitive Surgical (ISRG)", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "11/21/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Netflix (NFLX)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/13/2017", "notification_date": null, "amount": "B: $1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Netflix (NFLX)", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "9/20/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Netflix (NFLX)", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/11/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Nike (NKE)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/13/2017", "notification_date": null, "amount": "C: $1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Nike (NKE)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2017", "notification_date": null, "amount": "C: $1,001-$15,000"}
+  ],
+  "free_text": "Footer: MS MR Trust Partnership",
+  "uncertainties": [],
+  "page_confidence": "high"
+}

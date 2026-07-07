@@ -1,0 +1,27 @@
+{
+  "pdf_page": 21,
+  "printed_label": "Page 21 of 149",
+  "section": "Schedule A: Assets and \"Unearned\" Income",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed Schedule A grid, continuation of 'The Declaration of Trust of Ritu Ahuja' holdings. Same column structure as page 20 (Blocks B/C/D/E, X marks).",
+  "rows": [
+    {"kind": "group", "text": "The Declaration of Trust of Ritu Ahuja:"},
+    {"kind": "asset", "owner": "SP", "asset_name": "NY TRANS FIN AUTH 11/14/2013 REV 5.0000% 11/01/19 MN FUTURE TAX SECD-SUB-FISCAL 2015-SER C BEO SUB LIEN", "eif": null, "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ONONDAGA CNTY N Y GO 4% 06/15/19 JD RFDG LT BEO SR LIEN", "eif": null, "value": "$15,001-$50,000", "income_types": ["INTEREST", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ORANGE CA CMNTY FCS DST SPL TX REV 4.0000% 10/01/18-CA AO RFDG-NO 91-2-SERRNO HEIGHTS PUB IMPTS BEO S-T SPL RDM", "eif": null, "value": "$15,001-$50,000", "income_types": ["INTEREST", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SUCCESSOR AGY TO UPLAND CMNTY GO 4.0000% 09/01/19 MS REDEV AGY RFDG-TAXABLE-MERGED PROJ TAX ALLOCATION INS BEO", "eif": null, "value": "$15,001-$50,000", "income_types": ["INTEREST", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE CITY OF NEW YORK GO 5.0000% 08/01/22 FA GEN OBLIGATION BD FISCAL 2016 SERIES C AND D BEO", "eif": null, "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P, S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE CITY OF NEW YORK GO 5.0000% 08/01/24 FA GENERAL OBLIGATION BONDS FISCAL 2018 SUBSERIES B-1", "eif": null, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE PORT AUTH OF N Y & N J REV 5.0000% 11/15/21 MN CONSOLIDATED BONDS, ONE HUNDRED NINETY-SEVENTH AMT BEO", "eif": null, "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TOMPKINS CNTY N Y DEV CORP REV REV 5.0000% 07/01/21 JJ RFDG-ITHACA COLLEGE PROJ BEO S-T X-ORD RDM", "eif": null, "value": "$15,001-$50,000", "income_types": ["INTEREST", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "U S DOLLAR", "eif": null, "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "YONKERS N Y GO 5% 09/01/23 MS GO SERIAL BDS 2017 A LT BEO", "eif": null, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 6, "field": "transaction", "read": null, "note": "THE CITY OF NEW YORK GO 08/01/24 FISCAL 2018 SUBSERIES B-1 row has no letter in Block E; purchase may be implied elsewhere but nothing is printed"},
+    {"row": 9, "field": "transaction", "read": null, "note": "U S DOLLAR row has no letter in Block E (blank)"}
+  ],
+  "page_confidence": "high"
+}

@@ -1,0 +1,22 @@
+{
+  "pdf_page": 76,
+  "printed_label": "Page 76 of 149",
+  "section": "Schedule B: Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table, transposed spreadsheet layout: one transaction per column (4 columns), attribute labels down the left (EIF; SP, DC, JT; Security Name; Ticker; Transaction; Amount of Transaction A-L + Spouse/DC; Type of Transaction; Capital Gain; Transaction Date). Selections are black-filled cells. The 'SP, DC, JT' row and the 'Transaction' row are continuous black bands across all four columns (no letters visible). EIF row has a black fill in column 4 only (York Credit Opportunities Fund). Amount fills: B (col 1), G (col 2), D (col 3), F (col 4). Type of Transaction: Purchase band spans cols 1-3; Sale fill in col 4. Capital Gain Exceeded $200 fill in col 4 only. Footer group label: 'MS Areco'.",
+  "rows": [
+    {"kind": "group", "text": "MS Areco"},
+    {"kind": "tx", "owner": null, "asset_name": "MSILF Tax Emept Port Inst", "ticker": "MTXXX", "eif": null, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/29/2017", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": null, "asset_name": "SPDR S&P Bank ETF", "ticker": "KBE", "eif": null, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/16/2017", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": null, "asset_name": "SPDR S&P Bank ETF", "ticker": "KBE", "eif": null, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/16/2017", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": null, "asset_name": "York Credit Opportunities Fund", "ticker": "GRY14", "eif": "black fill (unlabeled)", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2017", "notification_date": null, "amount": "$100,001-$250,000"}
+  ],
+  "free_text": "Note: Dependent Child reporting was not applicable last year",
+  "uncertainties": [
+    {"row": "1-4", "field": "owner", "read": "SP, DC, JT row is a solid black band across all four columns", "note": "owner letter not visible under the black fill; recorded null for all four transactions"},
+    {"row": 4, "field": "eif", "read": "EIF row cell for column 4 (York Credit Opportunities Fund) is black-filled", "note": "no letter/text visible; the other three columns' EIF cells are empty"},
+    {"row": 4, "field": "ticker", "read": "GRY14", "note": "unusual ticker string, but clearly printed and tesseract agrees"}
+  ],
+  "page_confidence": "high"
+}

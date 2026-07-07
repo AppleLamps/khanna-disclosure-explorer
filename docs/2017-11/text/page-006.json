@@ -1,0 +1,25 @@
+{
+  "pdf_page": 6,
+  "printed_label": "Page 6 of 6",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "M&R Trust Partnership"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PAYPAYL HOLDINGS  INC COM", "tx_type": "Sale", "date": "09/20/2017", "notification_date": "10/02/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VISA INC CL A", "tx_type": "Purchase", "date": "09/20/2017", "notification_date": "10/02/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMAZON COM INC", "tx_type": "Sale", "date": "09/20/2017", "notification_date": "10/02/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NVIDIA CORPORATION", "tx_type": "Sale", "date": "09/20/2017", "notification_date": "10/02/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NETFLIX INC", "tx_type": "Sale", "date": "09/20/2017", "notification_date": "10/02/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALLERGAN PLC SHS", "tx_type": "Purchase", "date": "09/20/2017", "notification_date": "10/02/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALPHABET INC", "tx_type": "Purchase", "date": "09/20/2017", "notification_date": "10/02/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHARLES SCWAB", "tx_type": "Purchase", "date": "09/21/2017", "notification_date": "10/02/2017", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": "Remaining grid rows on this page are blank.",
+  "uncertainties": [
+    {"row": 2, "field": "asset_name", "read": "PAYPAYL HOLDINGS  INC COM", "note": "printed as PAYPAYL (sic, presumably PayPal Holdings); transcribed verbatim; tesseract agrees"},
+    {"row": 9, "field": "asset_name", "read": "CHARLES SCWAB", "note": "printed as SCWAB (sic, presumably Schwab); transcribed verbatim; tesseract agrees"},
+    {"row": 8, "field": "date", "read": "09/20/2017", "note": "tesseract read 08/20/17 for ALPHABET INC but quadrant crop clearly shows 09/20/17"}
+  ],
+  "page_confidence": "high"
+}
