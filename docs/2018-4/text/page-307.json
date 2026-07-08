@@ -1,0 +1,159 @@
+{
+  "pdf_page": 307,
+  "printed_label": "Page 307 of 309",
+  "section": "Schedule B - Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja Declaration of Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SUCCESSOR AGY TO UPLAND CMNTY REV 4.0000% 09/01/19 MS",
+      "tx_type": "Full Sale",
+      "cap_gain_over_200": false,
+      "date": "12/06/18",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEW YORK CONVENTION CTR DEV REV 3% 11/15/18 MN",
+      "tx_type": "Full Sale",
+      "cap_gain_over_200": false,
+      "date": "04/12/18",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ORANGE CA CMNTY FCS DST SPL TX REV 4.0000% 10/01/18-CA AO",
+      "tx_type": "Full Sale",
+      "cap_gain_over_200": false,
+      "date": "04/27/18",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DORM AUTH OF THE ST OF NY REV 5.1250% 07/01/30-CA JJ",
+      "tx_type": "Full Sale",
+      "cap_gain_over_200": false,
+      "date": "01/12/18",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "N Y STATE THRUWAY AUTH REV 5.0000% 05/01/49 JJ",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "01/12/18",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE CITY OF NEW YORK GO 5.0000% 08/01/24 FA",
+      "tx_type": "Full Sale",
+      "cap_gain_over_200": false,
+      "date": "01/12/18",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "YONKERS N Y GO 5% 09/01/23 MS",
+      "tx_type": "Full Sale",
+      "cap_gain_over_200": false,
+      "date": "01/12/18",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LOS ANGELES CNTY CALIF REDEV REV 5.0000% 12/01/21-CA JD",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "05/29/18",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NY CITY MUN WTR&SWR FIN AUTH REV 5.0000% 06/15/23-CA JD",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "05/29/18",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TOMPKINS CNTY N Y DEV CORP REV REV 5.0000% 07/01/21 JJ",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "05/29/18",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NORTHEAST OHIO REGL SWR DIST REV 4% 11/15/20 MN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "05/29/18",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BVRLY HLS CMNTY FCS DST SPL TX REV 3.0000% 09/01/21-CA MS",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "05/29/18",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TRBRGH BRDG & TNL ATH NY REVS REV 5.0000% 11/15/38 MN",
+      "tx_type": "Full Sale",
+      "cap_gain_over_200": false,
+      "date": "10/31/18",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 3,
+      "field": "asset_name",
+      "read": "ORANGE CA CMNTY FCS DST SPL TX REV 4.0000% 10/01/18-CA AO",
+      "note": "Final suffix is tightly printed; OCR suggests AD, crop looks closer to AO."
+    },
+    {
+      "row": 13,
+      "field": "asset_name",
+      "read": "TRBRGH BRDG & TNL ATH NY REVS REV 5.0000% 11/15/38 MN",
+      "note": "Issuer abbreviation is low resolution; best reading from crop and neighboring page style."
+    }
+  ],
+  "page_confidence": "medium"
+}
