@@ -1,0 +1,37 @@
+{
+  "pdf_page": 17,
+  "printed_label": "Page 17 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "RAYTHEON TECHNOLOGIES CORP", "value": "None", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "RTX CORPORATION COM", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P, S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "STARBUCKS CORP COM USD0.001(SBUX)", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "TARGET CORP (TGT)", "value": "None", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNION PAC CORP COM(UNP)", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNITEDHEALTH GROUP INC(UNH)", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICAN TOWER CORP NEW", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "REALTY INCOME CORP COM (O)", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ZOETIS INC", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "group", "text": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ABBOTT LABORATORIES CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ABBVIE INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ACCENTURE PLC CMN CLASS A", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AIR LEASE CORPORATION HYBRID PERPETUAL USD S", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ALLSTATE CORPORATION (THE) PFD USD1.8438(7.38%", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ALLSTATE CORPORATION COMMON STOCK", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ALLY FINANCIAL INC. HYBRID PERPETUAL USD", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ALLY FINANCIAL INC. HYBRID PERPETUAL USD SER B", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ALPHABET INC. CMN CLASS A", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P, S, S(part)"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 7, "field": "amount_of_income", "read": "$1-$200", "note": "one of AMERICAN TOWER (row 7) / REALTY INCOME (row 8) has block D X offset to col III ($201-$1,000); assigned col III to REALTY, col II to AMERICAN TOWER"},
+    {"row": 10, "field": "amount_of_income", "read": "None", "note": "ABBOTT block C=DIVIDENDS but block D X read in col I (None); DIVIDENDS+None inconsistent, could be col II ($1-$200)"},
+    {"row": 13, "field": "amount_of_income", "read": "None", "note": "AIR LEASE DIVIDENDS+None inconsistency (block D col I); could be col II. Also asset_name truncated at right edge (USD S...)"},
+    {"row": 14, "field": "asset_name", "read": "ALLSTATE CORPORATION (THE) PFD USD1.8438(7.38%", "note": "name/rate truncated at right edge; DIVIDENDS+None amount inconsistency (block D col I vs II)"},
+    {"row": 17, "field": "amount_of_income", "read": "None", "note": "ALLY SER B DIVIDENDS+None inconsistency (block D col I); could be col II"}
+  ],
+  "page_confidence": "medium"
+}

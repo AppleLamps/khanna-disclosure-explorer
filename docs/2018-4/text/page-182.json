@@ -1,0 +1,25 @@
+{
+  "pdf_page": 182,
+  "printed_label": "Page 182 of 309",
+  "section": "ARECO Schedule B - Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "SPDR S&P Bank ETF (KBE)", "eif": true, "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/28/2018", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/9/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/9/2018", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/17/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/17/2018", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/12/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/12/2018", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/28/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/28/2018", "notification_date": null, "amount": "$1-$1,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": "all", "field": "amount", "note": "Transposed grid (columns = transactions); row-label column cropped off-page. Amount buckets mapped by measured mark y-position vs labeled sibling page 175 (A-L). Per-column amount: col1=D; SP Adobe cols (2,4,6,8)=C; DC Adobe cols (3,5,7,9)=B. Clean alternating staircase."},
+    {"row": "all", "field": "tx_type", "note": "Type inferred by mark row vs page 175: Sale = col1 (KBE); Purchase = cols 2-9 (Adobe). Verified visually. No Capital Gain Exceeded $200 marks present. Medium confidence."},
+    {"row": 1, "field": "eif", "note": "EIF box printed (checked) only for col1 (SPDR S&P Bank ETF); the EIF header cell is blank for the Adobe Inc columns (2-9), so eif set false for those individual-stock rows."}
+  ],
+  "page_confidence": "medium"
+}
