@@ -1,0 +1,42 @@
+{
+  "pdf_page": 287,
+  "printed_label": "Page 287 of 303",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "PLEASANT PRAIRIE WIS GO 2.2500% 09/01/21 MS", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/14/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MIAMI DADE WATER & SEWER DEPT REV 4% 10/01/21", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/14/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CLARK CNTY WASH SCH DIST NO GO 5% 12/01/21 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/14/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LEWISVILLE TEX INDPT SCH DIST GO 3% 08/15/21 FA", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/19/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "JACKSON TENN ENERGY AUTH WTR REV 5% 12/01/21", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/14/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MASSACHUSETTS ST GO 4.5000% 08/01/43 FA", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/19/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NORTH CAROLINA ST CAP IMPT LTD REV 5% 05/01/25", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/20/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WASHINGTON ST DB 5% 06/01/21 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/25/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GEORGIA ST GO 4.5000% 07/01/28 JJ", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/20/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NY ST DORM AUTH REVS REV 5.0000% 10/01/21 AO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/25/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ARIZONA ST TRANSN BRD HWY REV REV 5% 07/01/22", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/21/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SUMNER CNTY TENN GO 5% 06/01/21 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/4/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN INTL GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBOTT LABORATORIES CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HAWAII ST FOR ISSUES DTD PRIOR GO 5.0000% 12/01", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "RYE TOWN N Y GO 3% 10/01/21 AO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/22/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REEDY CREEK IMPT DIST FLA GO 5% 06/01/21 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/4/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KKR & CO. INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MONDELEZ INTERNATIONAL, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PROCTER & GAMBLE COMPANY (THE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MEDTRONIC PUBLIC LIMITED COMPA CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NVR INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2021", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 2, "field": "asset_name", "read": "MIAMI DADE WATER & SEWER DEPT REV 4% 10/01/21", "note": "trailing suffix after maturity date is unclear"},
+    {"row": 15, "field": "asset_name", "read": "HAWAII ST FOR ISSUES DTD PRIOR GO 5.0000% 12/01", "note": "trailing date/suffix is cut off or unclear"}
+  ],
+  "page_confidence": "medium"
+}

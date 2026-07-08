@@ -1,0 +1,92 @@
+{
+  "pdf_page": 302,
+  "printed_label": "Page 302 of 303",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Capital call for Vintage VIII/West Street Access",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "6/22/2021",
+      "notification_date": null,
+      "amount": "$100,001-$250,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Capital call for Vintage VIII/West Street Access",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "6/13/2021",
+      "notification_date": null,
+      "amount": "$100,001-$250,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Capital call for Vintage VIII/West Street Access",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/24/2021",
+      "notification_date": null,
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Capital call for Vintage VIII/West Street Access",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/25/2021",
+      "notification_date": null,
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Capital call for Vintage VIII/West Street Access",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/9/2021",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Capital call for Vintage VIII/West Street Access",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/22/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Capital call for Vintage VIII/West Street Access",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/15/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "GS FINANCE CORP, LINKED TO RUSSELL 2000 INDEX",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/27/2021",
+      "notification_date": null,
+      "amount": "$250,001-$500,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}
