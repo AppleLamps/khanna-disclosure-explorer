@@ -1,0 +1,17 @@
+{
+  "pdf_page": 1,
+  "printed_label": "Page 1 of 5",
+  "section": "Periodic Transaction Report",
+  "page_type": "ptr_cover",
+  "filer": "Rohit Khanna",
+  "rows": [],
+  "free_text": "# Periodic Transaction Report\n\n- Name: Rohit Khanna\n- Office telephone: 202-225-2631\n- Member of the U.S. House of Representatives: Yes\n- State: CA\n- District: 17\n- Officer or Employee: No\n- Employing Office: blank\n- Initial Public Offering question: No\n- Initial Report: Yes\n- Amendment: No\n- Date of Report Being Amended: blank\n- Hand delivered stamp: Legislative Resource Center, 2019 Dec 11 AM 10:26\n- Grid note: Please see the attached\n\nThe example row for Mega Corp. Common Stock is present and ignored.",
+  "uncertainties": [
+    {
+      "field": "office_telephone",
+      "read": "202-225-2631",
+      "note": "Tesseract reads 202-225-2634, but the image appears to show 202-225-2631."
+    }
+  ],
+  "page_confidence": "medium"
+}
