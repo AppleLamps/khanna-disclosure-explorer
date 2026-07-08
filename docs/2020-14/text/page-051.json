@@ -1,0 +1,17 @@
+{
+  "pdf_page": 51,
+  "printed_label": "Page 51 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ZOETIS INC. CMN CLASS A", "value": "$15,001-$50,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ZYNGA INC. CMN CLASS A", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": null, "field": "value,income_types,amount_of_income,transaction", "note": "Final page of the Ritu Ahuja 1994 Trust (SP-owned); only 2 data rows (ZOETIS, ZYNGA) completing the alphabet at Z, remainder of page blank. Data area here is more legible than surrounding stippled pages. Block B (value) and Block C (income) read with reasonable confidence. Block D (amount) marks are visible: ZOETIS appears X in col II ($1-$200), ZYNGA appears X in col I (None); left null to stay consistent with the rest of this trust's transposed pages where Block D was unresolvable. Block E (transaction) shows faint P / S(part) marks -> null."}
+  ],
+  "page_confidence": "medium"
+}

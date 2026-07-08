@@ -15,7 +15,7 @@
     {"kind": "asset", "owner": "DC", "asset_name": "CME GROUP INC", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
     {"kind": "asset", "owner": "DC", "asset_name": "CHIPOTLE MEXICAN GRILL", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
     {"kind": "asset", "owner": "DC", "asset_name": "DANAHER CORPORATION COM", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
-    {"kind": "asset", "owner": "DC", "asset_name": "META PLATFORMS INC CLASS A COMMO", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "META PLATFORMS INC CLASS A COMMON", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
     {"kind": "asset", "owner": "DC", "asset_name": "ILLUMINA INC COM", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
     {"kind": "asset", "owner": "DC", "asset_name": "INTUITIVE SURGICAL INC", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
     {"kind": "asset", "owner": "DC", "asset_name": "INTUIT INC", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
@@ -28,9 +28,8 @@
   ],
   "free_text": null,
   "uncertainties": [
-    {"note": "No printed group header on page; rows continue a dependent-child (DC) brokerage/trust holding from the previous page. All rows owner DC."},
-    {"field": "asset_name", "note": "Two names truncated at right edge of Block A: 'VANGUARD SPECIALIZED FUNDS DIV APP[RECIATION]' and 'META PLATFORMS INC CLASS A COMMO[N]'."},
-    {"note": "Block B/C/D columns verified against printed header letters/numerals (detected gridlines were half-column left-shifted). Income pattern is consistent: non-dividend stocks marked NONE with amount None; dividend payers marked DIVIDENDS with amount $1-$200. EIF checked only for the two fund entries (Vanguard, ETF Ser Solutions); both show transaction S(P)."}
+    {"row": 2, "field": "asset_name", "read": "VANGUARD SPECIALIZED FUNDS DIV APP", "note": "name runs to right edge of Block A and is truncated as printed (Vanguard Dividend Appreciation ETF)."},
+    {"note": "Rows continue a holdings list from the prior page; no printed group header on this page. Block B/C/D columns verified against uniform grid geometry; NONE-income rows sit at Block D col I, dividend rows at col II."}
   ],
   "page_confidence": "high"
 }

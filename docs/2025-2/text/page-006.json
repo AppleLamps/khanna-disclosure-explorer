@@ -1,0 +1,29 @@
+{
+  "pdf_page": 6,
+  "printed_label": "Page 6 of 28",
+  "section": "Periodic Transaction Report - transactions (attachment)",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "NIKE CLASS-B CMN CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMPHENOL CORP CL-A (NEW) CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "APPLIED MATERIALS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HUMANA INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THERMO FISHER SCIENTIFIC INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VULCAN MATERIALS CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CENCORA INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HUBBELL INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERTEX PHARMACEUTICALS INCORPO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NXP SEMICONDUCTORS N.V. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTERCONTINENTAL EXCHANGE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INGERSOLL RAND INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PRUDENTIAL FINANCIAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MONOLITHIC POWER SYSTEMS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "METTLER-TOLEDO INTL CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HCA HEALTHCARE, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NORDSON CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": "Continuation of the \"Ahuja Khanna Children Irrevocable Trust\" group (no group subheader reprinted at the top of this page). All rows are DC purchases dated 02/25/2025 in amount bucket A.",
+  "uncertainties": [],
+  "page_confidence": "high"
+}
