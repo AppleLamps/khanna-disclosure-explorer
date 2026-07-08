@@ -1,0 +1,36 @@
+{
+  "pdf_page": 121,
+  "printed_label": "Page 121 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "LINDE PLC CMN", "eif": false, "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIONS GATE ENTERTAINMENT CORP. CM", "eif": false, "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIVE NATION ENTERTAINMENT INC CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LOEWS CORPORATION CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LOWES COMPANIES INC CMN", "eif": false, "value": "$100,001-$250,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "LPL FINANCIAL HOLDINGS INC. CMN", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LULULEMON ATHLETICA INC. CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LUMEN TECHNOLOGIES INC CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LYONDELLBASELL INDUSTRIES N.V. CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "M&T BANK CORPORATION CMN", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MACY'S INC. CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MADISON SQUARE GARDEN SPORTS C", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAINE MUN BD BK TRANSN REV 5% 09/01", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MANDIANT INC/SH CMN", "eif": false, "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARKETAXESS HOLDINGS INC. CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARRIOTT INTERNATIONAL, INC CMN CL", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARSH & MCLENNAN CO INC CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARTIN MARIETTA MATERIALS, INC CMN", "eif": false, "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARVELL TECHNOLOGY, INC. CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 2, "field": "asset_name", "read": "LIONS GATE ENTERTAINMENT CORP. CM", "note": "Asset name is clipped before the final N."},
+    {"row": 12, "field": "asset_name", "read": "MADISON SQUARE GARDEN SPORTS C", "note": "Asset name is clipped after C."},
+    {"row": 13, "field": "asset_name", "read": "MAINE MUN BD BK TRANSN REV 5% 09/01", "note": "Bond description is clipped at the right edge of Block A."},
+    {"row": 16, "field": "asset_name", "read": "MARRIOTT INTERNATIONAL, INC CMN CL", "note": "Asset name is clipped after CL."}
+  ],
+  "page_confidence": "medium"
+}
