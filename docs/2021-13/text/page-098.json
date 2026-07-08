@@ -1,0 +1,37 @@
+{
+  "pdf_page": 98,
+  "printed_label": "Page 98 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "WASTE MANAGEMENT INC CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "WATERS CORPORATION COMMON STOC", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WAYFAIR INC. CMN", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEC ENERGY GROUP, INC. CMN", "eif": false, "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WELLS FARGO & CO (NEW) CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WELLTOWER INC. CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEST PHARMACEUTICAL SERVICES INC", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WESTERN DIGITAL CORPORATION CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WESTERN UNION COMPANY (THE) CMN", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WESTINGHOUSE AIR BRAKE TECHNOL C", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WESTLAKE CORP CMN", "eif": false, "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WESTROCK COMPANY CMN", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEX INC. CMN", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEYERHAEUSER COMPANY CMN", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WHIRLPOOL CORP. CMN", "eif": false, "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WICHITA KANS GO 4% 10/15/22 AO GO TE", "eif": false, "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WILLIS TOWERS WATSON PLC CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WILSON CNTY TENN GO 5% 04/01/22 AO", "eif": false, "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WISCONSIN (STATE OF) GO 5.0000% 05/0", "eif": false, "value": "$1-$1,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 2, "field": "asset_name", "read": "WATERS CORPORATION COMMON STOC", "note": "right edge is clipped by the grid; likely continues beyond visible text"},
+    {"row": 10, "field": "asset_name", "read": "WESTINGHOUSE AIR BRAKE TECHNOL C", "note": "right edge is clipped by the grid"},
+    {"row": 16, "field": "asset_name", "read": "WICHITA KANS GO 4% 10/15/22 AO GO TE", "note": "bond description is clipped at right edge of Block A"},
+    {"row": 18, "field": "asset_name", "read": "WILSON CNTY TENN GO 5% 04/01/22 AO", "note": "bond description may continue beyond visible text"},
+    {"row": 19, "field": "asset_name", "read": "WISCONSIN (STATE OF) GO 5.0000% 05/0", "note": "bond date/description is clipped at right edge of Block A"}
+  ],
+  "page_confidence": "medium"
+}
