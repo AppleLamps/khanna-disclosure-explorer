@@ -1,0 +1,41 @@
+{
+  "pdf_page": 249,
+  "printed_label": "Page 249 of 303",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "OHIO ST PARKS & REC CAP FACS REV 5.0000% 02/01/[UNCLEAR]", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/1/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COPART INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MARSH & MCLENNAN CO INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALTRIA GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MONDELEZ INTERNATIONAL, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NORFOLK SOUTHERN CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTERCONTINENTAL EXCHANGE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ILLINOIS TOOL WORKS CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CSX CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MATCH GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BEDFORD MASS GO 5% 10/15/22 AO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/21/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TJX COMPANIES INC (NEW) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CROWN CASTLE INTL CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUINIX, INC. REIT", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/7/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AT&T INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/9/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/9/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ANTHEM, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/9/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN TOWER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/9/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMAZON.COM INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/9/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EDWARDS LIFESCIENCES CORPORATI CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/9/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BLACKROCK, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/9/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED PARCEL SERVICE, INC. CLASS B COMMON ST", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/9/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/9/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/8/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/15/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LABORATORY CORPORATION OF AMER CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/8/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MONDELEZ INTERNATIONAL, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/8/2021", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "asset_name", "read": "OHIO ST PARKS & REC CAP FACS REV 5.0000% 02/01/[UNCLEAR]", "note": "right edge of asset name is cut off at the column boundary; final maturity year/suffix not legible"}
+  ],
+  "page_confidence": "medium"
+}
