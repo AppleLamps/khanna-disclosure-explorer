@@ -1,0 +1,42 @@
+{
+  "pdf_page": 239,
+  "printed_label": "Page 239 of 303",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "ULTA BEAUTY INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "IQVIA HOLDINGS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ARISTA NETWORKS, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DOMINO'S PIZZA, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FLEETCOR TECHNOLOGIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CNA FINCL.CORP. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REINSURANCE GROUP AMER INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MATCH GROUP, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DISCOVERY INC - A CMN SERIES A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WEST PHARMACEUTICAL SERVICES INC", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GARMIN LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VF CORP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WHIRLPOOL CORP. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SENSATA TECHNOLOGIES HOLDING P CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PILGRIMS PRIDE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OTIS WORLDWIDE CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "XYLEM INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TELEFLEX INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CABLE ONE INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AKAMAI TECHNOLOGIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARDINAL HEALTH, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROLLINS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "APPLIED MATERIALS INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EVEREST RE GROUP LTD CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNIVERSAL HEALTH SVC CL B CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": true, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LIBERTY GLOBAL, PLC. CMN CLASS C", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LIBERTY GLOBAL, PLC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 6, "field": "asset_name", "read": "CNA FINCL.CORP. CMN", "note": "Spacing after FINCL is unclear in scan."},
+    {"row": 15, "field": "asset_name", "read": "PILGRIMS PRIDE CORPORATION CMN", "note": "Apostrophe, if present, is not visible in this scan."}
+  ],
+  "page_confidence": "medium"
+}
