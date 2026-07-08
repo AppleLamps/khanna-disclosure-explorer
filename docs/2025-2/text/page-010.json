@@ -1,0 +1,31 @@
+{
+  "pdf_page": 10,
+  "printed_label": "10 of 28",
+  "section": "PERIODIC TRANSACTION REPORT",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "EATON CORP PLC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KLA CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "D.R. HORTON, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COSTCO WHOLESALE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRANE TECHNOLOGIES PUBLIC LIMI CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CADENCE DESIGN SYSTEMS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMAZON.COM INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SYNOPSYS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIFTH THIRD BANCORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FAIR ISAAC INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHUBB LIMITED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CDW CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROSS STORES,INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MARRIOTT INTERNATIONAL, INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "partial_sale/cap_gain_over_200", "read": "cap_gain checked on EATON/COSTCO/TRANE; partial checked on EATON/KLA/PNC/COSTCO/AMAZON/PEPSICO/SYNOPSYS/CHUBB/MARRIOTT", "note": "The two narrow columns (Capital-Gains-Exceed-$200 and Partial-Transaction) are faint/low-contrast; column assignment is medium confidence. All rows are Sales in bucket A."}
+  ],
+  "page_confidence": "medium"
+}

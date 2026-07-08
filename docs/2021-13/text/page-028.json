@@ -1,0 +1,34 @@
+{
+  "pdf_page": 28,
+  "printed_label": "Page 28 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "DANAHER CORPORATION(DHR)", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "EQUINIX INC(EQIX)", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ESTEE LAUDER CO INC CL A(EL)", "eif": false, "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "IHS MARKIT LTD", "eif": false, "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ILLUMINA INC(ILMN)", "eif": false, "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "INTUIT INC(INTU)", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MATCH GROUP INC", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MICROSOFT CORP(MSFT)", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MORGAN STANLEY PRIVATE BANK NA(MS", "eif": true, "value": "None", "income_types": ["RENT"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NETFLIX INC", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NIKE INC B(NKE)", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NVIDIA CORPORATION(NVDA)", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PAYPAL HLDGS INC COM(PYPL)", "eif": false, "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "S&P GLOBAL INC COM(SPGI)", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SNAP INC. CL A(SNAP)", "eif": false, "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "VANGUARD DIVIDEND APPRECIATION(VIG)", "eif": true, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VISA INC. CL A(V)", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "group", "text": "ARECO LP"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 9, "field": "income_types", "read": "RENT", "note": "MORGAN STANLEY PRIVATE BANK NA (a bank/deposit account) has its Block C X clearly in the RENT column; probable intended type is INTEREST. Transcribed as printed."},
+    {"row": 9, "field": "asset_name", "read": "MORGAN STANLEY PRIVATE BANK NA(MS", "note": "Ticker parenthetical is cut off by the cell border; text overflows into the EIF/value columns, closing paren not visible."},
+    {"row": 18, "field": "text", "read": "ARECO LP", "note": "New portfolio subheader at bottom of page; grid cells blank, continues onto next page."}
+  ],
+  "page_confidence": "high"
+}

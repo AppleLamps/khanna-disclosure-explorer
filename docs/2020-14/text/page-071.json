@@ -1,0 +1,42 @@
+{
+  "pdf_page": 71,
+  "printed_label": "Page 71 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1995 Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MACY'S INC. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MADISON SQUARE GARDEN SPORTS C CMN CLASS A", "value": null, "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MADISON WIS GO 4% 10/01/20 AO GO PROM NTS 2014A UT BEO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAGELLAN MIDSTREAM PARTNERS, L CMN", "value": null, "income_types": [], "other_income_spec": "PTRN", "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAINE ST GO 5% 06/01/21 ID GO BDS 2017 B UT BEO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MANATEE CNTY FLA REV REV 5% 10/01/20 AO REF IMPT BDS 2013 BEO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MANPOWER GROUP CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARATHON OIL CORPORATION CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARATHON PETROLEUM CORPORATION CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARICOPA COUNTY GO 4.0000% 07/01/21 IJ COMM COLL DIST BEO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARKETAXESS HOLDINGS INC. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARRIOTT INTERNATIONAL, INC CMN CLASS A", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARSH & MCLENNAN CO INC CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARTIN MARIETTA MATERIALS, INC CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARVELL TECHNOLOGY GROUP LTD. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARYLAND UNIVERSITY SYSTEM AUXILARY FAC& TUITION REV 4% 04/01/21 AO RFDG-SER C BEO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MASCO CORPORATION CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MASTERCARD INCORPORATED CMN CLASS A", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MATCH GROUP, INC. CMN", "value": null, "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAXIM INTEGRATED PRODUCTS INC CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MC DONALDS CORP CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MC HENRY CNTY ILL CONSV DIST GO 5% 02/01/20 FA GO REF BDS 2014 UT BEO SR LIEN", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MCKESSON CORPORATION CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": null, "field": "value", "read": null, "note": "Block B (Value of Asset) column X-marks unresolvable under heavy grey stipple across all rows; set to null."},
+    {"row": null, "field": "amount_of_income", "read": null, "note": "Block D (Amount of Income) column X-marks unresolvable under stipple across all rows; set to null."},
+    {"row": null, "field": "transaction", "read": null, "note": "Block E (Transaction P/S) marks present but not reliably resolvable under stipple; set to null."},
+    {"row": null, "field": "income_types", "read": "NONE / DIVIDENDS / INTEREST", "note": "Block C best-effort: dividend-paying common as DIVIDENDS, municipal bonds as INTEREST, non-dividend stocks (MSG Sports, Match Group) as NONE."},
+    {"row": 4, "field": "income_types", "read": "PTRN write-in", "note": "MAGELLAN MIDSTREAM PARTNERS is an MLP; 'PTRN' partnership-income write-in captured in other_income_spec; specific Block C income-type X obscured by stipple."}
+  ],
+  "page_confidence": "medium"
+}

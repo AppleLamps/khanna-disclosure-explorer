@@ -1,0 +1,31 @@
+{
+  "pdf_page": 14,
+  "printed_label": "14 of 28",
+  "section": "PERIODIC TRANSACTION REPORT",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/06/2025", "notification_date": "03/05/2025", "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NCR VOYIX CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/27/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ULTRA CLEAN HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ULTRA CLEAN HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/26/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NCR VOYIX CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/28/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUN & BRADSTREET HOLDINGS, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/21/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NCR VOYIX CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/05/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/06/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "02/27/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/26/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "OKTA, INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/28/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/04/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINTEREST INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/24/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/24/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINTEREST INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"}
+  ],
+  "free_text": "Rows 1-16 continue the \"Ritu Ahuja Declaration of Trust\" group carried over from page 13 (no repeated header at top of this page). The \"Ritu Ahuja 1994 Trust\" group header appears at the very bottom of this page; its transactions begin on page 15.",
+  "uncertainties": [
+    {"row": 9, "field": "cap_gain_over_200/partial_sale", "read": "all 8 Sale rows (9-16) cap_gain checked; partial checked on all except row 10 (second MOHAWK)", "note": "Narrow columns faint but consistent block of X's; medium-high confidence. Row 1 amount is bucket C ($50,001-$100,000); all other rows bucket A."}
+  ],
+  "page_confidence": "medium"
+}

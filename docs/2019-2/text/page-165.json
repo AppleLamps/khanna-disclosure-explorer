@@ -1,0 +1,643 @@
+{
+  "pdf_page": 165,
+  "printed_label": "Rohit Khanna 165 of 210",
+  "section": "Schedule B: Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HEWLETT PACKARD ENTERPRISE CO CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": true,
+      "date": "02/20/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SPLUNK INC CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "08/03/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CAPRI HOLDINGS LIMITED CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "03/26/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALPHABET INC. CMN CLASS C",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "01/18/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ADVANCE AUTO PARTS, INC. CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "08/12/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CITRIX SYSTEMS INC CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": true,
+      "date": "01/18/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SQUARE, INC. CMN CLASS A",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "08/03/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CARDINAL HEALTH, INC. CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "08/03/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ROYAL CARIBBEAN CRUISES LTD ISIN: LR0008862868",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "08/12/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TRANSDIGM GROUP INCORPORATED CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "10/21/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VENTAS, INC. CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "09/16/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMC NETWORKS INC CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": true,
+      "date": "04/29/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LIBERTY EXPEDIA HOLDINGS, INC. CMN SERIES A",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": true,
+      "date": "04/29/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "A.O. SMITH CORP (DEL) CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "08/03/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FEDERAL RLTY INVT TR SBI CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": true,
+      "date": "03/26/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NIELSEN HLDGS PLC CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "01/18/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CATERPILLAR INC (DELAWARE) CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "07/08/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VALERO ENERGY CORPORATION CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": true,
+      "date": "01/18/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "APPLE INC. CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "08/12/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ENCANA CORPORATION CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": true,
+      "date": "03/26/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CENTENNIAL RESOURCE DEVELOPMEN CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": true,
+      "date": "08/16/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNIVERSAL HEALTH SVC CL B CMN CLASS B",
+      "tx_type": "S",
+      "cap_gain_over_200": true,
+      "date": "01/18/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BRIGHTHOUSE FINANCIAL, INC. CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "03/26/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LEGGETT & PLATT, INCORPORATED CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "08/05/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CBS CORPORATION CMN CLASS B",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "08/16/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "QURATE RETAIL INC CMN SERIES A",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "08/16/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHIPOTLE MEXICAN GRILL, INC. CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "04/03/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MACERICH COMPANY CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "02/20/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EAST WEST BANCORP INC CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "08/03/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEWELL BRANDS INC CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "02/20/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BPM INTERNATIONAL INC CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "08/03/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "RAYMOND JAMES FINANCIAL, INC. CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "08/12/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ROLLINS INC. CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "06/03/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TECHNIPFMC PLC CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "03/26/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NRG ENERGY, INC. CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "08/03/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CENTENE CORPORATION CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "10/21/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SERVICENOW INC CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": true,
+      "date": "01/18/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MOSAIC COMPANY (THE) CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "03/20/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTERACTIVE BROKERS GROUP, INC CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "08/12/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMERICAN AIRLINES GROUP INC CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "04/29/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEKTAR THERAPEUTICS CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "10/21/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GENERAL MOTORS COMPANY CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "03/26/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BORGWARNER INC. CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "08/12/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PTC INC CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": true,
+      "date": "04/29/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CINTAS CORPORATION CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": true,
+      "date": "01/18/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMERICAN AIRLINES GROUP INC CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "08/12/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "APACHE CORP. CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "04/29/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DIGITAL REALTY TRUST, INC. CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": true,
+      "date": "07/08/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DARDEN RESTAURANTS, INC. CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": true,
+      "date": "04/29/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WPX ENERGY, INC. CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "10/21/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MARTIN MARIETTA MATERIALS,INC CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "01/18/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TIFFANY & CO CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "08/03/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEWMARK GROUP, INC. CMN CLASS A",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "03/26/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LOGMEIN INC CMN",
+      "tx_type": "S(part)",
+      "cap_gain_over_200": false,
+      "date": "06/03/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WHITING PETROLEUM CORPORATION CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "07/08/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TAPESTRY, INC. CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "04/29/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMAZON.COM INC CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "06/05/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "RAYTHEON COMPANY CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "07/08/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WPX ENERGY, INC. CMN",
+      "tx_type": "S",
+      "cap_gain_over_200": false,
+      "date": "07/08/2019",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": null,
+      "field": "tx_type",
+      "read": "Type columns P / S / S(part); col1 (P) unused. col2 X='S', col3 X='S(part)'",
+      "note": "mapped by column position"
+    },
+    {
+      "row": 9,
+      "field": "asset_name",
+      "read": "ROYAL CARIBBEAN CRUISES LTD ISIN: LR0008862868",
+      "note": "ISIN trailing digits partly illegible"
+    },
+    {
+      "row": 31,
+      "field": "asset_name",
+      "read": "BPM INTERNATIONAL INC CMN",
+      "note": "leading letters faint"
+    },
+    {
+      "row": 48,
+      "field": "date",
+      "read": "07/08/2019",
+      "note": "printed year digits read as '20'; recorded 2019 for CY2019 report"
+    },
+    {
+      "row": 49,
+      "field": "date",
+      "read": "04/29/2019",
+      "note": "printed year digits faint"
+    },
+    {
+      "row": 52,
+      "field": "date",
+      "read": "08/03/2019",
+      "note": "faint; could be 06/03/2019"
+    }
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,39 @@
+{
+  "pdf_page": 18,
+  "printed_label": "Page 18 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "FRISCO TEX INDPT SCH DIST ULTD TAX S", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GROSSE ILE TWP MICH LTD TAX GO CAP", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HARTFORD FINANCIAL SERVICES GRP IN", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HASBRO INC COM USD0.50", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HERSHEY COMPANY COM USD1.00", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HONEYWELL INTERNATIONAL INC COM U", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "INTEL CORP COM USD0.001", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "INTERNATIONAL BUS MACH CORP COM U", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "INTERNATIONAL PAPER CO COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "INTERPUBLIC GROUP COS INC COM USD", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "JACKSON ST UNIV EDL BLDG CORP MISS", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "JEA FLA ELEC SYS REV REV BDS SER. TH", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "JOHNSON &JOHNSON COM USD1.00", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "KELLOGG COMPANY COM USD0.25", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "KIMBERLY-CLARK CORP COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "KLA CORP COM NEW", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "KNIGHT-SWIFT TRANSN HLDGS INC CL A", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "LIBERTY BROADBAND CORP COM SER C", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "LINDE PLC COM EUR0.001", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "M &T BANK CORP COM USD0.50", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "value", "read": "None", "note": "Continuation of '2020 Khanna Children Trust' list; every holding marked value 'None' (Block B col A) and income DIVIDENDS. Amount col II ($1-$200) unless noted."},
+    {"row": 1, "field": "income_types", "read": "DIVIDENDS", "note": "FRISCO TEX INDPT SCH DIST (municipal bond) marked DIVIDENDS; probable INTEREST. Name truncated at cell edge. Amount col III ($201-$1,000)."},
+    {"row": 2, "field": "income_types", "read": "DIVIDENDS", "note": "GROSSE ILE TWP MICH LTD TAX GO (municipal bond) marked DIVIDENDS; probable INTEREST. Name truncated. Amount col III ($201-$1,000)."},
+    {"row": 11, "field": "income_types", "read": "DIVIDENDS", "note": "JACKSON ST UNIV EDL BLDG CORP MISS (municipal bond) marked DIVIDENDS; probable INTEREST. Name truncated. Amount col III ($201-$1,000)."},
+    {"row": 12, "field": "income_types", "read": "DIVIDENDS", "note": "JEA FLA ELEC SYS REV REV BDS (municipal revenue bond) marked DIVIDENDS; probable INTEREST. Name truncated. Amount col II ($1-$200)."},
+    {"row": 8, "field": "amount_of_income", "read": "$201-$1,000", "note": "IBM (INTERNATIONAL BUS MACH) at col III ($201-$1,000); name truncated at cell edge"}
+  ],
+  "page_confidence": "high"
+}

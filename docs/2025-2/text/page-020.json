@@ -1,0 +1,32 @@
+{
+  "pdf_page": 20,
+  "printed_label": "20 of 28",
+  "section": "PERIODIC TRANSACTION REPORT",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL/TTE FLEX EURO PM @ 59 EXP 02/14/2025", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/14/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL/SNY FLEX EURO PM @ 51 EXP 02/14/2025", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/14/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 550 EXP 04/30/2025", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/28/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 587 EXP 04/11/2025", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/14/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 581 EXP 04/04/2025", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/06/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 590 EXP 04/17/2025", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 555 EXP 04/17/2025", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/28/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICROSOFT CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THERMO FISHER SCIENTIFIC INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EATON CORP PLC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHUBB LIMITED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KKR & CO. INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/06/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COMCAST CORPORATION CMN CLASS A VOTING", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/27/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMGEN INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": "All rows continue the \"Ritu Ahuja 1994 Trust\" group (no repeated header). Mixed activity: rows 1-2 are CALL option purchases, rows 3-7 are PUT option sales (all amount bucket A, no cap gains/partial), rows 8-17 are equity sales. Option asset names include strike (@ N) and expiration (EXP MM/DD/YYYY) preserved verbatim. MOHAWK INDUSTRIES appears twice (partial sales on 02/06 and 02/27). All notification date 03/05/2025.",
+  "uncertainties": [
+    {"row": 8, "field": "cap_gain_over_200 / partial_sale", "read": "both checked", "note": "Capital Gains Exceed $200 and Partial Transaction columns read from rotated low-res grid; MICROSOFT shows both marked."},
+    {"row": 11, "field": "cap_gain_over_200", "read": "true", "note": "cap-gains vs partial columns for equity sales rows 8-17 are narrow/adjacent; per-row true/false split is best-effort. Confident all rows 8-17 are Sales; less certain which exact cells in cap-gains vs partial carry the X."}
+  ],
+  "page_confidence": "medium"
+}

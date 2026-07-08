@@ -1,0 +1,29 @@
+{
+  "pdf_page": 23,
+  "printed_label": "23 of 28",
+  "section": "PERIODIC TRANSACTION REPORT",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "LENNOX INTERNATIONAL INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "APOLLO GLOBAL MANAGEMENT INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NETAPP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "IDEX CORPORATION COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "OMNICOM GROUP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TERADYNE INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUITY RESIDENTIAL CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HEWLETT PACKARD ENTERPRISE CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOLINA HEALTHCARE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INCYTE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MONDELEZ INTERNATIONAL, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ON SEMICONDUCTOR CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNIVERSAL HEALTH SVC CL B CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AVERY DENNISON CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BIOGEN INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": "All rows continue the \"Ritu Ahuja 1994 Trust\" group (no repeated header). All Sales, all amount bucket A ($1,001-$15,000), all transaction date 02/19/2025, all notification date 03/05/2025. Capital Gains Exceed $200 checked only on row 3 (MICRON). Partial Transaction checked on rows 2,3,9,12,17.",
+  "uncertainties": [],
+  "page_confidence": "high"
+}

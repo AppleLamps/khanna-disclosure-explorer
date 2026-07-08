@@ -1,0 +1,38 @@
+{
+  "pdf_page": 11,
+  "printed_label": "Page 11 of 367",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "FIDELITY GOVERNMENT CASH RESERVES", "eif": true, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TAIWAN SEMICONDUCTOR MANUFACTURING SPON ADS EACH REP 5 ORD", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "STRYKER CORPORATION COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TEXAS INSTRUMENTS INC COM USD1.00", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MASTERCARD INCORPORATED CL A", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VISA INC", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "OTIS WORLDWIDE CORP COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SHERWIN-WILLIAMS CO", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HOME DEPOT INC", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DOMINO S PIZZA INC", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TAIWAN SEMICONDUCTOR MANUFACTURING SPON ADS EACH REP 5 ORD", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DOLLAR GEN CORP NEW COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DANAHER CORPORATION COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "STRYKER CORPORATION COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BRISTOL-MYERS SQUIBB CO COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "AIR PRODUCTS AND CHEMICALS INC", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "group", "text": "MURA Holdings - 2020 Trust FBO Khanna Children"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Management, LLC", "eif": false, "value": "Spouse/DC Asset over $1,000,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": "S(P)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Jana", "eif": true, "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Riverside Technology Capital Solutions II Fund", "eif": true, "value": "$15,001-$50,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Riverside Technology Capital Solutions II Select Fund", "eif": true, "value": "$15,001-$50,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Oak Street MAI Special Opportunity Fund", "eif": true, "value": "None", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 2, "field": "value", "read": "None", "note": "Rows 2-16 (individual equities) all show value X in leftmost Block B col A (None) with dividend income $1-$200 and no transaction; unusual for held blue-chips but that is what the crop shows (likely de-minimis lots)"},
+    {"row": 2, "field": "asset_name", "note": "Taiwan Semiconductor name truncated at column edge in scan (\"...EACH REP 5 O\"); rendered as \"...REP 5 ORD\""},
+    {"row": 18, "field": "amount_of_income", "note": "MAI Capital Management (row 17) and Jana (row 18) block D read as col VII ($15,001-$50,000); column count VII-vs-IX tight in crop"}
+  ],
+  "page_confidence": "medium"
+}
