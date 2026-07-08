@@ -1,0 +1,701 @@
+{
+  "pdf_page": 8,
+  "printed_label": "Page 8 of 9",
+  "section": "Periodic Transaction Report",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MERCK & CO., INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MERCK & CO., INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PFIZER INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COCA-COLA COMPANY [THE] CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WASHINGTON ST GO 5.00% 05/01/22 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "URBAN OUTFITTERS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HANESBRANDS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MERCK & CO., INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CLARK CNTY WASH SCH DIST NO GO 5% 12/01/21 ID",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/SP @ 419 EXP 12/17/2021",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/SP @ 407 EXP 12/17/2021",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/SP @ 402 EXP 11/19/2021",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/SP @ 409 EXP 11/19/2021",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/SP @ 412 EXP 10/29/2021",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALBEMARLE CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VIACOMCBS INC CMN CLASS B",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PFIZER INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICROSOFT CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICRON TECHNOLOGY, INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PFIZER INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CABOT OIL & GAS CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GENERAL DYNAMICS CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTINGHOUSE AIR BRAKE TECHNOL CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PHILLIPS 66 CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICRON TECHNOLOGY, INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTINGHOUSE AIR BRAKE TECHNOL CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ADOBE INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VIATRIS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTINGHOUSE AIR BRAKE TECHNOL CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PFIZER INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ORGANON & CO CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1995 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FLORIDA ST BRD ED LOTTERY REV REV 5% 07/01/22 ID",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HENRICO CNTY VA GO 4% FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LAS VEGAS VALLEY NEV WTR DIST DB 5.0000% ID",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MCKINNEY TEX GO 5.000% FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CLEVELAND OHIO ARPT SYS REV REV 5%",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OHIO ST WTR DEV AUTH WTR REV 5% 4D",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MEMPHIS, TENNESSEE (CITY OF) GO 5.000%",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LAS VEGAS VALLEY NEV WTR DIST DB 5.0000%",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNIVERSITY ALA GEN REV REV 5% 07/01/22 ID",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SUN PRAIRIE WIS GO 4% AO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COOK CNTY ILL CMNTY CONS SCH GO 5% MS",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NORTH CAROLINA ST LTD OBLIG REV 5% ID",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MAINE ST GO 5%",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ROWLETT TEX INDPT SCH DIST GO 4% FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HOUSTON TEX INDPT SCH DIST GO 5% 02/15/22 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NASDAQ INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NASDAQ INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NASDAQ INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NASDAQ INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "METLIFE, INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "METLIFE INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MARSH & MCLENNAN CO INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MORGAN STANLEY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MORGAN STANLEY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MORGAN STANLEY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "METLIFE, INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "METLIFE, INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MORGAN STANLEY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MORGAN STANLEY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "field": "rows",
+      "note": "Page 8 contains faint option/bond rows and repeated equity rows; row inventory preserved, but many dates and several transaction-type alignments are uncertain."
+    }
+  ],
+  "page_confidence": "low"
+}

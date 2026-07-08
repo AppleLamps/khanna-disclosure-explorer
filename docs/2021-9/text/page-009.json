@@ -1,0 +1,22 @@
+{
+  "pdf_page": 9,
+  "printed_label": "Page 9 of 9",
+  "section": "Periodic Transaction Report",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MORGAN STANLEY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "09/15/2021",
+      "notification_date": "10/04/2021",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}
