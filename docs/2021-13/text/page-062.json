@@ -1,0 +1,38 @@
+{
+  "pdf_page": 62,
+  "printed_label": "Page 62 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION HYBRI", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TWILIO INC. CMN CLASS A", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "U.S. BANCORP HYBRID PERPETUAL USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "UBER TECHNOLOGIES, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNION PACIFIC CORP. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNITEDHEALTH GROUP INCORPORATE", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "URBAN OUTFITTERS INC CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VF CORP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VISA INC. CMN CLASS A", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VODAFONE GROUP PUBLIC LIMITED HYB", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "WASTE MANAGEMENT INC CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WELLS FARGO & CO (NEW) CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WELLS FARGO & COMPANY HYBRID PER", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WELLS FARGO & COMPANY HYBRID PER", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WESTINGHOUSE AIR BRAKE TECHNOL C", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 2, "field": "asset_name", "read": "TRUIST FINANCIAL CORPORATION HYBRI", "note": "right edge of printed name is clipped by grid line"},
+    {"row": 7, "field": "asset_name", "read": "UNITEDHEALTH GROUP INCORPORATE", "note": "right edge of printed name is clipped by grid line"},
+    {"row": 12, "field": "asset_name", "read": "VODAFONE GROUP PUBLIC LIMITED HYB", "note": "suffix is partly obscured by the cell boundary"},
+    {"row": 17, "field": "asset_name", "read": "WELLS FARGO & COMPANY HYBRID PER", "note": "right edge of printed name is clipped by grid line"},
+    {"row": 18, "field": "asset_name", "read": "WELLS FARGO & COMPANY HYBRID PER", "note": "right edge of printed name is clipped by grid line"},
+    {"row": 19, "field": "asset_name", "read": "WESTINGHOUSE AIR BRAKE TECHNOL C", "note": "right edge of printed name is clipped by grid line"}
+  ],
+  "page_confidence": "medium"
+}

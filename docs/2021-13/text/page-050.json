@@ -1,0 +1,40 @@
+{
+  "pdf_page": 50,
+  "printed_label": "Page 50 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/APTV FLEX EURO PM 150 EXP 04/01", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/APTV FLEX EURO PM 185 EXP 03/04", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/APTV FLEX EURO PM 190 EXP 01/07", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/APTV FLEX EURO PM 190 EXP 02/04", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AXP FLEX EURO PM @ 182.5 EXP 0[ILLEGIBLE]", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AXP FLEX EURO PM @ 187.5 EXP 0[ILLEGIBLE]", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AXP FLEX EURO PM @ 192.5 EXP 0[ILLEGIBLE]", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AXP FLEX EURO PM @ 195 EXP 01/[ILLEGIBLE]", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/AXP FLEX EURO PM @ 202.5 EXP 0[ILLEGIBLE]", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/CSCO FLEX EURO PM 59 EXP 06/03", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/CSCO FLEX EURO PM 60 EXP 04/01", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/CSCO FLEX EURO PM 61 EXP 01/07", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/CSCO FLEX EURO PM 61 EXP 05/06", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/CSCO FLEX EURO PM 62 EXP 02/04", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/CSCO FLEX EURO PM 66 EXP 03/04", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/CSCO FLEX EURO PM 68 EXP 04/01", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/CVS FLEX EURO PM @ 101 EXP 01/[ILLEGIBLE]", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/CVS FLEX EURO PM @ 101 EXP 02/[ILLEGIBLE]", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/CVS FLEX EURO PM @ 105 EXP 08/[ILLEGIBLE]", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 5, "field": "asset_name", "read": "CALL/AXP FLEX EURO PM @ 182.5 EXP 0[ILLEGIBLE]", "note": "expiry date clipped at right edge of asset-name column"},
+    {"row": 6, "field": "asset_name", "read": "CALL/AXP FLEX EURO PM @ 187.5 EXP 0[ILLEGIBLE]", "note": "expiry date clipped at right edge of asset-name column"},
+    {"row": 7, "field": "asset_name", "read": "CALL/AXP FLEX EURO PM @ 192.5 EXP 0[ILLEGIBLE]", "note": "expiry date clipped at right edge of asset-name column"},
+    {"row": 8, "field": "asset_name", "read": "CALL/AXP FLEX EURO PM @ 195 EXP 01/[ILLEGIBLE]", "note": "expiry day clipped at right edge of asset-name column"},
+    {"row": 9, "field": "asset_name", "read": "CALL/AXP FLEX EURO PM @ 202.5 EXP 0[ILLEGIBLE]", "note": "expiry date clipped at right edge of asset-name column"},
+    {"row": 17, "field": "asset_name", "read": "CALL/CVS FLEX EURO PM @ 101 EXP 01/[ILLEGIBLE]", "note": "expiry day clipped at right edge of asset-name column"},
+    {"row": 18, "field": "asset_name", "read": "CALL/CVS FLEX EURO PM @ 101 EXP 02/[ILLEGIBLE]", "note": "expiry day clipped at right edge of asset-name column"},
+    {"row": 19, "field": "asset_name", "read": "CALL/CVS FLEX EURO PM @ 105 EXP 08/[ILLEGIBLE]", "note": "expiry day clipped at right edge of asset-name column"}
+  ],
+  "page_confidence": "medium"
+}

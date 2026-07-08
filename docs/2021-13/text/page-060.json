@@ -1,0 +1,37 @@
+{
+  "pdf_page": 60,
+  "printed_label": "Page 60 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "N V R INC CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NASDAQ INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NETFLIX, INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NEXTERA ENERGY, INC. CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NIKE CLASS-B CMN CLASS B", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NOVO-NORDISK A/S ADR ADR CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NVIDIA CORPORATION CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "OKTA, INC. CMN CLASS A", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PARAMOUNT GLOBAL CMN CLASS B", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PARKER-HANNIFIN CORP. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PARTNERRE FINANCE B LLC HYBRID 10/", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PFIZER INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, HYBRID", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PROCTER & GAMBLE COMPANY (THE) CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PUBLIC STORAGE CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ROBLOX CORPORATION CMN CLASS A", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "income_types", "read": "NONE", "note": "printed row appears to mark Type of Income NONE while Amount of Income is $1-$200; recorded visible boxes as printed"},
+    {"row": 11, "field": "asset_name", "read": "PARTNERRE FINANCE B LLC HYBRID 10/", "note": "right edge of asset name is truncated/degraded after 'HYBRID 10/'"},
+    {"row": 13, "field": "income_types", "read": "NONE", "note": "printed row appears to mark Type of Income NONE while Amount of Income is $1-$200; recorded visible boxes as printed"},
+    {"row": 14, "field": "income_types", "read": "NONE", "note": "printed row appears to mark Type of Income NONE while Amount of Income is $201-$1,000; recorded visible boxes as printed"},
+    {"row": 15, "field": "asset_name", "read": "PNC FINANCIAL SERVICES GROUP, HYBRID", "note": "right edge of asset name is truncated after HYB/HYBRID"}
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,36 @@
+{
+  "pdf_page": 40,
+  "printed_label": "Page 40 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "ESTEE LAUDER COS INC CL-A CMN CLAS", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "FEDEX CORPORATION CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "FIDELITY NATL INFO SVCS INC CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "FIFTH THIRD BANCORP HYBRID PERPET", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "FIRST CITIZENS BANCSHARES INC HYBR", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "FIRST REPUBLIC BANK CMN SERIES", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "GENERAL ELECTRIC COMPANY CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "GILEAD SCIENCES CMN", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "GLOBAL PRIVATE OPPORTUNITIES PART", "eif": true, "value": "$250,001-$500,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$2,501-$5,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GOLDMAN SACHS BANK USA DEPOSIT (", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GRAPHIC PACKAGING HLDGCO CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GROWTH AND EMERGING MARKETS PRI", "eif": true, "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$2,501-$5,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO RUSSEL", "eif": false, "value": "$500,001-$1,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO S&P 500 I", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$100,001-$1,000,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCIAL SQUARE TREASURY SOLU", "eif": false, "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HANESBRANDS INC. CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HARTFORD FINANCIAL SRVCS GROUP C", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HONEYWELL INTL INC CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Names clipped at the Block A right border include ESTEE LAUDER, FIFTH THIRD hybrid, FIRST CITIZENS hybrid, GLOBAL PRIVATE OPPORTUNITIES, GOLDMAN SACHS BANK USA DEPOSIT, GROWTH AND EMERGING MARKETS, GS FINANCE linked notes, GS FINANCIAL SQUARE, and HARTFORD."},
+    {"row": 9, "field": "amount_of_income", "read": "$2,501-$5,000", "note": "Private opportunities row amount mark is faint; read from alignment with Block D column V."},
+    {"row": 12, "field": "amount_of_income", "read": "$2,501-$5,000", "note": "Growth and Emerging Markets amount mark is faint; read from alignment with Block D column V."},
+    {"row": 14, "field": "amount_of_income", "read": "$100,001-$1,000,000", "note": "GS Finance S&P 500 linked note has a far-right income-amount mark; column IX read from full-page alignment."}
+  ],
+  "page_confidence": "medium"
+}

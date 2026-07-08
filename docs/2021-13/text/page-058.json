@@ -1,0 +1,40 @@
+{
+  "pdf_page": 58,
+  "printed_label": "Page 58 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "HUNTINGTON BANCSHARES INCORPOR CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "INFINERA CORPORATION CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "INTLFLAVORS & FRAGRANCE CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "INTUITIVE SURGICAL, INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO. HYBRID PERPETUAL USD", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO. HYBRID PERPETUAL", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "KERING ADR CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "KIMBERLY-CLARK CORPORATION CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "KKR & CO. INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "KKR GROUP FINANCE CO. IX LLC PFD US", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "LINDE PLC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "LIONS GATE ENTERTAINMENT CORP. CMN CLASS B", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "LULULEMON ATHLETICA INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "LVMH MOET HENNESSY LOUIS VUITTON", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "M&T BANK CORPORATION HYBRID PERPETUAL", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "M&T BANK CORPORATION HYBRID PERPETUAL", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MANDIANT INC/SH CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MARRIOTT INTERNATIONAL, INC CMN CLASS A", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "asset_name", "read": "HUNTINGTON BANCSHARES INCORPOR CMN", "note": "printed name appears truncated at INCORPOR; CMN inferred from matching row naming"},
+    {"row": 6, "field": "asset_name", "read": "JPMORGAN CHASE & CO. HYBRID PERPETUAL USD", "note": "visible text is truncated after 'HYBRID PERPE'; USD designation inferred from matching securities"},
+    {"row": 7, "field": "asset_name", "read": "JPMORGAN CHASE & CO. HYBRID PERPETUAL", "note": "visible text is truncated after 'HYBRID PERPE'"},
+    {"row": 13, "field": "asset_name", "read": "LIONS GATE ENTERTAINMENT CORP. CMN CLASS B", "note": "right edge of asset name is truncated after 'CM'; class B inferred from matching security name"},
+    {"row": 15, "field": "asset_name", "read": "LVMH MOET HENNESSY LOUIS VUITTON", "note": "no trailing security type is visible in the printed row"},
+    {"row": 16, "field": "asset_name", "read": "M&T BANK CORPORATION HYBRID PERPETUAL", "note": "visible text is truncated after 'HYBRID PERP'"},
+    {"row": 17, "field": "asset_name", "read": "M&T BANK CORPORATION HYBRID PERPETUAL", "note": "visible text is truncated after 'HYBRID PERP'"},
+    {"row": 19, "field": "asset_name", "read": "MARRIOTT INTERNATIONAL, INC CMN CLASS A", "note": "right edge of row is truncated after 'CL'; completed from matching security name"}
+  ],
+  "page_confidence": "medium"
+}

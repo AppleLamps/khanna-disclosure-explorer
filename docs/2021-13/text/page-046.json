@@ -1,0 +1,40 @@
+{
+  "pdf_page": 46,
+  "printed_label": "Page 46 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "U.S. BANCORP HYBRID PERPETUAL USD", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "UBER TECHNOLOGIES, INC. CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNION PACIFIC CORP. CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNITEDHEALTH GROUP INCORPORATE C", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "URBAN OUTFITTERS INC CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "VF CORP CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "VINTAGE VIII/WEST STREET CAPITAL PARTNERS VIII ACCESS LP", "eif": true, "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VISA INC. CMN CLASS A", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "VODAFONE GROUP PUBLIC LIMITED HYB", "eif": false, "value": "$1,001-$15,000", "income_types": ["INTEREST", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VOYA FINANCIAL, INC. HYBRID PERPETU", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "WASTE MANAGEMENT INC CMN", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WELLS FARGO & CO (NEW) CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "WELLS FARGO & COMPANY HYBRID PER", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WELLS FARGO & COMPANY HYBRID PER", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEST STREET CAPITAL PARTNERS CO-I", "eif": true, "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEST STREET ENERGY PARTNERS, L.P.", "eif": true, "value": "$50,001-$100,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$5,001-$15,000", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "asset_name", "read": "U.S. BANCORP HYBRID PERPETUAL USD", "note": "name appears truncated at the right edge after USD"},
+    {"row": 4, "field": "asset_name", "read": "UNITEDHEALTH GROUP INCORPORATE C", "note": "right edge clipped; visible text appears to end 'INCORPORATE C'"},
+    {"row": 8, "field": "asset_name", "read": "VINTAGE VIII/WEST STREET CAPITAL PARTNERS VIII ACCESS LP", "note": "right edge clipped on this page; completed from matching prior filing name"},
+    {"row": 10, "field": "asset_name", "read": "VODAFONE GROUP PUBLIC LIMITED HYB", "note": "asset name continues to right edge and is truncated"},
+    {"row": 11, "field": "asset_name", "read": "VOYA FINANCIAL, INC. HYBRID PERPETU", "note": "asset name continues to right edge and is truncated"},
+    {"row": 16, "field": "asset_name", "read": "WELLS FARGO & COMPANY HYBRID PER", "note": "asset name continues to right edge and is truncated"},
+    {"row": 17, "field": "asset_name", "read": "WELLS FARGO & COMPANY HYBRID PER", "note": "asset name continues to right edge and is truncated"},
+    {"row": 19, "field": "amount_of_income", "read": "$5,001-$15,000", "note": "amount X is low in the row and close to grid lines; best read from crop alignment"}
+  ],
+  "page_confidence": "medium"
+}
