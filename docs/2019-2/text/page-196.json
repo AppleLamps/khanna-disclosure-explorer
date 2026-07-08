@@ -1,0 +1,627 @@
+{
+  "pdf_page": 196,
+  "printed_label": "Rohit Khanna 196 of 210",
+  "section": "Schedule B: Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ULTA BEAUTY INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DOMINION RESOURCES INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE BANK OF NY MELLON CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TARGET CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COMMSCOPE HLDGS CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ANTERO MIDSTREAM CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICROCHIP TECHNOLOGY INCORPORA CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MONSTER BEVERAGE CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MARATHON PETROLEUM CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTERNATIONAL PAPER CO CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTERN MIDSTREAM PARTNERS LP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AVNET TECHNOLOGY INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FREEPORT-MCMORAN INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALCOA INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE WILLIAMS COMPANIES INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TRANSCANADA CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GENTEX INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ANDERSON COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BIOGEN IDEC INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHECK POINT SOFTWARE TECH LTD CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GOODYEAR TIRE & RUBBER COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REALTY CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTERCONTINENTAL EXCHANGE INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KELLOGG COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CELANESE CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CIMAREX INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHEMOURS COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HUMANA INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DICKER BANILTO LP UNITS CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CONSTELLATION BRANDS INC CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CARDINAL CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VERTEX PHARMACEUTICALS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ELDON FINANCIAL INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NOMAD FOODS LTD CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALBEMARLE INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EQT CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CONSTELLATION BRANDS INC CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ANTERO MIDSTREAM CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZIONS BANCORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MARATHON OIL CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ACTIVISION BLIZZARD INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ARISTA NETWORKS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AUTODESK INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TYSON INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BUCKEYE PARTNERS LP UNITS CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MACON CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALTERO MIDSTREAM CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DCP MIDSTREAM INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VIACOM INC CMN CLASS B",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIDELITY TECHNOLOGY INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CROWN PHARMACEUTICAL INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ILLUMINA INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALEXANDRIA REAL ESTATE EQUITIES INC",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BOSTON PROPERTY COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTEGRATED DEVICE TECH CO CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KROGER COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HANMI MEDICAL HOLDINGS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "STEPANOS FINANCIAL CORP INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": null,
+      "date": null,
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "text",
+      "read": "Ritu Ahuja 1994 Trust",
+      "note": "group header is degraded; year could be 1995"
+    },
+    {
+      "row": 1,
+      "field": "date",
+      "read": null,
+      "note": "date column is not reliably legible row-by-row in the degraded scan; asset-name inventory preserved from enlarged image crop"
+    },
+    {
+      "row": 1,
+      "field": "tx_type",
+      "read": "Partial Sale",
+      "note": "P/PS/FS column marks are degraded; most rows appear to be sale/partial-sale transactions, encoded as Partial Sale pending row-level review"
+    },
+    {
+      "row": 1,
+      "field": "amount",
+      "read": "$1,001-$15,000",
+      "note": "amount marks generally align with column A, but row-level exceptions may exist; best-effort default used"
+    },
+    {
+      "row": 1,
+      "field": "cap_gain_over_200",
+      "read": null,
+      "note": "capital-gain checkmarks are too faint/ambiguous to resolve consistently"
+    }
+  ],
+  "page_confidence": "low"
+}
