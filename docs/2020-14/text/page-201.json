@@ -1,0 +1,41 @@
+{
+  "pdf_page": 201,
+  "printed_label": "Page 201 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "MONOLITHIC POWER SYSTEMS, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE WILLIAMS COMPANIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "11/3/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WESCO INTERNATIONAL INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WESTERN DIGITAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "11/3/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIBERTY GLOBAL, PLC. CMN CLASS C", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "6/19/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EXELIXIS, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROYAL GOLD, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "12/18/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GARMIN LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "JACOBS ENGINEERING GRP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ORACLE CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "3/9/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BOEING COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DXC TECHNOLOGY COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REINSURANCE GROUP AMER INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROLLINS INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "O-I GLASS, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REPUBLIC SERVICES INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LINCOLN NATL,CORP,INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "9/1/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VORNADO REALTY TRUST CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "1/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUITABLE HOLDINGS INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KIMCO REALTY CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FIRSTENERGY CORP. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "J. M. SMUCKER COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BRAY INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TERADATA CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TEXTRON INC.DEL. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EXPEDIA GROUP INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 23, "field": "asset_name", "read": "BRAY INC. CMN", "note": "Asset name is degraded; could be BRADY INC. CMN, but no clear D/Y letter is visible."}
+  ],
+  "page_confidence": "medium"
+}
