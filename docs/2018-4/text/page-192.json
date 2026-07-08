@@ -1,0 +1,19 @@
+{
+  "pdf_page": 192,
+  "printed_label": "Page 192 of 309",
+  "section": "M&R Schedule B - Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "Invesco Variable Rate ETF (VRIG)", "eif": true, "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/5/2018", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Invesco Variable Rate ETF (VRIG)", "eif": true, "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/12/2018", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/6/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "4/10/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/15/2018", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": "all", "field": "eif", "note": "EIF is printed above the two Invesco Variable Rate ETF columns only; Adobe columns are blank in the EIF row."}
+  ],
+  "page_confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "pdf_page": 193,
+  "printed_label": "Page 193 of 309",
+  "section": "M&R Schedule B - Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/17/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/12/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Adobe Inc (ADBE)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/28/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Alliance Data Systems Corp (ADS)", "eif": false, "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "1/24/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Alliance Data Systems Corp (ADS)", "eif": false, "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/23/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Alliance Data Systems Corp (ADS)", "eif": false, "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/9/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Allergan PLC SHS (AGN)", "eif": false, "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "1/24/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Allergan PLC SHS (AGN)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/16/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Allergan PLC SHS (AGN)", "eif": false, "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "4/10/2018", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": "all", "field": "amount/tx_type/cap_gain_over_200", "note": "Transposed continuation grid (columns = transactions) with row-label column cropped off-page; checkbox rows decoded by y-position against labeled page 175. Page 193 amount marks align to C: $1,001-$15,000; type/capital-gain marks decoded from the lower bands."},
+    {"row": "all", "field": "eif", "note": "EIF header row is blank on this continuation page; all listed securities are individual equities, so eif set false."}
+  ],
+  "page_confidence": "medium"
+}
