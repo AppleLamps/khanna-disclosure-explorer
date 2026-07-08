@@ -1,0 +1,43 @@
+{
+  "pdf_page": 169,
+  "printed_label": "Page 169 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "AMETEK INC (NEW) CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "1/8/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GRAPHIC PACKAGING HLDGCO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "3/30/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AT&T INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "2/24/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NETFLIX, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "7/29/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PROLOGIS INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "3/24/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MEDTRONIC PUBLIC LIMITED COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "6/23/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KROGER COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELI LILLY & CO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "11/3/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SOUTH-WESTERN CITY SCH DIST GO 4.0000% 12/01/20 JD", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "10/6/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HAYS CNTY TEX DB 3% 02/15/21 FA", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "9/14/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "9/23/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STRYKER CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "2/11/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ILLINOIS TOOL WORKS CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "1/8/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL ELECTRIC CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CITIGROUP INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "3/24/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KINDER MORGAN INC CMN CLASS P", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "1/8/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AFLAC INCORPORATED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "5/20/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MERCK & CO., INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "4/22/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALBEMARLE CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "11/3/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALBEMARLE CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "6/4/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FEDEX CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "9/14/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CISCO SYSTEMS, INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "11/3/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FEDEX CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "9/14/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MERCK & CO., INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "3/31/2020", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 10, "field": "asset_name", "read": "SOUTH-WESTERN CITY SCH DIST GO 4.0000% 12/01/20 JD", "note": "long bond name degraded; tesseract partially agrees but suffix is hard to read"},
+    {"row": 11, "field": "asset_name", "read": "HAYS CNTY TEX DB 3% 02/15/21 FA", "note": "bond description degraded"},
+    {"row": 18, "field": "asset_name", "read": "KINDER MORGAN INC CMN CLASS P", "note": "class suffix appears to be P but scan is degraded"}
+  ],
+  "page_confidence": "medium"
+}

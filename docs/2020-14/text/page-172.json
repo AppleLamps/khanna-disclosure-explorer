@@ -1,0 +1,42 @@
+{
+  "pdf_page": 172,
+  "printed_label": "Page 172 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "BOOKING HOLDINGS INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "3/24/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "U.S. BANCORP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "5/20/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALPHABET INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "12/18/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SALESFORCE.COM, INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "9/29/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CME GROUP INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "5/20/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CME GROUP INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "11/3/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ANTHEM, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "7/29/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "1/8/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PACCAR INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "1/8/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CIGNA CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "7/29/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE SOUTHERN CO. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "12/31/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "6/16/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMEREN CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "12/31/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MERCK & CO., INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "4/16/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "6/12/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICROCHIP TECHNOLOGY INCORPORA CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "1/8/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL DYNAMICS CORP. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "3/24/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DELTA AIR LINES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "5/13/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GRAPHIC PACKAGING HLDGCO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "12/7/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE TRAVELERS COMPANIES, INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "1/8/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AON PLC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "4/14/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WEC ENERGY GROUP, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "12/31/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHARLES SCHWAB CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "7/28/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "APPLE INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "2/11/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "7/29/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AUTODESK, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "11/3/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN ELECTRIC POWER INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "12/31/2020", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 16, "field": "asset_name", "read": "MICROCHIP TECHNOLOGY INCORPORA CMN", "note": "printed row appears truncated as INCORPORA"},
+    {"row": 17, "field": "cap_gain_over_200", "read": "false", "note": "capital-gains column speckled; no clear X visible"}
+  ],
+  "page_confidence": "medium"
+}
