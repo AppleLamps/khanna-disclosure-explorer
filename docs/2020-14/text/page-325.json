@@ -1,0 +1,133 @@
+{
+  "pdf_page": 325,
+  "printed_label": "Page 325 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Declaration of Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "N Y ST ENV FACS CORP REV 5% 10/15/28 AO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/19/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEW YORK N Y GO 5% 08/01/26 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "2/13/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BUILD NYC RESOURCE CORP N Y REV 4.0000% 11/01/26-CA MN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "4/17/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NY CITY TRANSITIONAL FIN AUTH GO 5.0000% 11/01/24 MN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "6/8/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SALES TAX ASSET RECEIVABLE REV 5.0000% 10/15/20 AO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/2/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "POLAND N Y CENT SCH DIST GO 1.5000% 06/25/21 ID",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "6/23/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHIPPEWA VALLEY MICH SCHS GO 1.4290% 05/01/28 MN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "8/26/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ERIE CNTY N Y GO 1.0730% 04/01/25-CA AO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/8/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TOMPKINS CNTY N Y DEV CORP REV REV 5.0000% 07/01/21 JJ",
+      "tx_type": "Exchange",
+      "cap_gain_over_200": false,
+      "date": "12/14/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NORTHEAST OHIO REGL SWR DIST REV 4% 11/15/20 MN",
+      "tx_type": "Exchange",
+      "cap_gain_over_200": false,
+      "date": "9/28/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NY ST ENVIRONMENTAL FACS CO REV 4.0000% 06/15/20 JD",
+      "tx_type": "Exchange",
+      "cap_gain_over_200": false,
+      "date": "4/20/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 10,
+      "field": "asset_name",
+      "read": "TOMPKINS CNTY N Y DEV CORP REV REV 5.0000% 07/01/21 JJ",
+      "note": "Final two-letter code is scan-noisy; best reading is JJ."
+    }
+  ],
+  "page_confidence": "medium"
+}

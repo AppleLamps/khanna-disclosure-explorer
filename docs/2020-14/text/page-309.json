@@ -1,0 +1,27 @@
+{
+  "pdf_page": 309,
+  "printed_label": "Page 309 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1995 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOSAIC COMPANY (THE) CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FIVE STAR SENIOR LIVING INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WESTERN MIDSTREAM PARTNERS LP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/1/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHENIERE ENERGY, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ARCONIC CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SHELL MIDSTREAM PARTNERS, L.P. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/30/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ENERGY TRANSFER LP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/30/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DELL TECHNOLOGIES INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ENERGY TRANSFER LP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "6/30/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "RTS/T-MOBILE US, INC. EXP07/27/2020", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "7/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SHELL MIDSTREAM PARTNERS, L.P. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "6/30/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE WILLIAMS COMPANIES, INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "6/30/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CRESTWOOD EQUITY PARTNERS LP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "4/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CRESTWOOD EQUITY PARTNERS LP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/6/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}
