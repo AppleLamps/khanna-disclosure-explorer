@@ -1,0 +1,42 @@
+{
+  "pdf_page": 141,
+  "printed_label": "Page 141 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CENTERPOINT ENERGY, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NETFLIX, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NETFLIX, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIONS GATE ENTERTAINMENT CORP. CMN CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MC DONALDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MARSH & MCLENNAN CO INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TYSON FOODS INC CL A CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIONS GATE ENTERTAINMENT CORP. CMN CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/17/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SCHLUMBERGER LTD CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL DYNAMICS CORP, CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WATERS CORPORATION COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PNC FINANCIAL SERVICES GROUP, CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LOCKHEED MARTIN CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "XEROX HOLDINGS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUBLIC SVC ENTERPRISE GROUP HOLDING CO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "RAYTHEON TECHNOLOGIES CORPORAT CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WEYERHAEUSER COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KROGER COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VARIAN MEDICAL SYSTEMS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TD AMERITRADE HOLDING CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUKE ENERGY CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/1/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ANALOG DEVICES, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/1/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CDW CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORTEVA, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AFFILIATED MANAGERS GROUP INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TE CONNECTIVITY LTD CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "L3HARRIS TECHNOLOGIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 16, "field": "asset_name", "read": "RAYTHEON TECHNOLOGIES CORPORAT CMN", "note": "Right edge is truncated/degraded; transcribed as visible."}
+  ],
+  "page_confidence": "medium"
+}

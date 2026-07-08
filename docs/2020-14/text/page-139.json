@@ -1,0 +1,43 @@
+{
+  "pdf_page": 139,
+  "printed_label": "Page 139 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PPL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CITIGROUP INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MHO INVESTMENT CORP COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/21/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WASTE MANAGEMENT INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/25/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ANTHEM, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/1/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WPX ENERGY, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/19/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CME GROUP INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ANTHEM, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/25/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PHILLIPS 66 CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ADVANCED MICRO DEVICES, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DEXCOM, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STRYKER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WPX ENERGY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/27/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE HOME DEPOT, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN WATER WORKS CO, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DENTSPLY SIRONA INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DOMINION ENERGY INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KIRBY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/2/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COMERICA INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BOSTON PROPERTIES, INC. COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CUMMINS INC COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN ELECTRIC POWER INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TWITTER, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MARTIN MARIETTA MATERIALS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/1/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LINCOLN NATL CORP INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 3, "field": "asset_name", "read": "MHO INVESTMENT CORP COMMON STOCK", "note": "First letters are degraded; read from enlarged crop."},
+    {"row": 19, "field": "asset_name", "read": "KIRBY, INC. CMN", "note": "Degraded scan; nearby holdings use KIRBY CORPORATION CMN, but this row appears shorter and is transcribed as visible."}
+  ],
+  "page_confidence": "medium"
+}
