@@ -1,0 +1,275 @@
+{
+  "pdf_page": 165,
+  "printed_label": "Page 165 of 303",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "M&R Trust Partnership - 2020 Trust FBO Khanna Children"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Adobe Inc",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "03/24/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Agilent Technologies",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Air Prod & Chem Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Amazon Inc.",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "10/19/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Ansys Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Aon PLC",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Arch Capital Group Ltd.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Ares Management Corp",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "05/06/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Ares Management Corp.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Autodesk Inc, Delaware",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Black Knight Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Bright Horizons Family Solutions",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Brookfield Asset Management Ltd.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "06/04/2021",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Brookfield Infrastructure Corp.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "02/04/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Brookfield Renewable Corp",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "02/08/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Brown & Brown Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Brown Forman Corp. Class B",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Carmax Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CBRE Group Inc",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "05/21/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CBRE Group Inc.",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "06/16/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CBRE Group Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Chipotle Mexican Grill Inc.",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "03/26/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CME Group Inc.",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "03/08/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CME Group Inc.",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/05/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 5,
+      "field": "tx_type",
+      "read": "Sale and Partial Sale both marked",
+      "note": "Encoded as Partial Sale because both Sale and Partial Sale boxes appear marked."
+    },
+    {
+      "row": 20,
+      "field": "tx_type",
+      "read": "Sale and Partial Sale both marked",
+      "note": "Encoded as Partial Sale because both Sale and Partial Sale boxes appear marked."
+    },
+    {
+      "row": 21,
+      "field": "tx_type",
+      "read": "Sale and Partial Sale both marked",
+      "note": "Encoded as Partial Sale because both Sale and Partial Sale boxes appear marked."
+    }
+  ],
+  "page_confidence": "medium"
+}
