@@ -1,0 +1,40 @@
+{
+  "pdf_page": 99,
+  "printed_label": "Page 99 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "THE M&R TRUST PARTNERSHIP\n- Ritu Ahuja 1994 Trust\n- Ritu Ahuja 1995 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUIFAX INC(EFX)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/02/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TRANSDIGM GROUP INC(TDG)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COLFAX CORP(CFX)", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "11/02/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SBA COMMUNICATIONS CORP NEW CL A(SBAC)", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "06/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SQUARE INC CLASS A(SQ)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BRIGHT HORIZONS FAMILY SOLUT(BFAM)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "08/26/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AGILENT TECHNOLOGIES(A)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/27/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GUIDEWIRE SOFTWARE INC(GWRE)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "06/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIVE NATION ENTERTAINMENT INC(LYV)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "06/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KENNEDY-WILSON HLDGS INC COM(KW)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIBERTY GLOBAL PLC CL C(LBTYK)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUIFAX INC(EFX)", "tx_type": "Sale", "cap_gain_over_200": true, "date": "11/18/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FIRST REP BK SAN FRANCISCO CAL(FRC)", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "05/27/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COSTAR GROUP INC(CSGP)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/27/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HEICO CORP CLASS A(HEIA)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MSILF TREASURY SECURITIES INST(MSU)", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "01/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIBERTY MEDIA C SER C SIRIUSXM(LSXMK)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERCO(UHAL)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERCO(UHAL)", "tx_type": "Sale", "cap_gain_over_200": false, "date": "05/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TYLER TECHNOLOGIES INC(TYL)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "06/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HYATT HOTELS CORP COM CL A(H)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HOWARD HUGHES CORP(HHC)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIBERTY BROADBAND CORP S-A(LBRDA)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "S&P GLOBAL INC COM(SPGI)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 16, "field": "asset_name", "read": "MSILF TREASURY SECURITIES INST(MSU)", "note": "Ticker/ending is degraded on this page; spelling follows earlier page-012 and nearby page-103 transcription."},
+    {"row": null, "field": null, "read": null, "note": "Heavily stippled Schedule B page; visible amount marks fall in column A ($1,001-$15,000)."}
+  ],
+  "page_confidence": "medium"
+}
