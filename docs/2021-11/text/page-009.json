@@ -1,0 +1,609 @@
+{
+  "pdf_page": 9,
+  "printed_label": "Page 9 of 11",
+  "section": "Periodic Transaction Report",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DELL TECHNOLOGIES INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DOMINO'S PIZZA INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SNAP INC CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEW YORK TIMES CO. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SQUARE INC. CL A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BAXTER INTERNATIONAL INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WHIRLPOOL CORP. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OMNICOM GROUP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VIC PROPERTIES INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PROTERRA PROSE CORPORATION",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CITRIX SYSTEMS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BROADRIDGE FINANCIAL SOLUTIONS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ROKU, INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VIACOMCBS INC CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FLEX LTD. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TRANSUNION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TANDEM THERAPEUTICS PLC ORD",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "Muni Ahuja 1995 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "RHODE ISLAND CLEAN WTR FIN AGY REV 5% 10/01/22 AO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BUFFALO MNS INDPT SCH DIST NO GO 5% 02/01/22 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BALDWIN CNTY ALA GO 5% 06/01/22 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ST PETER MINN INDPT SCH DIST GO 5% 02/01/22 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COLLIN CNTY TEX GO 5% 02/15/22 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WASHINGTON ST HEALTH CARE FACS REV 4% FA 08/05/22 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEW MEXICO FIN AUTH REV REV 5.000% 06/15/22 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OHIO ST MENTAL HEALTH CAP FACS REV 5.000% 06/15/22 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SWARTHMORE BORO AUTH PA COLL REV 5.000% 09/15/22 MS",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/09/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BECTON, DICKINSON AND COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIDELITY NATL INFO SVCS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BECTON, DICKINSON AND COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TEXAS INSTRUMENTS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VF CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZYNGA INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BECTON, DICKINSON AND COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SS&C TECHNOLOGIES HOLDINGS, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SS&C TECHNOLOGIES HOLDINGS, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KKR & CO. INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "META PLATFORMS INC CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VISA INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BECTON, DICKINSON AND COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BECTON, DICKINSON AND COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HUMANA INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SS&C TECHNOLOGIES HOLDINGS, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TEXAS INSTRUMENTS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VERIZON COMMUNICATIONS, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHARTER COMMUNICATIONS, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MONDELEZ INTERNATIONAL, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WALT DISNEY COMPANY (THE) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KKR & CO. INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIRST REPUBLIC BANK CMN SERIES",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GILEAD SCIENCES CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GILEAD SCIENCES CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GILEAD SCIENCES CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHARLES SCHWAB CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIRST REPUBLIC BANK CMN SERIES",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHARLES SCHWAB CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHARLES SCHWAB CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GILEAD SCIENCES CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "11/15/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": null,
+      "field": "asset_name",
+      "read": "TANDEM THERAPEUTICS PLC ORD; PROTERRA PROSE CORPORATION; FIRST REPUBLIC BANK CMN SERIES",
+      "note": "These names are hard to resolve from the low-contrast scan/OCR."
+    },
+    {
+      "row": null,
+      "field": "amount",
+      "read": "municipal bond purchase buckets B/C",
+      "note": "Bond amount checks transcribed from right-side columns; row alignment is the most likely residual risk."
+    }
+  ],
+  "page_confidence": "medium"
+}

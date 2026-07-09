@@ -1,0 +1,267 @@
+{
+  "pdf_page": 11,
+  "printed_label": "Page 11 of 11",
+  "section": "Periodic Transaction Report",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "MURA Holdings"
+    },
+    {
+      "kind": "group",
+      "text": "Grandchildren Trust Khanna children"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MASTERCARD INCORPORATED CL A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "FARFETCH LTD COM USD0.04 CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ACTIVISION BLIZZARD INC COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "VISA INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TEXAS INSTRUMENTS INC COM USD1.00",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TAIWAN SEMICONDUCTOR MANUFACTURING SPON ADS EACH REP",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "STRYKER CORPORATION COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SHERWIN-WILLIAMS CO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ROKU INC COM CL A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PAYPAL HLDGS INC COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OTIS WORLDWIDE CORP COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MATCH GROUP INC NEW COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HOME DEPOT INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "FARFETCH LTD COM USD0.04 CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "META PLATFORMS INC CLASS A COMMON STOCK",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DOMINO'S PIZZA INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DISNEY WALT CO COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BOSTON SCIENTIFIC CORP",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BOEING CO COM USD5.00",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AUTODESK INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AMAZON.COM INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ALPHABET INC CAP STK CL A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ADOBE SYSTEMS INCORPORATED COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ACTIVISION BLIZZARD INC COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/02/2021",
+      "notification_date": "12/06/2021",
+      "amount": "$15,001-$50,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": null,
+      "field": "group",
+      "read": "Grandchildren Trust Khanna children",
+      "note": "Group label is partly obscured; tesseract reads Grandchildren and page image shows MURA Holdings."
+    }
+  ],
+  "page_confidence": "medium"
+}
