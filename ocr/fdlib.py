@@ -46,6 +46,7 @@ if os.path.exists(_descr_path):
 MONTH_CODES = {"JJ": "Jan/Jul", "FA": "Feb/Aug", "MS": "Mar/Sep", "AO": "Apr/Oct", "MN": "May/Nov", "JD": "Jun/Dec"}
 OPT_RX = re.compile(r"^(CALL|PUT)[ /|(]?([A-Z.]{1,6})\)?\b.*?(?:@ ?)?([\d.]+)\s*EXP\s*(\d{2}/\d{2}/\d{4})", re.I)
 MUNI_RX = re.compile(r"^(.*?)\s(\d+(?:\.\d+)?)%\s*(?:.*?)(\d{2}/\d{2}/\d{2,4})?\s*(JJ|FA|MS|AO|MN|JD)?$")
+TICKER_RX = re.compile(r"^(.+?)\s*\(([A-Z.]{1,6})\)\s*$")
 
 def title(s):
     small = {"of", "and", "the", "for", "de"}
@@ -59,10 +60,23 @@ def title(s):
 
 def rule_descriptor(name, cls):
     n = (name or "").strip()
+    if not n:
+        return "Reported line item with no legible asset name"
+    if re.search(r"\[ILLEGIBLE", n, re.I):
+        return "Unidentified holding or transaction row; source text was illegible"
     m = OPT_RX.match(n)
     if m:
         kind, tick, strike, exp = m.groups()
         return f"{kind.capitalize()} option on {tick.upper()} — ${strike} strike, expires {exp}"
+    m_ticker = TICKER_RX.match(n)
+    if m_ticker:
+        return f"Security identified on the form as {title(m_ticker.group(1))}, ticker {m_ticker.group(2).upper()}"
+    if re.search(r"CAPITAL CALL", n, re.I):
+        return f"Capital call for private fund / partnership investment — {title(n)}"
+    if re.search(r"COUNTRY CLUB|GOLF|CONDO|COMMERCIAL PROPERTY|LOCATION:", n, re.I):
+        return f"Real estate or club/property interest — {title(n)}"
+    if re.search(r"STRUCTURED NOTE|TRIGGER PLUS|PARTICIPATION SECURITIES|EURO STOXX", n, re.I):
+        return f"Structured note or market-linked security — {title(n)}"
     if cls == "Municipal & gov bonds":
         m2 = MUNI_RX.match(n)
         if m2 and m2.group(2):
@@ -90,7 +104,7 @@ def rule_descriptor(name, cls):
         return "Cash or bank deposit"
     if cls == "Funds & ETFs":
         return f"Investment fund — {title(n)}"
-    return None
+    return f"Reported asset or transaction line item — {title(n)}"
 
 def descriptor(name, cls):
     d = DESCR.get(name)
