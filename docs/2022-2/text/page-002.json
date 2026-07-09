@@ -1,0 +1,20 @@
+{
+  "pdf_page": 2,
+  "printed_label": "Page 2 of 13",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "M&R Trust Partnership"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Visa Inc.", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/07/2022", "notification_date": "02/01/2022", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PayPal Holdings Inc.", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/07/2022", "notification_date": "02/01/2022", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Bumble Inc.", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/07/2022", "notification_date": "02/01/2022", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Align Technology", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/07/2022", "notification_date": "02/01/2022", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Snap Inc.", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/07/2022", "notification_date": "02/01/2022", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Netflix Inc.", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/07/2022", "notification_date": "02/01/2022", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Match Group Inc.", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/07/2022", "notification_date": "02/01/2022", "amount": "$50,001-$100,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}
