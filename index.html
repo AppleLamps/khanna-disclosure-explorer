@@ -3,27 +3,62 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ro Khanna Financial Disclosure Explorer — 2024</title>
+<title>Ro Khanna Finances, Net Worth & Stock Trades | Financial Disclosure Explorer</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💸</text></svg>">
+<link rel="canonical" href="https://khanna-disclosure-explorer.vercel.app/">
 
 <!-- Social sharing. Absolute URLs point at the default Vercel domain for this repo
      (project "khanna-disclosure-explorer"). If you rename the Vercel project or add a
      custom domain, update og:url, og:image, and twitter:image below. -->
-<meta name="description" content="Independent, searchable transcription of Rep. Ro Khanna's (CA-17) 2024 House financial disclosure — every holding, transaction, and original scanned page.">
+<meta name="description" content="Search Ro Khanna's finances, estimated net worth range, assets, investments, and stock trades from House financial disclosures, with source PDFs and scanned pages.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="keywords" content="Ro Khanna finances, Ro Khanna net worth, Ro Khanna trades, Ro Khanna stock trades, Ro Khanna financial disclosure, congressional stock trades">
+<meta name="author" content="Khanna Disclosure Explorer">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Ro Khanna Financial Disclosure Explorer">
 <meta property="og:url" content="https://khanna-disclosure-explorer.vercel.app/">
-<meta property="og:title" content="Ro Khanna Financial Disclosure Explorer">
-<meta property="og:description" content="Congressman Khanna did not choose to use searchable electronic filing, so we made it searchable for him.">
+<meta property="og:title" content="Ro Khanna Finances, Net Worth & Stock Trades">
+<meta property="og:description" content="Searchable House disclosure data for Ro Khanna's finances, assets, estimated net worth range, and stock trades, linked back to the original scanned filings.">
 <meta property="og:image" content="https://khanna-disclosure-explorer.vercel.app/assets/og-image.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Rep. Ro Khanna speaking at a House hearing">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ro Khanna Financial Disclosure Explorer">
-<meta name="twitter:description" content="Congressman Khanna did not choose to use searchable electronic filing, so we made it searchable for him.">
+<meta name="twitter:title" content="Ro Khanna Finances, Net Worth & Stock Trades">
+<meta name="twitter:description" content="Search Ro Khanna's finances, assets, estimated net worth range, and stock trades from House financial disclosures.">
 <meta name="twitter:image" content="https://khanna-disclosure-explorer.vercel.app/assets/og-image.jpg">
 <meta name="twitter:image:alt" content="Rep. Ro Khanna speaking at a House hearing">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Ro Khanna Financial Disclosure Explorer",
+  "description": "Searchable transcription of Rep. Ro Khanna's House financial disclosures, including assets, investments, transaction ranges, stock trades, and estimated net worth ranges from official filings.",
+  "url": "https://khanna-disclosure-explorer.vercel.app/",
+  "keywords": [
+    "Ro Khanna finances",
+    "Ro Khanna net worth",
+    "Ro Khanna trades",
+    "Ro Khanna stock trades",
+    "Ro Khanna financial disclosure",
+    "congressional stock trades"
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "Khanna Disclosure Explorer"
+  },
+  "about": {
+    "@type": "Person",
+    "name": "Ro Khanna",
+    "alternateName": "Rohit Khanna",
+    "jobTitle": "U.S. Representative"
+  },
+  "spatialCoverage": "California 17th congressional district",
+  "temporalCoverage": "2016/2026",
+  "isBasedOn": "https://disclosures-clerk.house.gov/",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+</script>
 <style>
   :root {
     --bg:#fafafa; --panel:#fff; --ink:#16181d; --muted:#667085; --line:#e4e7ec;
@@ -182,7 +217,7 @@
       <img class="avatar" src="assets/khanna.jpg" alt="Rep. Ro Khanna at a House hearing" title="Photo: Kevin Dietsch/Getty Images">
       <div class="masttext">
         <div class="kicker">2024 Annual Financial Disclosure · U.S. House · California 17th</div>
-        <h1>Ro Khanna Financial Disclosure Explorer</h1>
+        <h1>Ro Khanna Finances, Net Worth &amp; Stock Trades</h1>
       </div>
       <div class="socials">
         <a href="https://www.facebook.com/RepRoKhanna" target="_blank" rel="noopener" aria-label="Rep. Khanna on Facebook" title="Facebook">
@@ -197,8 +232,9 @@
       hand-delivered, unsearchable paper scans rather than through the House's electronic filing system.
       This site transcribes those
       <a id="srclink" href="#" target="_blank" rel="noopener">filings (Clerk of the House, PDF)</a>
-      to make his finances readable, searchable, and analyzable. Dollar figures are the statutory ranges
-      reported on the forms.</p>
+      to make his finances, assets, investments, estimated net worth range, and stock trades readable,
+      searchable, and analyzable. Dollar figures are the statutory ranges reported on the forms, not exact
+      personal net worth values.</p>
     <div class="processing-banner">Hundreds of Disclosures still Processing! Dashboard shows currently processed pages.</div>
     <nav class="tabs">
       <button data-v="overview" class="on">Overview</button>
@@ -299,6 +335,20 @@
 <script>
 const FD_YEARS = {'2016':'data-2016.js','2017':'data-2017.js','2018':'data-2018.js','2019':'data-2019.js','2020':'data-2020.js','2021':'data-2021.js','2022':'data-2022.js','2023':'data-2023.js','2024':'data-2024.js','2025':'data-2025.js','2026':'data-2026.js'};
 const FD_YEAR = (()=>{const y=new URLSearchParams(location.search).get('year');return FD_YEARS[y]?y:'2024';})();
+(() => {
+  const base = 'https://khanna-disclosure-explorer.vercel.app/';
+  const url = FD_YEAR === '2024' ? base : `${base}?year=${FD_YEAR}`;
+  const title = `Ro Khanna ${FD_YEAR} Finances, Net Worth & Stock Trades`;
+  const desc = `Search Ro Khanna's ${FD_YEAR} finances, estimated net worth range, assets, investments, and stock trades from House financial disclosures.`;
+  document.title = title;
+  document.querySelector('link[rel="canonical"]').href = url;
+  document.querySelector('meta[name="description"]').content = desc;
+  document.querySelector('meta[property="og:url"]').content = url;
+  document.querySelector('meta[property="og:title"]').content = title;
+  document.querySelector('meta[property="og:description"]').content = desc;
+  document.querySelector('meta[name="twitter:title"]').content = title;
+  document.querySelector('meta[name="twitter:description"]').content = desc;
+})();
 document.write('<script src="'+FD_YEARS[FD_YEAR]+'"><\/script>');
 </script>
 <script>

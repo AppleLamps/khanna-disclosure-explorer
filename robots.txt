@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khanna-disclosure-explorer.vercel.app/sitemap.xml
