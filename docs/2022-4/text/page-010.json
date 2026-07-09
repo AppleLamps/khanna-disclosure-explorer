@@ -1,0 +1,368 @@
+{
+  "pdf_page": 10,
+  "printed_label": "Page 10 of 10",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": null,
+      "asset_name": "MURA Holdings",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "STRYKXERCORPORATIONCOM",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": null,
+      "asset_name": "Fons wORLOWiOE CORP COM}",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "\" JBOSTONSCIENTIFICCORP Tid",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "{MICROSOFT CORP x",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "{BRISTOL-MYERS SQUIBB CO COM 7",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": null,
+      "asset_name": "5P TARWAN SEMICONDUCTOR MANUFACTURING SPON ADS EACH RE",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "(SHERWIN-WILLIAMS CO",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CINGROUP INC TT",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ACTIVISION BLIZZARD INC COM FT",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": null,
+      "asset_name": "Grondchikiren Trust (Khenne Portion)",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "(STRYKER CORPORATION COM",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": null,
+      "asset_name": "OX DTis WOMLOWIDE CORP COM",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BOSTON SCIENTIFIC CORP",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SCHWAB CHARLES CORP COM ¥",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "IMICROSOFT CoRF 1 Xx",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "IBAISTOL-MYFRs SQUIBD CO COM 1} ¥ {",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "{TAIWAN SCMICONDUCTOR MANUFACTURING SPON ADS EACH AE",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ISHERWIN.WhUAMS CO",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "IDOMINO $ PIZZA INC r x",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "IMATCH GROUP INC NTW COM",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "!CMGROUP INC",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ACTIVISION BLLZZARD INC COM",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": null,
+      "asset_name": ". -.2020 Trust FBO Khanna Children",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OTIS WORLDWIDE CORP COM",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "IBOSTON SCIENTIFIC CORP t",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TAIWAN SIMICONDUCTOR MANUFACTURING SPONADSCACHRE] =",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SHeAWINWILAMSCO SY",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DOMINO 5 PIZZA INC 7",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MATCH GROUP INC NEW COM",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "lOTIGROUP INC l i",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": null,
+      "asset_name": ". oc ACTIVISION BLIZZARD INC COM",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "STHVKERTORPORATIONCOM —— a",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JOMS WORLDWIDE CORPCOM CY OdYCSSCS *dSSSSCSSYC a2? pa",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JBOSTON SCIENTIFIC COMP SS SSCS aA",
+      "tx_type": null,
+      "cap_gain_over_200": false,
+      "date": null,
+      "notification_date": "04/04/2022",
+      "amount": null
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "field": "page",
+      "read": "35 transaction rows emitted from grid-band OCR",
+      "note": "Dense reduced attachment page; asset names are OCR-assisted and transaction type/amount cells are not reliably resolved from this scan pass. Review against image before analytical use."
+    }
+  ],
+  "page_confidence": "low"
+}
