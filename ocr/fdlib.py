@@ -24,10 +24,10 @@ CLASS_RULES = [
     ("Preferred & hybrid securities", re.compile(r"\bPFD\b|\bHYBRID\b|PERPETUAL USD|JRSUB|JR SUB|SR LIEN|\bCPN\b|PREFERRED", re.I)),
     ("Municipal & gov bonds", re.compile(r"\d(\.\d+)?%.*\d{2}/\d{2}/\d{2}|\b(GO|REV|SCH DIST|SCHS|WTR|SWR|DEV AUTH|EXMP|VLG|BLDG CORP|TRANSN|HWY|CONVENTION|CORRECTIONAL|ISSUES DTD|DB 5%|SPL REV|CAP FACS|RECPTS|OBLIG)\b", re.I)),
     ("Common stock", re.compile(r"\bCMN\b|COMMON STOCK|\bCOM\b|\bADR\b|\bADS\b|\bISIN\b|^ABBOTT LABORATORIES$", re.I)),
-    ("Hedge funds & private funds", re.compile(r"HEDGE FUND|FUND SELECT|COMMITMENT|PARTNERS\b|PARTNERSHIP|OPPORTUNITIES|CREDIT PARTNERS|\bSLP\b|SOF ILP|ONSHORE \(|PE PREMIER|\bBPCP\b|OP UNITS|\bLLC\b|\bL\.?P\.?\b|CAPITAL ACCESS|ACCESS LLC", re.I)),
+    ("Hedge funds & private funds", re.compile(r"HEDGE FUND|FUND SELECT|COMMITMENT|PARTNERS\b|PARTNERSHIP|OPPORTUNITIES|CREDIT PARTNERS|\bSLP\b|SOF ILP|ONSHORE \(|ONSHORE|PE PREMIER|\bBPCP\b|OP UNITS|\bLLC\b|\bL\.?P\.?\b|CAPITAL ACCESS|ACCESS LLC|GROWTH AND EMERGING MARKETS|RIVERSIDE TECHNOLOGY CAPITAL", re.I)),
     ("Cash & deposits", re.compile(r"MONEY MARKET|CASH|DEPOSIT|CHECKING|SAVINGS|\bCD\b|TREASURY BILL|T-BILL|MSILF|TREASURY SECURITIES|U ?S DOLLAR|U\.S\. DOLLAR", re.I)),
-    ("Funds & ETFs", re.compile(r"\bETF\b|INDEX FUND|MUTUAL FUND|\bFUNDS?\b|TRUST UNITS|ISHARES|VANGUARD|\bSPDR\b|JANA STRATEGIC|VERSUS CAPITAL|LARGE CAP", re.I)),
-    ("Common stock", re.compile(r"\bCMN\b|COMMON STOCK|CLASS [AB]\b|\bINC\b|\bCORP\b|\bPLC\b|\bCO\b|COMPANY|\bN\.?V\.?\b|\.COM", re.I)),
+    ("Funds & ETFs", re.compile(r"\bETF\b|INDEX FUND|MUTUAL FUND|\bFUNDS?\b|TRUST UNITS|ISHARES|VANGUARD|\bSPDR\b|JANA STRATEGIC|\bJANA\b|VERSUS CAPITAL|LARGE CAP|MID CAP|MAI MANAGED|EATON VANCE|T ROWE PRICE", re.I)),
+    ("Common stock", re.compile(r"\bCMN\b|COMMON STOCK|CLASS [AB]\b|\bCL A\b|\bINC\b|INCORPORATED|\bCORP\b|CORPORATION|\bPLC\b|\bCO\b|COMPANY|\bGROUP\b|\bN\.?V\.?\b|\.COM|FLAVORS? & FRAGRANCE", re.I)),
 ]
 
 def classify(name):
@@ -62,6 +62,8 @@ def rule_descriptor(name, cls):
     n = (name or "").strip()
     if not n:
         return "Reported line item with no legible asset name"
+    if n.upper() == "ASSET NAME":
+        return "Transcribed table header row labeled Asset Name"
     if re.search(r"\[ILLEGIBLE", n, re.I):
         return "Unidentified holding or transaction row; source text was illegible"
     m = OPT_RX.match(n)
@@ -72,6 +74,8 @@ def rule_descriptor(name, cls):
     if m_ticker:
         return f"Security identified on the form as {title(m_ticker.group(1))}, ticker {m_ticker.group(2).upper()}"
     if re.search(r"CAPITAL CALL", n, re.I):
+        return f"Capital call for private fund / partnership investment — {title(n)}"
+    if re.search(r"\b-\s*CC\b|\bCC$", n, re.I) and cls == "Hedge funds & private funds":
         return f"Capital call for private fund / partnership investment — {title(n)}"
     if re.search(r"COUNTRY CLUB|GOLF|CONDO|COMMERCIAL PROPERTY|LOCATION:", n, re.I):
         return f"Real estate or club/property interest — {title(n)}"
