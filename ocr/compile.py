@@ -11,12 +11,15 @@ pages, problems = fdlib.load_pages(SRC)
 for p in pages:
     p["pdf_page"] = p["_n"]
     p["image"] = f"ocr/pages/page-{p['_n']:03d}.jpg"
+    p["doc"] = "2024-1"
+    p["doc_label"] = "2024 Annual Financial Disclosure (Form A)"
 
 got = {p["pdf_page"] for p in pages}
 for missing in sorted(set(range(1, 334)) - got):
     problems.append(f"missing page {missing}")
     pages.append({"pdf_page": missing, "_n": missing, "image": f"ocr/pages/page-{missing:03d}.jpg",
                   "printed_label": None, "section": None, "page_type": "pending", "rows": [],
+                  "doc": "2024-1", "doc_label": "2024 Annual Financial Disclosure (Form A)",
                   "uncertainties": [], "page_confidence": "pending",
                   "free_text": "This page has not been transcribed yet."})
 pages.sort(key=lambda p: p["pdf_page"])
