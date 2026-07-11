@@ -406,10 +406,41 @@ function sumRange(rows, klo, khi){
 }
 const rngS = s => (!s.any || (s.lo===0 && s.hiF===0)) ? 'None'
   : (s.lo===s.hiF ? fmt$(s.lo) : `${fmt$(s.lo)} – ${fmt$(s.hiF)}${s.open?'+':''}`);
+function pageProgress(list){
+  const total = (list||[]).length;
+  const done = (list||[]).filter(p=>p.page_type!=='pending').length;
+  return {done, total, pending: total-done};
+}
+function annualDocProgress(){
+  const byDoc = new Map();
+  for(const p of D.pages||[]){
+    const key = p.doc || 'unknown';
+    if(!byDoc.has(key)) byDoc.set(key, []);
+    byDoc.get(key).push(p);
+  }
+  for(const [doc, list] of byDoc){
+    const label = String((list[0]||{}).doc_label || '');
+    if(/annual financial disclosure|financial disclosure report|financial disclosure statement|form a/i.test(label)){
+      return {doc, label, ...pageProgress(list)};
+    }
+  }
+  return null;
+}
 (function overview(){
   const tot = sumRange(A,'vlo','vhi');
   const inc = sumRange(A,'ilo','ihi');
   const txTot = sumRange(T,'lo','hi');
+  const allDocs = pageProgress(D.pages||[]);
+  const annualDoc = annualDocProgress();
+  const docCard = annualDoc
+    ? ['Document status',
+       `${annualDoc.done} / ${annualDoc.total} annual pages`,
+       `all loaded filings: ${allDocs.done} / ${allDocs.total} pages`,
+       `${annualDoc.label}: ${annualDoc.done} of ${annualDoc.total} pages transcribed.\nAll loaded ${(D.meta||{}).year||''} filings combined: ${allDocs.done} of ${allDocs.total} pages transcribed${allDocs.pending?`; ${allDocs.pending} pending pages are separate PTR/admin/supporting filings.`:'.'}`]
+    : ['Document status',
+       `${allDocs.done} / ${allDocs.total} pages`,
+       'all loaded filings transcribed from official scans',
+       `${allDocs.done} of ${allDocs.total} loaded ${(D.meta||{}).year||''} filing pages transcribed${allDocs.pending?`; ${allDocs.pending} pending.`:'.'}`];
   const totTip = `Exact sum of range minimums: ${exact$(tot.lo)}.\n`+
     `Sum of range maximums: ${exact$(tot.hiF)} — a floor, because ${tot.open} holdings are reported only as "over $1,000,000" or "over $50,000,000" with no upper bound.\n`+
     `The form reports ranges, not exact values; the true total lies between these bounds (and above the maximum shown, per the open-ended holdings).`;
@@ -426,7 +457,7 @@ const rngS = s => (!s.any || (s.lo===0 && s.hiF===0)) ? 'None'
     holdingsCard, incomeCard,
     [`Transactions (${(D.meta||{}).year||''})`, T.length.toLocaleString(), 'total value '+rngS(txTot),
       `Exact sum of transaction-range minimums: ${exact$(txTot.lo)}; maximums: ${exact$(txTot.hiF)}${txTot.open?` (+${txTot.open} open-ended)`:''}.`],
-    ['Document', ((D.pages||[]).filter(p=>p.page_type!=='pending').length)+' / '+(D.pages||[]).length+' pages', 'transcribed from the official scans', ''],
+    docCard,
   ];
   document.getElementById('statcards').innerHTML = cards.map(c=>
     `<div class="card" ${c[3]?`title="${esc(c[3])}"`:''}><div class="k">${c[0]}</div><div class="v">${c[1]}</div><div class="d">${c[2]}</div></div>`).join('');
@@ -482,8 +513,11 @@ const rngS = s => (!s.any || (s.lo===0 && s.hiF===0)) ? 'None'
   const conf={high:0,medium:0,low:0,pending:0}; let unc=0, ver=0;
   for(const p of D.pages){ if(conf[p.page_confidence]!=null)conf[p.page_confidence]++; unc+=(p.uncertainties||[]).length; if(p.verified)ver++; }
   const done = D.pages.length - conf.pending;
+  const annualStatus = annualDoc
+    ? ` Annual/Form A document: ${annualDoc.done} of ${annualDoc.total} pages transcribed.`
+    : '';
   document.getElementById('fstats').textContent =
-    `Status: ${done} of ${D.pages.length} pages transcribed`+(conf.pending?` (${conf.pending} pending)`:'')+
+    `Status across loaded filings: ${done} of ${D.pages.length} pages transcribed`+(conf.pending?` (${conf.pending} pending in separate filings)`:'')+`.`+annualStatus+
     `; second-pass verification ${ver ? `completed on ${ver} pages` : 'in progress'}. Page confidence: ${conf.high} high / ${conf.medium} medium / ${conf.low} low; ${unc} individual readings flagged as uncertain.`;
 })();
 
