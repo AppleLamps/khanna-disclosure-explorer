@@ -11,7 +11,7 @@ python3 -m http.server 8742
 # open http://localhost:8742/
 ```
 
-Everything is static — `index.html` + `data.js` + images. Deploy by serving this directory on any static host.
+Everything is static — `index.html`, the per-year `data-*.js` files, `timeline-data.js`, and images. Deploy by serving this directory on any static host.
 
 ## Deploy to Vercel
 
@@ -27,7 +27,7 @@ Or from the CLI: `npm i -g vercel && vercel --prod` in this directory.
 
 ## What's in the site
 
-- **Overview** — holdings by asset class with statutory range sums (exact min / bounded max), largest holdings, family trusts & partnerships, trading activity
+- **Overview** — evidence-first summary, key findings, ownership attribution, annual holdings history, public-position context, holdings by asset class, largest holdings, family trusts & partnerships, and trading activity
 - **Assets** — all Schedule A line-items: search, filters (class, owner, portfolio, value, income type), plain-English "what it is" descriptor per asset, CSV export
 - **Transactions** — all Schedule B trades: search, filters, CSV export
 - **Document** — the original scan side-by-side with the structured transcription, page by page, with uncertain readings flagged
