@@ -839,6 +839,7 @@ function makeTable(cfg){
   moreBtn.onclick=()=>{shown+=200;render();};
   return {apply, reset:()=>{shown=100;apply();},
     getSort:()=>({k:sortKey,d:sortDir}),
+    getFiltered:()=>filtered,
     setSort:(k,d)=>{sortKey=k; sortDir=d;},
     showIndex:(rid)=>{const pos=filtered.findIndex(r=>r._i===rid); if(pos>=0&&pos>=shown){shown=pos+21;render();} return pos;}};
 }
@@ -954,22 +955,22 @@ function downloadCsv(filename, rows){
   document.body.appendChild(a); a.click();
   setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
 }
-window.buildAssetsCsv = () => [
+window.buildAssetsCsv = (rows=aTable.getFiltered()) => [
   ['pdf_page','printed_label','portfolio','owner','asset_name','descriptor','asset_class',
    'value_range','value_min_usd','value_max_usd','income_types','other_income_type',
    'income_range','income_min_usd','income_max_usd','transaction'],
-  ...A.map(r => [r.page, r.label, r.group, r.owner, r.name, r.desc, r.cls,
+  ...rows.map(r => [r.page, r.label, r.group, r.owner, r.name, r.desc, r.cls,
     r.value, r.vlo, r.vhi, (r.income_types||[]).join('; '), r.other_income,
     r.income_amt, r.ilo, r.ihi, r.tx])
 ];
-window.buildTxCsv = () => [
+window.buildTxCsv = (rows=tTable.getFiltered()) => [
   ['pdf_page','printed_label','portfolio','owner','asset_name','descriptor','asset_class',
    'transaction_type','capital_gain_over_200','date','amount_range','amount_min_usd','amount_max_usd'],
-  ...T.map(r => [r.page, r.label, r.group, r.owner, r.name, r.desc, r.cls,
+  ...rows.map(r => [r.page, r.label, r.group, r.owner, r.name, r.desc, r.cls,
     r.tx_type, r.cap_gain ? 'yes' : '', r.date, r.amount, r.lo, r.hi])
 ];
-document.getElementById('af-csv').onclick = () => downloadCsv('khanna-2024-fd-assets.csv', window.buildAssetsCsv());
-document.getElementById('tf-csv').onclick = () => downloadCsv('khanna-2024-fd-transactions.csv', window.buildTxCsv());
+document.getElementById('af-csv').onclick = () => downloadCsv(`khanna-${FD_YEAR}-fd-assets.csv`, window.buildAssetsCsv());
+document.getElementById('tf-csv').onclick = () => downloadCsv(`khanna-${FD_YEAR}-fd-transactions.csv`, window.buildTxCsv());
 
 // ================= deep links =================
 function syncHash(){
