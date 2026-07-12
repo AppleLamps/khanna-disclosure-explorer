@@ -696,8 +696,8 @@ function annualDocProgress(){
     facts:[['Combined transaction range',rngS(txTot)],['Reportable transactions',T.length.toLocaleString()],['Source pages',`${allDocs.done} / ${allDocs.total} transcribed`]],
   } : {
     eyebrow:`${(D.meta||{}).year||''} disclosed holdings`,
-    headline:`At least ${fmt$(tot.lo)} reported`,
-    detail:`The filing’s statutory ranges sum to ${fmt$(tot.lo)} at the low end and ${fmt$(tot.hiF)}${tot.open?'+':''} at the calculated upper floor across ${A.length.toLocaleString()} line-items. These are disclosure-range sums, not an exact personal net worth.`,
+    headline:`Up to ${fmt$(tot.hiF)} reported`,
+    detail:`The filing’s statutory ranges sum to ${fmt$(tot.lo)} at the low end and ${fmt$(tot.hiF)} at the calculated upper end across ${A.length.toLocaleString()} line-items. ${tot.open?`Because ${tot.open} holdings have no stated ceiling, this dashboard figure is not a hard upper limit and the reported value may be higher. `:''}These are disclosure-range sums, not an exact personal net worth.`,
     facts:[['Calculated upper floor',`${fmt$(tot.hiF)}${tot.open?'+':''}`],['Open-ended holdings',tot.open.toLocaleString()],['Reported transactions',T.length.toLocaleString()]],
   };
   document.getElementById('storylead').innerHTML = `
