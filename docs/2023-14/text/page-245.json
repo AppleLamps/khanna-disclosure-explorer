@@ -1,0 +1,40 @@
+{
+  "pdf_page": 245,
+  "printed_label": "Page 245 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP CLAS", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUINIX, INC. REIT", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AUTOMATIC DATA PROCESSING INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GLOBAL PAYMENTS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NEWMONT CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ISHARES, INC.MSCI JAPAN ETF MUTUAL FUND", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VISA INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EAST WEST BANCORP INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MCKESSON CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBOTT LABORATORIES CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KIMCO REALTY CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UDR INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WASTE MANAGEMENT INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ISHARES MSCI AUSTRALIA ETF", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MEDTRONIC PUBLIC LIMITED COMPA CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "T. ROWE PRICE GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AVALONBAY COMMUNITIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VODAFONE GROUP PLC ADR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHIPOTLE MEXICAN GRILL, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAPITAL ONE FINANCIAL CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VENTAS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "JPMORGAN CHASE & CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "The Cognizant row is clipped at the asset-name column edge; visible wording was preserved."}
+  ],
+  "page_confidence": "medium"
+}

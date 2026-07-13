@@ -1,0 +1,41 @@
+{
+  "pdf_page": 186,
+  "printed_label": "Page 186 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "NXP BV/NXP FDG/NXP USA 4.3% 06/18/2029 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALTRIA GROUP, INC. 2.625% 09/16/2026 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS FINL CO 4.3% 04/06/2029 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "T-MOBILE USA, INC. 3.375% 04/15/2029 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AIR LEASE CORP 1.875% 08/15/2026 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REYNOLDS AMERICAN INC 4.45% 06/12/2025 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FOX CORPORATION 4.709% 01/25/2029 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE WILLIAMS COMPANIES, INC. 4.0% 09/15/2025 US", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC 1.322% 11/29/2024 US", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 10/", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAC HOLDINGS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DELL INT LLC / EMC CORP 4.9% 10/01/2026 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EMERA US FINANCE LP 3.55% 06/15/2026 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTONATION INC 4.75% 06/01/2030 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FORD MOTOR COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DTE ENERGY COMPANY 2.85% 10/01/2026 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTEL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GLOBAL PAYMENTS INC. 3.2% 08/15/2029 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KITSAP CNTY WASH SCH DIST NO GO 5% 12/01/23 J", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COLUMBUS OHIO GO 5% 04/01/24 AO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ENERGY TRANSFER OPERATING LP 5.25% 04/15/202", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BROADCOM INC. 5.0% 04/15/2030 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ORACLE CORPORATION 4.65% 05/06/2030", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ARCH CAPITAL FINANCE LLC 4.011% 12/15/2026 US", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BOSTON PROPERTIES, INC. COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several bond/security names are clipped at the asset-name column edge; visible issuer/security wording was preserved."},
+    {"field": "amount", "note": "Amounts are transcribed from the visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

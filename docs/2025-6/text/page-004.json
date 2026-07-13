@@ -1,0 +1,74 @@
+{
+  "pdf_page": 4,
+  "printed_label": "Rohit Khanna Page 4 of 20",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LABCORP HOLDINGS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "05/27/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AMERICAN INTL GROUP, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/27/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "FERGUSON ENTERPRISES INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/27/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "KEYCORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "05/27/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MEDTRONIC PUBLIC LIMITED COMPA CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/27/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "page top",
+      "read": "continuation page",
+      "note": "Top rows continue the same Grandchildren group from prior pages; no repeated group header visible on this page."
+    }
+  ],
+  "page_confidence": "medium"
+}

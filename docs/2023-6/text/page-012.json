@@ -1,0 +1,188 @@
+{
+  "pdf_page": 12,
+  "printed_label": "Page 12 of 33",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HOLOGIC INCORPORATED CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AUTODESK, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "INTL BUSINESS MACHINES CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MORGAN STANLEY HYBRID MTN 01/24/2029 USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/23/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MONSTER BEVERAGE CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ALIGN TECHNOLOGY, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ANSYS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SYSCO CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "INTUIT INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "INTUITIVE SURGICAL, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BLACKROCK, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SYNOPSYS INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "T-MOBILE US, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AT&T INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MERCADOLIBRE, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ABBVIE INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "medium"
+}

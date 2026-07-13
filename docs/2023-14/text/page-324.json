@@ -1,0 +1,41 @@
+{
+  "pdf_page": 324,
+  "printed_label": "Page 324 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "PE PREMIER BLKSTONE LSCI V CPV", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CADENCE DESIGN SYSTEM", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERALTO CORP", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERISK ANALYTICS INC COM", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GALLAGHER ARTHUR J & CO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SPIN-OFF OF VERALTO CORP FROM DANAHER COR", "tx_type": "Exchange", "cap_gain_over_200": false, "date": "10/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICROSOFT CORP", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BLOCK INC CL A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GARTNER INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICROSOFT CORP", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BLOCK INC CL A", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICROSOFT CORP", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERISK ANALYTICS INC COM", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "8/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PE PREMIER BLKSTONE LSCI V CPV", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EDWARD LIFESCIENCES CORP", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MSILF TREASURY SECURITIES INST", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "8/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTODESK INC DELAWARE", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UBER TECHNOLOGIES INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTODESK INC DELAWARE", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "7/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTODESK INC DELAWARE", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "7/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UBER TECHNOLOGIES INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERISK ANALYTICS INC COM", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "7/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITEDHEALTH GP INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTODESK INC DELAWARE", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "7/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UBER TECHNOLOGIES INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PE PREMIER BLKSTONE LSCI V CPV", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 6, "field": "asset_name", "read": "SPIN-OFF OF VERALTO CORP FROM DANAHER COR", "note": "Asset text is clipped at the right edge of the asset column."},
+    {"field": "asset_name", "note": "Typed M&R partnership-style rows omit some standard suffixes such as CMN; asset names are transcribed as shown."}
+  ],
+  "page_confidence": "medium"
+}

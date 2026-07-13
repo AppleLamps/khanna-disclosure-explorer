@@ -1,0 +1,16 @@
+{
+  "pdf_page": 360,
+  "printed_label": "Page 360 of 367",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "HEDGE FUND SELECT: ELT ASSOCIATES LLC COMMITMENT", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/1/2022", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TIGER GLOBAL CROSSOVER ACCESS LLC CLASS A1 SERIES 2", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/1/2022", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/10/2022", "notification_date": null, "amount": "$500,001-$1,000,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO ESTX BANKS (EUR) PR", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/17/2022", "notification_date": null, "amount": "$250,001-$500,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

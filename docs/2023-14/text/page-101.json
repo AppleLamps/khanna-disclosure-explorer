@@ -1,0 +1,254 @@
+{
+  "pdf_page": 101,
+  "printed_label": "Page 101 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "OMNICOM GROUP CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ON SEMICONDUCTOR CORPORATION CMN",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$5,001-$15,000",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ORACLE CORPORATION CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "OREILLY AUTOMOTIVE, INC. CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ORGANON & CO CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "OTIS WORLDWIDE CORPORATION CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PACCAR INC CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PALO ALTO NETWORKS INC. CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PARKER-HANNIFIN CORP. CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PAYCHEX, INC. CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PAYCOM SOFTWARE, INC. CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PAYPAL HOLDINGS, INC. CMN",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PEPSICO, INC. CMN",
+      "value": "$50,001-$100,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PERKINELMER, INC CMN",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PFIZER INC, CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PHILIP MORRIS INTL INC CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PINTEREST INC CMN CLASS A",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PNC FINANCIAL SERVICES GROUP, CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "POOL CORP CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PPG INDUSTRIES, INC. CMN",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "medium"
+}

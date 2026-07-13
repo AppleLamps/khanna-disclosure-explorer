@@ -1,0 +1,194 @@
+{
+  "pdf_page": 21,
+  "printed_label": "Rohit Khanna Page 21 of 30",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ROCKWELL AUTOMATION INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MORGAN STANLEY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INSULET CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "QUALCOMM INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LULULEMON ATHLETICA INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CRH PUBLIC LIMITED COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMETEK INC (NEW) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EQUIFAX INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "STANLEY BLACK & DECKER, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZEBRA TECHNOLOGIES IN CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INGERSOLL RAND INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GODADDY INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MASCO CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AVERY DENNISON CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": null,
+      "field": "checkboxes",
+      "read": "Vision OCR plus image review",
+      "note": "Dense page; transaction type and amount interpreted from visible checkboxes."
+    },
+    {
+      "row": null,
+      "field": "asset_name",
+      "read": "some names truncated by filer table cell width",
+      "note": "Preserved visible filing text where issuer suffixes are clipped, e.g. INCORPORATE/INCORPO/HOLDIN/PUBLIC LIMITE."
+    }
+  ],
+  "page_confidence": "medium"
+}

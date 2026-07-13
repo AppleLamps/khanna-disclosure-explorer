@@ -1,0 +1,365 @@
+{
+  "pdf_page": 15,
+  "printed_label": "Page 15 of 367",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "2010 Grandchildren Trust"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ABBOTT LABORATORIES CMN",
+      "eif": false,
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ABBVIE INC CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ADOBE INC CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ADYEN N.V. ADR CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "AIR LEASE CORPORATION HYBRID PERPETUAL USD",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "AIRBNB, INC. CMN CLASS A",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ALIGN TECHNOLOGY, INC CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ALLY FINANCIAL INC. HYBRID PERPETUAL USD",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ALPHABET INC. CMN CLASS A",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ALPHABET INC. CMN CLASS C",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "AMAZON.COM INC CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "AMERICAN EXPRESS CO. CMN",
+      "eif": false,
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "AMERICAN EXPRESS COMPANY HYBRID PERPETUAL USD",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "AMERICAN INTL GROUP, INC. CMN",
+      "eif": false,
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "AMERICAN TOWER CORPORATION CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "APPLE INC. CMN",
+      "eif": false,
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "APTIV PLC CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ARCHER-DANIELS-MIDLAND COMPANY CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ASML HOLDING N.V. ADR CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "AT&T INC. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "AT&T INC. PFD USD1.1875(4.75%) SERIES C",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ATLASSIAN CORP CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ATLASSIAN CORPORATION PLC CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "AXALTA COATING SYSTEMS LTD. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "BANK OF AMERICA CORP CMN",
+      "eif": false,
+      "value": "$50,001-$100,000",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$5,001-$15,000",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "BANK OF AMERICA CORPORATION HYBRID PERPETUAL",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "checkbox_columns",
+      "read": "best-effort from dense attached Schedule A grid",
+      "note": "Repeated-grid geometry and quadrant crops used; some exact value/income amount buckets are marginal in the scan and should be reviewed against the page image."
+    }
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,41 @@
+{
+  "pdf_page": 256,
+  "printed_label": "Page 256 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "ACCENTURE PLC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AUTODESK, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SALESFORCE INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LPL FINANCIAL HOLDINGS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FORTINET, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CBRE GROUP, INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REGENERON PHARMACEUTICAL INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MARVELL TECHNOLOGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROLLINS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "META PLATFORMS INC-CLASS A CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TYLER TECHNOLOGIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN TOWER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WARNER BROS DISCOVERY INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHARLES SCHWAB CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WELLTOWER INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BIO-TECHNE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIBERTY BROADBAND CORPORATION CMN CLASS C", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTERNATIONAL PAPER CO. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NORTHERN TRUST CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMCOR PLC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LOEWS CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INVITATION HOMES INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FASTENAL COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "cap_gain_over_200", "note": "Capital-gain marks are visible on the upper/middle sale rows; lower rows are unmarked."}
+  ],
+  "page_confidence": "medium"
+}

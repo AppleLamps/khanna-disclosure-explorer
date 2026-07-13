@@ -1,0 +1,206 @@
+{
+  "pdf_page": 11,
+  "printed_label": "Rohit Khanna Page 11 of 28",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "APPLIED MATERIALS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SYNOPSYS INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PRUDENTIAL FINANCIAL INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AVALONBAY COMMUNITIES INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "NORDSON CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "METTLER-TOLEDO INTL CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "GE HEALTHCARE TECHNOLOGIES INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AUTOMATIC DATA PROCESSING INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MONOLITHIC POWER SYSTEMS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WALMART INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HUNTINGTON BANCSHARES INCORPORATED CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MICROCHIP TECHNOLOGY INCORPORATED CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HUMANA INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ADVANCED MICRO DEVICES, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "UNITED AIRLINES HOLDINGS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MOTOROLA SOLUTIONS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "QUANTA SERVICES INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/22/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "tx_type/amount",
+      "read": "Purchase and amount A for rows without page-specific notes",
+      "note": "Dense scan/OCR page; source image was checked, but some type/amount checkboxes are small. Rows are transcribed conservatively as visible purchase/A unless OCR or image clearly showed another value."
+    }
+  ],
+  "page_confidence": "medium"
+}

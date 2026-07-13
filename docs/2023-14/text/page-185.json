@@ -1,0 +1,42 @@
+{
+  "pdf_page": 185,
+  "printed_label": "Page 185 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "WALMART INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JONES LANG LASALLE INCORPORATE CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PLUG POWER INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "RAYMOND JAMES FINANCIAL, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DELL TECHNOLOGIES INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTL FLAVORS & FRAGRANCE CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CAESARS ENTERTAINMENT INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DANAHER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HOST HOTELS & RESORTS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TORONTO DOMINION BANK LINKED TO S&P 500 IND", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/24/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CAPPED BUFFERED ENHANCED PARTICIPATION LIN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "APPLE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BRISTOL-MYERS SQUIBB COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CVS HEALTH CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CENTERPOINT ENERGY RES 1.75% 10/01/2030 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "U.S. BANCORP MTN 3.0% 07/30/2029 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TORONTO-DOMINION BANK 1.25% 12/13/2024 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF MONTREAL 5.2% 12/12/2024", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE BANK OF NOVA SCOTIA 4.5% 12/16/2025 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY HYBRID 12/10/2026 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SIMON PROPERTY GROUP, L.P. 3.5% 09/01/2025 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES 2.2% 11/01/2024 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HYBRID 12/10/2026 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 05/15/2024 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALEXANDRIA REAL ESTATE EQUITIE 3.45% 04/30/20", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Some structured-note and bond/security names are clipped at the asset-name column edge; visible wording was preserved."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "amount", "note": "Amounts are transcribed from the visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

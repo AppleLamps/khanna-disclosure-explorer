@@ -1,0 +1,134 @@
+{
+  "pdf_page": 17,
+  "printed_label": "Page 17 of 17",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALPHABET INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMAZON.COM INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HUMANA INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PFIZER INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WALT DISNEY COMPANY (THE) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WASTE MANAGEMENT INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MARSH & MCLENNAN CO INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/04/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LINDE PLC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "01/13/23",
+      "notification_date": "02/02/23",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "group",
+      "text": "M & R TP Primary"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HEDGE FUND SELECT: ELT ASSOCIATES LLC COMMITMENT",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/01/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,000,001-$5,000,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 8,
+      "field": "amount",
+      "read": null,
+      "note": "LINDE row amount checkbox is not visible in the cropped/low-right edge of the scan; transaction type and date are legible."
+    },
+    {
+      "row": 10,
+      "field": "amount",
+      "read": "$1,000,001-$5,000,000",
+      "note": "Final hedge-fund row is cut off at the bottom; amount mark appears in column G."
+    },
+    {
+      "row": 8,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    }
+  ],
+  "page_confidence": "medium"
+}

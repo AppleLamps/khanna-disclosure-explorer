@@ -1,0 +1,35 @@
+{
+  "pdf_page": 143,
+  "printed_label": "Page 143 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "EDWARD LIFESCIENCES CORP", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ENPHASE ENERGY", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "FORTIVE CORP", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "GALLAGHER ARTHUR J & CO", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "GARTNER INC", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "GCI LIBERTY INC CL A", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GREEN BAY WIS HSG AUTH HSG RE OLD MUNICIPAL B", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HOME DEPOT INC", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "IDEXX LABS", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "INTUIT INC", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ISHARES RUSSELL 1000 GRW ETF", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ISHARES RUSSELL 1000 VALUE ETF", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MARVELL TECHNOLOGY GROUP LTD", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MICROSOFT CORP", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MONOLITHIC PWR SYSTEMS INC", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MSCI INC COM", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NIKE INC B", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NVIDIA CORPORATION", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PE PREMIER BLKSTONE LSCI V CPV", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "RIVERVIEW SOF LLP", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "The Green Bay municipal-bond description is clipped at the asset-name column edge."},
+    {"field": "checkbox_grid", "note": "Common-stock rows were read from the image grid; exact amount bands for several middle rows are medium confidence."}
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,239 @@
+{
+  "pdf_page": 13,
+  "printed_label": "Page 13 of 17",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MERCK & CO. INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/06/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DANAHER CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/09/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AUTOMATIC DATA PROCESSING INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/09/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGENERON PHARMACEUTICAL INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/09/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHEROKEE CNTY GA SCH SYS GO 5% 02/01/23 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WYLIE TEX INDPT SCH DIST GO 5% 02/15/23 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GENERAL MOTORS COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/09/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "STAMFORD CONN WTR POLLUTION REV 4% 04/01/23 AO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OHIO ST GO 3% 03/11/23 MS",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTINGHOUSE AIR BRAKE TECHNOL CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/04/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WASHINGTON CNTY TENN GO 4% 06/01/23 ID",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTINGHOUSE AIR BRAKE TECHNOL CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/06/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MERCK & CO., INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/03/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COSTCO WHOLESALE CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/03/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "META PLATFORMS INC-CLASS A CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/03/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GALVESTON CNTY TEX GO 5% 02/01/23 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WEST VA PKWYS AUTH TPK TOLL REV 5% 06/01/23 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CLARK CNTY NEV SCH DIST GO 5% 06/15/23 ID",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ENERGY NORTHWEST WASH ELEC REV REV 5% 07/01/23 JJ",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/11/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICRON TECHNOLOGY, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/30/23",
+      "notification_date": "02/02/23",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 5,
+      "field": "date",
+      "read": "01/11/23",
+      "note": "Several municipal-bond rows on this page are faint; dates read from image and OCR together."
+    }
+  ],
+  "page_confidence": "medium"
+}

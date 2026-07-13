@@ -1,0 +1,210 @@
+{
+  "pdf_page": 7,
+  "printed_label": "Rohit Khanna Page 7 of 23",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CADENCE DESIGN SYSTEMS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/01/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CHARLES RIVER LABORATORIES INTL INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/01/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PAYPAL HOLDINGS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/01/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PAYPAL HOLDINGS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/03/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ARISTA NETWORKS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/03/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CADENCE DESIGN SYSTEMS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/03/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CADENCE DESIGN SYSTEMS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/05/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SHARKNINJA INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/06/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CADENCE DESIGN SYSTEMS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/09/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ARISTA NETWORKS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/13/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CADENCE DESIGN SYSTEMS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/14/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ARISTA NETWORKS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/14/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CADENCE DESIGN SYSTEMS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/15/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ARISTA NETWORKS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/15/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LOWENS CORNING CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/20/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CADENCE DESIGN SYSTEMS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/21/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LOWENS CORNING CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/21/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 15,
+      "field": "asset_name",
+      "read": "LOWENS CORNING CMN",
+      "note": "Image/OCR appear to read LOWENS; likely Owens Corning, but transcribed visible text."
+    }
+  ],
+  "page_confidence": "medium"
+}

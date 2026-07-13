@@ -1,0 +1,274 @@
+{
+  "pdf_page": 7,
+  "printed_label": "Page 7 of 18",
+  "section": "Periodic Transaction Report",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "IKEA & CO. (NC COMN 2 oafatray Os",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "i: WORKOAY, THC, CHAM CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "(OA. HONTON, INC CMN A oayigrz K",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Dt __JURTVED AIRUNES HOLDINGS INC CN x Dalz SA: F",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DG__ [ATLASSIAN CORPORATION PLC OMM CLASS A K Oaye: Cr",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "oe fare RNANGIAL GROUP Cit x _fajay {22 al",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ne CTO ROUF INC. CRAN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "IK COMPAMIES INC INC YF) CN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WELLS FARGO & CO (NEV aN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "URTTED PANEL SERVICE, INC. SAN BOUMON STOCK",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "EOL CORP EL-A (NEW) CAN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TAPESTRY, INC OMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "oc [SHAR INC. CMH CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TC __ [FIRST ABFUSUC BANK COMN SERIES",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "INC. CMR",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "row",
+      "read": "IKEA & CO. (NC COMN 2 oafatray Os",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 2,
+      "field": "row",
+      "read": "i: WORKOAY, THC, CHAM CLASS A",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 3,
+      "field": "row",
+      "read": "(OA. HONTON, INC CMN A oayigrz K",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 4,
+      "field": "row",
+      "read": "Dt __JURTVED AIRUNES HOLDINGS INC CN x Dalz SA: F",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 5,
+      "field": "row",
+      "read": "DG__ [ATLASSIAN CORPORATION PLC OMM CLASS A K Oaye: Cr",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 6,
+      "field": "row",
+      "read": "oe fare RNANGIAL GROUP Cit x _fajay {22 al",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 7,
+      "field": "row",
+      "read": "ne CTO ROUF INC. CRAN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 8,
+      "field": "row",
+      "read": "IK COMPAMIES INC INC YF) CN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 9,
+      "field": "row",
+      "read": "WELLS FARGO & CO (NEV aN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 10,
+      "field": "row",
+      "read": "URTTED PANEL SERVICE, INC. SAN BOUMON STOCK",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 11,
+      "field": "row",
+      "read": "EOL CORP EL-A (NEW) CAN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 12,
+      "field": "row",
+      "read": "TAPESTRY, INC OMN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 13,
+      "field": "row",
+      "read": "oc [SHAR INC. CMH CLASS A",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 14,
+      "field": "row",
+      "read": "TC __ [FIRST ABFUSUC BANK COMN SERIES",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 15,
+      "field": "row",
+      "read": "INC. CMR",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Transaction-date cells are visible as a tiny/noisy date column in the scanned page, but the available OCR/tess/quads evidence does not support reliable row-by-row transcription; missing dates are recorded as [UNKNOWN] rather than guessed."
+    }
+  ],
+  "page_confidence": "low",
+  "transcription_note": "Dense scanned attachment page; asset row inventory extracted from OCR and image-visible security names. Exact checkbox/date columns are low-confidence and flagged."
+}

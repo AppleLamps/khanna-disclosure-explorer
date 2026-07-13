@@ -1,0 +1,29 @@
+Page 4 of 309
+
+Rohit Khanna
+Schedule A: Assets and "Unearned” Income Name: Rohit Khanna
+BLOCK A BLOCK B BLOCK C BLOCK D BLOCK E
+Amount of Transaction
+SP,DC,JT {Asset EIF Value of Asset Income Type(s} Income P, S, S-Partial, E
+SP Cittbank checking $250,001-$500,000 Interest $1-$200
+sp Citibank savings $100,001-$250,000 Interest $1-§200
+JT Citibank checking $50,001-$100,000 Interest $1-$200
+IT Citibank savings $100,001-$250,000 Interest $1-$200
+pc Citibank checking $50,001-$100,000 Interest $1-$200
+sp Pacific Ufe Insurance Co-Universal Life $100,001-$250,000 None None
+Ritu Ahuja Rev. Trust:
+SP Cando, NY, NY Spouse/DC Asset over $1,000,000 Rent $15,001-$50,000
+Ritu Ahuja 1994 Trust:
+sp Kayne Anderson Mezzanine Partners (QP), L.P. x $1,001-$15,000 Partnership $2,501-$5,000
+Ritu Ahuja 1994 Trust & Ritu Ahuja 1995 Trust:
+MR Trust Partnership ;
+SP Kayne Anderson MLP Fund, L.P, x Spouse/DC Asset over $1,000,000 Partnership None Pp
+SP Kayne Anderson Real Estate Partners Il (QP}, L.P. x $1,001-$15,000 Partnership $1,001-52,500
+SP Kayne Anderson Real Estate Partners 11, L.P, x $50,001-$100,000 Partnership $5,001-$415,000
+sp Kayne Anderson Real Estate Partners lV, LP. x $100,001-$250,000 Partnership $15,001-550,000 P
+sP Kayne Credit Opportunities Fund (QP), L.P. Xx $100,001-$250,000 Partnership $15,001-$50,000 Pp
+SP Draper Fisher Jurvetson Growth Fund 2006, LP x $250,001-$500,000 Partnership $50,001-$100,000
+SP JC Flowers l!-8 LP & related entities x $15,001-550,000 Partnership None
+SP The HSH Colnvest (Cayman) Trust-A x $1-$1,000 Partnership None
+sp Resilience Fund Il LP x $15,001-$50,000 Partnership None
+SP Resilience Fund IV LP x $100,001-$250,000 Partnership None P

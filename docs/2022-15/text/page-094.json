@@ -1,0 +1,342 @@
+{
+  "pdf_page": 94,
+  "printed_label": "Page 94 of 367",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BRD OF REGENTS UNIV OF TEX SYS REV 5.0000% 08/15/22 FA",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BROOMFIELD CO SALES & TAX RFD REV 4.5000% 12/01/22 JD",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/AAPL FLEX EURO PM 155 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/AAPL FLEX EURO PM 170 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/AMT FLEX EURO PM @ 230 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/APTV FLEX EURO PM 108 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/APTV FLEX EURO PM 112.5 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/APTV FLEX EURO PM 117.5 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/AXP FLEX EURO PM @ 165 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/AXP FLEX EURO PM @ 175 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/CSCO FLEX EURO PM 49 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/CSCO FLEX EURO PM 53 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/CVS FLEX EURO PM @ 107.5 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/CVS FLEX EURO PM @ 110 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/CVS FLEX EURO PM @ 110 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/DE FLEX EURO PM @ 470 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/DHR FLEX EURO PM @ 275 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/DHR FLEX EURO PM @ 295 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/DIS FLEX EURO PM @ 111 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/DIS FLEX EURO PM @ 116 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/GE FLEX EURO PM @ 92 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/GE FLEX EURO PM @ 96 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/GOOGL FLEX EURO PM 115 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/GOOGL FLEX EURO PM 99 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CALL/JPM FLEX EURO PM @ 145 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "field": "checkbox_columns",
+      "note": "Dense scanned Schedule A grid; asset rows were transcribed from page JPG/quads/tesseract, with value/income/amount buckets best-effort where X marks are faint or crowded."
+    }
+  ],
+  "page_confidence": "high"
+}

@@ -1,0 +1,35 @@
+{
+  "pdf_page": 22,
+  "printed_label": "Page 22 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/PG FLEX EURO PM @ 157.5 EXP 01/05/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/PG FLEX EURO PM @ 160 EXP 02/02/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/ROST FLEX EURO PM 125 EXP 01/05/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/ROST FLEX EURO PM 140 EXP 02/02/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/SPX @ 4700 EXP 06/21/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/XYL FLEX EURO PM @ 103 EXP 01/05/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL/XYL FLEX EURO PM @ 105 EXP 02/02/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO BASKET", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO BASKET", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO S&P", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO S&P", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO S&P", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO S&P", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CAPITAL ONE FINANCIAL CORPORAT HYBRID PERPET", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CAPITAL ONE FINANCIAL CORPORAT HYBRID PERPET", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CAPPED BUFFERED ENHANCED PARTICIPATION LINK", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CAPPED BUFFERED ENHANCED PARTICIPATION LINK", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CAPPED BUFFERED ENHANCED PARTICIPATION LINK", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Carlyle Opportunities Access", "eif": true, "value": "$250,001-$500,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CARMAX, INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 8, "field": "asset_name", "read": "CANADIAN IMPERIAL BANK OF COMM LINKED TO BASKET", "note": "rows 8-13 names are truncated at right cell edge; parent compiler will fill WHAT IT IS/description"},
+    {"row": 19, "field": "amount_of_income", "read": "$1-$200", "note": "Carlyle row has EIF X, value around col G, PTN write-in, and amount mark near block D col II; amount could be shifted one column by image skew"}
+  ],
+  "page_confidence": "medium"
+}

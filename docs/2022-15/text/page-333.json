@@ -1,0 +1,319 @@
+{
+  "pdf_page": 333,
+  "printed_label": "Page 333 of 367",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTROCK COMPANY CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ABIOMED, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BLOCK, INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "8/18/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SNOWFLAKE INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GRAPHIC PACKAGING HLDGCO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "6/1/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GARMIN LTD CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TWILIO INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZOOMINFO TECHNOLOGIES INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CLOUDFLARE, INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHARLES RIV LABS INTL INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AIR PRODUCTS & CHEMICALS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CINTAS CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BOSTON PROPERTIES, INC. COMMON STOCK",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "META PLATFORMS INC-CLASS A CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VENTAS, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "METTLER-TOLEDO INTL CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SOUTHWEST AIRLINES CO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/16/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTINGHOUSE AIR BRAKE TECHNOL CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "6/21/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AT&T INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "6/30/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUTXSP @ 340 EXP 11/18/2022",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "7/14/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUTXSP @ 345 EXP 10/31/2022",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "7/14/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUTXSP @ 330 EXP 11/18/2022",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "7/28/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "J B HUNT TRANS SVCS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "7/19/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COOPER COMPANIES INC (NEW) CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "7/19/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MOTOROLA SOLUTIONS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "7/19/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AT&T INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "7/1/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AT&T INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "7/6/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AUTOMATIC DATA PROCESSING INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "7/19/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "IAC/INTERACTIVECORP. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "7/19/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE TRAVELERS COMPANIES, INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "7/18/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 5,
+      "field": "date",
+      "read": "6/1/2022",
+      "note": "Date is faint; read from high-res crop and Tesseract agrees."
+    }
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,177 @@
+{
+  "pdf_page": 38,
+  "printed_label": "Rohit Khanna Page 38 of 41",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "M& R Trust Partnership"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SHARES BITCOIN TRUST ETF ETF \u2022",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/26/2026",
+      "notification_date": "03/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO &P 500 INDEX",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/11/2026",
+      "notification_date": "03/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CITIGROUP INC. LINKED TO &500 INDEX",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/17/2026",
+      "notification_date": "03/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "UBSAG LINKED TO &P 500 INDEX",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/25/2026",
+      "notification_date": "03/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PMORGAN CHASE & CO. LINKED TO &P 500 INDEX",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/18/2026",
+      "notification_date": "03/04/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BOFA FINANCE LLC LINKED TO 5&500 INDEX",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/23/2026",
+      "notification_date": "03/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OHIO ST ADULT CORRECTIONA REV 5.0000%",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/01/2026",
+      "notification_date": "02/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "APPLIED MATERIALS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/19/2026",
+      "notification_date": "03/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MIRION TECHNOLOGIES INC CMN (CLASSA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/19/2026",
+      "notification_date": "03/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CONSTELATION ENERGY CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/19/2026",
+      "notification_date": "03/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "REGIONAL TRANSN DIST COLO CTFS COPS 5%",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/01/2026",
+      "notification_date": "02/26/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OHIO ST ADULT CORRECTIONA REV 5.0000%",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/01/2026",
+      "notification_date": "02/26/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CATERPILLAR INC (DELAWARE) CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/19/2026",
+      "notification_date": "03/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "XCEL ENERGY INC. CMN",
+      "tx_type": "Exchange",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/19/2026",
+      "notification_date": "03/04/2026",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 10,
+      "field": "date",
+      "read": "DC CONSTELATION ENERGY CORP CMN",
+      "note": "date or notification date not fully captured by OCR; left null if not visible in extracted row"
+    }
+  ],
+  "page_confidence": "medium"
+}

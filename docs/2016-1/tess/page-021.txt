@@ -1,0 +1,109 @@
+Schedule A - Assets and "Unearned income” Name: Rohit Khanna Page of
+EIF
+SP, DC, JT ~~SP SP SP SP
+Stock Name Hartford Financial Services Group Inc Com Allstate Corp Com | Microsoft Corp Oracle Corp
+HIG. ALL MSFT “ORCL
+
+[Teter
+Value of Asset
+
+A: None
+
+B: $1-$1,000
+
+C: $1,001-$15,000
+
+D: $15,001-$50,000
+
+E: $50,001-$100,000
+
+F: $100,001-$250,000
+
+G: $250,001-$500,000
+
+H: $500,001-$1,000,000
+
+#: $1,000,001-$5,000,000
+
+J: $5,000,001-S25,000,000
+
+K: $25,000,001-$50,000,000
+
+L: Over $50,000,000
+
+Spouse/DC Asset over $1,000,000
+
+Type of Income
+
+None
+
+Dividends
+
+Rent
+
+interest
+
+Capital Gains
+
+Excepted/Blind Trust
+
+Tax-Deferred
+
+Other Type of income
+
+Amount of Income: Current Year
+
+A: None
+
+B: $1-5200
+
+C: $201-$1,000
+
+D: $1,001-$2,500
+
+E: $2,501-$5,000
+
+F: $5,001-$15,000
+
+G: $15,001-$50,000
+
+H: $50,001-$100,000
+
+t: $160,001-$1,000,000
+
+J: $1,000,001-$5,000,000
+
+K: Over $5,000,000
+
+Spouse/DC Income over $1,000,000
+
+Amount of Income: Preceding Year
+Hanuary 1, 2016 - December 31, 2016
+
+A: None
+
+B: $1-$200
+
+C: $201-$1,000
+
+D: $1,001-$2,500
+
+E: $2,501-$5,000
+
+F: $5,001-$15,000
+
+G: $15,001-$50,000
+
+H: $50,001-$100,000
+
+k; $100,001-$1,000,000
+
+J: $1,000,001-$5,000,000
+
+K: Over $5,000,000
+
+Spouse/DC Income over $1,000,000
+
+MS MR Schedule A 12.31.16
+
+21/116

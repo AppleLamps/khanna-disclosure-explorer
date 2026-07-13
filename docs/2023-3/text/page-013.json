@@ -1,0 +1,261 @@
+{
+  "pdf_page": 13,
+  "printed_label": "Page 13 of 23",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICRON TECHNOLOGY, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/02/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHUBB LIMITED CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/10/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AVANTOR FUNDING, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/15/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CSX CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AVANTOR FUNDING, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/27/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AVANTOR FUNDING, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ECOLAB INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PROLOGIS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTEL CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP CLAS",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EQUINIX, INC. REIT",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VERIZON COMMUNICATIONS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AUTOMATIC DATA PROCESSING INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GLOBAL PAYMENTS INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEWMONT CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ISHARES, INC.MSCI JAPAN ETF MUTUAL FUND",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/10/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VISA INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EAST WEST BANCORP INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MCKESSON CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ABBOTT LABORATORIES CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "notification_date",
+      "read": "04/03/2023",
+      "note": "OCR reads 06/03/23 for one Prologis notification on this page; page pattern and scan support 04/03/2023."
+    }
+  ],
+  "page_confidence": "medium"
+}

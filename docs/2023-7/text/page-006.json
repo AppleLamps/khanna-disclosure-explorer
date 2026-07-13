@@ -1,0 +1,30 @@
+{
+  "pdf_page": 6,
+  "printed_label": "Page 6 of 13",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind":"tx","owner":"DC","asset_name":"ILLUMINA, INC CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"TESLA, INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/20/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"QUALCOMM INC CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CINTAS CORPORATION CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CBRE GROUP, INC. CMN CLASS A","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"KEYCORP CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/20/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"QUALCOMM INC CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/20/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"U.S. BANCORP. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"LOWES COMPANIES INC CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"GENUINE PARTS CO. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"AT&T INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"NEWMONT CORP CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CITIZENS FINANCIAL GROUP, INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/20/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"EPAM SYSTEMS, INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ENPHASE ENERGY, INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ULTA BEAUTY INC CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"COPART INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"AMPHENOL CORP CL-A (NEW) CMN CLASS A","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [{"row":18,"field":"notification_date","read":"08/01/2023","note":"OCR read the month as 93 on the final row; page image supports 08/01/23."}],
+  "page_confidence": "medium"
+}

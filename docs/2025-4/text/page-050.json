@@ -1,0 +1,214 @@
+{
+  "pdf_page": 50,
+  "printed_label": "Rohit Khanna Page 50 of 51",
+  "section": "PERIODIC TRANSACTION REPORT",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "MURA Holdings"
+    },
+    {
+      "kind": "group",
+      "text": "2020 Trust FBO Khanna Children"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Soc HONEYWELL INTERNATIONAL INC COM INTERNATIONAL INC COM USO1 RIZRAICCA LIOR AAI SEPAATISIALAL (AL? PAA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HONEYWELL INTERNATIONAL INC COM ¥",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ISHARES TR 0-3 MNTH TREASRY",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "jJPMORGAN CHASE &CO. COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "JOHNSON &JOHNSON COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "JELILILLY &CO COM",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/07/2025",
+      "notification_date": "04/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "jMCDONALDS CORP",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MICROSOFT CORP",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MONDELEZ INTL INC COM NPV",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MONDELEZ INTL INC COM NPV 4",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "NETFLIX INC bf 04/04/28",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "INVIDIA CORPORATION COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PEPSICO INC %",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PROCTER AND GAMBLE CO COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "QUALCOMM INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "RTX CORPORATION COM USD1.00",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "RTX. CORPORATION COM USD1.00",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "04/07/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "asset_name/checkbox alignment",
+      "read": "OCR-assisted transcription",
+      "note": "Page text has wrapped or merged rows; row order and checkbox columns were cross-checked with scan coordinates, but some asset-name spellings may remain uncertain."
+    }
+  ],
+  "page_confidence": "medium"
+}

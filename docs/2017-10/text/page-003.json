@@ -1,0 +1,15 @@
+{
+  "pdf_page": 3,
+  "printed_label": "Page 3 of 3",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Grandchildren Trust (ASK Partners, LLC)"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Transtar/Speedstar Holding Company", "tx_type": "Purchase", "date": "07/26/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Transtar/Speedstar Holding Company", "tx_type": "Purchase", "date": "08/14/2017", "notification_date": "09/14/2017", "amount": "$100,001-$250,000"}
+  ],
+  "free_text": "Typed attachment table, section header \"Grandchildren Trust (ASK Partners, LLC)\". Header stamp: \"Name: Rohit Khanna  Page 3 of 3\". Row 1 checked in amount column A ($1,001-$15,000); row 2 checked in column D ($100,001-$250,000). Two blank grid rows below the data.",
+  "uncertainties": [],
+  "page_confidence": "high"
+}

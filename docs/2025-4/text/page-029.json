@@ -1,0 +1,205 @@
+{
+  "pdf_page": 29,
+  "printed_label": "Rohit Khanna Page 29 of 51",
+  "section": "PERIODIC TRANSACTION REPORT",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ahuja Grandchildren's Education Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OKTA, INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "04/08/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CDW CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/09/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "W.W. GRAINGER INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/09/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALTRIA GROUP, INC, CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "04/09/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FORTIVE CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/09/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OKTA, INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "04/04/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WORKDAY, INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/09/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AUTOMATIC DATA PROCESSING INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NORFOLK SOUTHERN CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/09/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PARKER-HANNIFIN CORP. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "04/09/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMAZON.COM INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZIMMER BIOMET HOLDINGS INC",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "04/04/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "XYLEM INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/09/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EMERSON ELECTRIC CO. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/09/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DUN & BRADSTREET HOLDINGS, INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "04/03/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE PROGRESSIVE CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SS&C TECHNOLOGIES HOLDINGS, INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "04/10/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    "Rows 4-18 were corrected from the page image after OCR merged and shifted several bottom asset rows; checkbox reads for capital gains and partial-sale columns remain medium confidence."
+  ],
+  "page_confidence": "high"
+}

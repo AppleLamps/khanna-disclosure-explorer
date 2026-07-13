@@ -1,0 +1,41 @@
+{
+  "pdf_page": 325,
+  "printed_label": "Page 325 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "MSILF TREASURY SECURITIES INST", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "6/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHIPOTLE MEXICAN GRILL INC COM", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "6/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MONOLITHIC PWR SYSTEMS INC", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "6/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ADOBE INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NVIDIA CORPORATION", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "5/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NVIDIA CORPORATION", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "5/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MARVELL TECHNOLOGY GROUP LTD", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NVIDIA CORPORATION", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "5/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PE PREMIER BLKSTONE LSCI V CPV", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MSILF TREASURY SECURITIES INST", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MSILF TREASURY SECURITIES INST", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ATLASSIAN CORPORATION CL A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CADENCE DESIGN SYSTEM", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "4/12/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICROSOFT CORP", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "4/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GREEN BAY WIS HSG AUTH HSG RE OID MUNICIPAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/26/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITEDHEALTH GP INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CADENCE DESIGN SYSTEM", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/30/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN TOWER CORP", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BLOCK INC CL A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GARTNER INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WELLS FARGO & CO 3.9000% PREFERRED STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/6/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GARTNER INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SPDR S&P 600 ETF TRUST", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/3/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ADOBE INC", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GARTNER INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ENPHASE ENERGY", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/16/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Typed M&R partnership-style rows omit some standard suffixes such as CMN; asset names are transcribed as shown."},
+    {"field": "tx_type", "note": "Partial Sale marks are clear on many rows, but the degraded crop makes a few adjacent-column marks tight; recorded by visible X position."}
+  ],
+  "page_confidence": "medium"
+}

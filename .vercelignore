@@ -1,6 +1,11 @@
 # Deploy only what the site serves: site/ and ocr/pages/ (Document-tab scans).
 /disclosures.pdf
 /README.md
+/DATA_LICENSE.md
+/LICENSE
+/Makefile
+/data
+/scripts
 /ocr/text
 /ocr/descr
 /ocr/tess

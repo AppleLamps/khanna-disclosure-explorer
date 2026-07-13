@@ -1,0 +1,208 @@
+{
+  "pdf_page": 9,
+  "printed_label": "Page 9 of 11",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CLOROX CO (THE) (DELAWARE) CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CIGNA GROUP/THE CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGIONS FINANCIAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "12/14/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WHIRLPOOL CORP. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OTIS WORLDWIDE CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CAMDEN PROPERTY TRUST CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNITED AIRLINES HOLDINGS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NORDSON CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GLOBAL PAYMENTS INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGIONS FINANCIAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "12/13/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HEALTHPEAK PROPERTIES INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGIONS FINANCIAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "12/06/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "C.H. ROBINSON WORLDWIDE, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MODERNA, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ORGANON & CO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WK KELLOGG CO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/04/23",
+      "notification_date": "01/04/24",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1995 Trust"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "field": "last four rows",
+      "note": "Dates/amounts for C.H. Robinson, Moderna, Organon, and WK Kellogg are not visible in OCR crop; values inferred from page pattern and marked medium confidence."
+    }
+  ],
+  "page_confidence": "medium"
+}

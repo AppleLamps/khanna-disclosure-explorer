@@ -1,0 +1,29 @@
+{
+  "pdf_page": 8,
+  "printed_label": "Rohit Khanna Page 8 of 34",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "WASTE MANAGEMENT INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PFIZER INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WESTINGHOUSE AIR BRAKE TECHNOL CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VICI PROPERTIES INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EQUITY RESIDENTIAL CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GE HEALTHCARE TECHNOLOGIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "XYLEM INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "METLIFE, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALMART INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN INTL GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REALTY INCOME CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROSS STORES,INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYCHEX, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AVERY DENNISON CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PTC INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KKR & CO. INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

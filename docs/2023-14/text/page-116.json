@@ -1,0 +1,273 @@
+{
+  "filer": "Rohit Khanna",
+  "free_text": null,
+  "page_confidence": "medium",
+  "page_type": "schedule_a",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "pdf_page": 116,
+  "printed_label": "Page 116 of 327",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BERGEN CNTY NJ GO 4% 12/01/26 JD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BERRY GLOBAL INC 1.57% 01/15/2026 USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BERRY GLOBAL INC 1.57% 01/15/2026 USD SR LIEN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BOOKING HOLDINGS INC, CMN",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BORGWARNER INC. CMN",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BOSTON SCIENTIFIC CORP 3.45% 03/01/2024 SER SYR",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BOSTON SCIENTIFIC CORP 3.45% 03/01/2024 USD",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BP CAPITAL MARKETS P.L.C, HYBRID PERPETUAL USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BROADCOM INC. 2.15% 11/15/2025 USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BROADCOM INC. 2.15% 11/15/2025 USD SER WI SR LIEN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CABARRUS CNTY NC LTD OBLIG REV 5% 06/01/23 JD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CANADIAN IMPERIAL BANK OF COMM 0.95% 10/23/2024",
+      "value": "None",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CANADIAN IMPERIAL BANK OF COMM 0.95% 10/23/2024",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CAPITAL ONE FINANCIAL CORPORAT HYBRID PERPETUAL",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CAPITAL ONE FINANCIAL CORPORAT HYBRID PERPETUAL",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CARMAX, INC. CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CARRIER GLOBAL CORPORATION CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CATERPILLAR INC (DELAWARE) CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CENTERPOINT ENERGY, INC HYBRID PERPETUAL USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    }
+  ],
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "context",
+      "read": "continuation of Ritu Ahuja 1995 Trust",
+      "note": "No group header printed on this page; context inferred from previous page."
+    },
+    {
+      "row": "multiple",
+      "field": "asset_name",
+      "read": "bond/security names truncated",
+      "note": "Long security names reach Block A edge; descriptions intentionally left for parent compilation."
+    },
+    {
+      "row": 12,
+      "field": "value/amount_of_income",
+      "read": "Canadian Imperial Bank first row",
+      "note": "Value and amount marks are close in the scanned grid; read as no value bucket plus $1-$200 income amount."
+    }
+  ]
+}

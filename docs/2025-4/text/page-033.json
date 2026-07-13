@@ -1,0 +1,203 @@
+{
+  "pdf_page": 33,
+  "printed_label": "Rohit Khanna Page 33 of 51",
+  "section": "PERIODIC TRANSACTION REPORT",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ahuja Grandchildren's Education Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TARGET CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "STV, Fake E SER Rae tee Reed TNR ied ey LEVEE ! SP cm",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BROADCOM INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "04/10/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PU rik Ws IFES! LEU SP com",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ASSURANT, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ARISTA NETWORKS, INC. CMN %",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JADVANCED MICRO DEVICES, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CLOROX CO (THE) (DELAWARE) CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JABILINC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NXP SEMICONDUCTORS N.V. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TE CONNECTIVITY CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SPENT ENR TTR Pe atti GEVindy BEV,",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LENNAR CORPORATION CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DISCOVER FINANCIAL SERVICES CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ADVANCEO MICRO DEVICES, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "04/10/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GODADOY INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HASBRO, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/28/2025",
+      "notification_date": "04/23/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

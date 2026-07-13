@@ -1,0 +1,331 @@
+{
+  "pdf_page": 343,
+  "printed_label": "Page 343 of 367",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SUN COMMUNITIES, INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "M&T BANK CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGIONS FINANCIAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NORFOLK SOUTHERN CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "11/4/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SOUTHWEST AIRLINES CO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SVB FINANCIAL GROUP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BLOCK, INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHIPOTLE MEXICAN GRILL, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/4/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BRIXMOR PROPERTY GROUP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WARNER BROS DISCOVERY INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DIGITALBRIDGE GROUP, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OTIS WORLDWIDE CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/9/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WASTE MANAGEMENT INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EBAY INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ATLASSIAN CORPORATION PLC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SNAP-ON INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "11/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ENTEGRIS, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "11/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "URBAN OUTFITTERS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "11/7/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LEAR CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "IRON MOUNTAIN INCORPORATED CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PTC INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/4/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KROGER COMPANY CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MOSAIC COMPANY (THE) CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIRST REPUBLIC BANK CMN SERIES",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LABORATORY CORPORATION OF AMER CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FLEETCOR TECHNOLOGIES, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/4/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTERN DIGITAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WELLTOWER INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 19,
+      "field": "date",
+      "read": "11/7/2022",
+      "note": "date digit is partially noisy in OCR; checked against full-page image but remains the weakest date on this page"
+    },
+    {
+      "row": 25,
+      "field": "asset_name",
+      "read": "FIRST REPUBLIC BANK CMN SERIES",
+      "note": "asset text appears truncated after 'SERIES' at the visible column edge"
+    },
+    {
+      "row": 28,
+      "field": "date",
+      "read": "11/4/2022",
+      "note": "date is faint in the scan; nearby rows are mostly 11/3/2022"
+    }
+  ],
+  "page_confidence": "medium"
+}

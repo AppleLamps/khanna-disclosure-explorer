@@ -1,0 +1,136 @@
+{
+  "pdf_page": 14,
+  "printed_label": "Page 14 of 14",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 440 EXP 01/31/2024",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "11/28/23",
+      "notification_date": "12/05/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 437 EXP 12/22/2023",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "11/15/23",
+      "notification_date": "12/05/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 423 EXP 12/08/2023",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "11/06/23",
+      "notification_date": "12/05/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGIONS FINANCIAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "11/28/23",
+      "notification_date": "12/05/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGIONS FINANCIAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "11/27/23",
+      "notification_date": "12/05/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGIONS FINANCIAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "11/07/23",
+      "notification_date": "12/05/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1995 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "T-MOBILE USA, INC. 2.4% 03/15/2029 USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "11/10/23",
+      "notification_date": "12/05/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FOX CORPORATION 4.709% 01/25/2029 USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "11/10/23",
+      "notification_date": "12/05/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EVERSOURCE ENERGY 4.25% 04/01/2029 USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "11/10/23",
+      "notification_date": "12/05/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "M&R TP Primary"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HAMILTON CNTY OHIO SALES TAX REV 5% 12/01/2030",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "11/07/23",
+      "notification_date": "12/05/23",
+      "amount": "$15,001-$50,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "field": "asset_name",
+      "row": "Ritu Ahuja 1995 Trust bond rows",
+      "note": "Bond suffixes and one date were difficult in OCR; transcribed from scan with annual Schedule B cross-check where available."
+    }
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,30 @@
+{
+  "pdf_page": 29,
+  "printed_label": "Page 29 of 34",
+  "section": "Type of Transaction / Amount of Transaction (PTR)",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "MODERNA, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TELEDYNE TECHNOLOGIES INCORPOR CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE HERSHEY COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AKAMAI TECHNOLOGIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALIGN TECHNOLOGY, INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ULTA BEAUTY INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INVITATION HOMES INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ADVANCED MICRO DEVICES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FMC CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CONAGRA BRANDS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BIOGEN INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "group", "text": "Ritu Ahuja 1995 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "JPMORGAN CHASE & CO. HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/28/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "METLIFE, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/21/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LABCORP HOLDINGS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/06/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/06/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/03/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/24/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

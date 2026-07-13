@@ -1,0 +1,177 @@
+{
+  "pdf_page": 20,
+  "printed_label": "Rohit Khanna Page 20 of 21",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "M & R Trust Partnership"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OHIO STATE UNIVERSITY (THE) REV 5.0000% 12/01/26 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/12/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OHIO ST WTR DEV AUTH WTR REV 5% 12/01/26 JJ",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/01/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TAMPA FL WTR WKS SYS REV 5% 08/01/26 VA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/05/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OHIO ST WTR DEV AUTH WTR REV 5% 12/01/26 JJ",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/12/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OHIO WATER DEVELOPMENT AUTH REV 5.0000% 06/01/26 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/09/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CINCINNATI OHIO GO 5% 01/01/26 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/03/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HOLDING HAMILTON CNTY & CITY SCHOOL GO 5% 10/01/26",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/12/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CINCINNATI OHIO WTR SYS REV 5% 12/01/26 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/19/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OHIO ST WTR DEV AUTH WTR REV 5% 06/01/26 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/10/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "NEW YORK CITY MUNICIPAL WTR FIN AUTH REV 5% 12/01/26 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/05/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "RALPHSTER TOLEDO SETTLEMENT REV 5% 06/01/23-24 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/24/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MONTGOMERY ST HWY & TRANSN COMMISSION ST REV 5% 05/01/26 MN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/11/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OHIO ST GO 5% 09/15/26 MS",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/12/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OHIO WATER DEVELOPMENT AUTH REV 5.0000% 06/01/26 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/23/25",
+      "notification_date": "01/04/26",
+      "amount": "$15,001-$50,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "page",
+      "read": "visual/OCR transcription",
+      "note": "Transaction rows were read from local page images with OCR as an aid; ambiguous scan text is preserved or noted."
+    }
+  ],
+  "page_confidence": "medium"
+}

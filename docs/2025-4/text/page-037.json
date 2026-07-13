@@ -1,0 +1,177 @@
+{
+  "pdf_page": 37,
+  "printed_label": "Rohit Khanna Page 37 of 51",
+  "section": "PERIODIC TRANSACTION REPORT",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ahuja Grandchildren's Education Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "04/07/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COLGATE-PALMOLIVE CO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "04/17/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUAN DPSS PINE sie SINE ft",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "04/04/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OHIO ST GO 5%",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/02/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "42/01/27 Jp",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/01/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TAINS RVR AGI LEA REE Rev O70",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/02/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SPECS Bd TR GO Pie EF et Te OC (5% 12/01/25 JD GREATER CLEVELAND REGL TRAN REV",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/08/2025",
+      "notification_date": "12/01/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MVREAICR VLE VOLPE? NEL PUN EY DC ce 12/01/25 JO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/07/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "JOHIO ST GO 5%",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/03/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PALANTIR TECHNOLOGIES INC.CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/23/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "EATON CORP PLC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/25/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "59% 12/01/46-CA JD SCH DIST",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/04/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "JAIR PRODUCTS & CHEMICALS INCCMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/02/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "late PRODUCTS & CHEMICALS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/25/2025",
+      "notification_date": "05/08/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "asset_name/checkbox alignment",
+      "read": "OCR-assisted transcription",
+      "note": "Page text has wrapped or merged rows; row order and checkbox columns were cross-checked with scan coordinates, but some asset-name spellings may remain uncertain."
+    }
+  ],
+  "page_confidence": "medium"
+}

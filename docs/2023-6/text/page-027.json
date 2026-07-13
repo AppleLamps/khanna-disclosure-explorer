@@ -1,0 +1,117 @@
+{
+  "pdf_page": 27,
+  "printed_label": "Page 27 of 33",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TORONTO-DOMINION MTN 1.25% 09/10/2026 USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/22/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HP INC. 2.2% 06/17/2025 USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/22/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MORGAN STANLEY PF PFD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/07/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/07/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/14/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/07/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HARTFORD FINANCIAL SVCS GROUP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/14/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "U.S. BANCORP HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/07/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TARGET CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/22/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": "page",
+      "field": "asset_name",
+      "note": "Page 27 is severely degraded; several hybrid issuer names are unreadable and are recorded only as the visible generic text."
+    }
+  ],
+  "page_confidence": "low"
+}

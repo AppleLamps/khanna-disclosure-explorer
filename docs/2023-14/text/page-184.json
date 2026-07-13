@@ -1,0 +1,42 @@
+{
+  "pdf_page": 184,
+  "printed_label": "Page 184 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "CATALENT, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KEYSIGHT TECHNOLOGIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MEDICAL PROPERTIES TRUST INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGENCY CENTERS CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTERCONTINENTAL EXCHANGE INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SYNCHRONY FINANCIAL CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HUNTINGTON BANCSHARES INCORPOR CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FORD MOTOR COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EPAM SYSTEMS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HORMEL FOODS CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MOLINA HEALTHCARE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AVERY DENNISON CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WEYERHAEUSER COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HEWLETT PACKARD ENTERPRISE CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNIVERSAL HEALTH SVC CL B CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMEDISYS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KEURIG DR PEPPER INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WELLTOWER INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE BANK OF NY MELLON CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VICI PROPERTIES INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERISOURCEBERGEN CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DAVITA INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "tx_type/cap_gain_over_200", "note": "Sale, partial-sale, and capital-gain checkbox marks are best-read from the page image."},
+    {"field": "amount", "note": "Amounts are transcribed from the visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

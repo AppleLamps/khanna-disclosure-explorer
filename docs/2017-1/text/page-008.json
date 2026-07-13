@@ -1,0 +1,22 @@
+{
+  "pdf_page": 8,
+  "printed_label": "Page 8 of 149",
+  "section": "Schedule A: Assets and \"Unearned\" Income",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table, transposed spreadsheet layout: one asset per COLUMN, category rows down the left (EIF; SP,DC,JT; Stock Name; Ticker; Transaction; Value of Asset A-L; Type of Income; Amount of Income A-K). Black-filled cells mark the selected bucket. Transaction row is solid black across all six asset columns. EIF row empty for all columns. Value of Asset row 'D: $15,001-$50,000' is a single black band across all six columns. Footer/group label bottom-left: 'MS MR Trust Partnership'. Single Amount of Income block on this page.",
+  "rows": [
+    {"kind": "group", "text": "MS MR Trust Partnership"},
+    {"kind": "asset", "owner": "SP", "asset_name": "Alliance Data Systems", "ticker": "ADS", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["Dividends"], "other_income_spec": null, "amount_of_income": "B: $1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Alphabet Inc Cl A", "ticker": "GOOGL", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["None"], "other_income_spec": null, "amount_of_income": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Amazon.com Inc", "ticker": "AMZN", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["Capital Gains"], "other_income_spec": null, "amount_of_income": "E: $2,501-$5,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "American Tower REIT", "ticker": "AMT", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["Dividends", "Capital Gains"], "other_income_spec": null, "amount_of_income": "C: $201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "sp", "asset_name": "Celgene Corp", "ticker": "CELG", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["None"], "other_income_spec": null, "amount_of_income": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "sp", "asset_name": "Charles Schwab", "ticker": "SCHW", "eif": null, "value": "D: $15,001-$50,000", "income_types": ["Dividends", "Capital Gains"], "other_income_spec": null, "amount_of_income": "D: $1,001-$2,500", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": "all", "field": "transaction", "read": null, "note": "entire Transaction row is a solid black band across all six columns; treated as no transaction code"}
+  ],
+  "page_confidence": "high"
+}

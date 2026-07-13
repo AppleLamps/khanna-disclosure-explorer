@@ -1,0 +1,39 @@
+{
+  "pdf_page": 323,
+  "printed_label": "Page 323 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Vintage VIII/West Street", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/23/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Carlyle Opportunities Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/4/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for 8VC Opportunities Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for BSSCP II", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/5/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for WSPM 2022", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/5/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies II Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/11/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for 8VC Opportunities Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/1/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for WSCP VIII", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for WSSS", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for BSSCP II", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/30/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Dragoneer Opportunities VI", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/12/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Vintage VIII/West Street", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for WSCP VIII", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/21/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Dragoneer Opportunities VI", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/18/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for 8VC Opportunities Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/27/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Vintage VIII/West Street", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/21/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for WSCP VIII", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/11/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for 8VC Opportunities Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/7/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for RedBird 2019 Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for 8VC Opportunities Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Vintage VIII/West Street", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/12/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "group", "text": "M&R Trust Partnership"},
+    {"kind": "group", "text": "- 2020 Trust FBO Khanna Children"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Private-fund names are transcribed from a degraded scan; repeated fund names were kept consistent with visible text on the page."}
+  ],
+  "page_confidence": "medium"
+}

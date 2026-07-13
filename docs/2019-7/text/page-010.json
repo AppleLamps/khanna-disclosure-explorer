@@ -1,0 +1,14 @@
+{
+  "pdf_page": 10,
+  "printed_label": "Page 10 of 10",
+  "section": "Periodic Transaction Report - transaction attachment",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Grandchildren's Trust (ASK Partners, LLC)"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Transtar/Speedstar Holding Company", "tx_type": "Purchase", "date": "04/17/2019", "notification_date": "04/30/2019", "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

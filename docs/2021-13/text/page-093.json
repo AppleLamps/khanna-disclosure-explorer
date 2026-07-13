@@ -1,0 +1,37 @@
+{
+  "pdf_page": 93,
+  "printed_label": "Page 93 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "STATE OF LOUISIANA GO 5.0000% 07/15", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "STATE OF OREGON GEN OBLGTN GO 5.0", "value": "$50,001-$100,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "STATE STREET CORPORATION (NEW) CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "STERIS PUBLIC LIMITED COMPANY CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "STONECO LTD CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "STRYKER CORPORATION CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SVB FINANCIAL GROUP CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SYNCHRONY FINANCIAL CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SYNOPSYS INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SYSCO CORPORATION CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "T. ROWE PRICE GROUP, INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TAKE TWO INTERACTIVE SOFTWARE INC", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "TAMPA BAY WTR FLA REGL WTR REV", "value": "$1-$1,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TAPESTRY, INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "TARGET CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "TE CONNECTIVITY LTD CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TELEDYNE TECHNOLOGIES INCORPOR", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "TELEFLEX INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$100,001-$1,000,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "TEMPUR SEALY INTERNATIONAL INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "asset_name", "read": "STATE OF LOUISIANA GO 5.0000% 07/15", "note": "right edge of bond date is clipped"},
+    {"row": 2, "field": "asset_name", "read": "STATE OF OREGON GEN OBLGTN GO 5.0", "note": "right edge of bond name/rate is clipped"},
+    {"row": 13, "field": "asset_name", "read": "TAMPA BAY WTR FLA REGL WTR REV", "note": "right edge of municipal name is clipped"},
+    {"row": 17, "field": "asset_name", "read": "TELEDYNE TECHNOLOGIES INCORPOR", "note": "right edge is clipped after INCORPOR"},
+    {"row": 18, "field": "amount_of_income", "read": "$100,001-$1,000,000", "note": "amount X is faint and near grid lines; best alignment is column IX"}
+  ],
+  "page_confidence": "medium"
+}

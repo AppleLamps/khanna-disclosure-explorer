@@ -1,0 +1,188 @@
+{
+  "pdf_page": 3,
+  "printed_label": "Rohit Khanna Page 3 of 23",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "COMERICA INCORPORATED PFD 6.8750 SERIES B BEO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/06/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DANAHER CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/03/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "COOPER COS INC/THE CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/01/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CALL/AAPL FLEX EURO PM 225 EXP 10/03/2025",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/03/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MARTIN MARIETTA MATERIALS, INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "10/28/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HARTFORD INSURANCE GROUP INC/T CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "10/27/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "NASDAQ INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "10/27/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HCA HEALTHCARE, INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "10/27/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "FERGUSON ENTERPRISES INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "10/27/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CATERPILLAR INC (DELAWARE) CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "10/27/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LABCORP HOLDINGS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "10/27/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HARTFORD INSURANCE GROUP INC/T CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "10/24/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "NASDAQ INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "10/23/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CATERPILLAR INC (DELAWARE) CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "10/23/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ROCKWELL AUTOMATION INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "10/03/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 15,
+      "field": "capital_gain_over_200",
+      "read": false,
+      "note": "Lower-row checkmarks are faint; no clear capital-gains check visible for Rockwell row."
+    }
+  ],
+  "page_confidence": "medium"
+}

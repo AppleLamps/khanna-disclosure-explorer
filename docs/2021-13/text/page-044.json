@@ -1,0 +1,34 @@
+{
+  "pdf_page": 44,
+  "printed_label": "Page 44 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PFIZER INC. CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PROCTER & GAMBLE COMPANY (THE) CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PUBLIC STORAGE CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "REDBIRD SERIES 2019 ACCESS LLC", "eif": true, "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ROBLOX CORPORATION CMN CLASS A", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "S&P GLOBAL INC. CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SALESFORCE INC CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SBA COMMUNICATIONS CORPORATION CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SCHLUMBERGER LTD CMN", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SEA LIMITED SPONSORED ADR CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SHERWIN-WILLIAMS CO CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SHOPIFY INC. CMN CLASS A", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SMS INVESTORS LP", "eif": true, "value": "$50,001-$100,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SNAP INC. CMN CLASS A", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SNOWFLAKE INC. CMN CLASS A", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 7, "field": "value", "read": "$100,001-$250,000", "note": "value X is close to grid line; best read from crop alignment"},
+    {"row": 17, "field": "value", "read": "$50,001-$100,000", "note": "value X is close to grid line; best read from crop alignment"}
+  ],
+  "page_confidence": "medium"
+}

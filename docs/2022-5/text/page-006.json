@@ -1,0 +1,325 @@
+{
+  "pdf_page": 6,
+  "printed_label": "Page 6 of 18",
+  "section": "Periodic Transaction Report",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "4 HANK OF NY MELLON CORP CMK",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "etson SYSTEMS. ING CAN a ie =",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "oc ANA CORP Chat x - f 4",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Ke CLASS-B CMW CLASS",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MONSTER BEVERAGE CORPORATION QUH a _| oaf2! asfasfazt 5",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "De _ [MIRO SOFT CORPORATION GUN Oo pasiayzz o3/os/az|\"",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HUED MATEAIALS INC OMN s 4/19/22 05 /0Sj22",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "bc FARXER | FIN CORP. CMH x ry",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "JGHTAS CORPORATION CMIN :",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "‘DC _ STATE STREET CORPORATION AN 2",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "oc [FIRST REPUBLIC BANK CMN SERIES x",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "oc AMON FAQFERTY GROUP EHC CMR",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CADENCE DESIGN SYSTEMS INC CAN : z ~",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AMCRICAN BET, GROUe, INC Chet PI 04/21/22",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Pa ZDETIS INC CHAN CLASS A x Da, 2} oS 2",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Oc ___|CANAIER GIO RAL CORPORATION OMN ® 4/2) 5, 2",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "4 PRUDENTIAL FINANOAL INC CRA r 04/23/22 5; 2",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "oc GENT RAL MOTORS COMPANY Ch4W x iaf71/22] 2",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "row",
+      "read": "4 HANK OF NY MELLON CORP CMK",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 2,
+      "field": "row",
+      "read": "etson SYSTEMS. ING CAN a ie =",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 3,
+      "field": "row",
+      "read": "oc ANA CORP Chat x - f 4",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 4,
+      "field": "row",
+      "read": "Ke CLASS-B CMW CLASS",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 5,
+      "field": "row",
+      "read": "MONSTER BEVERAGE CORPORATION QUH a _| oaf2! asfasfazt 5",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 6,
+      "field": "row",
+      "read": "De _ [MIRO SOFT CORPORATION GUN Oo pasiayzz o3/os/az|\"",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 7,
+      "field": "row",
+      "read": "HUED MATEAIALS INC OMN s 4/19/22 05 /0Sj22",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 8,
+      "field": "row",
+      "read": "bc FARXER | FIN CORP. CMH x ry",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 9,
+      "field": "row",
+      "read": "JGHTAS CORPORATION CMIN :",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 10,
+      "field": "row",
+      "read": "‘DC _ STATE STREET CORPORATION AN 2",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 11,
+      "field": "row",
+      "read": "oc [FIRST REPUBLIC BANK CMN SERIES x",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 12,
+      "field": "row",
+      "read": "oc AMON FAQFERTY GROUP EHC CMR",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 13,
+      "field": "row",
+      "read": "CADENCE DESIGN SYSTEMS INC CAN : z ~",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 14,
+      "field": "row",
+      "read": "AMCRICAN BET, GROUe, INC Chet PI 04/21/22",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 15,
+      "field": "row",
+      "read": "Pa ZDETIS INC CHAN CLASS A x Da, 2} oS 2",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 16,
+      "field": "row",
+      "read": "Oc ___|CANAIER GIO RAL CORPORATION OMN ® 4/2) 5, 2",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 17,
+      "field": "row",
+      "read": "4 PRUDENTIAL FINANOAL INC CRA r 04/23/22 5; 2",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 18,
+      "field": "row",
+      "read": "oc GENT RAL MOTORS COMPANY Ch4W x iaf71/22] 2",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Transaction-date cells are visible as a tiny/noisy date column in the scanned page, but the available OCR/tess/quads evidence does not support reliable row-by-row transcription; missing dates are recorded as [UNKNOWN] rather than guessed."
+    }
+  ],
+  "page_confidence": "low",
+  "transcription_note": "Dense scanned attachment page; asset row inventory extracted from OCR and image-visible security names. Exact checkbox/date columns are low-confidence and flagged."
+}

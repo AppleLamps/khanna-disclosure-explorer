@@ -1,0 +1,103 @@
+{
+  "checks": {
+    "compiled_year_files": 11,
+    "confidence_distribution": {
+      "high": 1858,
+      "low": 299,
+      "medium": 1891,
+      "medium-high": 1,
+      "medium-low": 8
+    },
+    "missing_or_invalid_records": 0,
+    "normalized_records": {
+      "assets": 23099,
+      "documents": 127,
+      "page_rows": 106890,
+      "pages": 4057,
+      "transactions": 48281,
+      "uncertainties": 17307
+    },
+    "owner_code_distribution": {
+      "DC": 29481,
+      "JT": 14,
+      "SP": 73006,
+      "not_stated": 4389
+    },
+    "page_images": 4057,
+    "page_row_kind_distribution": {
+      "asset": 28131,
+      "group": 2494,
+      "tx": 76265
+    },
+    "page_source_json": 4057,
+    "page_type_distribution": {
+      "cover": 15,
+      "letter": 10,
+      "other": 29,
+      "ptr_cover": 104,
+      "ptr_transactions": 1469,
+      "schedule_a": 1097,
+      "schedule_b": 1320,
+      "schedule_c": 3,
+      "schedule_d": 7,
+      "schedule_h": 3
+    },
+    "pending_pages": 0,
+    "source_pdfs": 127,
+    "tesseract_text_files": 4057,
+    "valid_page_source_json": 4057,
+    "years": [
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ]
+  },
+  "issues": [],
+  "notes": [
+    {
+      "check": "unparsed_dates_preserved",
+      "counts": {
+        "transaction_date": 1672
+      },
+      "severity": "info"
+    },
+    {
+      "check": "page_type_normalization",
+      "normalized": {
+        "cover": 15,
+        "letter": 10,
+        "other": 29,
+        "ptr_cover": 104,
+        "ptr_transactions": 1469,
+        "schedule_a": 1097,
+        "schedule_b": 1320,
+        "schedule_c": 3,
+        "schedule_d": 7,
+        "schedule_h": 3
+      },
+      "raw": {
+        "cover": 15,
+        "letter": 10,
+        "other": 29,
+        "ptr": 1469,
+        "ptr_cover": 104,
+        "schedule_a": 1097,
+        "schedule_b": 1320,
+        "schedule_c": 3,
+        "schedule_d": 7,
+        "schedule_h": 3
+      },
+      "severity": "info"
+    }
+  ],
+  "schema_version": "1.0.0",
+  "status": "pass"
+}

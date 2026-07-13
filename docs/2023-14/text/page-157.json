@@ -1,0 +1,41 @@
+{
+  "pdf_page": 157,
+  "printed_label": "Page 157 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "ALLSTATE CORPORATION COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LEAR CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LEAR CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALLSTATE CORPORATION COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALLSTATE CORPORATION COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALLNVDA FLEX EURO PM 182.5 EXP 02/03/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DEERE & COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "2/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALPHABET INC. CMN CLASS A", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PARKER-HANNIFIN CORP. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "2/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BOOKING HOLDINGS INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KKR & CO. INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "2/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BOOKING HOLDINGS INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LINDE PLC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "2/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LINDE PLC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "2/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LINDE PLC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "2/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LINDE PLC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ELI LILLY & CO CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICROSOFT CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LINDE PLC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "2/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MARSH & MCLENNAN CO INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DANAHER CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/3/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "cap_gain_over_200", "note": "Several partial-sale rows have marks close to the capital-gain column boundary; only clear marks were set true."},
+    {"field": "amount", "note": "Amounts are transcribed from visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

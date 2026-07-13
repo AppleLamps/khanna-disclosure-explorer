@@ -1,0 +1,41 @@
+{
+  "pdf_page": 276,
+  "printed_label": "Page 276 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/12/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/19/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBVIE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/4/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WELLS FARGO & CO (NEW) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THERMO FISHER SCIENTIFIC INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "APPLE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "3M COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MERCK & CO., INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIVENT CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STARBUCKS CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "QUANTA SERVICES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NASDAQ INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIVENT CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KEURIG DR PEPPER INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PAYCHEX, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED PARCEL SERVICE, INC. CLASS B COMMON S", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MSCI INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTUIT INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/7/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "United Parcel Service row is clipped at the asset-name column edge; visible wording was preserved."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."}
+  ],
+  "page_confidence": "high"
+}

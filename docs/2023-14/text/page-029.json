@@ -1,0 +1,35 @@
+{
+  "pdf_page": 29,
+  "printed_label": "Page 29 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "N V R INC CMN", "value": "$15,001-$50,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NASDAQ INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NEXTERA ENERGY CAPITAL HOLDING HYBRID 05/01/24", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NEXTERA ENERGY CAPITAL HOLDING HYBRID 05/01/24", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NEXTERA ENERGY, INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NIKE CLASS-B CMN CLASS B", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Northvolt Investments", "eif": true, "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NVIDIA CORPORATION CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OLD DOMINION FREIGHT LINE, INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PARKER-HANNIFIN CORP, CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PARTNERRE FINANCE B LLC HYBRID 10/01/2050 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PARTNERRE FINANCE B LLC HYBRID 10/01/2050 USD", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PFIZER INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PHINIA INC. CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, HYBRID PERPETUA", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, HYBRID PERPETUA", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, HYBRID PERPETUA", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, HYBRID PERPETUA", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 16, "field": "transaction", "read": "S", "note": "PHINIA row transaction is a small single letter at far right; OCR and visual both support S."},
+    {"row": 17, "field": "asset_name", "read": "PNC FINANCIAL SERVICES GROUP, HYBRID PERPETUA", "note": "Four PNC hybrid rows are truncated at the right edge and cannot be distinguished further from this page image."}
+  ],
+  "page_confidence": "medium"
+}

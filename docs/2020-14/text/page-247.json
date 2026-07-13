@@ -1,0 +1,41 @@
+{
+  "pdf_page": 247,
+  "printed_label": "Page 247 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "CIGNA CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VIACOMCBS INC CMN CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUIFAX, INC. RHT", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KIRBY CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMEREN CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HEICO CORP CL-A CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LOEWS CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PERKINELMER, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DXC TECHNOLOGY COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE WILLIAMS COMPANIES, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "6/3/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MADISON SQUARE GARDEN COMPANY CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TARGA RESOURCES CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DEVON ENERGY CORPORATION (NEW) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AVNET INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "RAYTHEON TECHNOLOGIES CORPORAT CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE HOWARD HUGHES CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GRAFTECH INTERNATIONAL LTD. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "J.B. HUNT TRANS SVCS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STRYKER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NCR CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KEYSIGHT TECHNOLOGIES, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE HERSHEY COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SOUTHWEST AIRLINES CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "QIAGEN N.V. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 3, "field": "asset_name", "read": "EQUIFAX, INC. RHT", "note": "Suffix after EQUIFAX is degraded; appears to read RHT."}
+  ],
+  "page_confidence": "medium"
+}

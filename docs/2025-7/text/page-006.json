@@ -1,0 +1,45 @@
+{
+  "pdf_page": 6,
+  "printed_label": "Rohit Khanna Page 6 of 23",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LAS VEGAS PAVING CORP NV IMPT PROJ REV 5% 04/01/2034",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/05/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ARES CAPITAL CORP PFD 8.75% 08/15/2026",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/05/2025",
+      "notification_date": "11/04/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "asset_name",
+      "read": "LAS VEGAS PAVING CORP NV IMPT PROJ REV 5% 04/01/2034",
+      "note": "Bond description partly degraded; transcribed from OCR/image."
+    }
+  ],
+  "page_confidence": "medium"
+}

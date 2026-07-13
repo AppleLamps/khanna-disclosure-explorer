@@ -1,0 +1,239 @@
+{
+  "pdf_page": 15,
+  "printed_label": "Rohit Khanna Page 15 of 20",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CONSTELLATION BRANDS INC CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COCA-COLA COMPANY (THE) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "10/02/2028",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VERISK ANALYTICS, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHARTER COMMUNICATIONS, ING. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KEURIG DR PEPPER INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMCOR PLC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "RALPH LAUREN CORP CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LEBAY INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CARDINAL HEALTH, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "10/02/2028",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNION PACIFIC CORP. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "IDEXX LABORATORIES CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ICORPAY INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CMNTAS CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VENTAS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PFIZER INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CF INDUSTRIES HOLDINGS, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MSCHINC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TYLER TECHNOLOGIES, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DAVITA INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COOPER COS INC/THE CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "page",
+      "read": "Apple Vision OCR plus grid-cell checkbox detection",
+      "note": "Dense scan remains degraded; null dates and unusual OCR-normalized asset text are flagged in validation summary before compile."
+    }
+  ],
+  "page_confidence": "medium"
+}

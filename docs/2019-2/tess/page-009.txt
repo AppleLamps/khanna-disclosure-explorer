@@ -1,0 +1,55 @@
+M and R Schedule A Rohit Khanna 9 of 210
+
+ElF
+SP, DC, IT $P SP Eid SP
+
+BANK DEPOSIT BOOKING HOLDINGS
+[stock Name PROGRAM(BDPS) INC([BKNG) BOX INC ME GROUP INC(CME)
+Ticker BDPS BRNG BOX CME
+Transaction P, S(Part) S{Part), S P
+Value of Asset A: None
+
+B: $1-$1,000
+
+IC: $1,001-$15,000
+
+|D: $15,001-$50,000
+
+JE: $50,001-$100,000
+
+1G: $250,001-$500,000
+JH: $500,001-$1,000,000
+
+Jl: $1,000,001-$5,000,000
+|J: $5,000,001-$25,000,000
+Ik: $25,000,001-$50,000,000
+{L; Over $50,000,000
+[Spouse/DC Asset over $1,000,000
+Type of Income None
+[Dividends
+fRent
+interest
+{Capital Gains
+
+Excepted/Blind Trust
+
+Tax-Deferred
+L Other Type of Income
+mount of Inconie: Preceeding Year A: None
+January 1, 2019 - December 31, 2019 B: $1-5200
+{c: $201-$1,000
+
+1D: $1,001-$2,560
+{€: §2,501-$5,000
+IF: $5,001-$15,000
+1G: $15,001-$50,000
+
+}x: $50,001-$100,000 ;
+ft: $100,001-$1,000,000
+
+J: $1,000,001-$5,000,000
+
+1K: Over $5,000,000
+
+|Spouse/DC Income over $1,000,000
+

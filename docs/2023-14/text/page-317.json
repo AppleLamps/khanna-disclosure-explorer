@@ -1,0 +1,39 @@
+{
+  "pdf_page": 317,
+  "printed_label": "Page 317 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALPHABET INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "group", "text": "M&R Trust Partnership"},
+    {"kind": "group", "text": "2020 Trust FBO Khanna Children"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HEDGE FUND SELECT: ELT ASSOCIATES LLC COMM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/1/2023", "notification_date": null, "amount": "$1,000,001-$5,000,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST TPK COMMN TPK REV REV 5% 02/15/30 FA", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/5/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION HYBRID MTN 10/26/2026", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/16/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ERP OPERATING LP 2.85% 11/01/2026 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/16/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST TPK COMMN TPK REV REV 5% 02/15/30 FA", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OLENTANGY LOC SCH DIST OHIO GO 4% 12/01/26-C", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST TPK COMMN TPK REV REV 5.2500% 02/15/32", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST GO 5% 09/15/26 MS", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WORTHINGTON OHIO GO 5% 12/01/25 JD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROPER TECHNOLOGIES, INC. 2.0% 06/30/2030 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MPLX LP 2.65% 08/15/2030 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HYBRID 04/23/2029 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ENERGY TRANSFER OPERATING LP 5.25% 04/15/2029 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ORACLE CORPORATION 4.65% 05/06/2030", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTONATION INC 4.75% 06/01/2030 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REALTY INCOME CORP 3.95% 08/15/2027 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF MONTREAL HYBRID MTN 01/22/2027 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, HYBRID 12/02/2026", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC 1.915% 02/01/2027 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FISERV INC 5.45% 03/02/2028", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several DC bond rows are clipped at the right edge of the asset column; recorded best visible reading cross-checked against tesseract."}
+  ],
+  "page_confidence": "medium"
+}

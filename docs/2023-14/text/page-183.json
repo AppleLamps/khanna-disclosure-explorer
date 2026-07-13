@@ -1,0 +1,42 @@
+{
+  "pdf_page": 183,
+  "printed_label": "Page 183 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "CAPITAL ONE FINANCIAL CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BRISTOL-MYERS SQUIBB COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NORFOLK SOUTHERN CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COCA-COLA COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "3M COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MCCORMICK & CO NON VTG SHRS CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN TOWER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CSX CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTEL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HEALTHPEAK PROPERTIES INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PHILIP MORRIS INTL INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYCHEX, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PROLOGIS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DIGITAL REALTY TRUST, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ULTA BEAUTY INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE KRAFT HEINZ CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "T-MOBILE US, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COSTAR GROUP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DISCOVER FINANCIAL SERVICES CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DOUGLAS EMMETT, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EQUITABLE HOLDINGS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BLACKROCK, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALBEMARLE CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "tx_type/cap_gain_over_200", "note": "Sale, partial-sale, and capital-gain checkbox marks are best-read from the page image."},
+    {"field": "amount", "note": "Amounts are transcribed from the visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

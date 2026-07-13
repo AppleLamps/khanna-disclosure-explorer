@@ -1,0 +1,42 @@
+{
+  "pdf_page": 242,
+  "printed_label": "Page 242 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "HANESBRANDS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ECOLAB INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HANESBRANDS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CENTENE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PHILIP MORRIS INTL INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MC DONALDS CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALTRIA GROUP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HANESBRANDS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HANESBRANDS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROPER TECHNOLOGIES INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTL FLAVORS & FRAGRANCE CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HANESBRANDS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MILLS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIBERTY MEDIA CORPORATION SERIES C LIBERTY S", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HUMANA INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CARDINAL HEALTH, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HANESBRANDS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HANESBRANDS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AUTOMATIC DATA PROCESSING INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SIRIUS XM HOLDINGS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTEL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ENPHASE ENERGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELECTRONIC ARTS CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AT&T INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELEVANCE HEALTH INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/10/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "asset_name", "note": "The Liberty Media row is clipped at the asset-name column edge; visible wording was preserved."},
+    {"field": "cap_gain_over_200", "note": "Capital-gain marks are best-read from the page image; International Flavors & Fragrance and Enphase rows show a capital-gain checkbox mark."}
+  ],
+  "page_confidence": "medium"
+}

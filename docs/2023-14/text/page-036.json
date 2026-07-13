@@ -1,0 +1,35 @@
+{
+  "pdf_page": 36,
+  "printed_label": "Page 36 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "CORNING INCORPORATED CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Corvex Dynamic Equity Select LLC Class BA Series 1", "value": "$500,001-$1,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "DEERE & COMPANY CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DOMINION ENERGY INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DUPONT DE NEMOURS INC CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "FERGUSON PLC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "GOLDMAN SACHS BANK USA DEPOSIT (BDA)", "value": "$100,001-$250,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GRAPHIC PACKAGING HLDGCO CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HARTFORD FINANCIAL SRVCS GROUP CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HCA HEALTHCARE INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HONEYWELL INTL INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HSBC BANK PLC LINKED TO S&P 500 INDEX", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HSBC BANK PLC LINKED TO S&P 500 INDEX BUFFERED", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HUMANA INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "INFINERA CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "INTL.FLAVORS & FRAGRANCE CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ISHARES RUSSELL 1000 GROWTH ETF", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$50,001-$100,000", "transaction": "S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ahuja Grandchildren's Education Trust", "note": "No group header printed on this page; it continues the group begun on page 34."},
+    {"row": 20, "field": "amount_of_income", "read": "$50,001-$100,000", "note": "iShares Growth ETF Block D mark is far right, best read VIII; adjacent VII/IX possible due scan alignment."}
+  ],
+  "page_confidence": "medium"
+}

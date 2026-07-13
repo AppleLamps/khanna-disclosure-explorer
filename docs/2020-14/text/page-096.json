@@ -1,0 +1,29 @@
+{
+  "pdf_page": 96,
+  "printed_label": "Page 96 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja Declaration of Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "NY CITY MUN WTR&SEWR FIN AUTH REV 5.0000% 06/15/23-CA JD 2ND GEN RESOLUTION-FISCAL 2017 SUBSER CC-2 BBO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NY CITY TRANSITIONAL FIN AUTH GO 5.0000% 11/01/24 MN BEO BEO SER LIEN", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NY ST ENVIRONMENTAL FACS CO REV 4.0000% 06/15/20 JD CLN & DRINKING WTR REV FDS 2ND RES BDS SERIES 2017 B", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "POLAND N Y CNTY SCH DIST GO 1.5000% 06/25/21 JD GO BD ANTIC NT, 2020 LT BBO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PORT AUTHNY & NJ REV 5% 12/01/25-CA JD CONSOLIDATED BDS 173 A LT BBO SR LIEN", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SALES TAX ASSET RECEIVABLE REV 5.0000% 10/15/20 AO CORP NY FISCAL 2015-SER A BBO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TOMPKINS CNTY N Y DEV CORP REV REV 5.0000% 07/01/21 JJ ITHACA COLLEGE PROJECT BBO S-T X-ORD RDM", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TOMPKINS CNTY N Y GO 2.7500% 02/20/20 FA A/T BANS 2019 B ANT LT BBO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TRIBOROUGH BRDG & TUNL AUTH NY REV 3.0000% 11/15/37 MN MTA BRIDGES AND TUNNELS GEN REV BONDS SERIES 2017C", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "UTIL DEBT SECURITIZATION AUTH NY REV 5.0000% 06/15/24-CA JD RESTRUCTURING BONDS SERIES 2016A BBO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": null, "field": "value", "read": null, "note": "Block B (Value of Asset) columns unresolvable under heavy grey stipple/transposed scan; all value=null."},
+    {"row": null, "field": "income_types", "read": null, "note": "Block C: visible checks align with INTEREST for municipal/agency bond holdings; income type recorded as INTEREST throughout, but grid degradation limits confidence."},
+    {"row": null, "field": "amount_of_income", "read": null, "note": "Block D (Amount of Income) columns unresolvable under stipple; all amount_of_income=null."},
+    {"row": null, "field": "transaction", "read": null, "note": "Block E (Transaction) has visible marks on some rows, but exact P/S alignment is not reliable under the transposed/degraded grid; transaction=null."},
+    {"row": 10, "field": "asset_name", "read": "UTIL DEBT SECURITIZATION AUTH NY REV 5.0000% 06/15/24-CA JD RESTRUCTURING BONDS SERIES 2016A BBO", "note": "Final row is clipped at bottom edge but readable from the bottom-left crop."}
+  ],
+  "page_confidence": "medium"
+}

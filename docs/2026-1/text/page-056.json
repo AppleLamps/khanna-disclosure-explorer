@@ -1,0 +1,131 @@
+{
+  "pdf_page": 56,
+  "printed_label": "Rohit Khanna Page 56 of 65",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REALTY INCOME CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/13/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SBA COMMUNICATIONS CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/13/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GODADDY INC. CMN CLASS A",
+      "tx_type": "Exchange",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/13/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SUPER MICRO COMPUTER, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/13/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SKYWORKS SOLUTIONS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/13/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NATIONAL GRID PLC SPONSORED ADR CMN",
+      "tx_type": "Exchange",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/09/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "date",
+      "read": {
+        "kind": "tx",
+        "owner": "SP",
+        "asset_name": "REALTY INCOME CORPORATION CMN",
+        "tx_type": "Purchase",
+        "cap_gain_over_200": true,
+        "partial_sale": true,
+        "date": null,
+        "notification_date": "01/13/2026",
+        "amount": "$1,001-$15,000"
+      },
+      "note": "Transaction-date cell was not read confidently from the source image; date left null explicitly."
+    },
+    {
+      "row": 5,
+      "field": "date",
+      "read": {
+        "kind": "tx",
+        "owner": "SP",
+        "asset_name": "SKYWORKS SOLUTIONS, INC. CMN",
+        "tx_type": "Purchase",
+        "cap_gain_over_200": true,
+        "partial_sale": true,
+        "date": null,
+        "notification_date": "01/13/2026",
+        "amount": "$1,001-$15,000"
+      },
+      "note": "Transaction-date cell was not read confidently from the source image; date left null explicitly."
+    },
+    {
+      "row": 6,
+      "field": "date",
+      "read": {
+        "kind": "tx",
+        "owner": "SP",
+        "asset_name": "NATIONAL GRID PLC SPONSORED ADR CMN",
+        "tx_type": "Exchange",
+        "cap_gain_over_200": true,
+        "partial_sale": true,
+        "date": null,
+        "notification_date": "01/09/2026",
+        "amount": "$1,001-$15,000"
+      },
+      "note": "Transaction-date cell was not read confidently from the source image; date left null explicitly."
+    }
+  ],
+  "page_confidence": "medium"
+}

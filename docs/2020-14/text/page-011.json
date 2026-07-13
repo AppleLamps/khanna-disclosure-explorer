@@ -1,0 +1,39 @@
+{
+  "pdf_page": 11,
+  "printed_label": "Page 11 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Standard House Form A grid, continuation of THE M&R TRUST PARTNERSHIP (Ritu Ahuja 1994 Trust / 1995 Trust). Block B value cols A-M; Block D amount cols I-XII (I=None, II=$1-$200, III=$201-$1,000, ...). Alphabetical equity list I-M (heavy Liberty Media complex). Most equities marked CAPITAL GAINS; dividend payers (ISHARES, KENNEDY-WILSON, KKR, LENNAR, M&T BANK) marked DIVIDENDS. Block D amounts (mostly None/col I with a few $1-$200) and Block E transaction letters are faint and near scan resolution; flagged.",
+  "rows": [
+    {"kind": "group", "text": "THE M&R TRUST PARTNERSHIP"},
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "group", "text": "Ritu Ahuja 1995 Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "INTUITIVE SURGICAL INC(ISRG)", "eif": null, "value": "$15,001-$50,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ISHARES RUSSELL 2000 ETF(IWM)", "eif": "EIF", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "KENNEDY-WILSON HLDGS INC COM(KW)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "KKR & CO INC CL A(KKR)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LENNAR CORPORATION(LEN)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIBERTY BROADBAND CORP S-A(LBRDA)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIBERTY BROADBAND CORP S-C(LBRDK)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIBERTY GLOBAL PLC CL A(LBTYA)", "eif": null, "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIBERTY GLOBAL PLC CL C(LBTYK)", "eif": null, "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIBERTY MEDIA C SER A SIRIUSXM(LSXMA)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIBERTY MEDIA C SER C SIRIUSXM(LSXMK)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIBERTY MEDIA CORP SER A(FWONA)", "eif": null, "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIBERTY MEDIA CORP SER C(FWONK)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIBTY EXER F$$KK (6312290C7)", "eif": null, "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "LIVE NATION ENTERTAINMENT INC(LYV)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "M&T BANK CORP(MTB)", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARKEL CORP (HOLDING CO)(MKL)", "eif": null, "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 17, "field": "asset_name", "read": "LIBTY EXER F$$KK (6312290C7)", "note": "structured/exchangeable Liberty security; name garbled, (6312290C7) appears to be a 9-char CUSIP; best-effort"},
+    {"row": 13, "field": "asset_name", "read": "LIBERTY MEDIA C SER A/C SIRIUSXM(LSXMA/LSXMK)", "note": "printed as 'SIRI(LSXM)'; normalized to SIRIUSXM; tickers LSXMA/LSXMK confident"},
+    {"row": 5, "field": "transaction", "note": "Block E letters faint; blanks vs P for held rows (LIBERTY GLOBAL A, LIBERTY MEDIA CORP SER A, LIBTY EXER, M&T BANK read as no-transaction) uncertain due to row-alignment difficulty at scan resolution"},
+    {"row": 4, "field": "amount_of_income", "note": "Block D dominated by col I (None) with a few col II ($1-$200) for dividend rows; ISHARES/LENNAR amount (None vs $1-$200) uncertain given DIVIDENDS income type"},
+    {"row": 2, "field": "group_text", "read": "Ritu Ahuja 1994 Trust / 1995 Trust", "note": "trust year digits partly obscured; header identical to pages 8-10"}
+  ],
+  "page_confidence": "medium"
+}

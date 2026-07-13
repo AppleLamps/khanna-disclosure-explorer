@@ -1,0 +1,148 @@
+{
+  "pdf_page": 11,
+  "printed_label": "Rohit Khanna Page 11 of 20",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TRUIST FINANCIAL CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/17/2025",
+      "notification_date": "08/01/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GRAPHIC PACKAGING HLDG CO CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/01/2025",
+      "notification_date": "08/01/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GRAPHIC PACKAGING HLDG CO CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/29/2025",
+      "notification_date": "08/01/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZIMMER BIOMET HOLDINGS INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/24/2025",
+      "notification_date": "08/01/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CONROE TEX INDPT SCH DIST GO 5% 02/15/32 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/15/2025",
+      "notification_date": "08/01/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JPMORGAN CHASE & CO. LINKED TO S&P 500 INDEX",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/17/2025",
+      "notification_date": "08/01/2025",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JPMORGAN CHASE & CO. LINKED TO S&P 500 INDEX",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/17/2025",
+      "notification_date": "08/01/2025",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JPMORGAN CHASE & CO. LINKED TO S&P 500 INDEX",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/24/2025",
+      "notification_date": "08/01/2025",
+      "amount": "$100,001-$250,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PINTEREST INC CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "07/15/2025",
+      "notification_date": "08/01/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NASDAQ INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "07/10/2025",
+      "notification_date": "08/01/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SENSATA TECHNOLOGIES HOLDING PLC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "07/09/2025",
+      "notification_date": "08/01/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NASDAQ INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "07/09/2025",
+      "notification_date": "08/01/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "medium"
+}

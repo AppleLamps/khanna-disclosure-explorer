@@ -1,0 +1,126 @@
+Schedule B: Transactions
+
+Page 64 of 149
+Rohit Khanna
+
+EF
+
+SP, OC, JT
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+Security Name
+
+tlumina Inc
+
+Intuitive Surgical
+
+Intuitive Surgical
+
+Intuitive Surgical
+
+Netflix
+
+Netflix
+
+Netflix
+
+Nike
+
+Nike
+
+Ticker
+
+Transaction
+
+Amount of Transaction
+
+A: None
+
+B: $1-$1,000
+
+C: $1,001-$15,000
+
+ILMN
+
+ISRG
+
+ISRG
+
+ISRG
+
+D: $15,001-$$0,000
+
+NFLX
+
+NFLX
+
+NFLX
+
+NKE
+
+NKE
+
+E: $S0,001-$100,000
+
+F: $100,001-$250,000
+
+G: $250,001-$500,000
+
+H: $500,001-$1,000,000
+
+I: $1,000,001-$5,000,000
+
+J: $5,000,001-$25,000,000
+
+K: $25,000,001-$50,000,000
+
+L: Over $50,000,000
+
+Spouse/OC Asset over $1,000,000
+
+Type of Transaction
+
+Purchase
+
+Sale
+
+Partial Sale
+
+Exchange
+
+Capital Gain
+
+Capital Gain Exceeded $200
+
+Transaction Date
+
+9/21/2017
+
+2/9/2017
+
+3/13/2017
+
+11/21/2017
+
+3/13/2017 | 9/20/2017 | 10/11/2017 § 3/13/2017
+
+8/3/2017
+
+MS MR Trust Partnership

@@ -1,0 +1,30 @@
+{
+  "pdf_page": 8,
+  "printed_label": "Page 8 of 13",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind":"tx","owner":"DC","asset_name":"GENERAL MOTORS COMPANY CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":false,"date":"07/20/2023","notification_date":"08/01/2023","amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"THE HOME DEPOT, INC. CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"BRISTOL-MYERS SQUIBB COMPANY CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"D.R. HORTON, INC. CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"TARGET CORPORATION CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"THE HERSHEY COMPANY CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"UNITED RENTALS, INC. CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CARRIER GLOBAL CORPORATION CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"THERMO FISHER SCIENTIFIC INC CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"EDWARDS LIFESCIENCES CORPORATION CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"SIMON PROPERTY GROUP INC CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"EXTRA SPACE STORAGE INC. CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ALBEMARLE CORP CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"EQUIFAX INC. CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"PFIZER INC. CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"MICROSOFT CORPORATION CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"REGENERON PHARMACEUTICAL INC CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"NIKE CLASS-B CMN CLASS B","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [{"row":1,"field":"amount","read":"$15,001-$50,000","note":"First row amount X is in column B on the image; remaining rows on this page are in column A."}],
+  "page_confidence": "medium"
+}

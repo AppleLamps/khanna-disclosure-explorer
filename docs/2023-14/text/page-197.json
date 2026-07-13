@@ -1,0 +1,42 @@
+{
+  "pdf_page": 197,
+  "printed_label": "Page 197 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "CATALENT, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INGERSOLL RAND INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VF CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALIGN TECHNOLOGY, INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CAPRI HOLDINGS LIMITED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ZEBRA TECHNOLOGIES INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SNAP-ON INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROYAL BANK OF CANADA LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/5/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/7/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/12/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TESLA, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PFIZER INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DANAHER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UPPER ARLINGTON OHIO CITY SCH GO 5.0000%", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/21/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CITIGROUP INC. LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HSBC BANK PLC LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE PROGRESSIVE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTOMATIC DATA PROCESSING INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CVS HEALTH CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE HERSHEY COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PALO ALTO NETWORKS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICROSOFT CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MONDELEZ INTERNATIONAL, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ORACLE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "The Upper Arlington municipal bond name is clipped at the asset-name column edge; visible wording was preserved."},
+    {"field": "amount", "note": "The first linked-note purchases read as amount bucket B; later purchases read as amount bucket A."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."}
+  ],
+  "page_confidence": "medium"
+}

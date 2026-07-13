@@ -1,0 +1,210 @@
+{
+  "pdf_page": 13,
+  "printed_label": "Rohit Khanna Page 13 of 20",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SIEMENS AKTIENGESELLSCHAFT SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/13/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZIMMER BIOMET HOLDINGS INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/16/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZIMMER BIOMET HOLDINGS INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/10/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GS FS TRSY SOLUTIONS MM FUND MUTUAL FUND",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/17/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GRAPHIC PACKAGING HLDGCO CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/23/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GS FS TRSY SOLUTIONS MM FUND MUTUAL FUND",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/23/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GS FS TRSY SOLUTIONS MM FUND MUTUAL FUND",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/25/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GRAPHIC PACKAGING HLDGCO CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/18/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TENABLE HOLDINGS, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/16/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GRAPHIC PACKAGING HLDGCO CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/16/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TAKEDA PHARMACEUTICAL CO LTD SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/13/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GS FS TRSY SOLUTIONS MM FUND MUTUAL FUND",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/10/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GS FS TRSY SOLUTIONS MM FUND MUTUAL FUND",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/13/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CALL/TSM FLEX EURO PM @ 187.5 EXP 06/13/2025",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/13/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CALL/SPY FLEX EURO PM @ 575 EXP 08/29/2025",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/24/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 575 EXP 07/25/2025",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/09/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WALT DISNEY COMPANY (THE) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/26/2025",
+      "notification_date": "07/07/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 15,
+      "field": "asset_name",
+      "read": "CALL/SPY FLEX EURO PM @ 575 EXP 08/29/2025",
+      "note": "Underlying symbol is faint; OCR only showed the strike/expiry clearly."
+    }
+  ],
+  "page_confidence": "medium"
+}

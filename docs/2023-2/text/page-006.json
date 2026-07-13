@@ -1,0 +1,276 @@
+{
+  "pdf_page": 6,
+  "printed_label": "Page 6 of 15",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "JOHNSON & JOHNSON CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "COCA-COLA COMPANY (THE) CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MERCK & CO., INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MC DONALDS CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AMAZON.COM INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ALPHABET INC. CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MCKESSON CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ECOLAB INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ELEVANCE HEALTH INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CROWN CASTLE INTL CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LABORATORY CORPORATION OF AMER CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TEMPUR SEALY INTERNATIONAL INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SYSCO CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SHOPIFY INC. CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AMGEN INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SHERWIN-WILLIAMS CO CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ELECTRONIC ARTS CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/14/23",
+      "notification_date": "03/01/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "APPLE INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ISHARES MSCI AUSTRALIA ETF",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CVS HEALTH CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ISHARES, INC. MSCI JAPAN ETF MUTUAL FUND",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ELI LILLY & CO CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$50,001-$100,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": "top block",
+      "field": "cap_gain_over_200",
+      "read": "some sale capital-gain X marks faint",
+      "note": "Capital-gain flags reconciled with duplicate annual transaction index and visible local crop marks."
+    }
+  ],
+  "page_confidence": "medium"
+}

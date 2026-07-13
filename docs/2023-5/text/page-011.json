@@ -1,0 +1,328 @@
+{
+  "pdf_page": 11,
+  "printed_label": "Page 11 of 28",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CADENCE DESIGN SYSTEMS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OTIS WORLDWIDE CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CSX CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LIVE NATION ENTERTAINMENT INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CHIPOTLE MEXICAN GRILL, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AMERICAN AIRLINES GROUP INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TAKE TWO INTERACTIVE SOFTWARE INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "INVESCO LTD. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CF INDUSTRIES HOLDINGS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "W.R. BERKLEY CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PHILIP MORRIS INTERNATIONAL IN 5.125% 02/15/2030",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/16/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "STERIS PUBLIC LIMITED COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PARAMOUNT GLOBAL CMN CLASS B",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "FIRST SOLAR, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SYNCHRONY FINANCIAL CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DELTA AIR LINES, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WESTROCK COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ORACLE CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AUTODESK, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "FIDELITY NATL INFO SVCS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AMERICAN INTL GROUP, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "GE HEALTHCARE TECHNOLOGIES INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "COLGATE-PALMOLIVE CO CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "UNITED AIRLINES HOLDINGS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TERADYNE INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WELLTOWER INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CITIGROUP INC. HYBRID 11/05/2030 USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/16/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 16,
+      "field": "asset_name/tx_type/amount",
+      "read": "DELTA AIR NES, INC, CMN",
+      "note": "Could not confidently match OCR row to annual Schedule B; OCR line: DC | DELTA AIR LINES, INC, CMN 0/23/23| 06/02/23"
+    },
+    {
+      "row": 27,
+      "field": "asset_name/date",
+      "read": "CITIGROUP INC. HYBRID 11/05/2030 USD",
+      "note": "OCR asset text was CITIGROUP INC. HYBRID; normalized from matching annual Schedule B row (score 0.77)."
+    },
+    {
+      "row": 16,
+      "field": "asset_name/date/amount",
+      "read": "DELTA AIR LINES, INC. CMN",
+      "note": "OCR read date as 0/23/23 and asset as DELTA AIR NES; normalized using annual Schedule B matching asset/date."
+    }
+  ],
+  "page_confidence": "medium"
+}

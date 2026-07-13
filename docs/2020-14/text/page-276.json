@@ -1,0 +1,319 @@
+{
+  "pdf_page": 276,
+  "printed_label": "Page 276 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1995 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "M&T BANK CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "5/20/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CRESTWOOD EQUITY PARTNERS LP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "3/4/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BOOKING HOLDINGS INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTERCONTINENTAL EXCHANGE INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "6/23/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMERICAN INTL GROUP, INC. CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "3/5/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SCHLUMBERGER LTD CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "5/20/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KINDER MORGAN INC CMN CLASS P",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "8/20/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DUKE ENERGY CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": true,
+      "date": "12/31/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DOLLAR GENERAL CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": true,
+      "date": "2/11/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PACCAR INC CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "4/14/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NORTHERN TRUST CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "3/5/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TRANSDIGM GROUP INCORPORATED CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": true,
+      "date": "2/11/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICRON TECHNOLOGY, INC. CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "3/5/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EXELON CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BORING COMPANY CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COLGATE-PALMOLIVE CO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "XILINX INCORPORATED CMN",
+      "tx_type": "[UNKNOWN]",
+      "cap_gain_over_200": false,
+      "date": "9/29/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ADOBE INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "3/5/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EDWARDS LIFESCIENCES CORPORATI CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIFTH THIRD BANCORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "3/5/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SYNOVUS FINANCIAL CORP CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": true,
+      "date": "1/8/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VERISIGN, INC. CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": true,
+      "date": "2/11/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WELLTOWER INC. CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": true,
+      "date": "2/11/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ECOLAB INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MARRIOTT INTERNATIONAL, INC CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "5/20/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SEMPRA ENERGY CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "12/31/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNITED PARCEL SERVICE, INC. CLASS B COMMON STOCK",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "2/11/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 17,
+      "field": "tx_type",
+      "read": null,
+      "note": "No clear X visible in the transaction type columns for XILINX INCORPORATED CMN."
+    },
+    {
+      "row": 26,
+      "field": "tx_type",
+      "read": "Partial Sale",
+      "note": "Transaction type X for SEMPRA ENERGY CMN is faint but appears in the partial sale column."
+    },
+    {
+      "row": 18,
+      "field": "tx_type",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    }
+  ],
+  "page_confidence": "medium"
+}

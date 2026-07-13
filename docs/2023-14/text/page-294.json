@@ -1,0 +1,40 @@
+{
+  "pdf_page": 294,
+  "printed_label": "Page 294 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "ISHARES MSCI AUSTRALIA ETF", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ING GROEP N.V. SPONS ADR SPONSORED ADR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STMICROELECTRONICS NV ADR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ASML HOLDING N.V. ADR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 412 EXP 02/16/2024", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 417 EXP 01/19/2024", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 420 EXP 01/19/2024", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/12/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 404 EXP 12/15/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 435 EXP 10/27/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 440 EXP 10/20/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 427 EXP 10/06/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALMART INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VISA INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STRYKER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MC DONALDS CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/31/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PFIZER INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TJX COMPANIES INC (NEW) CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "APPLE INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "JOHNSON & JOHNSON CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/31/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LAM RESEARCH CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COSTCO WHOLESALE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EATON CORP PLC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NETFLIX, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."}
+  ],
+  "page_confidence": "medium"
+}

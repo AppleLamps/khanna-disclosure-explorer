@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/khanna-disclosures/open-data.schema.json",
+  "title": "Ro Khanna financial disclosure normalized records",
+  "type": "object",
+  "$defs": {
+    "identifier": {"type": "string", "minLength": 1},
+    "nullableString": {"type": ["string", "null"]},
+    "nullableInteger": {"type": ["integer", "null"]},
+    "document": {
+      "type": "object",
+      "required": ["document_id", "year", "title", "page_count", "source_pdf_path"],
+      "properties": {
+        "document_id": {"$ref": "#/$defs/identifier"},
+        "year": {"type": "integer", "minimum": 2016},
+        "title": {"$ref": "#/$defs/identifier"},
+        "page_count": {"type": "integer", "minimum": 1},
+        "source_pdf_path": {"$ref": "#/$defs/identifier"}
+      }
+    },
+    "page": {
+      "type": "object",
+      "required": ["page_id", "document_id", "year", "document_page_number", "page_type", "page_image_path", "source_json_path", "tesseract_text_path"],
+      "properties": {
+        "page_id": {"$ref": "#/$defs/identifier"},
+        "document_id": {"$ref": "#/$defs/identifier"},
+        "year": {"type": "integer", "minimum": 2016},
+        "document_page_number": {"type": "integer", "minimum": 1},
+        "page_type": {"enum": ["cover", "ptr_cover", "ptr_transactions", "letter", "schedule_a", "schedule_b", "schedule_c", "schedule_d", "schedule_h", "other"]},
+        "page_image_path": {"$ref": "#/$defs/identifier"},
+        "source_json_path": {"$ref": "#/$defs/identifier"},
+        "tesseract_text_path": {"$ref": "#/$defs/identifier"}
+      }
+    },
+    "asset": {
+      "type": "object",
+      "required": ["asset_id", "page_id", "document_id", "year", "asset_name", "description", "value_has_open_upper_bound"],
+      "properties": {
+        "asset_id": {"$ref": "#/$defs/identifier"},
+        "page_id": {"$ref": "#/$defs/identifier"},
+        "document_id": {"$ref": "#/$defs/identifier"},
+        "year": {"type": "integer", "minimum": 2016},
+        "asset_name": {"$ref": "#/$defs/identifier"},
+        "description": {"$ref": "#/$defs/identifier"},
+        "value_min_usd": {"$ref": "#/$defs/nullableInteger"},
+        "value_max_usd": {"$ref": "#/$defs/nullableInteger"},
+        "value_has_open_upper_bound": {"type": "boolean"}
+      }
+    },
+    "page_row": {
+      "type": "object",
+      "required": ["page_row_id", "page_id", "document_id", "year", "document_page_number", "row_number", "row_kind", "source_json_path"],
+      "properties": {
+        "page_row_id": {"$ref": "#/$defs/identifier"},
+        "page_id": {"$ref": "#/$defs/identifier"},
+        "document_id": {"$ref": "#/$defs/identifier"},
+        "year": {"type": "integer", "minimum": 2016},
+        "document_page_number": {"type": "integer", "minimum": 1},
+        "row_number": {"type": "integer", "minimum": 1},
+        "row_kind": {"type": "string"},
+        "source_json_path": {"$ref": "#/$defs/identifier"}
+      }
+    },
+    "transaction": {
+      "type": "object",
+      "required": ["transaction_id", "page_id", "document_id", "year", "asset_name", "description", "amount_has_open_upper_bound"],
+      "properties": {
+        "transaction_id": {"$ref": "#/$defs/identifier"},
+        "page_id": {"$ref": "#/$defs/identifier"},
+        "document_id": {"$ref": "#/$defs/identifier"},
+        "year": {"type": "integer", "minimum": 2016},
+        "asset_name": {"$ref": "#/$defs/identifier"},
+        "description": {"$ref": "#/$defs/identifier"},
+        "transaction_date_iso": {"$ref": "#/$defs/nullableString"},
+        "amount_min_usd": {"$ref": "#/$defs/nullableInteger"},
+        "amount_max_usd": {"$ref": "#/$defs/nullableInteger"},
+        "amount_has_open_upper_bound": {"type": "boolean"}
+      }
+    },
+    "uncertainty": {
+      "type": "object",
+      "required": ["uncertainty_id", "page_id", "document_id", "year", "text", "source_json_path"],
+      "properties": {
+        "uncertainty_id": {"$ref": "#/$defs/identifier"},
+        "page_id": {"$ref": "#/$defs/identifier"},
+        "document_id": {"$ref": "#/$defs/identifier"},
+        "year": {"type": "integer", "minimum": 2016},
+        "text": {"$ref": "#/$defs/identifier"},
+        "source_json_path": {"$ref": "#/$defs/identifier"}
+      }
+    }
+  }
+}

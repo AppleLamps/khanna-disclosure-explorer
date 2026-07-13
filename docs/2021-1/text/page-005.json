@@ -1,0 +1,21 @@
+{
+  "pdf_page": 5,
+  "printed_label": "Page 5 of 6",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "M&R Trust Partnership 2020 Trust FBO Khanna Children"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHICAGO ILL O HARE INTL ARPT REV f GEN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/04/2021", "notification_date": "02/08/2021", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NORTH TEX TWY AUTH REV REF SECOND TIER", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/04/2021", "notification_date": "02/08/2021", "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WASHINGTON ST VAR PURP GO REF BDS f SER", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/04/2021", "notification_date": "02/08/2021", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CONNECTICUT ST GO BDS SER. 2020 A", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/15/2021", "notification_date": "02/08/2021", "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARRIER GLOBAL CORPORATION COM", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/28/2021", "notification_date": "02/08/2021", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 2, "field": "asset_name", "read": "CHICAGO ILL O HARE INTL ARPT REV f GEN", "note": "Description is compressed and partly clipped in this PTR page; matched against the annual Schedule B row."},
+    {"row": 4, "field": "asset_name", "read": "WASHINGTON ST VAR PURP GO REF BDS f SER", "note": "Series marker appears as a lowercase f or smudged F; matched against annual Schedule B."}
+  ],
+  "page_confidence": "medium"
+}

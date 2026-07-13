@@ -1,0 +1,36 @@
+{
+  "pdf_page": 87,
+  "printed_label": "Page 87 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "OKLAHOMA ST WTR RES BRD ST LN REV", "value": "$1-$1,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "OLATHE KANS DB 3% 08/01/21 FA GO TEN", "value": "$1-$1,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "OLATHE KANS WTR & SWR SYS REV REV", "value": "$1-$1,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "OLD DOMINION FREIGHT LINE, INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OLD REPUBLIC INTL CORP CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OMEGA HEALTHCARE INVESTORS INC C", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "OMNICOM GROUP CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ON SEMICONDUCTOR CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ONEMAIN HOLDINGS, INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ORACLE CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OREGON ST GO 5% 05/01/21 MN GENERA", "value": "$1-$1,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "O'REILLY AUTOMOTIVE, INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ORGANON & CO CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ORION OFFICE REIT INC CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "OTIS WORLDWIDE CORPORATION CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OWENS CORNING CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PACCAR INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PACWEST BANCORP CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PARAMOUNT GLOBAL CMN CLASS A", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "asset_name", "read": "OKLAHOMA ST WTR RES BRD ST LN REV", "note": "bond description clipped at right edge of asset-name cell"},
+    {"row": 2, "field": "asset_name", "read": "OLATHE KANS DB 3% 08/01/21 FA GO TEN", "note": "trailing description clipped/low resolution"},
+    {"row": 3, "field": "asset_name", "read": "OLATHE KANS WTR & SWR SYS REV REV", "note": "trailing description clipped/low resolution"},
+    {"row": 11, "field": "asset_name", "read": "OREGON ST GO 5% 05/01/21 MN GENERA", "note": "trailing description clipped after GENERA"}
+  ],
+  "page_confidence": "medium"
+}

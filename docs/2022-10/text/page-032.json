@@ -1,0 +1,73 @@
+{
+  "pdf_page": 32,
+  "printed_label": "Page 32 of 32",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WASTE MANAGEMENT INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/24/2022",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HANESBRANDS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "09/26/2022",
+      "notification_date": "10/03/2022",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HANESBRANDS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "08/27/2022",
+      "notification_date": "10/03/2022",
+      "amount": "[UNKNOWN]"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "amount",
+      "read": "blank amount checkboxes",
+      "note": "no amount checkbox is visibly marked on page 32"
+    },
+    {
+      "row": 2,
+      "field": "amount",
+      "read": "blank amount checkboxes",
+      "note": "no amount checkbox is visibly marked on page 32"
+    },
+    {
+      "row": 3,
+      "field": "amount",
+      "read": "blank amount checkboxes",
+      "note": "no amount checkbox is visibly marked on page 32"
+    },
+    {
+      "row": 1,
+      "field": "notification_date",
+      "read": "10/09/2022",
+      "note": "Existing transcription is after the 2022-10-07 filing stamp and treated as an impossible PTR date without clearer source support."
+    }
+  ],
+  "page_confidence": "medium",
+  "image": "docs/2022-10/pages/page-032.jpg",
+  "doc": "2022-10",
+  "doc_label": "2022 PTR filed 2022-10-07"
+}

@@ -1,0 +1,309 @@
+{
+  "pdf_page": 32,
+  "printed_label": "Page 32 of 67",
+  "section": "Periodic Transaction Report - transactions",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ARTHURJ GALLAGHER & CO CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MOHAWK INDUSTRIES INC COMMON STO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OLD DOMINION FREIGHT LINE, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ANALOG DEVICES, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PHILIP MORRIS INTL. INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GALVESTON CNTY TEX GO 5% 0201/23 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CAMDEN PROPERTY TRUST CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SUN COMMUNITIES. INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PHILP MORRIS INTLING CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GALVESTON CNTY TEX GO 5%",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICRON TECHNOLOGY, INC_CMM a 2 o axoy72 \" = 7",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SUN COMMUNITIES, INC CMIN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JUDR INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICRON TECHNOLOGY, INC, CMIN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICRON TECHNOLOGY, INC, CMIN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ORACLE CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 2,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 3,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 4,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 5,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 7,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 9,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 10,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 14,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 15,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 16,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 9,
+      "field": "asset_name",
+      "read": "PHILP MORRIS INTLING CMN",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 10,
+      "field": "asset_name",
+      "read": "GALVESTON CNTY TEX GO 5%",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 11,
+      "field": "asset_name",
+      "read": "MICRON TECHNOLOGY, INC_CMM a 2 o axoy72 \" = 7",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 12,
+      "field": "asset_name",
+      "read": "SUN COMMUNITIES, INC CMIN",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 6,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 8,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 13,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 11,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 12,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    }
+  ],
+  "page_confidence": "low"
+}

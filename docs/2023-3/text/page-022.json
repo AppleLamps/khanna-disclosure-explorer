@@ -1,0 +1,254 @@
+{
+  "pdf_page": 22,
+  "printed_label": "Page 22 of 23",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HEALTHCARE REALTY TRUST INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EPAM SYSTEMS, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "RITHM CAPITAL CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KILROY REALTY CORPORATION COMMON STOCK",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LIVE NATION ENTERTAINMENT INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "IONIS PHARMACEUTICALS, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CBRE GROUP, INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEWELL BRANDS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GODADDY INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/14/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1995 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SOUTH CAROLINA ST GO 5% 04/01/23 AO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/02/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "RIO RANCHO N MEX WTR & REV 5% 05/15/23 MN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/08/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ILLINOIS FIN AUTH REV REV 5.0000% 07/1/20-CA JJ",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/06/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NORTH CAROLINA ST LTD OBLIG REV 5% 05/01/23 MN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/15/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SAN ANTONIO TEX WTR REV 5.0000% 05/15/23 MN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/02/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALDINE TEX INDPT SCH DIST GO 5% 02/15/24 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/09/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FLORIDA ST BRD ED PUB ED DB 5% 06/01/23 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/06/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALLSTATE CORPORATION COMMON STOCK",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/07/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WELLS FARGO & CO (NEW) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/15/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TRUIST FINANCIAL CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/15/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGAL REXNORD CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/23/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMERICAN INTL GROUP, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/16/2023",
+      "notification_date": "04/03/2023",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 13,
+      "field": "asset_name",
+      "read": "ILLINOIS FIN AUTH REV REV 5.0000% 07/1/20-CA JJ",
+      "note": "Annual Schedule B has a truncated/odd maturity year; PTR scan is compressed. Preserved checked annual text."
+    }
+  ],
+  "page_confidence": "medium"
+}

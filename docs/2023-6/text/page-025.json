@@ -1,0 +1,161 @@
+{
+  "pdf_page": 25,
+  "printed_label": "Page 25 of 33",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DOUGLAS EMMETT, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "06/29/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE KRAFT HEINZ CO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/28/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COTY, INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "06/29/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "D.R. HORTON, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "06/29/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GRAPHIC PACKAGING HLDG CO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "06/07/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ADVANCE AUTO PARTS, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/29/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DICKS SPORTING GOODS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "06/29/23",
+      "notification_date": "07/06/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OHIO ST GO 5% 05/01/39 MN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/25/23",
+      "notification_date": "07/06/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MORGAN STANLEY HYBRID 12/10/2026 USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/22/23",
+      "notification_date": "07/06/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORPORATION HYBRID 12/20/2028 USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/26/23",
+      "notification_date": "07/06/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HYBRID 11/19/2026 USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/22/23",
+      "notification_date": "07/06/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "2.750 12/01/2029 USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/22/23",
+      "notification_date": "07/06/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COMMUNICATIONS, INC. 4.016% 12/03/2029 USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "06/16/23",
+      "notification_date": "07/06/23",
+      "amount": "$50,001-$100,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": "page",
+      "field": "asset_name",
+      "note": "Top and lower bond names are materially degraded in source/OCR; uncertain names preserved as visible/partial transcriptions."
+    }
+  ],
+  "page_confidence": "low"
+}

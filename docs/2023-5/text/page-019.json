@@ -1,0 +1,305 @@
+{
+  "pdf_page": 19,
+  "printed_label": "Page 19 of 28",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COCA-COLA COMPANY (THE) CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICRON TECHNOLOGY, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGIONS FINANCIAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AXALTA COATING SYSTEMS LTD. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNITEDHEALTH GROUP INCORPORATED CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SS&C TECHNOLOGIES HOLDINGS, IN CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/19/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GRAPHIC PACKAGING HLDGCO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LIONS GATE ENTERTAINMENT CORP. CMN CLASS B",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SPDR S&P 500 ETF TRUST",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/1/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DANAHER CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/19/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DUPONT DE NEMOURS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OLAPLEX HOLDINGS, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/19/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTL FLAVORS & FRAGRANCE CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COMMON STOCK",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WALT DISNEY COMPANY (THE) CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "META PLATFORMS INC-CLASS A CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CARTER'S, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MORGAN STANLEY CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMGEN INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/19/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SENSATA TECHNOLOGIES HOLDING P CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ABBOTT LABORATORIES CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$50,001-$100,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 16,
+      "field": "asset_name/date",
+      "read": "OLAPLEX HOLDINGS, INC. CMN",
+      "note": "OCR asset text was PAYPAL HOLDINGS, INC. CMIN; normalized from matching annual Schedule B row (score 0.78)."
+    }
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,199 @@
+{
+  "pdf_page": 3,
+  "printed_label": "Page 3 of 16",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "M&R Trust Partnership"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ENPHASE ENERGY",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SERVICENOW INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "INTUIT INC",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AMAZON COM INC",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WEST PHARMACEUTICAL SVCS",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "NVIDIA CORPORATION",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "EDWARD LIFESCIENCES CORP",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MONOLITHIC PWR SYSTEMS INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "FORTIVE CORP",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AMERICAN TOWER CORP",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CHIPOTLE MEXICAN GRILL INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MSCI INC COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "VERSIK ANALYTICS INC COM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ALPHABET INC CL A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ATLASSIAN CORP PLC CL A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BLACKSTONE INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "07/08/2022",
+      "notification_date": "08/05/2022",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 14,
+      "field": "asset_name",
+      "read": "VERSIK ANALYTICS INC COM",
+      "note": "Form appears to spell VERSIK rather than VERISK; preserved as printed."
+    }
+  ],
+  "page_confidence": "medium"
+}

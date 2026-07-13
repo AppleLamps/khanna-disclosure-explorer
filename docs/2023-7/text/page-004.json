@@ -1,0 +1,30 @@
+{
+  "pdf_page": 4,
+  "printed_label": "Page 4 of 13",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind":"tx","owner":"DC","asset_name":"MICROSOFT CORPORATION CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/14/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"OLD DOMINION FREIGHT LINE, INC CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/07/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"PHINIA INC. CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"LINDE PLC CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/07/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"group","text":"Ahuja Grandchildren's Education Trust"},
+    {"kind":"tx","owner":"DC","asset_name":"BAXTER INTERNATIONAL INC CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"BAXTER INTERNATIONAL INC CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/31/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ALLSTATE CORPORATION COMMON STOCK","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/13/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"WALGREENS BOOTS ALLIANCE, INC. CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"URBAN OUTFITTERS INC CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/18/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"AXALTA COATING SYSTEMS LTD. CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/12/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"AXALTA COATING SYSTEMS LTD. CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/21/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"group","text":"Ahuja Khanna Children Irrevocable Trust"},
+    {"kind":"tx","owner":"DC","asset_name":"BANK OF NEW YORK MELLON CORPOR HYBRID MTN 10/25/2028 USD","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"VERIZON COMMUNICATIONS, INC. 4.329% 09/21/2028 USD","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"T-MOBILE US, INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ABBVIE INC CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"INTUIT INC CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/20/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

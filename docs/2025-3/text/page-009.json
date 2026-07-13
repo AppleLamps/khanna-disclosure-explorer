@@ -1,0 +1,206 @@
+{
+  "pdf_page": 9,
+  "printed_label": "Rohit Khanna Page 9 of 28",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "EDWARDS LIFESCIENCES CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "IQVIA HOLDINGS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "FIRST SOLAR, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ARCH CAPITAL GROUP LTD. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "JOHNSON & JOHNSON CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BUILDERS FIRSTSOURCE, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SUPER MICRO COMPUTER, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "M&T BANK CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "UNIVERSAL HEALTH SVC CL B CMN CLASS B",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AIRBNB, INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "EXTRA SPACE STORAGE INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MICROSOFT CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SALESFORCE INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TEXAS INSTRUMENTS INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "THERMO FISHER SCIENTIFIC INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MORGAN STANLEY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 11,
+      "field": "tx_type/cap_gain_over_200/partial_sale",
+      "read": "Lower six rows are sale/partial-sale with amount B",
+      "note": "Page image was used as source of truth after OCR dropped rows; capital-gain marks are clearest on Microsoft and Morgan Stanley, less distinct on the intervening sale rows."
+    }
+  ],
+  "page_confidence": "medium"
+}

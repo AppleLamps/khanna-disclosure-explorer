@@ -1,0 +1,41 @@
+{
+  "pdf_page": 160,
+  "printed_label": "Page 160 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "CAPPED BUFFERED ENHANCED PARTICIPATION LINKED NOTE", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/25/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CITIGROUP INC. LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/3/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/4/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROYAL BANK OF CANADA LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/8/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO BASKET OF INDICES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BNP PARIBAS LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/30/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CITIGROUP INC. LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO BASKET OF INDICES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/17/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO BASKET OF INDICES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/22/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CAPPED BUFFERED ENHANCED PARTICIPATION LINKED NOTE", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/9/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TORONTO DOMINION BANK LINKED TO BASKET OF INDICES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROYAL BANK OF CANADA LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TORONTO DOMINION BANK LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CAPPED BUFFERED ENHANCED PARTICIPATION LINKED NOTE", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICROSOFT CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY PFD USD1.7188(6.88%) SERIES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PROCTER & GAMBLE COMPANY (THE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY PFD USD1.7813(7.13%) SERIES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN INTL GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WELLS FARGO & COMPANY PFD 6.6250 CLASS A SERIES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Structured-note and preferred-security names are clipped at the asset-name column edge; visible issuer/index wording was preserved."},
+    {"field": "amount", "note": "Amounts are transcribed from the visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

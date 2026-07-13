@@ -1,0 +1,329 @@
+{
+  "pdf_page": 16,
+  "printed_label": "Page 16 of 32",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AUTOZONE, INC CWH",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AON PUBUC LIMITED COMPANY CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "09/06/2022",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CAMDEN PROPERTY TRU51 CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "09/29/2022",
+      "notification_date": "10/03/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DELTA AIR LHES, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "09/23/2022",
+      "notification_date": "10/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BOSTON PROPERTIES, INC. COMMON STOCK",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "09/06/2022",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SUN COMMUNTTIES, INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "09/23/2022",
+      "notification_date": "10/06/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PERKINELMER, INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "09/06/2022",
+      "notification_date": "10/03/2022",
+      "amount": "Over $1,000,000 (Spouse/DC Asset)"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CME GROUP INC. CMN CLASSA",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "09/06/2022",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OLD DOMINION FREIGHT LNE INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "09/29/2022",
+      "notification_date": "10/03/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LIBERTY MEDIA GROUP SERIES C UBERTY MEDIA GROUP",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "08/06/2022",
+      "notification_date": "10/03/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "(LKO CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "10/03/2022",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CATERPILLAR INC (DELAWARE)CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "09/06/2022",
+      "notification_date": "10/03/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LIBERTY MEDLA CORP UBERTY FORMULA ONE",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "09/08/2022",
+      "notification_date": "10/03/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MCKESSON COHPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "09/29/2022",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PUBLICSTORAGE CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/06/2022",
+      "notification_date": "10/03/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WEYERHABLSER COMPANY GMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "08/28/2022",
+      "notification_date": "10/03/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AMPHENOL CORPCLA (NEW) CMN CLASSA",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "09/06/2022",
+      "notification_date": "10/03/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OTSROUP INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "09/29/2022",
+      "notification_date": "10/03/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "GOW CORFORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "09/20/2022",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "POGL CORPCMM",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/23/2022",
+      "notification_date": "10/03/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MONSTER BEVERAGE CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "09/06/2022",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WATERS CORPORATION COMMON STOCK",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "09/06/2022",
+      "notification_date": "10/03/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "FIYSON FODDS INC OL-A CMN CLASSA",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "09/06/2022",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "date",
+      "read": "0805/22 10/03/2",
+      "note": "date was non-date text or not confidently OCR parsed"
+    },
+    {
+      "row": 1,
+      "field": "notification_date",
+      "read": "0805/22 10/03/2",
+      "note": "notification date was non-date text or not confidently OCR parsed"
+    },
+    {
+      "row": 2,
+      "field": "notification_date",
+      "read": "09/0622 19/03/22",
+      "note": "notification date was non-date text or not confidently OCR parsed"
+    },
+    {
+      "row": 5,
+      "field": "notification_date",
+      "read": "09/06/22 30/03/22",
+      "note": "notification date was non-date text or not confidently OCR parsed"
+    },
+    {
+      "row": 11,
+      "field": "notification_date",
+      "read": "1929/2 10/03/22:",
+      "note": "notification date was non-date text or not confidently OCR parsed"
+    },
+    {
+      "row": 14,
+      "field": "notification_date",
+      "read": "09/29/27 20/03/22 =",
+      "note": "notification date was non-date text or not confidently OCR parsed"
+    },
+    {
+      "row": 19,
+      "field": "notification_date",
+      "read": "09/20/22 10709/22 ,",
+      "note": "notification date was non-date text or not confidently OCR parsed"
+    },
+    {
+      "row": 21,
+      "field": "notification_date",
+      "read": "09/06/22 20/03/22 =",
+      "note": "notification date was non-date text or not confidently OCR parsed"
+    },
+    {
+      "row": 23,
+      "field": "notification_date",
+      "read": "09/06/22 20/03/22 =",
+      "note": "notification date was non-date text or not confidently OCR parsed"
+    },
+    {
+      "row": 8,
+      "field": "notification_date",
+      "read": "10/08/2022",
+      "note": "Existing transcription is after the 2022-10-07 filing stamp and treated as an impossible PTR date without clearer source support."
+    }
+  ],
+  "page_confidence": "medium",
+  "image": "docs/2022-10/pages/page-016.jpg",
+  "doc": "2022-10",
+  "doc_label": "2022 PTR filed 2022-10-07"
+}

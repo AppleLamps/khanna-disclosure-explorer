@@ -1,0 +1,36 @@
+{
+  "pdf_page": 122,
+  "printed_label": "Page 122 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "LINDE PLC CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LOWE'S COMPANIES INC 1.7% 10/15/2030 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LOWE'S COMPANIES INC 1.7% 10/15/2030 USD SR LIEN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "M&T BANK CORPORATION HYBRID PERPETUAL", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "M&T BANK CORPORATION HYBRID PERPETUAL SER G", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "M&T BANK CORPORATION HYBRID PERPETUAL USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "M&T BANK CORPORATION HYBRID PERPETUAL USD J", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MAINE ST GO 5% 08/01/23 JD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARICOPA CNTY ARIZ UNI SCH GO 5% 07/01/23 JJ", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARKEL CORPORATION HYBRID PERPETUAL USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARKEL CORPORATION HYBRID PERPETUAL USD JR", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARSH & MCLENNAN CO INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MARTIN MARIETTA MATERIALS INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MEDTRONIC PUBLIC LIMITED COMPA CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "METLIFE, INC. HYBRID PERPETUAL USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "METLIFE, INC. HYBRID PERPETUAL USD SER G JRSUB", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MICROSOFT CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MITSUBISHI UFJ FINANCIAL GROUP 4.05% 09/11/2028", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MITSUBISHI UFJ FINANCIAL GROUP 4.05% 09/11/2028", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MORGAN STANLEY HYBRID 12/10/2026 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1994 Trust", "note": "No group header printed on this page; context inferred from earlier Schedule A pages."},
+    {"row": 0, "field": "amount_of_income", "read": "$1,001-$2,500", "note": "LINDE amount mark is visible in the IV amount column; equity income type appears to be capital gains only."},
+    {"row": 11, "field": "asset_name", "read": "MARSH & MCLENNAN CO INC CMN", "note": "OCR reads GOJNC; page image reads CO INC."}
+  ],
+  "page_confidence": "medium"
+}

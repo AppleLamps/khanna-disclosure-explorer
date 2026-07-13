@@ -1,0 +1,342 @@
+{
+  "pdf_page": 87,
+  "printed_label": "Page 87 of 367",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SIRIUS XM HOLDINGS INC CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SITEONE LANDSCAPE SUPPLY, INC. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SKECHERS USA INC CL-A CMN CLASS A",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SKILLZ INC. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SKYWORKS SOLUTIONS, INC. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SMARTSHEET INC. CMN CLASS A",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SNAP INC. CMN CLASS A",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SNAP-ON INC CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SNOWFLAKE INC. CMN CLASS A",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SOLAREDGE TECHNOLOGIES, INC. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SONY GROUP CORPORATION SPONSORED ADR CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SOUTHWEST AIRLINES CO CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SPDR S&P 500 ETF TRUST",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SPLUNK INC CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SPOTIFY TECHNOLOGY S.A. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "SS&C TECHNOLOGIES HOLDINGS, IN CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ST LOUIS CNTY MO PKWY SCH DIST GO 5% 03/01/23 MS",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "STAMFORD CONN WTR POLLUTION REV 4% 04/01/23 AO",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "STANLEY BLACK & DECKER, INC. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "STARBUCKS CORP. CMN",
+      "eif": false,
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "STARWOOD PROPERTY TRUST, INC. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "STATE STREET CORPORATION (NEW) CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "STEEL DYNAMICS, INC. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "STERIS PUBLIC LIMITED COMPANY CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "STIFEL FINANCIAL CORP CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "field": "checkbox_columns",
+      "note": "Dense scanned Schedule A grid; asset rows were transcribed from page JPG/quads/tesseract, with value/income/amount buckets best-effort where X marks are faint or crowded."
+    }
+  ],
+  "page_confidence": "medium"
+}

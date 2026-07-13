@@ -1,0 +1,344 @@
+{
+  "pdf_page": 12,
+  "printed_label": "Page 12 of 67",
+  "section": "Periodic Transaction Report - transactions",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "FORD MOTOR COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "KKR & CO, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WALGREENS BOOTS ALLIANCE, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ARISTA NETWORKS, INC, CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SKYWORKS SOLUTIONS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MONOLITHIC POWER SYSTEMS, INC cMN *",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WARNER BROS DISCOVERY INCCMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ARTHURJ GALLAGHER & CO CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LIBERTY BROADBAND CORPORATION C",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ZIMMER BIOMET HOLDINGS INC *",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "IMERCK&CO INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BECTON, DICKINSON AND COMPANY CM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ABBVIE INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ECOSTAR GROUP INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TAPESTRY, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WESTERN DIGITAL CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LIBERTY MEDIA CORPORATION SERIES A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "[UNKNOWN]"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 2,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 3,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 4,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 5,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 6,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 7,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 8,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 11,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 12,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 13,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 14,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 15,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 16,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 17,
+      "field": "tx_type",
+      "read": "Purchase",
+      "note": "normalized from the repeated single purchase-column mark visible before the transaction date"
+    },
+    {
+      "row": 17,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 17,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "amount checkbox/column is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 8,
+      "field": "asset_name",
+      "read": "ARTHURJ GALLAGHER & CO CMN",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 11,
+      "field": "asset_name",
+      "read": "IMERCK&CO INC CMN",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 12,
+      "field": "asset_name",
+      "read": "BECTON, DICKINSON AND COMPANY CM",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 13,
+      "field": "asset_name",
+      "read": "ABBVIE INC CMN",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 14,
+      "field": "asset_name",
+      "read": "ECOSTAR GROUP INC CMN",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 10,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 9,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    }
+  ],
+  "page_confidence": "low"
+}

@@ -1,0 +1,239 @@
+{
+  "pdf_page": 121,
+  "printed_label": "Rohit Khanna 121 of 210",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTUIT INC(INTU)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTUITIVE SURGICAL INC(ISRG)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BLACKROCK LIQ MUNICASH INST(MCSXX)",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICROSOFT CORP(MSFT)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NETFLIX INC(NFLX)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NIKE INC B(NKE)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NVIDIA CORPORATION (NVDA)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PAYPAL HLDGS INC COM(PYPL)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "S&P GLOBAL INC COM(SPGI)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VISA INC CL A(V)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "layout",
+      "read": "TRANSPOSED Schedule B grid: each COLUMN is one transaction (10 columns). Rows carry EIF marker (only col 3 BLACKROCK/MCSXX) + SP owner + asset name + ticker + P/S type; middle is an unlabeled amount-of-transaction bucket matrix (X marks are dark bars); dates are the bottom row (all 12/27/2019). Amount buckets and cap_gain_over_200 rows unlabeled on this sheet (labels off-page) and degraded, so amount=null and cap_gain_over_200=null for every tx. owner/asset/ticker/tx_type/date captured. 'M and R Schedule B' = M & R Trust Partnership Schedule B.",
+      "note": "downstream: amounts require the row-label key from the schedule header page to resolve the transposed matrix"
+    },
+    {
+      "row": 1,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 1,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 2,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 2,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 3,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 3,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 4,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 4,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 5,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 5,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 6,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 6,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 7,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 7,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 8,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 8,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 9,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 9,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 10,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 10,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    }
+  ],
+  "page_confidence": "medium"
+}

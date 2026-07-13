@@ -1,0 +1,35 @@
+{
+  "pdf_page": 56,
+  "printed_label": "Page 56 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "KEYSIGHT TECHNOLOGIES, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "KILROY REALTY CORPORATION COMMON STOCK", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "KIMBERLY-CLARK CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "KIMCO REALTY OP, LLC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "KIRKLAND WASH GO 5% 12/01/23 JD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "KITSAP CNTY WASH SCH DIST NO GO 5% 1201/23 JD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "KLA CORP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "KROGER COMPANY CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "LABORATORY CORPORATION OF AMER CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "LAKE CNTY OHIO CMNTY COLLEGE REV 5% 10017234 I", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "LAM RESEARCH CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "LAMB WESTON HOLDINGS, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "LAS VEGAS SANDS CORP. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "LATTICE SEMICONDUCTOR CORP CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "LENNAR CORPORATION CMN CLASS A", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "LIBERTY BROADBAND CORPORATION CMN CLASS A", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "LIBERTY GLOBAL LTD CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "LIBERTY GLOBAL, PLC CMN CLASS A", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "LIBERTY GLOBAL, PLC. CMN CLASS C", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "LIBERTY MEDIA CORP-LIBNEW-C CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 9, "field": "asset_name", "read": "LAKE CNTY OHIO CMNTY COLLEGE REV 5% 10017234 I", "note": "Date/suffix are difficult; OCR and image both suggest '10017234 I' but this may represent a formatted date/suffix."},
+    {"row": 19, "field": "value", "read": "$1-$1,000", "note": "LIBERTY MEDIA row value mark is near the A/B boundary; best read is Block B col B."}
+  ],
+  "page_confidence": "medium"
+}

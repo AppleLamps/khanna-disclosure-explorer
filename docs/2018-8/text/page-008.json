@@ -1,0 +1,18 @@
+{
+  "pdf_page": 8,
+  "printed_label": "Page 8 of 10",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "CIGNA CORPORATION CMN", "tx_type": "Sale", "date": "04/10/2018", "notification_date": "05/04/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PRINCIPAL FINANCIAL GROUP, INC CMN", "tx_type": "Purchase", "date": "04/10/2018", "notification_date": "05/04/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERIPRISE FINANCIAL, INC. CMN", "tx_type": "Purchase", "date": "04/10/2018", "notification_date": "05/04/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VORNADO REALTY TRUST CMN", "tx_type": "Sale", "date": "04/10/2018", "notification_date": "05/04/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "P G & E CORPORATION CMN", "tx_type": "Purchase", "date": "04/10/2018", "notification_date": "05/04/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CENTERPOINT ENERGY, INC CMN", "tx_type": "Sale", "date": "04/10/2018", "notification_date": "05/04/2018", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

@@ -1,0 +1,36 @@
+{
+  "pdf_page": 82,
+  "printed_label": "Page 82 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "BLACKSTONE GROUP INC/THE CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "BNP PARIBAS LINKED TO S&P 500 INDEX", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "BNP PARIBAS LINKED TO S&P 500 INDEX CNTNGNT CPN", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "BNP PARIBAS LINKED TO S&P 500 INDEX CNTNGNT CPN", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "BNP PARIBAS SPONSORED ADR CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "BOOKING HOLDINGS INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "BORGWARNER INC. CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "BOSTON PROPERTIES, INC. COMMON STOCK", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "BOSTON SCIENTIFIC CORP. COMMON STOCK", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "BP P.L.C. SPONSORED ADR CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "BRISTOL-MYERS SQUIBB COMPANY CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "BROADCOM INC. CMN", "value": "$100,001-$250,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "BROADRIDGE FINANCIAL SOLUTIONS IN CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "BROWN & BROWN, INC. CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "BROWN FORMAN CORP CL B CMN CLASS B", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "C.H. ROBINSON WORLDWIDE, INC. CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CADENCE DESIGN SYSTEMS INC CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CAESARS ENTERTAINMENT INC CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/AZN FLEX EURO PM @ 68 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/AZN FLEX EURO PM @ 69 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1994 Trust", "note": "No group header printed on this page; context inferred from prior pages."},
+    {"row": 2, "field": "asset_name", "read": "BNP PARIBAS LINKED TO S&P 500 INDEX CNTNGNT CPN", "note": "Printed asset name is truncated at the asset-name column edge."},
+    {"row": 3, "field": "asset_name", "read": "BNP PARIBAS LINKED TO S&P 500 INDEX CNTNGNT CPN", "note": "Second consecutive truncated BNP Paribas structured-note row."}
+  ],
+  "page_confidence": "medium"
+}

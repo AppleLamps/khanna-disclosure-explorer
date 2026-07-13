@@ -1,0 +1,121 @@
+M and R Schedule A
+
+Rohit Khanna 14 of 210
+
+EIF
+
+SP, DC, IT
+
+SP
+
+SP
+
+SP
+
+sP
+
+Stock Name
+
+NVIDIA
+CORPORATION(NVDA}
+
+PAYPAL HLDGS INC
+COM(PYPL)
+
+CHARLES SCHWAB
+NEW(SCHW)
+
+S&P GLOBAL INC
+COM(SPGI)
+
+NVDA
+
+PYPL
+
+SCHW
+
+SPGt
+
+Transaction
+
+P, S{Part)
+
+P, S{Part)
+
+Value of Asset
+
+1A: None
+
+{8: $1-$1,000
+
+$s
+
+P
+
+Ic: $1,001-$15,000
+
+ID: $15,001-$50,000
+
+JE: $50,001-$100,000
+
+JF: $100,001-5250,000
+
+1G: $250,001-$500,000
+
+{H: $500,001-51, 000
+
+|i: $1,000,001-$5,000,000
+
+f}: $5,000,001-$25,000,000
+
+1K: $25,000,001-$50,000,000
+
+IL: Over $50,000,000
+
+Spouse/DC Asset over $1,000,000
+
+Type of Income
+
+None
+
+{Dividends
+
+TRent
+
+[interest
+
+[Capital Gains
+
+JExcepted/Blind Trust
+
+|Tax-Deferred
+
+{Other Type of Income
+
+JAmount of Income: Precaeding Year
+January 1, 2019 - December 31, 2029
+
+A; None
+
+B: $1-$200
+
+iC: $201-$1,000
+
+{D: $1,001-$2,500
+
+{E: $2,501-$5,000
+
+{F: $5,001-$15,000
+
+1G; $15,001-$50,000
+
+|H: $50,001-$100,000
+
+{ls $100,001-$1,000,000
+
+1J; $1,000,001-$5,000,000
+
+1K: Over $5,000,000
+
+{ nn income over $1,000,000
+

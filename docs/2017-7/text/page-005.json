@@ -1,0 +1,15 @@
+{
+  "pdf_page": 5,
+  "printed_label": "Page 5 of 5",
+  "section": "Periodic Transaction Report - attached transaction table (NAME: Rohit Khanna)",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "M&R Trust Partnership"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Charles Schwab", "tx_type": "Purchase", "date": "06/14/2017", "notification_date": "07/05/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NVIDIA Corporation", "tx_type": "Sale", "date": "06/09/2017", "notification_date": "07/05/2017", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": "Typed attachment table, final page. Header: \"NAME: Rohit Khanna  Page 5 of 5\" (handwritten 5 and 5). Same columns/amount buckets as page 2. One group subheader (black-banded row): M&R Trust Partnership. Only two data rows; the rest of the grid is blank.",
+  "uncertainties": [],
+  "page_confidence": "high"
+}

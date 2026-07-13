@@ -1,0 +1,283 @@
+{
+  "pdf_page": 7,
+  "printed_label": "Page 7 of 15",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LINDE PLC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ING GROEP N.V. SPONS ADR SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UBS GROUP AG CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BNP PARIBAS SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "RIO TINTO PLC SPONSORED ADR",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NESTLE SA SPONSORED ADR CHF 10 RESD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SCHNEIDER ELECTRIC SE UNSPONSORED ADR (FRANCE)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NOVO-NORDISK A/S ADR ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SANOFI SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SIEMENS AKTIENGESELLSCHAFT SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ASTRAZENECA PLC SPONS ADR SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "STMICROELECTRONICS NV ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SUMITOMO MITSUI FINANCIAL GRP SPONSORED ADR",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HSBC HOLDINGS PLC SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BP P.L.C. SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMAZON.COM INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "IBERDROLA SOCIEDAD ANONIMA SPONSORED ADR",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SHELL PLC SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNILEVER PLC (NEW) SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TAIWAN SEMICONDUCTOR MFG ADS LTD ADS 1ADS EQU",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TAKEDA PHARMACEUTICAL CO LTD SPONSORED ADR",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COLGATE-PALMOLIVE CO CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ASML HOLDING N.V. ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ABB LTD SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/10/23",
+      "notification_date": "03/01/23",
+      "amount": "$15,001-$50,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": "all",
+      "field": "asset_name",
+      "read": "ADR/fund names from local scan and duplicate annual index",
+      "note": "Several long ADR names are truncated by the scan; spelling was cross-checked against the annual duplicate index."
+    }
+  ],
+  "page_confidence": "medium"
+}

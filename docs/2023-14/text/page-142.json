@@ -1,0 +1,33 @@
+{
+  "pdf_page": 142,
+  "printed_label": "Page 142 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "WEST PHARMACEUTICAL SERVICES INC", "value": "None", "income_types": ["RENT", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$50,001-$150,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "WORTHINGTON OHIO GO 5% 12/01/25 JD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "XCEL ENERGY INC 2.6% 12/01/2029 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "XCEL ENERGY INC 2.6% 12/01/2029 USD SR LIEN", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "group", "text": "M&R Trust Partnership"},
+    {"kind": "group", "text": "- 2020 Trust FBO Khanna Children"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ADOBE INC", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICAN TOWER CORP", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ANALOG DEVICES INC", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ATLASSIAN CORPORATION CL A", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AUTODESK INC DELAWARE", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S(part), S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BLACKSTONE INC", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BLOCK INC CL A", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P, S(part), S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CADENCE DESIGN SYSTEM", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHIPOTLE MEXICAN GRILL INC COM", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CPI ASIA ONSHORE - CLASS B", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DANAHER CORPORATION", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DYNATRACE INC", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ECOLAB INC", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "checkbox_grid", "note": "Transaction marks are clear; several income/value marks are close to grid lines and should be rechecked if compiling exact amounts."}
+  ],
+  "page_confidence": "medium"
+}

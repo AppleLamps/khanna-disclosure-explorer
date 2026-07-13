@@ -1,0 +1,27 @@
+{
+  "pdf_page": 37,
+  "printed_label": "Rohit Khanna Page 37 of 43",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Soren Ahuja Khanna UTMA"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "GS TAX ADVANTAGED GLOBAL EQUITY PORTFOLIO CLASS P",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/10/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

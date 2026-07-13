@@ -1,0 +1,701 @@
+{
+  "pdf_page": 269,
+  "printed_label": "Page 269 of 309",
+  "section": "Schedule B - Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DOMINION ENERGY INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "07/18/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PROLOGIS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/17/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EMERSON ELECTRIC CO. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "09/25/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LEAR CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/17/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MASCO CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/05/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALEXION PHARMACEUTICALS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "09/06/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EQUINIX, INC. REIT",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "07/18/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CELANESE CORPORATION COMMON STOCK",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/17/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "RAYMOND JAMES FINANCIAL, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "09/25/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WILLIS TOWERS WATSON PLC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "09/25/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEWS CORPORATION CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/05/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WORKDAY, INC CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/05/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DIAMONDBACK ENERGY INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/10/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "QUALCOMM INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "05/15/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HOLOGIC INCORPORATED CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "04/10/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SKYWORKS SOLUTIONS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "09/25/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ABIOMED, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "09/25/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNITED PARCEL SERVICE, INC. CLASS B COMMON STOCK",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/17/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COCA-COLA EUROPEAN PARTNERS PL CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "05/15/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ABIOMED, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "07/18/2018",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SOUTHWEST AIRLINES CO CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "06/13/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PRUDENTIAL FINANCIAL INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/17/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HERSHEY COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "05/15/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TORCHMARK CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "05/15/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHEVRON CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "03/06/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AUTOMATIC DATA PROCESSING INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/05/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ACCENTURE PLC CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/05/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PRAXAIR, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "05/15/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMETEK INC (NEW) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "07/18/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEWELL BRANDS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "06/13/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CAPITAL ONE FINANCIAL CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "07/18/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CME GROUP INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/17/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTROCK COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/17/2018",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DEVON ENERGY CORPORATION (NEW) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/10/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AKAMAI TECHNOLOGIES, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/17/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ANADARKO PETROLEUM CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "03/06/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PROASSURANCE CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "06/13/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PPG INDUSTRIES, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "05/15/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BORGWARNER INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "09/25/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "STARBUCKS CORP. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/05/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALPHABET INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "08/21/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GENERAL MILLS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/10/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NORTHERN TRUST CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/10/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PHILLIPS 66 CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/10/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BROADCOM INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "05/15/2018",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALPHABET INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "07/18/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZILLOW GROUP INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/17/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VARIAN MEDICAL SYSTEMS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/05/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WYNN RESORTS, LIMITED CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/05/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHEVRON CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "07/18/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TWITTER, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/17/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VENTAS, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "01/22/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WORLDPAY INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/05/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HESS CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "07/18/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEWFIELD EXPLORATION CO. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/10/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INCYTE CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/17/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EQUINIX, INC. REIT",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "05/15/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CONOCOPHILLIPS CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "09/25/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DIGITAL REALTY TRUST, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "05/15/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TECHNIPFMC PLC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/05/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GENUINE PARTS CO. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/05/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LYONDELLBASELL INDUSTRIES N.V. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/10/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MONDELEZ INTERNATIONAL, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "09/25/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SALESFORCE.COM, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "07/18/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LKQ CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "10/17/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ENTERGY CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "01/22/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALEXION PHARMACEUTICALS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "09/25/2018",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 20,
+      "field": "amount",
+      "read": "$15,001-$50,000",
+      "note": "amount mark appears one column right of the common A-column marks"
+    },
+    {
+      "row": 33,
+      "field": "amount",
+      "read": "$15,001-$50,000",
+      "note": "amount mark appears one column right of the common A-column marks"
+    },
+    {
+      "row": 45,
+      "field": "amount",
+      "read": "$15,001-$50,000",
+      "note": "amount mark appears one column right of the common A-column marks"
+    }
+  ],
+  "page_confidence": "medium"
+}

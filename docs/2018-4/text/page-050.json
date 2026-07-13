@@ -1,0 +1,698 @@
+{
+  "pdf_page": 50,
+  "printed_label": "Page 50 of 309",
+  "section": "Schedule A: Assets and Unearned Income",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Block-split continuation of the same 48 Ritu Ahuja 1994 Trust holdings as page 49 (CONSOLIDATED EDISON ... EASTMAN CHEMICAL), here showing only the 'Type of Income' block (columns: None, Dividends, Rent, Interest, Capital Gains, Excepted/Blind Trust, Tax Deferred, Partnership Income). No Value or Amount-of-Income block on this page. Multiple x marks allowed per row; column assignment verified by pixel-aligning marks to header centers. Partnership Income (write-in column) recorded in other_income_spec. All rows owner SP.",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CONSOLIDATED EDISON INC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CONSTELLATION BRANDS INC CMN CLASS A",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CONTINENTAL RESOURCES, INC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "COOPER COMPANIES INC (NEW) CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "COPA HOLDINGS, S.A. CMN CLASS A",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "COPART INC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CORNING INCORPORATED CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "COSTCO WHOLESALE CORPORATION CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "COTY, INC. CMN CLASS A",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": "Partnership Income",
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CRANE CO (DELAWARE) CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CROWN CASTLE INTL CORP CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": "Partnership Income",
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CROWN HOLDINGS INC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CSRA INC. CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CSX CORPORATION CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CUMMINS INC COMMON STOCK",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CVS HEALTH CORP CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CYPRESS SEMICONDUCTOR CORPORAT CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "CYRUSONE INC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "D.R. HORTON, INC. CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DANAHER CORPORATION CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DARDEN RESTAURANTS, INC. CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DAVITA INC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DCT INDUSTRIAL TRUST INC. CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DEERE & COMPANY CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DELL TECHNOLOGIES INC. CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DELPHI TECHNOLOGIES PLC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DELTA AIR LINES, INC. CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DENTSPLY SIRONA INC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DEVON ENERGY CORPORATION (NEW) CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DIAMONDBACK ENERGY INC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DICKS SPORTING GOODS INC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DIGITAL REALTY TRUST, INC. CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": "Partnership Income",
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DISCOVER FINANCIAL SERVICES CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DISCOVERY INC - A CMN SERIES A",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DISCOVERY INC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DISH NETWORK CORPORATION CMN CLASS A",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DOLLAR GENERAL CORPORATION CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DOLLAR TREE STORES, INC. CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DOMINION ENERGY INC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DOVER CORPORATION CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DTE ENERGY COMPANY CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DUKE ENERGY CORPORATION CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DUKE REALTY CORPORATION CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DUPONT DE NEMOURS, INC. CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "DXC TECHNOLOGY COMPANY CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "E*TRADE FINANCIAL CORPORATION CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "EAST WEST BANCORP INC CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "EASTMAN CHEMICAL COMPANY CMN",
+      "ticker": null,
+      "eif": null,
+      "value": null,
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

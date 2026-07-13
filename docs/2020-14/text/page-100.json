@@ -1,0 +1,39 @@
+{
+  "pdf_page": 100,
+  "printed_label": "Page 100 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "THE M&R TRUST PARTNERSHIP\n- Ritu Ahuja 1994 Trust\n- Ritu Ahuja 1995 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SLACK TECHNOLOGIES INC CL A(WORK)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DOLLAR GEN CORP NEW COM(DG)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BROWN FORMAN CORP CL B(BFB)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ILLUMINA INC(ILMN)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AIR PROD & CHEM INC(APD)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GUIDEWIRE SOFTWARE INC(GWRE)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SNAP INC. CL A(SNAP)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "02/12/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AON PLC CL A(AON)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIBERTY MEDIA CORP SER C(FWONK)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PROGRESSIVE CORP OHIO(PGR)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GCI LIBERTY INC CL A(GLIBA)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FACEBOOK INC CL A(FB)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "03/27/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOTOROLA SOLUTIONS INC(MSI)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MARTIN MARIETTA MATERIALS(MLM)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BROOKFIELD INFRASTRUCTURE SB VTG A(BIPC)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUINIX INC(EQIX)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FIDELITY NATIONAL FINANCIAL INC(FNF)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LENNAR CORPORATION(LEN)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MSCI INC COM(MSCI)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMAZON COM INC(AMZN)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "03/27/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ARCH CAPITAL GROUP LTD(ACGL)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTUITIVE SURGICAL INC(ISRG)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "03/30/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOODYS CORP(MCO)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VAIL RESORTS(MTN)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "05/13/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": null, "field": null, "read": null, "note": "Heavily stippled Schedule B page; all visible rows are purchases and all visible amount marks fall in column A ($1,001-$15,000)."}
+  ],
+  "page_confidence": "high"
+}

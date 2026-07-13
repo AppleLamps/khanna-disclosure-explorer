@@ -1,0 +1,342 @@
+{
+  "pdf_page": 92,
+  "printed_label": "Page 92 of 367",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WESTROCK COMPANY CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WEX INC. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WEYERHAEUSER COMPANY CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WI ST ISS 04/14/15 GO 5.0000% 11/01/22 MN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WILLIAMSON CNTY TEX GO 4% 02/15/23 FA",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WILLIS TOWERS WATSON PLC CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WISCONSIN ST GEN FD ANNUAL REV 5% 06/01/23 MN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WISCONSIN ST GO 5% 11/01/22 MN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WIX.COM LTD CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WORKDAY, INC. CMN CLASS A",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WYLIE TEX INDPT SCH DIST GO 5% 02/15/23 FA",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WYNN RESORTS, LIMITED CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "XCEL ENERGY INC. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "XPOL CLASS C SHS HK CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "XYLEM INC. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "YANDEX N.V. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "YETI HOLDINGS INC CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "YUM BRANDS, INC. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "YUM CHINA HOLDINGS, INC. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ZEBRA TECHNOLOGIES INC CMN CLASS A",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ZENDESK, INC. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ZILLOW GROUP INC. CMN CLASS A",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ZILLOW GROUP INC. CMN SERIES C",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ZIMMER BIOMET HOLDINGS INC",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ZOETIS INC. CMN CLASS A",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "field": "checkbox_columns",
+      "note": "Dense scanned Schedule A grid; asset rows were transcribed from page JPG/quads/tesseract, with value/income/amount buckets best-effort where X marks are faint or crowded."
+    }
+  ],
+  "page_confidence": "medium"
+}

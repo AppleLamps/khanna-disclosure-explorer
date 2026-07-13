@@ -1,0 +1,410 @@
+{
+  "pdf_page": 10,
+  "printed_label": "Page 10 of 18",
+  "section": "Periodic Transaction Report",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ICARRIEA GLOBAL CORPORATION CAMH",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "INC CM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "(TLASHAN CORPORATION P15 COUN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MATOH GROUP, INC CHAN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MUESPOT INT CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "‘VIDEO COMMURICATI OMS INC Ott! CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MARVELL TECHNOLOGY, I CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "IWESTROCE COMPANY CMH",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "GENERAL MOUTOAS COMPANY CMI",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LK CORPORATION CMAN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TRACE HOLDINGS UC CMH",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BATH & ROUY VsGRXS, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "EMEY St CMI CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SBA COMIAUNCATIONS CORPORATION CMM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AFADOG, TC, CMM CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MEY BANK CORPORATION CATA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AVERY DEWMISON CORPORATION CAH",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SNOW FOASMAN CONF CL ih CMN CLASS &",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "JOOOABASH ING EM CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AMERICAM AIRLINES GROUP INC CHIN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TLASSIAN CORPORATION PLC CHAE CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Do |VENTAS, INC CMM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "oc RIVAL CORPORATION CMH",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "row",
+      "read": "ICARRIEA GLOBAL CORPORATION CAMH",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 2,
+      "field": "row",
+      "read": "INC CM",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 3,
+      "field": "row",
+      "read": "(TLASHAN CORPORATION P15 COUN CLASS A",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 4,
+      "field": "row",
+      "read": "MATOH GROUP, INC CHAN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 5,
+      "field": "row",
+      "read": "MUESPOT INT CMN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 6,
+      "field": "row",
+      "read": "‘VIDEO COMMURICATI OMS INC Ott! CLASS A",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 7,
+      "field": "row",
+      "read": "MARVELL TECHNOLOGY, I CMN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 8,
+      "field": "row",
+      "read": "IWESTROCE COMPANY CMH",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 9,
+      "field": "row",
+      "read": "GENERAL MOUTOAS COMPANY CMI",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 10,
+      "field": "row",
+      "read": "LK CORPORATION CMAN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 11,
+      "field": "row",
+      "read": "TRACE HOLDINGS UC CMH",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 12,
+      "field": "row",
+      "read": "BATH & ROUY VsGRXS, INC CMN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 13,
+      "field": "row",
+      "read": "EMEY St CMI CLASS A",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 14,
+      "field": "row",
+      "read": "SBA COMIAUNCATIONS CORPORATION CMM",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 15,
+      "field": "row",
+      "read": "AFADOG, TC, CMM CLASS A",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 16,
+      "field": "row",
+      "read": "MEY BANK CORPORATION CATA",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 17,
+      "field": "row",
+      "read": "AVERY DEWMISON CORPORATION CAH",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 18,
+      "field": "row",
+      "read": "SNOW FOASMAN CONF CL ih CMN CLASS &",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 19,
+      "field": "row",
+      "read": "JOOOABASH ING EM CLASS A",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 20,
+      "field": "row",
+      "read": "AMERICAM AIRLINES GROUP INC CHIN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 21,
+      "field": "row",
+      "read": "TLASSIAN CORPORATION PLC CHAE CLASS A",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 22,
+      "field": "row",
+      "read": "Do |VENTAS, INC CMM",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 23,
+      "field": "row",
+      "read": "oc RIVAL CORPORATION CMH",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Transaction-date cells are visible as a tiny/noisy date column in the scanned page, but the available OCR/tess/quads evidence does not support reliable row-by-row transcription; missing dates are recorded as [UNKNOWN] rather than guessed."
+    }
+  ],
+  "page_confidence": "low",
+  "transcription_note": "Dense scanned attachment page; asset row inventory extracted from OCR and image-visible security names. Exact checkbox/date columns are low-confidence and flagged."
+}

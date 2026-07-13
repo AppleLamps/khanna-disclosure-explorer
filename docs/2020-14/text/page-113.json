@@ -1,0 +1,305 @@
+{
+  "pdf_page": 113,
+  "printed_label": "Page 113 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MCALLISTER ACADEMIC REV 5.0000% 07/01/20 JJ",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "2/5/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SOUTH-WESTERN CITY SCH DIST GO 4.0000% 12/01/20 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "8/27/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OKLAHOMA TRANSN AUTH OK F/K/A REV 4% 01/01/21 JJ",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/30/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PA ST HIGHER EDL FACS AUTH REV 2.5000% 10/01/45-CA AO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "2/7/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TULSA CNTY OKLA INDPT 4 BIXBY GO 2.0000% 06/01/21 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "8/5/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TROY MICH GO 3.5000% 10/01/20 AO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/31/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EXXON MOBIL CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AT&T INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "8/25/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PFIZER INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "2/26/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BERKSHIRE HATHAWAY INC, CLASS B",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "6/23/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CONOCOPHILLIPS CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "4/14/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CISCO SYSTEMS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/5/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PFIZER INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "2/28/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WALT DISNEY COMPANY (THE) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/29/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "N J HEALTH CARE FACS FING AUTH REV 5% 07/01/21-CA JJ",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/10/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OMNICOM GROUP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JPMORGAN CHASE & CO CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "1/8/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GARLAND TEX ELEC UTIL SYS REV REV 4% 03/01/21 M8",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/6/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BECTON, DICKINSON AND COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/3/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTL BUSINESS MACHINES CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/5/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ESTEE LAUDER COS INC CL-A CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "T-MOBILE US, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/6/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PAYPAL HOLDINGS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "4/7/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HONEYWELL INTL INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "5/20/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BROADCOM INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "2/11/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "asset_name",
+      "read": "MCALLISTER ACADEMIC REV 5.0000% 07/01/20 JJ",
+      "note": "First bond name is degraded; transcribed best visible reading."
+    },
+    {
+      "row": 18,
+      "field": "asset_name",
+      "read": "GARLAND TEX ELEC UTIL SYS REV REV 4% 03/01/21 M8",
+      "note": "Final suffix is degraded; could be M8/MB."
+    },
+    {
+      "row": null,
+      "field": "page",
+      "read": null,
+      "note": "Heavily degraded/stippled scan; row alignment and checkboxes were read from quadrant crops."
+    }
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,287 @@
+{
+  "pdf_page": 8,
+  "printed_label": "Page 8 of 20",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CITIZENS FINANCIAL GROUP, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/25/23",
+      "notification_date": "05/03/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WESTERN DIGITAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/25/23",
+      "notification_date": "05/03/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ROBERT HALF INTERNATIONAL INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/25/23",
+      "notification_date": "05/03/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LUCID GROUP INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/25/23",
+      "notification_date": "05/03/23",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja Declaration of Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TORONTO DOMINION BANK LINKED TO S&P 500 IND",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/17/23",
+      "notification_date": "05/03/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO S&P",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/19/23",
+      "notification_date": "05/03/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CAPPED BUFFERED ENHANCED PARTICIPATION LIN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/23",
+      "notification_date": "05/03/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BNP PARIBAS LINKED TO S&P 500 INDEX",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/26/23",
+      "notification_date": "05/03/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 IND",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/17/23",
+      "notification_date": "05/03/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO S&P",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/19/23",
+      "notification_date": "05/03/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TORONTO DOMINION BANK LINKED TO S&P 500 IND",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/24/23",
+      "notification_date": "05/03/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CAPPED BUFFERED ENHANCED PARTICIPATION LIN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/26/23",
+      "notification_date": "05/03/23",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DISTRICT COLUMBIA INCOME TAX REV 2.1880% 03/",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/14/23",
+      "notification_date": "05/03/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FAIRFAX CNTY VA ECONOMIC DEV AREV 2.9880% 1",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/14/23",
+      "notification_date": "05/03/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HOUSTON TEX UTL SYS REV REV 0.5260% 11/15/24",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/14/23",
+      "notification_date": "05/03/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EL PASO CNTY TEX GO 3.2600% 02/15/28 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/14/23",
+      "notification_date": "05/03/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PITT CNTY N C LTD OBLIG REV 1.4910% 04/01/27 AO",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/07/23",
+      "notification_date": "05/03/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PENNSYLVANIA ST HIGHER ED L REV 3% 06/15/27 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/14/23",
+      "notification_date": "05/03/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGIONAL TRANSN AUTH IL REV 3% 06/01/28 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/14/23",
+      "notification_date": "05/03/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNIVERSITY OKLA REVS REV 1.1710% 07/01/25 JJ",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/14/23",
+      "notification_date": "05/03/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WASHINGTON ST UNIV REVS REV 1.6590% 10/01/26",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/14/23",
+      "notification_date": "05/03/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEW YORK N Y GO 1.2160% 08/01/26 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/14/23",
+      "notification_date": "05/03/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PENNSYLVANIA ST GO 1.8500% 08/01/29 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/14/23",
+      "notification_date": "05/03/23",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SAN FRANCISCO CALIF CITY & GO 6% 06/15/23 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/14/23",
+      "notification_date": "05/03/23",
+      "amount": "$15,001-$50,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "layout",
+      "read": "compressed scan",
+      "note": "Rows were transcribed from the PTR page image with annual Schedule B used as a cross-check for asset names, transaction type, dates, and amount buckets; notification dates are read from the PTR."
+    }
+  ],
+  "page_confidence": "medium"
+}

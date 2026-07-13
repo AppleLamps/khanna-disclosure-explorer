@@ -1,0 +1,563 @@
+{
+  "pdf_page": 12,
+  "printed_label": "Page 12 of 18",
+  "section": "Periodic Transaction Report",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OA FOLK SOUTHT AL CORP OMI",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "iE DES, INC. (HI) CMA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "P M3 INC OS",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DT WORLOUIOE CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MEDICAL PROPERTIES PUTT INC CH",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PIAORGAN CHASE & CO CMH",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "COMCAST CORPORATION CAIN CLASS & VOTING",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "COMPANIES INC (HEV) CME",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ae AR PLC OMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AESCARCH CORPORATION CAIN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TIGROUP INC, CAIN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LLINGTS TOOL WORKS CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BEF INC CMI CLASS C",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "POOR CORP OMH",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SON SUIZAAD, INC CAN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OD Ic. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "* AVERY DENNISON CORPORATION CMM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "haarch aholip, INC CN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "SF_—_[WOREAY, INC CMM CLAEE A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "GEMERAL MOFORS COMPANY CMAN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MORGAN STANLEY CM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "STA NETWORKS, INC. CAC?",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PARKER-HANHIAN CORP. CMM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CADENCE DESIGN S\\'STEMS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MMOHAWS INOUTTRIES INC COMAION STOCK",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CARO. INC, CME",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "3?___|CDANIKG INCORPORATED CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "2 DMATIC DATA PROCESSING INC CMI",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Sh [OUPONT De NEMOWAS INC EMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Lcd 0.R. HORTON, INC CN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "NHAR CORSOAATION CMN C1 ASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "GENERAL MOTORS COMPAIST CMI",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "row",
+      "read": "OA FOLK SOUTHT AL CORP OMI",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 2,
+      "field": "row",
+      "read": "iE DES, INC. (HI) CMA",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 3,
+      "field": "row",
+      "read": "P M3 INC OS",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 4,
+      "field": "row",
+      "read": "DT WORLOUIOE CORPORATION CMN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 5,
+      "field": "row",
+      "read": "MEDICAL PROPERTIES PUTT INC CH",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 6,
+      "field": "row",
+      "read": "PIAORGAN CHASE & CO CMH",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 7,
+      "field": "row",
+      "read": "COMCAST CORPORATION CAIN CLASS & VOTING",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 8,
+      "field": "row",
+      "read": "COMPANIES INC (HEV) CME",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 9,
+      "field": "row",
+      "read": "ae AR PLC OMN CLASS A",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 10,
+      "field": "row",
+      "read": "AESCARCH CORPORATION CAIN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 11,
+      "field": "row",
+      "read": "TIGROUP INC, CAIN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 12,
+      "field": "row",
+      "read": "LLINGTS TOOL WORKS CMN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 13,
+      "field": "row",
+      "read": "BEF INC CMI CLASS C",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 14,
+      "field": "row",
+      "read": "POOR CORP OMH",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 15,
+      "field": "row",
+      "read": "SON SUIZAAD, INC CAN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 16,
+      "field": "row",
+      "read": "OD Ic. CMN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 17,
+      "field": "row",
+      "read": "* AVERY DENNISON CORPORATION CMM",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 18,
+      "field": "row",
+      "read": "haarch aholip, INC CN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 19,
+      "field": "row",
+      "read": "SF_—_[WOREAY, INC CMM CLAEE A",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 20,
+      "field": "row",
+      "read": "GEMERAL MOFORS COMPANY CMAN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 21,
+      "field": "row",
+      "read": "MORGAN STANLEY CM",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 22,
+      "field": "row",
+      "read": "STA NETWORKS, INC. CAC?",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 23,
+      "field": "row",
+      "read": "PARKER-HANHIAN CORP. CMM",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 24,
+      "field": "row",
+      "read": "CADENCE DESIGN S\\'STEMS INC CMN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 25,
+      "field": "row",
+      "read": "MMOHAWS INOUTTRIES INC COMAION STOCK",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 26,
+      "field": "row",
+      "read": "CARO. INC, CME",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 27,
+      "field": "row",
+      "read": "3?___|CDANIKG INCORPORATED CMN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 28,
+      "field": "row",
+      "read": "2 DMATIC DATA PROCESSING INC CMI",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 29,
+      "field": "row",
+      "read": "Sh [OUPONT De NEMOWAS INC EMN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 30,
+      "field": "row",
+      "read": "Lcd 0.R. HORTON, INC CN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 31,
+      "field": "row",
+      "read": "NHAR CORSOAATION CMN C1 ASS A",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 32,
+      "field": "row",
+      "read": "GENERAL MOTORS COMPAIST CMI",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Transaction-date cells are visible as a tiny/noisy date column in the scanned page, but the available OCR/tess/quads evidence does not support reliable row-by-row transcription; missing dates are recorded as [UNKNOWN] rather than guessed."
+    }
+  ],
+  "page_confidence": "low",
+  "transcription_note": "Dense scanned attachment page; asset row inventory extracted from OCR and image-visible security names. Exact checkbox/date columns are low-confidence and flagged."
+}

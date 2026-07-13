@@ -1,0 +1,410 @@
+{
+  "pdf_page": 15,
+  "printed_label": "Page 15 of 18",
+  "section": "Periodic Transaction Report",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "IONS, INC CN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JOEST BUY CO INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Ey Ws. MANCOAP CMN x CALS 1413) teyos722)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Sf__ SIMON PROPERTY GROUP INC CHAN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SP ROCKWELL AUTOMATION INC CMH # PAj 44722)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ST COCA-COLA COMPANY (THE) GM x x x papa jez",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COCA-COLA COMPANY CHE} Comet x _ a Cr) :",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COCA-cDLA COMP, JE} cmt fl",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "F COCA-COLA COMPANY [THI] Chali x x * Onis, osfosfzat",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Ed COCA-COLA COMPANY CN a x x DALLES, ¥ r",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COCA EOLA COMPANY (THT) Cat z x x as",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Sf EOCACOLA COMPANY (THE] CMH x x x",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Se_ PRUDENTIAL RANCIAL INC CMA z x Oafhy 95) 3)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "v COCA-COLA COMPANY (THE! CHIN x x x __ da fir faz; #22! g",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "y. COCA-COLA COMPANY AN Ci x x DALIT 27} [z)",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "iT) CICA-COLA COMPANY (THE) CMM 3 x a za 05, 2 ©",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Ly H MATERIALS CO CMR",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "‘SSG ATWVé ConPORATION CMN \" 12/22] osfosj22",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "A ET CORPORATION (NEW) CMAN ‘3 24/1. ‘4",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ADELITY NATL INFO SVT INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "sr ETA PLATFORMS INC CMM CLASS A 5 £ t/Zt",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "» MALL CORPORATION CV E3 05/33, cry",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Ltd EATON CORP PLC CMAN * ba/iijz2 _&",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "05/05/2022",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "row",
+      "read": "IONS, INC CN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 2,
+      "field": "row",
+      "read": "JOEST BUY CO INC CMN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 3,
+      "field": "row",
+      "read": "Ey Ws. MANCOAP CMN x CALS 1413) teyos722)",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 4,
+      "field": "row",
+      "read": "Sf__ SIMON PROPERTY GROUP INC CHAN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 5,
+      "field": "row",
+      "read": "SP ROCKWELL AUTOMATION INC CMH # PAj 44722)",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 6,
+      "field": "row",
+      "read": "ST COCA-COLA COMPANY (THE) GM x x x papa jez",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 7,
+      "field": "row",
+      "read": "COCA-COLA COMPANY CHE} Comet x _ a Cr) :",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 8,
+      "field": "row",
+      "read": "COCA-cDLA COMP, JE} cmt fl",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 9,
+      "field": "row",
+      "read": "F COCA-COLA COMPANY [THI] Chali x x * Onis, osfosfzat",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 10,
+      "field": "row",
+      "read": "Ed COCA-COLA COMPANY CN a x x DALLES, ¥ r",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 11,
+      "field": "row",
+      "read": "COCA EOLA COMPANY (THT) Cat z x x as",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 12,
+      "field": "row",
+      "read": "Sf EOCACOLA COMPANY (THE] CMH x x x",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 13,
+      "field": "row",
+      "read": "Se_ PRUDENTIAL RANCIAL INC CMA z x Oafhy 95) 3)",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 14,
+      "field": "row",
+      "read": "v COCA-COLA COMPANY (THE! CHIN x x x __ da fir faz; #22! g",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 15,
+      "field": "row",
+      "read": "y. COCA-COLA COMPANY AN Ci x x DALIT 27} [z)",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 16,
+      "field": "row",
+      "read": "iT) CICA-COLA COMPANY (THE) CMM 3 x a za 05, 2 ©",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 17,
+      "field": "row",
+      "read": "Ly H MATERIALS CO CMR",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 18,
+      "field": "row",
+      "read": "‘SSG ATWVé ConPORATION CMN \" 12/22] osfosj22",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 19,
+      "field": "row",
+      "read": "A ET CORPORATION (NEW) CMAN ‘3 24/1. ‘4",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 20,
+      "field": "row",
+      "read": "ADELITY NATL INFO SVT INC CMN",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 21,
+      "field": "row",
+      "read": "sr ETA PLATFORMS INC CMM CLASS A 5 £ t/Zt",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 22,
+      "field": "row",
+      "read": "» MALL CORPORATION CV E3 05/33, cry",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "row": 23,
+      "field": "row",
+      "read": "Ltd EATON CORP PLC CMAN * ba/iijz2 _&",
+      "note": "Low-confidence dense-page extraction from OCR/table image; verify exact type/date/amount before downstream use."
+    },
+    {
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Transaction-date cells are visible as a tiny/noisy date column in the scanned page, but the available OCR/tess/quads evidence does not support reliable row-by-row transcription; missing dates are recorded as [UNKNOWN] rather than guessed."
+    }
+  ],
+  "page_confidence": "low",
+  "transcription_note": "Dense scanned attachment page; asset row inventory extracted from OCR and image-visible security names. Exact checkbox/date columns are low-confidence and flagged."
+}

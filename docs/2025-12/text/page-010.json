@@ -1,0 +1,107 @@
+{
+  "pdf_page": 10,
+  "printed_label": "Rohit Khanna Page 10 of 20",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BALL CORPORATION CIMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "09/29/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CORPAY INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "09/29/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CROWN CASTLE INTL CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/29/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WALT DISNEY COMPANY (THE) CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/29/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DEXCOM, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/29/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "GARTNER, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/29/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "FISERV, ING CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/29/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "IMOODY'S CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/29/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "page",
+      "read": "Apple Vision OCR plus grid-cell checkbox detection",
+      "note": "Dense scan remains degraded; null dates and unusual OCR-normalized asset text are flagged in validation summary before compile."
+    }
+  ],
+  "page_confidence": "medium"
+}

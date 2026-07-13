@@ -1,0 +1,338 @@
+{
+  "pdf_page": 44,
+  "printed_label": "Page 44 of 67",
+  "section": "Periodic Transaction Report - transactions",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WIX COM LTD CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TTX COMPANIES INC (NEW) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEW YORK TIMES CO/A CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "(FASTENAL COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SMARTSHEET INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIDELITY NATIONAL FINANCIAL, I CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LIBERTY MEDIA CORPORATION SERIES A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIDELITY NATIONAL FINANCIAL, I CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LBERTY MEDIA CORPORATION SERIES",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TWILIO INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "IDEX CORPORATION COMMON STOCK",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LAMAR ADVERTISING COMPANY CMN CLASS",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ROYAL CARIBBEAN GROUP ISIN => = LROo08g62868",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DEX CORPORATION COMMON STOCK",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LAMAR ADVERTISING COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ROYAL CARIBBEAN GROUP ISIN: LROODA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LPL FINANCIAL HOLDINGS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 2,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 3,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 4,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 5,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 7,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 8,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 9,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 11,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 12,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 14,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 15,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 16,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 17,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 4,
+      "field": "asset_name",
+      "read": "(FASTENAL COMPANY CMN",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 8,
+      "field": "asset_name",
+      "read": "FIDELITY NATIONAL FINANCIAL, I CMN",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 9,
+      "field": "asset_name",
+      "read": "LBERTY MEDIA CORPORATION SERIES",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 12,
+      "field": "asset_name",
+      "read": "LAMAR ADVERTISING COMPANY CMN CLASS",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 13,
+      "field": "asset_name",
+      "read": "ROYAL CARIBBEAN GROUP ISIN => = LROo08g62868",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 14,
+      "field": "asset_name",
+      "read": "DEX CORPORATION COMMON STOCK",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 6,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 10,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 13,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    }
+  ],
+  "page_confidence": "low"
+}

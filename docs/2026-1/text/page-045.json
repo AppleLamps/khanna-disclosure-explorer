@@ -1,0 +1,231 @@
+{
+  "pdf_page": 45,
+  "printed_label": "Rohit Khanna Page 45 of 65",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja Declaration of Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BUILD NYC RESOURCE CORP NY REV 4.0",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/28/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NEW YORK ST DORM AUTH REVS NON R",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/28/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LLUMINA, INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GRAND IS NY CENT SCH DIST GO 4% 12",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/28/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UTIL DEBT SECURTZTION AUTH NY REV!",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/28/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FORD MOTOR COMPANY CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NY ST DORM AUTH REVS REV 1.1800% O",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/28/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUBLIC-SVC ENTERPRISE GROUP HOLDIE",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DOMINION ENERGY INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MASCO CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DUKE ENERGY CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "QVIA HOLDINGS INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NGERSOLL RAND INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ON SEMICONDUCTOR CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FOX CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VICI PROPERTIES INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DOLLAR GENERAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CARRIER GLOBAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 18,
+      "field": "date",
+      "read": {
+        "kind": "tx",
+        "owner": "SP",
+        "asset_name": "CARRIER GLOBAL CORPORATION CMN",
+        "tx_type": "Sale",
+        "cap_gain_over_200": true,
+        "partial_sale": true,
+        "date": null,
+        "notification_date": "01/29/2026",
+        "amount": "$1,001-$15,000"
+      },
+      "note": "Transaction-date cell was not read confidently from the source image; date left null explicitly."
+    }
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,33 @@
+Schedule A: Assets and "Unearned” Income Page 5 of 149
+Rohit Khanna
+BLOCKA BLOCK B BLOCK C BLOCK D BLOCK E
+Amount of Transaction
+SP,DC,JT [Asset EIF Value of Asset Income Type(s) Income P, S, S-Partial, E
+Grandchildren's Trust:
+oc Kayne Anderson MLP Fund, L.P. xX $250,001-$500,000 None None P
+Dc Kayne Anderson Real Estate Partners III, LP. xX $50,001-$100,000 Partnership $15,001-550,000
+oc Kayne Anderson Energy Fund 6, LP x $50,001-$100,000 Partnership $5,001-$15,000 P
+pc Resilience Fund IV LP x $100,001-5250,000 None None P
+DBC Resilience Fund [Il LP x $100,001-$250,000 Partnership $2,501-$5,000 P
+pc Resilience Fund II LP x $15,001-$50,000 Partnership $201-$1,000
+oc Resilience OneSky, LLC xX $100,001-$250,000 Partnership None
+Ritu Ahuja 1995 Trust :
+Grandchildren's Trust:
+ARECO LP:
+SP MAI Wealth Income and Growth Fund, LP x $100,001-$250,000 Partnership $100,001-$1,000,000 P
+DC MAI Wealth Income and Growth Fund, LP xX $15,001-$50,000 Partnership $5,001-$15,000 P
+SP MAI Capital Income and Growth Fund Il, LP X $100,001-$250,000 Partnership $100,001-$1,000,000 P
+oc MAI Capital Income and Growth Fund fl, LP x $1,001-$15,000 Partnership $5,001-$15,000 P
+SP MAI Capital Income and Growth Fund III, LP Spouse/DC Asset over $1,000,000 Partnership $15,001-$50,000
+Location: Pewaukee, WI 53188
+oc MAI Capital Income and Growth Fund III, LP $50,001-$200,000 Partnership $1,001-$2,500
+Location: Pewaukee, Wi $3188
+sP Park Center Plaza Holdings LP $500,001-$1,000,000 Partnership $50,001-$100,000 P
+Plaza I, il, Hl Locations: Independence, OH 44131
+bc Park Center Plaza Holdings LP $50,001-$100,000 Partnership $1,001-$2,500
+Plaza I, Il, Ill Locations: Independence, OH 44131
+SP MAI Wealth Income and Growth Fund IV, LP x $50,001-$100,000 None None P
+DC MAI Wealth income and Growth Fund IV, LP X $1,001-$15,000 None None P
+SP MAI Diversified Real Estate Income Fund, LP x $250,001-$500,000 Partnership $15,001-$50,000 P
+bc MAI Diversified Real Estate Income Fund, LP x $15,001-550,000 Partnership $201-$1,000 P
+

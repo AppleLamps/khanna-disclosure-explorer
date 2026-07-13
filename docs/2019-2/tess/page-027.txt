@@ -1,0 +1,121 @@
+Areco Schedule A
+
+Rohit Khanna 27 of 210
+
+SP, BC, JT
+
+SP
+
+oC
+
+arcenpngs
+
+DC
+
+SP
+
+DC
+
+Stock Name
+
+Ticker
+
+——_ —_
+
+CHARLES SCHWAB
+NEW(SCHW)
+SCHW
+
+Transaction
+
+‘alue of Asset
+
+A; None
+B: $1-$1,000
+
+CHARLES SCHWAB
+NEW(SCHW)
+SCHW
+Ss
+
+S&P GLOBAL INC
+COM{(SPGI)
+SPGI
+S§(Part)
+
+S&P GLOBAL INC
+COM(SPG})
+
+VISA INC CL ACV)
+a
+
+SPGI
+Part}
+
+Vv
+S{Part)
+
+C: $1,001-$15,000
+
+D: $15,003-$50,000
+
+E: $50,001-$100,000
+
+F: $100,001-$250,000
+
+1G: $250,001-$500,000
+
+H: $500,001-$1,000,000
+
+1; $1,000,001-$5,000,000
+
+5: $5,000,001-$25,000,000
+
+K: $25,000,001-$50,000,000
+
+L: Over $50,000,000
+
+|Spouse/DC Asset over $1,000
+
+Hype of income
+
+0
+TAmount of Income: HA: None
+
+January 1, 2019 - DedB: $1-S200
+
+None
+Dividends
+
+Rent
+
+Interest
+
+Capital Gains
+
+Excepted/Blind Trust
+
+'Tax-Deferred
+
+ther Type of Income
+
+{C: $201-$2,000
+
+1D: $1,001-$2,500
+
+E: $2,501-$5,000
+
+F: $5,001-$15,000
+
+G: $15,001-$50,000
+
+H; $50,001-$100,000
+
+#: $100,001-$1,000,000
+
+J: $1,000,001-$5,000,000
+
+|K: Over $5,000,000
+
+|Spouse/DC Income over $1,04
+

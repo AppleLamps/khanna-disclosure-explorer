@@ -1,0 +1,42 @@
+{
+  "pdf_page": 296,
+  "printed_label": "Page 296 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "AON PUBLIC LIMITED COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AFLAC INCORPORATED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DEERE & COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BLACKROCK, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AVANTOR FUNDING, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/25/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMPHENOL CORP CL A (NEW) CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUINIX, INC. REIT", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TE CONNECTIVITY LTD CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN INTL GROUP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AVANTOR FUNDING, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/12/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIBERTY GLOBAL, PLC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FISERV, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROCKWELL AUTOMATION INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TRANE TECHNOLOGIES PUBLIC LIM CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PACCAR INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOODYS CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ESTEE LAUDER COS INC CL-A CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KLA CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MORGAN STANLEY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "JOHNSON CONTROLS INTERNATIONAL CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EDWARDS LIFESCIENCES CORPORATI CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "T. ROWE PRICE GROUP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOTOROLA SOLUTIONS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SBA COMMUNICATIONS CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AUTOZONE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"row": 14, "field": "asset_name", "read": "TRANE TECHNOLOGIES PUBLIC LIM CMN", "note": "The scan visibly truncates the issuer name at LIM before CMN."},
+    {"row": 22, "field": "asset_name", "read": "EDWARDS LIFESCIENCES CORPORATI CMN", "note": "The scan visibly truncates the issuer name at CORPORATI before CMN."}
+  ],
+  "page_confidence": "medium"
+}

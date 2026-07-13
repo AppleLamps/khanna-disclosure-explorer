@@ -1,0 +1,308 @@
+{
+  "pdf_page": 269,
+  "printed_label": "Page 269 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1995 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PRUDENTIAL FINANCIAL INC CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "5/20/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ONEOK INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "3/4/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CISCO SYSTEMS, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/29/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "RAYTHEON TECHNOLOGIES CORPORAT CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "11/3/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PAYCOM SOFTWARE, INC. CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "4/7/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "3M COMPANY CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "5/20/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PEPSICO, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "STARBUCKS CORP. CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "3/5/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ENTERPRISE PRODUCTS PART LP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/30/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DOMINION ENERGY INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "7/28/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTUITIVE SURGICAL, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "9/29/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ADOBE INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/29/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ADOBE INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "7/28/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DUKE ENERGY CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "7/28/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MASTERCARD INCORPORATED CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CSX CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": true,
+      "date": "2/11/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "S&P GLOBAL INC. CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": true,
+      "date": "2/11/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SALESFORCE.COM, INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/29/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "QUALCOMM INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "6/23/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AON PLC CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": true,
+      "date": "4/14/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SUNOCO LP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "10/13/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LINDE PLC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GENERAL ELECTRIC CO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "3/5/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTL BUSINESS MACHINES CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "6/23/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ATLANTICA SUSTAINABLE INFRASTR CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": false,
+      "date": "10/13/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TRUIST FINANCIAL CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "partial_sale": true,
+      "cap_gain_over_200": true,
+      "date": "2/11/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SHELL MIDSTREAM PARTNERS, L.P. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "10/13/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 5,
+      "field": "asset_name",
+      "read": "RAYTHEON TECHNOLOGIES CORPORAT CMN",
+      "note": "printed name appears truncated/degraded at 'CORPORAT'"
+    },
+    {
+      "row": 26,
+      "field": "asset_name",
+      "read": "ATLANTICA SUSTAINABLE INFRASTR CMN",
+      "note": "printed name appears truncated/degraded at 'INFRASTR'"
+    }
+  ],
+  "page_confidence": "medium"
+}

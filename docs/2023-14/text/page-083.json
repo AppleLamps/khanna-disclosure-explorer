@@ -1,0 +1,35 @@
+{
+  "pdf_page": 83,
+  "printed_label": "Page 83 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/BP FLEX EURO PM @ 38 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/BP FLEX EURO PM @ 39 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/CCEP FLEX EURO PM 64 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/CCEP FLEX EURO PM 68 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/CRH FLEX EURO PM @ 65 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/CRH FLEX EURO PM @ 69 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/CRH FLEX EURO PM @ 53 EXP 08/11/2023", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/EWA FLEX EURO PM @ 22.5 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/EWA FLEX EURO PM @ 24 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/EWJ FLEX EURO PM @ 63 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/EWJ FLEX EURO PM @ 66 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/HSBC FLEX EURO PM 40 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/HSBC FLEX EURO PM 42 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/ING FLEX EURO PM @ 14 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/ING FLEX EURO PM @ 15.5 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/ING FLEX EURO PM @ 13.5 EXP 08/11/2023", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/INGG FLEX EURO PM @ 64 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/INGG FLEX EURO PM @ 71 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/INGG FLEX EURO PM @ 63 EXP 12/08/2023", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/INVO FLEX EURO PM @ 107 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1994 Trust", "note": "No group header printed on this page; context inferred from prior pages."},
+    {"row": null, "field": "asset_name", "read": "option rows", "note": "Several option descriptions are OCR-noisy; values/income/amount checkboxes are consistently None/NONE/None with blank transaction."}
+  ],
+  "page_confidence": "medium"
+}

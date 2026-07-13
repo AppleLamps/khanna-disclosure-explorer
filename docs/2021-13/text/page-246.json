@@ -1,0 +1,43 @@
+{
+  "pdf_page": 246,
+  "printed_label": "Page 246 of 303",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "TYSON FOODS INC CL-A CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/31/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROPER TECHNOLOGIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMPHENOL CORP CL-A (NEW) CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CABOT OIL & GAS CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/31/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN EXPRESS CO. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "METLIFE, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PHILLIPS 66 CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/31/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COMMERCE BANCSHARES, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/31/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MILLS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FEDEX CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DEERE & COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AUTODESK, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CME GROUP INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ACTIVISION BLIZZARD, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REALTY INCOME CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MITSUBISHI UFJ FINL GROUP, INC SPONSORED ADR C", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/31/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SUN COMMUNITIES, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/31/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUITY LIFESTYLE PROPERTIES, I CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/31/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DIGITAL REALTY TRUST, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EL PASO CNTY COLO REV REV 5% 04/01/22 AO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LAS CRUCES N MEX ST SHARED REV 4% 06/01/22 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/2/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PHILIP MORRIS INTL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MEMPHIS CTR CITY FIN REV 4.0000% 02/01/22 FA", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/25/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WEST VIRGINIA ST HSG DEV FD REV 2.0500% 11/01/21", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/11/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/31/2021", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 18, "field": "asset_name", "read": "MITSUBISHI UFJ FINL GROUP, INC SPONSORED ADR C", "note": "Trailing characters after ADR C are clipped by transaction-type grid."},
+    {"row": 20, "field": "asset_name", "read": "EQUITY LIFESTYLE PROPERTIES, I CMN", "note": "Company suffix appears clipped; visible text reads I before CMN."},
+    {"row": 26, "field": "asset_name", "read": "WEST VIRGINIA ST HSG DEV FD REV 2.0500% 11/01/21", "note": "Trailing suffix, if any, is clipped by transaction-type grid."}
+  ],
+  "page_confidence": "medium"
+}

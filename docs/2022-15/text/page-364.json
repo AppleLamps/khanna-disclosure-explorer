@@ -1,0 +1,42 @@
+{
+  "pdf_page": 364,
+  "printed_label": "Page 364 of 367",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind":"tx","owner":"DC","asset_name":"BLACKSTONE INC (BX)","tx_type":"Purchase","cap_gain_over_200":false,"date":"6/10/2022","notification_date":null,"amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"EQUINIX INC (EQIX)","tx_type":"Sale","cap_gain_over_200":true,"date":"6/10/2022","notification_date":null,"amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ASML HOLDING NV NY REG NEW (ASML)","tx_type":"Purchase","cap_gain_over_200":false,"date":"5/26/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"AMERICAN TOWER CORP (AMT)","tx_type":"Partial Sale","cap_gain_over_200":true,"date":"5/26/2022","notification_date":null,"amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CME GROUP INC (CME)","tx_type":"Partial Sale","cap_gain_over_200":true,"date":"5/26/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"AMAZON COM INC (AMZN)","tx_type":"Purchase","cap_gain_over_200":false,"date":"5/26/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"SERVICENOW INC (NOW)","tx_type":"Purchase","cap_gain_over_200":false,"date":"5/26/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ESTEE LAUDER CO INC CL A (EL)","tx_type":"Purchase","cap_gain_over_200":false,"date":"5/26/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"VISA INC CL A (V)","tx_type":"Partial Sale","cap_gain_over_200":true,"date":"5/26/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ASML HOLDING NV NY REG NEW (ASML)","tx_type":"Purchase","cap_gain_over_200":false,"date":"5/26/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"VISA INC CL A (V)","tx_type":"Partial Sale","cap_gain_over_200":false,"date":"5/26/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"SERVICENOW INC (NOW)","tx_type":"Partial Sale","cap_gain_over_200":false,"date":"4/29/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"VISA INC CL A (V)","tx_type":"Partial Sale","cap_gain_over_200":true,"date":"4/29/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"SERVICENOW INC (NOW)","tx_type":"Purchase","cap_gain_over_200":false,"date":"4/27/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"VISA INC CL A (V)","tx_type":"Partial Sale","cap_gain_over_200":true,"date":"4/27/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"EQUINIX INC (EQIX)","tx_type":"Partial Sale","cap_gain_over_200":true,"date":"3/31/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"SERVICENOW INC (NOW)","tx_type":"Purchase","cap_gain_over_200":false,"date":"3/8/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ASML HOLDING NV NY REG NEW (ASML)","tx_type":"Purchase","cap_gain_over_200":false,"date":"3/3/2022","notification_date":null,"amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CME GROUP INC (CME)","tx_type":"Partial Sale","cap_gain_over_200":false,"date":"3/3/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"PAYPAL HLDGS INC COM (PYPL)","tx_type":"Sale","cap_gain_over_200":false,"date":"3/3/2022","notification_date":null,"amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"INTUITIVE SURGICAL INC (ISRG)","tx_type":"Purchase","cap_gain_over_200":false,"date":"2/23/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ADOBE INC (ADBE)","tx_type":"Purchase","cap_gain_over_200":false,"date":"2/18/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"META PLATFORMS INC CL A (FB)","tx_type":"Partial Sale","cap_gain_over_200":false,"date":"2/18/2022","notification_date":null,"amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"NVIDIA CORPORATION (NVDA)","tx_type":"Purchase","cap_gain_over_200":false,"date":"2/18/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"SERVICENOW INC (NOW)","tx_type":"Purchase","cap_gain_over_200":false,"date":"2/18/2022","notification_date":null,"amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"EQUINIX INC (EQIX)","tx_type":"Partial Sale","cap_gain_over_200":false,"date":"2/17/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"SNAP INC CL A (SNAP)","tx_type":"Purchase","cap_gain_over_200":false,"date":"2/17/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"EQUINIX INC (EQIX)","tx_type":"Partial Sale","cap_gain_over_200":false,"date":"2/7/2022","notification_date":null,"amount":"$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row":23,"field":"tx_type","read":"Partial Sale","note":"Scan appears to show marks near both Sale and Partial Sale for META PLATFORMS INC CL A (FB); retained Partial Sale because the stronger mark is in the Partial Sale column."}
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,23 @@
+{
+  "pdf_page": 122,
+  "printed_label": "Page 122 of 367",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind":"tx","owner":"DC","asset_name":"AMAZON.COM INC","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/26/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"DANAHER CORPORATION COM","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/26/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"MASTERCARD INCORPORATED CL A","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/26/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"PAYPAL HLDGS INC COM","tx_type":"Sale","cap_gain_over_200":false,"date":"1/25/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ALPHABET INC CAP STK CL A","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/24/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"BOEING CO","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/24/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"META PLATFORMS INC CLASS A COMMON STOCK","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/24/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ACTIVISION BLIZZARD INC COM","tx_type":"Sale","cap_gain_over_200":false,"date":"1/20/2022","notification_date":null,"amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"DOMINO S PIZZA INC","tx_type":"Sale","cap_gain_over_200":false,"date":"1/13/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"SHERWIN-WILLIAMS CO","tx_type":"Sale","cap_gain_over_200":false,"date":"1/13/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"TEXAS INSTRUMENTS INC COM USD1.00","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/13/2022","notification_date":null,"amount":"$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

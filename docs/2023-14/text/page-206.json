@@ -1,0 +1,41 @@
+{
+  "pdf_page": 206,
+  "printed_label": "Page 206 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "CORTEVA, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REALTY INCOME CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARRIER GLOBAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KEURIG DR PEPPER INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VICI PROPERTIES INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KELLOGG COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGENERON PHARMACEUTICAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EQUIFAX INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHIPOTLE MEXICAN GRILL, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COMCAST CORPORATION CMN CLASS A VOTING", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "W.W. GRAINGER INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GE HEALTHCARE TECHNOLOGIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BLACKROCK, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DEERE & COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BOOKING HOLDINGS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTUITIVE SURGICAL, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DANAHER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PHILIP MORRIS INTL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SERVICENOW INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MOTOROLA SOLUTIONS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INSULET CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AVERY DENNISON CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERISOURCEBERGEN CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KIMBERLY-CLARK CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "IDEXX LABORATORIES CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "A few security names are clipped at the asset-name column edge; visible wording was preserved."},
+    {"field": "amount", "note": "All rows read as amount bucket A from the page image."}
+  ],
+  "page_confidence": "high"
+}

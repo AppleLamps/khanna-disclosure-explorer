@@ -1,0 +1,270 @@
+{
+  "pdf_page": 93,
+  "printed_label": "Page 93 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "GUIDEWIRE SOFTWARE INC CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HANESBRANDS INC, CMN",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HARLEY-DAVIDSON INC CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HARTFORD FINANCIAL SRVCS GROUP CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HCA HEALTHCARE, INC CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HEALTHCARE REALTY TRUST INC CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HEALTHPEAK PROPERTIES INC CMN",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HENRY SCHEIN INC COMMON STOCK",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HEWLETT PACKARD ENTERPRISE CO CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HILTON WORLDWIDE HOLDINGS INC. CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HOLOGIC INCORPORATED CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HORMEL FOODS CORPORATION CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HP INC, CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HSBC BANK PLC LINKED TO S&P 500 INDEX",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HSBC BANK PLC LINKED TO S&P 500 INDEX CNTNGNT",
+      "value": "$100,001-$250,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HSBC HOLDINGS PLC SPONSORED ADR CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HUMANA INC. CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "HUNTINGTON BANCSHARES INCORPOR CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "IBERDROLA SOCIEDAD ANONIMA SPONSORED ADR C",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "IDEX CORPORATION COMMON STOCK",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "context",
+      "read": "continuation of Ritu Ahuja 1994 Trust",
+      "note": "No group header printed on this page; context inferred from earlier Schedule A pages."
+    },
+    {
+      "row": 18,
+      "field": "asset_name",
+      "read": "IBERDROLA SOCIEDAD ANONIMA SPONSORED ADR C",
+      "note": "Printed asset name is truncated at the asset-name column edge."
+    }
+  ],
+  "page_confidence": "medium"
+}

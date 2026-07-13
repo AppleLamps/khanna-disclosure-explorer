@@ -1,0 +1,35 @@
+{
+  "pdf_page": 134,
+  "printed_label": "Page 134 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK 1.25% 06/22/2026 USD SR", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK 3.1% 04/02/2024 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM 1.0% 10/18/2024", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM 5.985% 10/03/20", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM 5.986% 10/03/20", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CENTERPOINT ENERGY RES 1.75% 10/01/2030 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHIPOTLE MEXICAN GRILL, INC. CMN", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC 4.125% 07/25/2028 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC 4.125% 07/25/2028 USD SUB LIEN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 04/23/2029 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 04/23/2029 USD SR LIEN CPN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 06/09/2027 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITY OF COLUMBUS, OHIO GO 5.0000% 04/01/25 AO", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CLEVELAND OHIO GO 5% 12/01/24 JD VARIOUS PURP", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CLOROX COMPANY (THE) 4.4% 05/01/2029 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CROWN CASTLE INTL CORP 1.05% 07/15/2026 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CROWN CASTLE INTL CORP 1.05% 07/15/2026 USD SR", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CROWN CASTLE INTL CORP 3.65% 09/01/2027 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CVS HEALTH CORPORATION 3.75% 04/01/2030 USD SR", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DANAHER CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several CIBC/Citigroup/Crown Castle/CVS rows are truncated at the right edge; visible text only was transcribed."},
+    {"field": "checkbox_grid", "note": "Page image/OCR are noisy; fixed-income rows were read as interest with low dollar income, but exact value columns are medium-low confidence."}
+  ],
+  "page_confidence": "medium-low"
+}

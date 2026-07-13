@@ -1,0 +1,248 @@
+{
+  "filer": "Rohit Khanna",
+  "free_text": null,
+  "page_confidence": "medium",
+  "page_type": "schedule_a",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "pdf_page": 113,
+  "printed_label": "Page 113 of 327",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WYLIE TEX INDPT SCH DIST GO 5% 02/15/23 FA",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "WYNN RESORTS, LIMITED CMN",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "XYLEM INC. CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "YUM BRANDS, INC. CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ZIMMER BIOMET HOLDINGS INC",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ZIONS BANCORP CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ZOETIS INC. CMN CLASS A",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1995 Trust"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ABBOTT LABORATORIES CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ABBVIE INC CMN",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AIR LEASE CORP 3.375% 07/01/2025 USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AIR LEASE CORP 3.375% 07/01/2025 USD SR LIEN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AIR LEASE CORPORATION HYBRID PERPETUAL USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AIR LEASE CORPORATION HYBRID PERPETUAL USD",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ALDINE TEX INDPT SCH DIST GO 5% 02/15/24 FA",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ALDINE TEX INDPT SCH DIST GO 5% 02/15/24 FA ULTD",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ALLSTATE CORPORATION (THE) PFD 7.3750 SERIES J",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ALLSTATE CORPORATION (THE) PFD USD1.8438(7.38%)",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ALLSTATE CORPORATION COMMON STOCK",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$5,001-$15,000",
+      "transaction": "P"
+    }
+  ],
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "context",
+      "read": "first seven rows continue Ritu Ahuja 1994 Trust",
+      "note": "Ritu Ahuja 1995 Trust header appears mid-page before Abbott Laboratories."
+    },
+    {
+      "row": 15,
+      "field": "asset_name",
+      "read": "ALDINE TEX INDPT SCH DIST ... ULTD",
+      "note": "Long municipal description is truncated at the right edge of Block A."
+    }
+  ]
+}

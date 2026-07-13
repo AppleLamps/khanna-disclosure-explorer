@@ -1,0 +1,18 @@
+{
+  "pdf_page": 10,
+  "printed_label": "Page 10 of 309",
+  "section": "ARECO Schedule A: Assets and Unearned Income",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table, transposed spreadsheet layout: one asset per column, attribute labels down the left. Selections are black-filled cells. Three asset columns (all EIF). The Transaction row is a continuous black band across all three columns (no letter visible); the two XLF columns carry real value buckets (G and D) despite the black Transaction band, confirming it is a divider rather than a marked transaction.",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "SPDR S&P Bank ETF", "ticker": "KBE", "eif": "EIF", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "The Financial Sel Sect SPDR Fund", "ticker": "XLF", "eif": "EIF", "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "The Financial Sel Sect SPDR Fund", "ticker": "XLF", "eif": "EIF", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "transaction", "read": "Transaction row is a continuous black band across all three asset columns, no letter visible", "note": "black band spans every asset column uniformly with no P/S/E legible; the two XLF columns retain real value buckets, so the band is a formatting divider; recorded null for all three"}
+  ],
+  "page_confidence": "high"
+}

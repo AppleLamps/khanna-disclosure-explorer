@@ -1,0 +1,278 @@
+{
+  "pdf_page": 106,
+  "printed_label": "Page 106 of 367",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "EQUINIX INC(EQIX)",
+      "eif": false,
+      "value": "None",
+      "income_types": ["DIVIDENDS", "CAPITAL GAINS"],
+      "other_income_spec": null,
+      "amount_of_income": "$5,001-$15,000",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ESTEE LAUDER CO INC CL A(EL)",
+      "eif": false,
+      "value": "None",
+      "income_types": ["DIVIDENDS", "CAPITAL GAINS"],
+      "other_income_spec": null,
+      "amount_of_income": "$5,001-$15,000",
+      "transaction": "P, S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "FORTIVE CORP(FTV)",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": ["DIVIDENDS"],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "HOME DEPOT INC(HD)",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": ["DIVIDENDS"],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "IDEXX LABS(IDXX)",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": ["NONE"],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ILLUMINA INC(ILMN)",
+      "eif": false,
+      "value": "None",
+      "income_types": ["NONE"],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P, S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "INTUIT INC(INTU)",
+      "eif": false,
+      "value": "$15,001-$50,000",
+      "income_types": ["DIVIDENDS", "CAPITAL GAINS"],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000; $5,001-$15,000",
+      "transaction": "S(PART)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "INTUITIVE SURGICAL INC(ISRG)",
+      "eif": false,
+      "value": "None",
+      "income_types": ["CAPITAL GAINS"],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": "P, S(PART)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "MARVELL TECHNOLOGY GROUP LTD(MRVL)",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": ["DIVIDENDS"],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P, S(PART)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "MATCH GROUP INC(MTCH)",
+      "eif": false,
+      "value": "None",
+      "income_types": ["NONE"],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P, S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "META PLATFORMS INC CL A(META)",
+      "eif": false,
+      "value": "None",
+      "income_types": ["CAPITAL GAINS"],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "MICROSOFT CORP(MSFT)",
+      "eif": false,
+      "value": "$15,001-$50,000",
+      "income_types": ["DIVIDENDS", "CAPITAL GAINS"],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": "S(PART)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "MONOLITHIC PWR SYSTEMS INC(MPWR)",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": ["DIVIDENDS"],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P, S(PART)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "MSCI INC COM(MSCI)",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": ["DIVIDENDS"],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "NETFLIX INC(NFLX)",
+      "eif": false,
+      "value": "None",
+      "income_types": ["CAPITAL GAINS"],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": "P, S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "NIKE INC B(NKE)",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": ["DIVIDENDS"],
+      "other_income_spec": null,
+      "amount_of_income": "$5,001-$15,000",
+      "transaction": "P, S(PART)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "NVIDIA CORPORATION(NVDA)",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": ["DIVIDENDS", "CAPITAL GAINS"],
+      "other_income_spec": null,
+      "amount_of_income": "$15,001-$50,000",
+      "transaction": "P, S(PART)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "PAYPAL HLDGS INC COM(PYPL)",
+      "eif": false,
+      "value": "None",
+      "income_types": ["NONE"],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P, S(PART)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "S&P GLOBAL INC COM(SPGI)",
+      "eif": false,
+      "value": "None",
+      "income_types": ["DIVIDENDS", "CAPITAL GAINS"],
+      "other_income_spec": null,
+      "amount_of_income": "$15,001-$50,000",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "SERVICENOW INC(NOW)",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": ["NONE"],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P, S(PART)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "SNAP INC, CL A(SNAP)",
+      "eif": false,
+      "value": "None",
+      "income_types": ["CAPITAL GAINS"],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P, S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "THERMO FISHER SCIENTIFIC(TMO)",
+      "eif": false,
+      "value": "$15,001-$50,000",
+      "income_types": ["DIVIDENDS"],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "UNITEDHEALTH GP INC(UNH)",
+      "eif": false,
+      "value": "$15,001-$50,000",
+      "income_types": ["DIVIDENDS", "CAPITAL GAINS"],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P, S(PART)"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 7,
+      "field": "amount_of_income",
+      "read": "INTUIT INC(INTU): both $201-$1,000 and $5,001-$15,000 appear marked",
+      "note": "Two Block D X marks are visible in the full page and BR crop; preserved both in the amount_of_income string."
+    },
+    {
+      "row": 16,
+      "field": "amount_of_income",
+      "read": "NIKE INC B(NKE): $5,001-$15,000",
+      "note": "Amount X is faint and close to adjacent grid lines; bucket confirmed by image-position analysis."
+    }
+  ],
+  "page_confidence": "medium"
+}

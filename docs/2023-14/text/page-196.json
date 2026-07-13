@@ -1,0 +1,41 @@
+{
+  "pdf_page": 196,
+  "printed_label": "Page 196 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "THE PROGRESSIVE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HUMANA INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CVS HEALTH CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "RESMED INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CORTEVA, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ARTHUR J GALLAGHER & CO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERIPRISE FINANCIAL, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNION PACIFIC CORP. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TYSON FOODS INC CL-A CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "QUANTA SERVICES INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VULCAN MATERIALS CO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "T. ROWE PRICE GROUP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INSULET CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "XYLEM INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ARES MANAGEMENT CORPORATION CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CME GROUP INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTERACTIVE BROKERS GROUP, INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BRUKER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STATE STREET CORPORATION (NEW) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TAPESTRY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VEEVA SYSTEMS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTERNATIONAL PAPER CO. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "cap_gain_over_200", "note": "Capital-gain marks were read from the page image; several rows have dark table noise around the capital-gain column."}
+  ],
+  "page_confidence": "medium"
+}

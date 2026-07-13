@@ -1,0 +1,43 @@
+{
+  "pdf_page": 359,
+  "printed_label": "Page 359 of 367",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "VF CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/27/2022", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "group", "text": "M&R Trust Partnership"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for 8VC Opportunities Access 9SI99G1P2", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/8/2022", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Carlyle Opportunities Access 9SI99G0P3", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/16/2022", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies II Access9SI99JYT2", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/14/2022", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies II Access9SI99JYT2", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/17/2022", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Vintage VIII/West Street Access9SI99JPY1", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/27/2022", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Carlyle Opportunities Access 9SI99G0P3", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/6/2022", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies Access LLSI99JLF6", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/10/2022", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies II Access9SI99JYT2", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/6/2022", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Carlyle Opportunities Access 9SI99G0P3", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/19/2022", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies II Access9SI99JYT2", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/20/2022", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for 8VC Opportunities Access 9SI99G1P2", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/9/2022", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Vintage VIII/West Street Access9SI99JPY1", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/7/2022", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Vintage VIII/West Street Access9SI99JPY1", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/8/2022", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Vintage VIII/West Street Access9SI99JPY1", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/29/2022", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies II Access9SI99JYT2", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/25/2022", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Carlyle Opportunities Access 9SI99G0P3", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/15/2022", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Vintage VIII/West Street Access9SI99JPY1", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/13/2022", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Dragoneer Opportunities VI Access9I99G764", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/8/2022", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies Access LLSI99JLF6", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/6/2022", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for 8VC Opportunities Access 9SI99G1P2", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/10/2022", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for 8VC Opportunities Access 9SI99G1P2", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/25/2022", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies II Access9SI99JYT2", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/20/2022", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies Access LLSI99JLF6", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/2/2022", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/10/2022", "notification_date": null, "amount": "$500,001-$1,000,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TIGER GLOBAL CROSSOVER ACCESS LLC CLASS A1 SERIES 1", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/1/2022", "notification_date": null, "amount": "$500,001-$1,000,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO EURO STOXX 50 PR", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2022", "notification_date": null, "amount": "$250,001-$500,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "tx_type", "read": "Sale", "note": "The top continuation VF row is visually separated from the prior page and only the sale column is clearly marked."},
+    {"row": 27, "field": "amount", "read": "$500,001-$1,000,000", "note": "Amount mark appears in column F on the image, despite earlier analogous page showing a smaller bucket."}
+  ],
+  "page_confidence": "medium"
+}

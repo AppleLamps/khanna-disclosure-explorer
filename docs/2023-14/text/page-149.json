@@ -1,0 +1,41 @@
+{
+  "pdf_page": 149,
+  "printed_label": "Page 149 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI MANAGED VOL INCOME INSTL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERSUS CAPITAL REAL ASSETS CL I", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERSUS CAPITAL REAL ASSETS CL I", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI MANAGED VOL INCOME INSTL", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI MANAGED VOL INCOME INSTL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VANGUARD SPECIALIZED FUNDS DIV APP ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERSUS CAPITAL REAL ASSETS CL I", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERSUS CAPITAL REAL ASSETS CL I", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ISHARES TR 0-3 MNTH TREASRY", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "RTX CORPORATION COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STARBUCKS CORP COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BRISTOL-MYERS SQUIBB CO COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CISCO SYSTEMS INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ISHARES TR 0-3 MNTH TREASRY", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "JOHNSON &JOHNSON COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ISHARES 0-3 MONTH TREASURY BOND ETF", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NEXTERA ENERGY INC COM", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ACCENTURE PLC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EATON CORPORATION PLC", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COCA-COLA CO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CONOCOPHILLIPS COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TARGET CORP", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ZOETIS INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BROADCOM INC COM", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/15/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ZOETIS INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BROADCOM INC COM", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/5/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Some public-equity purchase/sale marks are small; they were cross-checked against adjacent DC pages and Schedule A transaction flags where available."},
+    {"field": "asset_name", "note": "Treasury ETF and equity names follow the visible short forms on the transaction page."}
+  ],
+  "page_confidence": "medium"
+}

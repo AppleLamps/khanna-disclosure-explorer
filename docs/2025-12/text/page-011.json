@@ -1,0 +1,177 @@
+{
+  "pdf_page": 11,
+  "printed_label": "Rohit Khanna Page 11 of 20",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja Discretionary Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WASHINGTON D CMET AREA TRAN REV 5% 07/25/29JJ",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "09/12/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "{DECKERS OUTDOORS CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "09/30/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TENABLE HOLDINGS, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "09/02/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DECKERS OUTDOORS CORP CMN x",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "09/03/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DECKERS OUTOOORS CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "09/04/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "\u00a1DECKERS OUTDOORS CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "09/22/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HOLOGIC INCORPORATED CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/23/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICRON TECHNOLOGY, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/02/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICRON TECHNOLOGY, INC, CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/05/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BAXTER INTERNATIONAL INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "10/02/2028",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/03/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/22/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BAXTER INTERNATIONAL ING. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/03/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ELANCO ANIMAL HEALTH INCORPORA",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "09/22/2025",
+      "notification_date": "10/02/2025",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "page",
+      "read": "Apple Vision OCR plus grid-cell checkbox detection",
+      "note": "Dense scan remains degraded; null dates and unusual OCR-normalized asset text are flagged in validation summary before compile."
+    }
+  ],
+  "page_confidence": "medium"
+}

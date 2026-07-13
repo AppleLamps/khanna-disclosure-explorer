@@ -1,0 +1,34 @@
+{
+  "pdf_page": 148,
+  "printed_label": "Page 148 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "ROUND ROCK TEX INDPT SCH DIST GO 5%", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "RUTHERFORD CNTY TENN GO 5.0000%", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "RYE TOWN NY GO 3% 10/01/21 AO PUB", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SALINE CNTY KANS DB 4% 09/01/22 MS", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SARASOTA CNTY FLA REV 5.0000% 10/01", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SBA COMMUNICATIONS CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SC ST FR ISS DTD PR TO 3/2/11 GO 5.0000%", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SCHLUMBERGER LTD CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SCOTTSDALE ARIZ GO 5% 07/01/21 JJ GO", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SEDGWICK CNTY KANS UNI SCH GO 4%", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SEMPRA ENERGY CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SHERWIN-WILLIAMS CO CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SITE CENTERS CORP CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SOUTH DAKOTA ST BLDG AUTH REV REV", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SOUTH FLA WTR MGMT DIST CTFS COPS", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SOUTHWEST SUBN SWR DIST WASH REV", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SOUTHWESTERN CITY SCH DIST GO 4%", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SPIRIT AEROSYSTEMS HOLDINGS INC CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SS&C TECHNOLOGIES HOLDINGS, IN CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": null, "field": "asset_name", "note": "Municipal bond names are clipped by the Block A cell; visible strings transcribed with OCR cross-check."},
+    {"row": 13, "field": "income_types", "read": "DIVIDENDS", "note": "SITE CENTERS income mark is faint and could be an Other/PTN-style mark; best read from scan is DIVIDENDS."}
+  ],
+  "page_confidence": "medium"
+}

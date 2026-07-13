@@ -1,0 +1,65 @@
+{
+  "pdf_page": 2,
+  "printed_label": "Page 2 of 24",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Enphase Energy",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "09/23/2022",
+      "notification_date": "09/06/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Fortive Corp",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "08/01/2022",
+      "notification_date": "09/06/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Enphase Energy",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "08/01/2022",
+      "notification_date": "09/06/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Bio Rad Lab A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "08/20/2022",
+      "notification_date": "09/06/2022",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": null,
+      "field": "rows",
+      "note": "Dates and amount bucket cross-checked against the annual Schedule B extraction; scan row text is low-resolution."
+    }
+  ],
+  "page_confidence": "medium",
+  "image": "docs/2022-9/pages/page-002.jpg",
+  "doc": "2022-9",
+  "doc_label": "2022 PTR filed 2022-09-08"
+}

@@ -1,0 +1,41 @@
+{
+  "pdf_page": 227,
+  "printed_label": "Page 227 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "ILLUMINA, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "IQVIA HOLDINGS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ESTEE LAUDER COS INC CL-A CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN EXPRESS COMPANY HYBRID 07/27/2029", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "QUEST DIAGNOSTICS INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PFIZER INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MONSTER BEVERAGE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KENVUE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BRISTOL-MYERS SQUIBB COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ABBOTT LABORATORIES CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ABBVIE INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CISCO SYSTEMS, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARRIER GLOBAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MERCK & CO., INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CVS HEALTH CORP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALTRIA GROUP, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KEURIG DR PEPPER INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PHILIP MORRIS INTL INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "T. ROWE PRICE GROUP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STERIS PUBLIC LIMITED COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DANAHER CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THERMO FISHER SCIENTIFIC INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DEERE & COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REVITY INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Several lower-page rows visibly mark both Sale and Partial Sale; per nearby convention they are transcribed as Partial Sale."},
+    {"field": "amount", "note": "All rows read as amount bucket A."}
+  ],
+  "page_confidence": "medium"
+}

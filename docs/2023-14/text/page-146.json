@@ -1,0 +1,40 @@
+{
+  "pdf_page": 146,
+  "printed_label": "Page 146 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL (SPX) NEW S&P 500 JUN 21 24 $4700", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PUT (SPX) NEW S&P 500 JUN 21 24 $3200", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PUT (SPX) NEW S&P 500 JUN 21 24 $3900", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "group", "text": "ARECO LP"},
+    {"kind": "group", "text": "- 2020 Trust FBO Khanna Children"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund V - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/18/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund V - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/16/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund V - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund VI - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/11/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SPDR SER TR S&P DIVID ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/15/2023", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SCHWAB STRATEGIC TR US REIT ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/15/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITED STATES TREAS BILLS ZERO CPN 0.00000%", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/14/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITED STATES TREAS BILLS ZERO CPN 0.00000%", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/14/2023", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL (SPX) NEW S&P 500 JUN 21 24 $4600", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL (SPX) NEW S&P 500 JUN 21 24 $4700", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PUT (SPX) NEW S&P 500 JUN 21 24 $3200", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PUT (SPX) NEW S&P 500 JUN 21 24 $3900", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VANGUARD SPECIALIZED FUNDS DIV APP ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VANGUARD SPECIALIZED FUNDS DIV APP ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VANGUARD SPECIALIZED FUNDS DIV APP ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SCHWAB STRATEGIC TR US REIT ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SPDR SER TR S&P DIVID ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VANGUARD SPECIALIZED FUNDS DIV APP ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SCHWAB STRATEGIC TR US REIT ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/07/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SPDR SER TR S&P DIVID ETF", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/22/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Option names use the visible SPX/S&P wording from the scan; OCR was noisy but image marks are readable."},
+    {"field": "amount", "note": "Amounts are transcribed from visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

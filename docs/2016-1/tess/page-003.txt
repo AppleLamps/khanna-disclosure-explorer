@@ -1,0 +1,42 @@
+3/116
+
+Schedule A: Assets and "Unearned" Income Name: Rohit Khanna Page of
+Income Income
+SP,OC,JT =‘ |Asset EIF Value of Asset Income Type{s) Current Year Preceding Year
+sep Citibank checking $250,001-$500,000 interest N/A $1-$200
+SP Citibank savings $50,001-$100,000 Interest N/A $1-$200
+JT Citibank checking $15,001-$50,000 None N/A None
+IT Citibank savings $100,002-$250,000 Interest N/A $1-§200
+SP Touchstone Sands Capital inst Gr (CISGX} x $15,001-550,000 Tax Deferred N/A None
+SP Fidelity Cash Reserves (FDRXX) X $1,001-$15,000 Tax Deferred N/A None
+sp Ritu Ahuja Rev. Trust:
+SP Condo, NY, NY Spouse/OC Asset over $1,000,000 Rent N/A $100,001-$1,000,000
+SP Ritu Ahuja 1994 Trust:
+SP Kayne Anderson Mezzanine Partners (QP), LP. x $100,001-$250,000 None N/A None
+SP Ritu Ahuja 1994 Trust & Ritu Ahuja 1995 Trust:
+SP M&R Trust Partnership:
+sp Kayne Anderson MLP Fund, LP. x $500,002-$1,000,000 None N/A None
+SP Kayne Anderson Real Estate Partners II {QP}, L.P. x $50,001-$100,000 None N/A None
+sp Kayne Anderson Real Estate Partners Ilt, LP. x $250,001-$500,000 Partnership N/A $1,001-$2,500
+SP Kayne Anderson Real Estate Partners IV, LP, x $100,001-$250,000 Partnership N/A $2,501-$5,000
+sp Kayne Credit Opportunities Fund (QP), LP. x $100,001-$250,000 Partnership N/A $15,001-$50,000
+SP Oraper Fisher Jurvetson Growth Fund 2006, LP x $250,001-5500,000 None N/A None
+SP JC Flowers !I-8 LP & related entities X $100,001-$250,000 None N/A None
+se Resilience Fund li LP x $15,001-$50,000 None N/A None
+SP Resilience Fund IV LP X $100,001-$250,000 None N/A None
+SP Ritu Ahuja 1995 Trust:
+Sp ARECO LP:
+SP Oak Street Real Estate Capital AFCO, SMA, LP None Partnership N/A $100,001-$1,000,000
+Location: Pewaukee, WI 53188
+SP MAI Wealth Income and Growth Fund, LP X $500,001-$1,000,000 Partnership N/A $50,001-$100,000
+sp MAI Capital Income and Growth Fund li, LP X $500,001-$1,000,000 Partnership N/A $201-$1,000
+sp MAI Capital Income and Growth Fund It, LP Spouse/DC Asset over $1,000,000 Partnership N/A $15,001-$50,000
+Location: Pewaukee, WI 53188
+SP Park Center Plaza Holdings LP $1,001-$15,000 None N/A None
+Plaza I, Hi, 1] Locations: Independence, OH 44131
+SP Note Receivable (Orchard Way/JB)} None Interest N/A $1,001-$2,500
+sP Orchard Way -LLC None Gain N/A $15,001-$50,000
+SP Commercial Property: Rent (for all properties} N/A $100,001-$1,000,000
+SP Location: Springdale, OH $160,001-5250,000
+sP Location: Harahan, LA 70123 $50,001-$100,000
+SP Location: Walton Hills, OH 44146 Spouse/DC Asset over $1,000,000

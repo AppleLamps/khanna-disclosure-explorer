@@ -1,0 +1,42 @@
+{
+  "pdf_page": 188,
+  "printed_label": "Page 188 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "VF CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CAESARS ENTERTAINMENT INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ABBOTT LABORATORIES CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ZIONS BANCORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DOLLAR TREE STORES, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROYAL CARIBBEAN GROUP ISIN: LR0008862868", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "APTIV PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHARLES SCHWAB CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DIGITAL REALTY TRUST, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ZEBRA TECHNOLOGIES INC CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EXPEDIA GROUP INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CONSTELLATION BRANDS INC CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DOLLAR GENERAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PFIZER INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/25/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TESLA, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CROWN CASTLE INTL CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DEERE & COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JOHNSON & JOHNSON CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTOMATIC DATA PROCESSING INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ADVANCED MICRO DEVICES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TYSON FOODS INC CL-A CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TAPESTRY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KROGER COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ENPHASE ENERGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHARTER COMMUNICATIONS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "tx_type/cap_gain_over_200", "note": "Sale, partial-sale, and capital-gain checkbox marks are best-read from the page image."},
+    {"field": "amount", "note": "Amounts are transcribed from the visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

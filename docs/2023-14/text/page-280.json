@@ -1,0 +1,41 @@
+{
+  "pdf_page": 280,
+  "printed_label": "Page 280 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED RENTALS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INGERSOLL RAND INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WILLIS TOWERS WATSON PLC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PACCAR INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROSS STORES, INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUPONT DE NEMOURS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FORTIVE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUPONT DE NEMOURS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUPONT DE NEMOURS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUPONT DE NEMOURS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUPONT DE NEMOURS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CINTAS CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORTEVA, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CRH PLC SPON ADR ADR CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SANOFI SPONSORED ADR CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "cap_gain_over_200", "note": "Capital-gain checkbox column is visually dense on the upper stock-sale rows; best reading from the high-resolution page image is recorded row by row."}
+  ],
+  "page_confidence": "medium"
+}

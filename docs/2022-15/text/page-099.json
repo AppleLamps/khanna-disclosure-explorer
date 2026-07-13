@@ -1,0 +1,40 @@
+{
+  "pdf_page": 99,
+  "printed_label": "Page 99 of 367",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind":"asset","owner":"SP","asset_name":"MINNESOTA ST DB 5% 08/01/22 FA","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"},
+    {"kind":"asset","owner":"SP","asset_name":"MISSOURI ST HWYS & TRANS COMMN REV 4% 05/01/23 MN","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"},
+    {"kind":"asset","owner":"SP","asset_name":"MONDELEZ INTERNATIONAL, INC. CMN","eif":false,"value":"None","income_types":["DIVIDENDS","CAPITAL GAINS"],"other_income_spec":null,"amount_of_income":"$2,501-$5,000","transaction":"S,S(part)"},
+    {"kind":"asset","owner":"SP","asset_name":"MONTGOMERY CNTY TEX GO 5% 02/01/23 MS","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"},
+    {"kind":"asset","owner":"SP","asset_name":"MORGAN STANLEY CMN","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":null},
+    {"kind":"asset","owner":"SP","asset_name":"N V R INC CMN","eif":false,"value":"$1,001-$15,000","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"S,S(part)"},
+    {"kind":"asset","owner":"SP","asset_name":"NASDAQ INC. CMN","eif":false,"value":"$1,001-$15,000","income_types":["DIVIDENDS"],"other_income_spec":null,"amount_of_income":"None","transaction":"P,S,S(part)"},
+    {"kind":"asset","owner":"SP","asset_name":"NEW BERLIN WIS SCH DIST GO 2% 03/01/23 MS","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"},
+    {"kind":"asset","owner":"SP","asset_name":"NEW LENOX ILL GO 3% 12/15/22 JD","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"},
+    {"kind":"asset","owner":"SP","asset_name":"NEXTERA ENERGY, INC. CMN","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":null},
+    {"kind":"asset","owner":"SP","asset_name":"NIKE CLASS-B CMN CLASS B","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":null},
+    {"kind":"asset","owner":"SP","asset_name":"NORTH SLOPE BORO ALASKA GO 5.0000% 10/30/22 AO","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"},
+    {"kind":"asset","owner":"SP","asset_name":"NORTH TEX TWY AUTH REV REV 5% 01/01/40-CA JJ","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"},
+    {"kind":"asset","owner":"SP","asset_name":"NVIDIA CORPORATION CMN","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":null},
+    {"kind":"asset","owner":"SP","asset_name":"OHIO STATE GO 5.0000% 08/01/22 FA","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"},
+    {"kind":"asset","owner":"SP","asset_name":"OLD DOMINION FREIGHT LINE, INC. CMN","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":null},
+    {"kind":"asset","owner":"SP","asset_name":"OLENTANGY LOC SCH DIST OHIO GO 4% 12/01/23 JD","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"},
+    {"kind":"asset","owner":"SP","asset_name":"PARKER-HANNIFIN CORP. CMN","eif":false,"value":"$1,001-$15,000","income_types":["DIVIDENDS"],"other_income_spec":null,"amount_of_income":"None","transaction":"P,S,S(part)"},
+    {"kind":"asset","owner":"SP","asset_name":"PAYPAL HOLDINGS, INC. CMN","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":null},
+    {"kind":"asset","owner":"SP","asset_name":"PENNSYLVANIA ST GO 4.0000% 07/01/23 JJ","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"},
+    {"kind":"asset","owner":"SP","asset_name":"PEPSICO, INC. CMN","eif":false,"value":"$15,001-$50,000","income_types":["DIVIDENDS","CAPITAL GAINS"],"other_income_spec":null,"amount_of_income":"$2,501-$5,000","transaction":"P,S,S(part)"},
+    {"kind":"asset","owner":"SP","asset_name":"PFIZER INC. CMN","eif":false,"value":"$1,001-$15,000","income_types":["DIVIDENDS","CAPITAL GAINS"],"other_income_spec":null,"amount_of_income":"$2,501-$5,000","transaction":"P,S,S(part)"},
+    {"kind":"asset","owner":"SP","asset_name":"PIMA CNTY ARIZ GO 4% 07/01/23 JJ","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"},
+    {"kind":"asset","owner":"SP","asset_name":"PLATTE RIVER POWER AUTHORITY REV 5.0000% 06/01/23 JD","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"},
+    {"kind":"asset","owner":"SP","asset_name":"PORT WASHINGTON-SAUKVILLE WIS GO 5% 04/01/23 AO","eif":false,"value":"None","income_types":["NONE"],"other_income_spec":null,"amount_of_income":"None","transaction":"P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field":"checkbox_grid","note":"Dense low-resolution Schedule A grid; asset names and transaction codes are legible, but several value/income/amount checkbox columns are difficult to distinguish from grid noise."},
+    {"row":1,"field":"asset_name","read":"MINNESOTA ST DB 5% 08/01/22 FA","note":"Issuer/type letters after ST read as DB in tess and crop; could possibly be GO."}
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,39 @@
+{
+  "pdf_page": 2,
+  "printed_label": "Page 2 of 32",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Enphase Energy",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "date",
+      "read": "",
+      "note": "date was non-date text or not confidently OCR parsed"
+    },
+    {
+      "row": 1,
+      "field": "notification_date",
+      "read": "",
+      "note": "notification date was non-date text or not confidently OCR parsed"
+    }
+  ],
+  "page_confidence": "medium",
+  "image": "docs/2022-10/pages/page-002.jpg",
+  "doc": "2022-10",
+  "doc_label": "2022 PTR filed 2022-10-07"
+}

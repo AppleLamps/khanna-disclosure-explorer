@@ -1,0 +1,30 @@
+{
+  "pdf_page": 12,
+  "printed_label": "Page 12 of 13",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind":"tx","owner":"SP","asset_name":"EBAY INC. 3.6% 06/05/2027 USD","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"NASDAQ, INC. 5.35% 06/28/2028","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"SIMON PROPERTY GROUP, L.P. 3.375% 12/01/2027 USD","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"CITIGROUP INC. HYBRID 06/09/2027 USD","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"FISERV INC 5.45% 03/02/2028","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"STATE STREET CORPORATION HYBRID 02/07/2028 USD","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"CITIGROUP INC. HYBRID 07/24/2028 USD","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"BOSTON SCIENTIFIC CORP 3.459% 03/01/2024 USD","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"WELLS FARGO & COMPANY HYBRID PERPETUAL","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/17/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"ALLSTATE CORPORATION COMMON STOCK","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/13/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"SBA COMMUNICATIONS CORPORATION CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/17/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"ALLSTATE CORPORATION COMMON STOCK","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/14/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"PARAMOUNT GLOBAL HYBRID 03/30/2062 USD","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/13/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"MICROSOFT CORPORATION CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/13/2023","notification_date":"08/01/2023","amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"SP","asset_name":"MICROSOFT CORPORATION CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/14/2023","notification_date":"08/01/2023","amount":"$15,001-$50,000"},
+    {"kind":"group","text":"M&RTP Primary Hedge Fund Select: ELT Associates LLC"},
+    {"kind":"tx","owner":"DC","asset_name":"Commitment","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/01/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"TRUIST FINANCIAL CORPORATION HYBRID MTN 10/28/2026 USD","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/13/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [{"row":1,"field":"asset_name","read":"EBAY INC. 3.6% 06/05/2027 USD","note":"Top row is partly clipped in OCR output but visible at the top of the page image."},{"row":14,"field":"date","read":"07/13/2023","note":"OCR garbled this Microsoft row's dates; image supports 07/13/23 and 08/01/23."}],
+  "page_confidence": "medium"
+}

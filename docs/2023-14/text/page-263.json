@@ -1,0 +1,42 @@
+{
+  "pdf_page": 263,
+  "printed_label": "Page 263 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "MORGAN STANLEY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMGEN INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/19/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SENSATA TECHNOLOGIES HOLDING P CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBOTT LABORATORIES CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED PARCEL SERVICE, INC. CLASS B COMMON S", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/16/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MC DONALDS CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/19/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "QUALCOMM INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LINDE PLC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FISERV, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TARGET CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNION PACIFIC CORP. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PROLOGIS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FORD MOTOR COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AVANTOR FUNDING, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALTRIA GROUP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/19/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE BANK OF NY MELLON CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MONDELEZ INTERNATIONAL, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THERMO FISHER SCIENTIFIC INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NVIDIA CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "The United Parcel Service asset name is clipped at the right edge; visible wording was preserved."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "cap_gain_over_200", "note": "Capital-gain marks are faint in several lower rows; values reflect the visible marks in the scan."}
+  ],
+  "page_confidence": "medium"
+}

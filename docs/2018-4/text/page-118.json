@@ -1,0 +1,443 @@
+{
+  "pdf_page": 118,
+  "printed_label": "Page 118 of 309",
+  "section": "Schedule A: Assets and Unearned Income",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1995 Trust"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "INTUITIVE SURGICAL, INC. CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "INVESCO LTD. CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "IONIS PHARMACEUTICALS, INC. CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "IPG PHOTONICS CORPORATION CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "IQVIA HOLDINGS INC CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "IREDELL CNTY N C LTD OBLIG REV 5% 06/01/19 JD REF BDS 2015 BEO SR LIEN",
+      "value": "$100,001-$250,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "IRON MOUNTAIN INCORPORATED CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "J B HUNT TRANS SVCS INC CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "J. M. SMUCKER COMPANY (THE) CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "JABIL INC CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "JACOBS ENGINEERING GRP CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "JAZZ PHARMACEUTICALS PLC CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "JEFFERIES FINANCIAL GROUP INC CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "JOHNSON & JOHNSON CMN",
+      "value": "$50,001-$100,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "JOHNSON CONTROLS INTERNATIONAL CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "JPMORGAN CHASE & CO CMN",
+      "value": "$50,001-$100,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "JUNIPER NETWORKS, INC. CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "JUNO THERAPEUTICS, INC. CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KANSAS CITY SOUTHERN CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KANSAS ST DEPT TRANSN HWY REV REV 5% 09/01/19 MS REF BDS 2012B BEO SR LIEN",
+      "value": "$100,001-$250,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KELLOGG COMPANY CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KEURIG DR PEPPER INC CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KEURIG DR PEPPER INC. CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KEYCORP CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KIMBERLY-CLARK CORPORATION CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KIMCO REALTY CORPORATION CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KINDER MORGAN INC CMN CLASS P",
+      "value": "$50,001-$100,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KING CNTY WASH SCH DIST NO 405 GO 5% 12/01/19 JD BELLEVUE GO BDS 2012A UT BEO",
+      "value": "$100,001-$250,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KLA-TENCOR CORPORATION CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KOHL'S CORP (WISCONSIN) CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KOSMOS ENERGY LTD. CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "KROGER COMPANY CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "L BRANDS, INC. CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "L3 TECHNOLOGIES INC CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "LABORATORY CORPORATION OF AMER CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "LAM RESEARCH CORPORATION CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "LAREDO TEX DB 5% 02/15/19 FA COMB TAX AND REV CFTS OF OBLIG 2018 LT BEO",
+      "value": "$50,001-$100,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "LAS VEGAS SANDS CORP. CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "LEAR CORPORATION CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "LEGG MASON INC CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "LEGGETT & PLATT, INCORPORATED CMN",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "LENNAR CORPORATION CMN CLASS A",
+      "value": "$1-$1,000",
+      "income_types": [],
+      "other_income_spec": null,
+      "amount_of_income": null,
+      "transaction": null
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": null,
+      "field": "layout",
+      "read": "Value block only",
+      "note": "Field-split Schedule A sheet: this physical page carries ONLY the EIF/Value-of-Asset columns for the asset slice INTUITIVE SURGICAL, INC. CMN through LENNAR CORPORATION CMN CLASS A under trust header 'Ritu Ahuja 1995 Trust'. Blocks C (Type of Income) and D/E (Amount+Transaction) for this same slice are on separate physical sheets. income_types=[], amount_of_income=null, transaction=null here. Merge by owner+asset_name downstream. Owner 'SP' printed for every row. Value bucket labels transcribed from printed Min/Max header pairs. Note KEURIG DR PEPPER appears as two consecutive rows in the filing (kept verbatim)."
+    }
+  ],
+  "page_confidence": "high"
+}

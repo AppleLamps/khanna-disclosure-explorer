@@ -1,0 +1,342 @@
+{
+  "pdf_page": 59,
+  "printed_label": "Page 59 of 367",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WELLTOWER INC. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WEST FARGO N D DB 5% 05/01/23 MN REF IMPT BDS 2017 AUT INS BE",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WEST PHARMACEUTICAL SERVICES INC",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WEST VA PKWYS AUTH FPX TOLL REV 5% 06/01/23 JD REV SR LIEN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WESTERN ALLIANCE CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WESTERN DIGITAL CORPORATION CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WESTROCK COMPANY CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WEX INC. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WEYERHAEUSER COMPANY CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WICHITA KANS GO 4% 10/01/22 AO",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WILLIS TOWERS WATSON PLC CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WILLSCOT MOBILE MINI HOLDINGS CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WISCONSIN ST GEN FD ANNUAL REV 5% 06/01/23 MN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WISCONSIN ST GEN FD ANNUAL REV 5% 06/01/23 MN APPROPRIATION",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WISCONSIN ST GO 5% 05/01/23 MN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WISCONSIN ST GO 5% 05/01/23 MN GO BDS 2015C UT BEO SR LIEN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WISCONSIN ST GO 5% 05/01/32 MN GO BDS 2015A PRERE 05/01/23 UT",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "WORKDAY, INC. CMN CLASS A",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "XENIA OHIO CMNTY CITY DIST GO 4% 12/01/22 JD",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "XEROX HOLDINGS CORP CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "XYLEM INC. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "YANDEX N.V. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "YUM BRANDS, INC. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ZILLOW TECHNOLOGIES INC CMN CLASS A",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "ZILLOW GROUP INC. CMN CLASS A",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "field": "checkbox_columns",
+      "note": "Dense scanned attachment grid; row names and marks were read from page JPG, hires PNG, quadrant crops, and tesseract. Some faint X marks are best-read positions and should be revisited if exact bucket precision is critical."
+    }
+  ],
+  "page_confidence": "medium"
+}

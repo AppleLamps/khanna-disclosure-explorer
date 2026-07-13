@@ -1,0 +1,35 @@
+{
+  "pdf_page": 61,
+  "printed_label": "Page 61 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "OLD DOMINION FREIGHT LINE, INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ON SEMICONDUCTOR CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ORACLE CORPORATION 4.65% 05/06/2030", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ORACLE CORPORATION 4.65% 05/06/2030 USD SR LIE", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ORACLE CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OREILLY AUTOMOTIVE, INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ORGANON & CO CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OTIS WORLDWIDE CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PACCAR INC CMN", "value": "$1-$1,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PALO ALTO NETWORKS INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PARAMOUNT GLOBAL CMN CLASS B", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PARKER-HANNIFIN CORP. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PAYCHEX, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PAYCOM SOFTWARE, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PFIZER INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PHILIP MORRIS INTERNATIONAL IN 4.875% 02/15/2028", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PHILIP MORRIS INTERNATIONAL IN 4.875% 02/15/2028", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PHILIP MORRIS INTERNATIONAL IN 5.125% 02/15/2030", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1995 Trust", "note": "No group header printed on this page; context inferred from surrounding attachment pages."},
+    {"row": 4, "field": "asset_name", "read": "ORACLE CORPORATION 4.65% 05/06/2030 USD SR LIE", "note": "Name is truncated at the asset-name column edge."}
+  ],
+  "page_confidence": "medium"
+}

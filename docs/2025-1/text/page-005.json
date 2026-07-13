@@ -1,0 +1,29 @@
+{
+  "pdf_page": 5,
+  "printed_label": "Rohit Khanna Page 5 of 34",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MONDELEZ INTERNATIONAL, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WELLS FARGO & COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "QUALCOMM INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MOODY'S CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REPUBLIC SERVICES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WORKDAY, INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CISCO SYSTEMS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CINTAS CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KLA CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MC DONALDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHUBB LIMITED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JOHNSON CONTROLS INTERNATIONAL CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KIMBERLY-CLARK CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THERMO FISHER SCIENTIFIC INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "META PLATFORMS INC-CLASS A CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

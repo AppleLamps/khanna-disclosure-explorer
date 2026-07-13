@@ -1,0 +1,313 @@
+{
+  "pdf_page": 174,
+  "printed_label": "Page 174 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTUITIVE SURGICAL, INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EQUINIX, INC. REIT",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "1/8/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WALT DISNEY COMPANY (THE) CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "6/23/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KROGER COMPANY CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "3/18/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KROGER COMPANY CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "3/13/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGIONS FINANCIAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "11/3/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VISA INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "11/3/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JPMORGAN CHASE & CO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "APPLIED MATERIALS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "5/20/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KROGER COMPANY CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "3/17/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DEERE & COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LIVE NATION ENTERTAINMENT INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "3/18/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EATON CORP PLC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "2/11/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PHILLIPS 66 CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "4/14/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "XILINX INCORPORATED CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "1/8/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EXELON CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "12/31/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIREEYE, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "12/22/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GRAHAM HOLDINGS CO CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "4/7/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICRON TECHNOLOGY, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "2/11/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PRUDENTIAL FINANCIAL INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "1/8/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ROSS STORES,INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "1/8/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CAPITAL ONE FINANCIAL CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "4/14/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EXXON MOBIL CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "11/3/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GENERAL MILLS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SEMPRA ENERGY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "3/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "STERLING BANCORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "1/8/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DTE ENERGY COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "3/3/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "medium"
+}

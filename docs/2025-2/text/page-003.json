@@ -1,0 +1,31 @@
+{
+  "pdf_page": 3,
+  "printed_label": "Page 3 of 28",
+  "section": "Periodic Transaction Report - transactions (attachment)",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "SALESFORCE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/27/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SALESFORCE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/27/2025", "notification_date": "03/06/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/14/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STARBUCKS CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/07/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NEXTERA ENERGY CAPITAL HOLDING HYBRID 08/15/2055", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/04/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALPHABET INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/07/2025", "notification_date": "03/05/2025", "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NVIDIA CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/07/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ABBVIE INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/04/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ABBVIE INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/05/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/06/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MEDTRONIC PUBLIC LIMITED COMPA CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/28/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TARGET CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/06/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GE VERNOVA LLC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/07/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NASDAQ INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/06/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STARBUCKS CORP. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KEYCORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/06/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VISA INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/05/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": "Continuation of the \"Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren\" group (no group subheader reprinted at the top of this page).",
+  "uncertainties": [
+    {"row": 2, "field": "notification_date", "read": "03/06/2025", "note": "second SALESFORCE row notification appears to read 03/06/25 vs 03/05/25 on all other rows; last digit slightly ambiguous"}
+  ],
+  "page_confidence": "high"
+}

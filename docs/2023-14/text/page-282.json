@@ -1,0 +1,40 @@
+{
+  "pdf_page": 282,
+  "printed_label": "Page 282 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "ESTEE LAUDER COS INC CL-A CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBVIE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MERCK & CO., INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MID-AMERICA APT CMNTYS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SHELL PLC SPONSORED ADR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE HERSHEY COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ISHARES, INC.MSCI JAPAN ETF MUTUAL FUND", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "W.R. BERKLEY CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAMPBELL SOUP CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITEDHEALTH GROUP INCORPORATE CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TELEDYNE TECHNOLOGIES INCORPOR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WILLIS TOWERS WATSON PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE PROGRESSIVE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE KRAFT HEINZ CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TYSON FOODS INC CL-A CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORTEVA, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NEWELL BRANDS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SENSATA TECHNOLOGIES HOLDING P CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "3M COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/12/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/14/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several long company names are clipped at the asset-name column edge; visible wording was preserved."}
+  ],
+  "page_confidence": "medium"
+}

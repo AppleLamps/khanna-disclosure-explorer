@@ -1,0 +1,67 @@
+{
+  "pdf_page": 28,
+  "printed_label": "Rohit Khanna Page 28 of 30",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "M&R Trust Partnership"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MC KINNEY TEX GO 5% 08/15/26 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/02/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DELL TECHNOLOGIES INC. CMN CLASS C",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/15/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MARVELL TECHNOLOGY, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/15/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CLOUDFLARE, INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/15/2026",
+      "notification_date": "05/04/2026",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "asset_name",
+      "read": "MC KINNEY TEX GO 5% 08/15/26 FA",
+      "note": "Municipal security name read from compact OCR and image."
+    }
+  ],
+  "page_confidence": "medium"
+}

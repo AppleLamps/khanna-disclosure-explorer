@@ -1,0 +1,24 @@
+{
+  "pdf_page": 202,
+  "printed_label": "Page 202 of 309",
+  "section": "M&R Schedule B - Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "Nvidia Corporation (NVDA)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/20/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Nvidia Corporation (NVDA)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/12/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Nvidia Corporation (NVDA)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/28/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Priceline Grp Inc Com New (PCLN)", "eif": false, "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "1/24/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Paypal Hldgs Inc Com (PYPL)", "eif": false, "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "1/24/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Paypal Hldgs Inc Com (PYPL)", "eif": false, "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "4/10/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Paypal Hldgs Inc Com (PYPL)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/24/2018", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Paypal Hldgs Inc Com (PYPL)", "eif": false, "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/12/2018", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "S&P Global Inc Com (SPGI)", "eif": false, "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "1/24/2018", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": "all", "field": "layout", "note": "Transposed Schedule B attachment: columns are transactions and row-label column is cropped off this continuation page. Amount/type/capital-gain fields were mapped by mark y-position against labeled page 175."},
+    {"row": "all", "field": "notification_date", "note": "No notification-date field is visible on this transposed attachment page; set null for all rows."}
+  ],
+  "page_confidence": "medium"
+}

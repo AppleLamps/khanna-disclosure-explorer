@@ -1,0 +1,41 @@
+{
+  "pdf_page": 257,
+  "printed_label": "Page 257 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "WEBSTER FINANCIAL CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ILLUMINA, INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROBERT HALF INTERNATIONAL INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HEWLETT PACKARD ENTERPRISE CO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTUIT INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE TRAVELERS COMPANIES, INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOSAIC COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BIOGEN INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TAKE TWO INTERACTIVE SOFTWARE INC", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ADVANCE AUTO PARTS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHEWY INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ENPHASE ENERGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HSBC HOLDINGS PLC SPONSORED ADR CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "APPLIED MATERIALS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "W.W. GRAINGER INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BNP PARIBAS SPONSORED ADR CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LAMAR ADVERTISING COMPANY CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE PROGRESSIVE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PFIZER INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CROWN CASTLE INTL CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ING GROEP N.V. SPONS ADR SPONSORED ADR CM", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICROCHIP TECHNOLOGY INCORPORA CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "The ING Groep and Microchip rows are clipped at the asset-name column edge; visible wording was preserved."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."}
+  ],
+  "page_confidence": "medium"
+}

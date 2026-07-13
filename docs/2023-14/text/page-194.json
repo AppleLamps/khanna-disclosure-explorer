@@ -1,0 +1,41 @@
+{
+  "pdf_page": 194,
+  "printed_label": "Page 194 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "ALLEGION PUBLIC LIMITED COMPAN CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REPUBLIC SERVICES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HASBRO, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BORGWARNER INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KEURIG DR PEPPER INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FREEPORT-MCMORAN INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BIO-TECHNE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MODERNA INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CADENCE DESIGN SYSTEMS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OTIS WORLDWIDE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CSX CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LIVE NATION ENTERTAINMENT INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHIPOTLE MEXICAN GRILL, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN AIRLINES GROUP INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TAKE TWO INTERACTIVE SOFTWARE INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INVESCO LTD. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CF INDUSTRIES HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "W.R. BERKLEY CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PHILIP MORRIS INTERNATIONAL IN 5.125% 02/15/2030", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STERIS PUBLIC LIMITED COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PARAMOUNT GLOBAL CMN CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIRST SOLAR, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SYNCHRONY FINANCIAL CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DELTA AIR LINES, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WESTROCK COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ORACLE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "A few security names are clipped at the asset-name column edge; visible wording was preserved."},
+    {"field": "amount", "note": "All rows read as amount bucket A from the page image."}
+  ],
+  "page_confidence": "high"
+}

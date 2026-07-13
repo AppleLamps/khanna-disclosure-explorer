@@ -1,0 +1,41 @@
+{
+  "pdf_page": 275,
+  "printed_label": "Page 275 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SENSATA TECHNOLOGIES HOLDING P CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABB LTD SPONSORED ADR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TAIWAN SEMICONDUCTOR MFG ADS LTD ADS 1ADS", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL/TSM FLEX EURO PM @ 93 EXP 07/14/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL/STM FLEX EURO PM @ 47 EXP 07/14/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 421 EXP 09/15/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 445 EXP 09/08/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 439 EXP 09/29/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 432 EXP 08/25/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/19/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SENSATA TECHNOLOGIES HOLDING P CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/19/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/18/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Option rows were transcribed from the visible table text; one row reads CALL/STM rather than CALL/TSM in the source image."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."}
+  ],
+  "page_confidence": "medium"
+}

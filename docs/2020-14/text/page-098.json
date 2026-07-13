@@ -1,0 +1,35 @@
+{
+  "pdf_page": 98,
+  "printed_label": "Page 98 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "MAI Diversified Real Estate Income Fund, LP", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/12/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MAI Industrial Warehouse Fund", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/11/2020", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MAI Industrial Warehouse Fund", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/11/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Clifymak Capital", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/19/2020", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Clifymak Capital", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/19/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "group", "text": "A&K Partners, LLC"},
+    {"kind": "group", "text": "Grandchildren Trust"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Transbit/Spectator Holding Co", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/10/2020", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Transbit/Spectator Holding Co", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Transbit/Spectator Holding Co", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/13/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Transbit/Spectator Holding Co", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/6/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Transbit/Spectator Holding Co", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/6/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Transbit/Spectator Holding Co", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "9/11/2020", "notification_date": null, "amount": "$500,001-$1,000,000"},
+    {"kind": "group", "text": "ARECO LP Commercial Property"},
+    {"kind": "group", "text": "- Ritu Ahuja 1995 Trust"},
+    {"kind": "group", "text": "- Grandchildren Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Cincinnati, OH", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/21/2020", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Cincinnati, OH", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/21/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Franklin, LA", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/11/2020", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Franklin, LA", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/11/2020", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 9, "field": "amount", "read": "$1,001-$15,000", "note": "The 7/24/2020 Transbit/Spectator amount mark is faint in the stippled grid; best reading is column A."},
+    {"row": null, "field": null, "read": null, "note": "Heavy stipple throughout; transaction type/date/amount cells otherwise legible in quadrant crops. Blank separator lines were not emitted as rows."}
+  ],
+  "page_confidence": "medium"
+}

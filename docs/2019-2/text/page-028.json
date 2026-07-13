@@ -1,0 +1,20 @@
+{
+  "pdf_page": 28,
+  "printed_label": "Rohit Khanna 28 of 210",
+  "section": "Areco Schedule A",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table, transposed spreadsheet layout: one asset per column, attribute labels down the left. Selections are black-filled cells. 5 asset columns. Top 'EIF' row is marked for columns 2-5 (the VIG and XLF funds); column 1 (VISA) is blank in the EIF row. Dividends and Capital Gains income bands each span all five columns.",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "VISA INC CL A(V)", "ticker": "V", "eif": null, "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S(Part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "VANGUARD DIVIDEND APPRECIATION(VIG)", "ticker": "VIG", "eif": "EIF", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S(Part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "VANGUARD DIVIDEND APPRECIATION(VIG)", "ticker": "VIG", "eif": "EIF", "value": "$500,001-$1,000,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": "S(Part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "THE FINANCIAL SEL SECT SPDR FD(XLF)", "ticker": "XLF", "eif": "EIF", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "S(Part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE FINANCIAL SEL SECT SPDR FD(XLF)", "ticker": "XLF", "eif": "EIF", "value": "$250,001-$500,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": "S(Part)"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 3, "field": "amount_of_income", "read": "$15,001-$50,000 (col3) and $15,001-$50,000 (col5)", "note": "col3 (VIG SP) and col5 (XLF SP) amount fills read at G:$15,001-$50,000 from staircase pattern in quads; row alignment in the black-filled amount block is close but confident"}
+  ],
+  "page_confidence": "high"
+}

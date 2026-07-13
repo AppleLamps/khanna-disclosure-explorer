@@ -1,0 +1,40 @@
+{
+  "pdf_page": 90,
+  "printed_label": "Page 90 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Grandchildren's Trust"},
+    {"kind": "asset", "owner": "DC", "asset_name": "FIREEYE, INC. CMN", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "FISERV, INC. CMN", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "FOX CORPORATION CMN CLASS B", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GENERAL ELECTRIC CO CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GLOBAL PRIVATE OPPORTUNITIES PARTNERS II LP", "value": null, "income_types": ["NONE"], "other_income_spec": "PTRN", "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GOLDMAN SACHS BANK USA DEPOSIT (BDA)", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GRAPHIC PACKAGING HLDGCO CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GROWTH AND EMERGING MARKETS PRIVATE EQUITY MANAGERS LP", "value": null, "income_types": ["NONE"], "other_income_spec": "PTRN", "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO BASKET OF INDICES UPSIDE LEVERED CAPPED STRUCTURED NOTE DUE 02/25/2020", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO S&P 500 INDEX AUTOCALL ENHANCED PARTICIPATIO STRUCTURED NOTE DUE", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO S&P 500 INDEX UPSIDE LEVERED CAPPED STRUCTURED NOTE DUE 02/20/2020", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCE CORP. STRUCTURED NOTE DUE 02/24/2020", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCIAL SQUARE TREASURY SOLUTIONS FUND", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS TAX-ADVANTAGED GLOBAL EQUITY PORTFOLIO CLASS F", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HANESBRANDS INC. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HEXCEL CORPORATION (NEW) CMN", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HILTON WORLDWIDE HOLDINGS INC. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO. LINKED TO S&P 500 INDEX CNTNGNT CPN W BUFFER STRUCTURED NOTE DUE 06/30/2021", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "KKR PRINCIPAL OPPORTUNITIES ACCESS LP", "value": null, "income_types": ["NONE"], "other_income_spec": "PTRN", "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "KROGER COMPANY CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "LIBERTY BROADBAND CORPORATION CMN CLASS C", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": null, "field": "value", "read": null, "note": "Block B (Value of Asset) columns unresolvable under heavy grey stipple; all value=null."},
+    {"row": null, "field": "income_types", "read": null, "note": "Block C read best-effort under stipple; CAPITAL GAINS to no-dividend equities/structured notes, DIVIDENDS to dividend equities, INTEREST to deposit/money-market, NONE+PTRN write-in to private-equity LPs; low-confidence."},
+    {"row": null, "field": "amount_of_income", "read": null, "note": "Block D (Amount of Income) columns unresolvable under stipple; all amount_of_income=null."},
+    {"row": null, "field": "transaction", "read": null, "note": "Block E (Transaction) unresolvable under stipple; all transaction=null. Some P/S marks visible but not resolved to avoid column-misalignment error."}
+  ],
+  "page_confidence": "medium"
+}

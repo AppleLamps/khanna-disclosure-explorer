@@ -1,0 +1,41 @@
+{
+  "pdf_page": 229,
+  "printed_label": "Page 229 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "EL PASO CNTY TEX GO 3.2600% 02/15/28 FA", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PITT CNTY N C LTD OBLIG REV 1.4910% 04/01/27 AO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/7/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PENNSYLVANIA ST HIGHER ED L REV 3% 06/15/27 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REGIONAL TRANSN AUTH IL REV 3% 06/01/28 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNIVERSITY OKLA REVS REV 1.1710% 07/01/25 JJ", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WASHINGTON ST UNIV REVS REV 1.6590% 10/01/26", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NEW YORK N Y GO 1.2160% 08/01/26 FA", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PENNSYLVANIA ST GO 1.8500% 08/01/29 FA", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SAN FRANCISCO CALIF CITY & GO 6% 06/15/23 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "METROPOLITAN WTR DIST SALT REV 0.7600% 07/01", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "OKLA DEV FIN AUTH LEASE REV 2.4370% 05/01/27-C", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MINNEAPOLIS MINN SPL SCH DIST GO 1.1500% 12/", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LOUISIANA ST GAS & FUELS TAX REV 05/01/28 MN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "OKLA ST CAPITOL IMPT AUTH REV 1.9960% 07/01/25", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COAST CMNTY COLLEGE DIST CALIF GO 2.0370% 08", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CITIGROUP INC. LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CITIGROUP INC. LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/3/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 50", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 50", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/4/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROYAL BANK OF CANADA LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/8/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BNP PARIBAS LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/24/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAPPED BUFFERED ENHANCED PARTICIPATION LIN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/25/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BNP PARIBAS LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/1/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 50", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/3/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROYAL BANK OF CANADA LINKED TO S&P 500 INDEX", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/8/2023", "notification_date": null, "amount": "$50,001-$100,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several municipal bond and linked-note names are clipped at the right edge of the asset-name column; visible wording was preserved."},
+    {"field": "amount", "note": "Most bond rows read as bucket B, most linked-note rows as bucket C; Citigroup 5/31 reads bucket D and Coast Community College reads bucket A."}
+  ],
+  "page_confidence": "medium"
+}

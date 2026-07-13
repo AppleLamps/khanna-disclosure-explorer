@@ -1,0 +1,41 @@
+{
+  "pdf_page": 223,
+  "printed_label": "Page 223 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "DANAHER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHUBB LIMITED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TARGA RESOURCES CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "6/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FEDEX CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FIRST REPUBLIC BANK CMN SERIES", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AFLAC INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DELL TECHNOLOGIES INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BOSTON PROPERTIES, INC. COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PNC FINANCIAL SERVICES GROUP, CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TC ENERGY CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "6/30/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MILLS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BOOKING HOLDINGS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTEL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CINCINNATI FINANCIAL CRP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ADOBE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LINDE PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SIMON PROPERTY GROUP INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "RAYTHEON COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AFLAC INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE BANK OF NY MELLON CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AON PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "XILINX INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TRANSDIGM GROUP INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AUTOMATIC DATA PROCESSING INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SCHLUMBERGER LTD CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 6, "field": "asset_name", "read": "FIRST REPUBLIC BANK CMN SERIES", "note": "The scan shows CMN SERIES but any following series value is not legible."}
+  ],
+  "page_confidence": "medium"
+}

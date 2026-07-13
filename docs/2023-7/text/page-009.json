@@ -1,0 +1,30 @@
+{
+  "pdf_page": 9,
+  "printed_label": "Page 9 of 13",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind":"tx","owner":"DC","asset_name":"CONAGRA BRANDS INC CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ORGANON & CO CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CLOROX CO (THE) (DELAWARE) CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"INSULET CORPORATION CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"PALO ALTO NETWORKS INC. CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CORTEVA, INC. CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"LAMB WESTON HOLDINGS, INC. CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"HOLOGIC INCORPORATED CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"GE HEALTHCARE TECHNOLOGIES INC CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"MODERNA, INC. CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"MONSTER BEVERAGE CORPORATION CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"MGM RESORTS INTERNATIONAL CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"WORKDAY, INC. CMN CLASS A","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CERIDIAN HCM HOLDING INC. CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"STATE STREET CORPORATION (NEW) CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"group","text":"Ritu Ahuja Declaration of Trust"},
+    {"kind":"tx","owner":"SP","asset_name":"RALEIGH N C LTD OBLIG REV 1.9640% 10/01/30 AO","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"group","text":"Ritu Ahuja 1994 Trust"}
+  ],
+  "free_text": null,
+  "uncertainties": [{"row":15,"field":"asset_name","read":"STATE STREET CORPORATION (NEW) CMN","note":"OCR dropped the notification date on this row; image shows the same 08/01/23 pattern."}],
+  "page_confidence": "medium"
+}

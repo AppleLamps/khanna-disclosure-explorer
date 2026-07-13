@@ -1,0 +1,263 @@
+{
+  "pdf_page": 5,
+  "printed_label": "Page 5 of 27",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DISCOVER FINANCIAL SERVICES HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CHARLES SCHWAB CORPORATION (TH HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "JPMORGAN CHASE & CO. HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "WELLS FARGO & COMPANY HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PMORGAN CHASE & CO, HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CHARLES SCHWAB CORPORATION (TH HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MARKEL CORPORATION HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CITIZENS FINANCIAL GROUP, INC. HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "COSTCO WHOLESALE CORPORATION CMN _® . a",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/05/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "[AMERICAN EXPRESS COMPANY HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CHARLES SCHWAB CORPORATION (TH HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "IBANK OF NEW YORK MELLON CORPOR HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "U.S. BANCORP HYBRID PERPETUAL USD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PNC FINANCIAL SERVICES GROUP, HYBRID PERPETUALUSD —",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "M&T BANK CORPORATION HYBRID PERPETUAL USD eft __ _|.12406/22}",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/04/2023",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CITIGROUP INC, HYBRID PERPETUAL",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/06/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "UBERTECHNQLOGIES,INC.CMN = Le",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "12/05/2022",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "—DC_ |TIX_ COMPANIES INC (NEW) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "01/04/2023",
+      "notification_date": "01/04/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[ILLEGIBLE]",
+      "asset_name": "[ILLEGIBLE]",
+      "tx_type": "[UNKNOWN]",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "[ILLEGIBLE]"
+    },
+    {
+      "kind": "tx",
+      "owner": "[ILLEGIBLE]",
+      "asset_name": "[ILLEGIBLE]",
+      "tx_type": "[UNKNOWN]",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[ILLEGIBLE]",
+      "notification_date": "[ILLEGIBLE]",
+      "amount": "[ILLEGIBLE]"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": null,
+      "field": "tx_type/amount",
+      "read": "OCR-assisted extraction",
+      "note": "Dense scanned attachment; checkbox columns and some OCR spellings should be spot-verified against page/quads."
+    },
+    {
+      "row": 19,
+      "field": "row",
+      "read": "[ILLEGIBLE]",
+      "note": "Visible transaction row was not reliably captured by OCR; placeholder inserted to avoid skipping a row."
+    },
+    {
+      "row": 20,
+      "field": "row",
+      "read": "[ILLEGIBLE]",
+      "note": "Visible transaction row was not reliably captured by OCR; placeholder inserted to avoid skipping a row."
+    },
+    {
+      "row": 18,
+      "field": "required_fields",
+      "read": "[ILLEGIBLE]/[UNKNOWN]",
+      "note": "Required fields were blank/null in OCR placeholder row; source row is illegible or not recoverable from page evidence."
+    },
+    {
+      "row": 19,
+      "field": "required_fields",
+      "read": "[ILLEGIBLE]/[UNKNOWN]",
+      "note": "Required fields were blank/null in OCR placeholder row; source row is illegible or not recoverable from page evidence."
+    }
+  ],
+  "page_confidence": "low"
+}

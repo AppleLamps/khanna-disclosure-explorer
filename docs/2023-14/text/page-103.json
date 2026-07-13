@@ -1,0 +1,277 @@
+{
+  "pdf_page": 103,
+  "printed_label": "Page 103 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 360 EXP 04/21/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 365 EXP 04/21/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 366 EXP 09/17/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 370 EXP 03/31/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 370 EXP 06/05/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 371 EXP 05/19/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 374 EXP 04/28/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 375 EXP 03/03/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 375 EXP 04/14/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 376 EXP 07/21/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 379 EXP 06/30/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 384 EXP 06/19/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 384 EXP 07/21/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/SP @ 385 EXP 03/24/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 385 EXP 06/16/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 387 EXP 07/31/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 389 EXP 06/30/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 390 EXP 06/09/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 397 EXP 08/18/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 400 EXP 07/14/2023",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 2,
+      "field": "asset_name",
+      "read": "PUT/XSP @ 366 EXP 09/17/2023",
+      "note": "Strike reads as 366 visually; OCR misread it as 966."
+    },
+    {
+      "row": 10,
+      "field": "asset_name",
+      "read": "PUT/XSP @ 379 EXP 06/30/2023",
+      "note": "OCR suggested 06/31/2023, but the date appears to be 06/30/2023."
+    },
+    {
+      "row": 13,
+      "field": "asset_name",
+      "read": "PUT/SP @ 385 EXP 03/24/2023",
+      "note": "Underlying printed as PUT/SP rather than PUT/XSP, but scan is compressed."
+    },
+    {
+      "row": 16,
+      "field": "asset_name",
+      "read": "PUT/XSP @ 389 EXP 06/30/2023",
+      "note": "OCR misread the day; visual read appears to be 06/30/2023."
+    }
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,325 @@
+{
+  "pdf_page": 169,
+  "printed_label": "Page 169 of 303",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PayPal Holdings Inc.",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "12/07/2021",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Progressive Corp.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Realpage Inc",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "01/11/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Realpage Inc",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "01/21/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "RealPage Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "02/16/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Restaurant Brands Intl Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Roper Technologies Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Ross Stores Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "S&P Global Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SBA Communications Corp.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Slack Technologies Inc.",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "02/16/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Snap Inc",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "02/25/2021",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Snap Inc",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "03/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Snap Inc.",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "03/24/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Snap Inc.",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "05/14/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Snap Inc.",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/15/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Snap Inc.",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/24/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Snap Inc.",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "12/07/2021",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SPDR S&P 500 ETF TRUST",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/07/2021",
+      "notification_date": null,
+      "amount": "$100,001-$250,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Square Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Summit Materials Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Transdigm Group Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "06/04/2021",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Transunion",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Tyler Technologies Inc.",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "02/25/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Tyler Technologies Inc.",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Vail Resorts",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "date": "07/02/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VANGUARD MID-CAP ETF INDEX",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "07/06/2021",
+      "notification_date": null,
+      "amount": "$250,001-$500,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "tx_type",
+      "read": "Sale and Partial Sale both marked",
+      "note": "Encoded as Partial Sale because both Sale and Partial Sale boxes appear marked."
+    },
+    {
+      "row": 3,
+      "field": "tx_type",
+      "read": "Sale and Partial Sale both marked",
+      "note": "Encoded as Partial Sale because both Sale and Partial Sale boxes appear marked."
+    },
+    {
+      "row": 4,
+      "field": "tx_type",
+      "read": "Sale and Partial Sale both marked",
+      "note": "Encoded as Partial Sale because both Sale and Partial Sale boxes appear marked."
+    },
+    {
+      "row": 11,
+      "field": "tx_type",
+      "read": "Sale and Partial Sale both marked",
+      "note": "Encoded as Partial Sale because both Sale and Partial Sale boxes appear marked."
+    },
+    {
+      "row": 12,
+      "field": "tx_type",
+      "read": "Sale and Partial Sale both marked",
+      "note": "Encoded as Partial Sale because both Sale and Partial Sale boxes appear marked."
+    },
+    {
+      "row": 13,
+      "field": "tx_type",
+      "read": "Sale and Partial Sale both marked",
+      "note": "Encoded as Partial Sale because both Sale and Partial Sale boxes appear marked."
+    },
+    {
+      "row": 18,
+      "field": "tx_type",
+      "read": "Sale and Partial Sale both marked",
+      "note": "Encoded as Partial Sale because both Sale and Partial Sale boxes appear marked."
+    }
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,41 @@
+{
+  "pdf_page": 254,
+  "printed_label": "Page 254 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBVIE INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LOWES COMPANIES INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "T-MOBILE US, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELEVANCE HEALTH INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SENSATA TECHNOLOGIES HOLDING P CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COSTCO WHOLESALE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CARTER'S, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SS&C TECHNOLOGIES HOLDINGS, IN CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CIGNA GROUP/THE CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BROADCOM INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DISCOVER FINANCIAL SERVICES CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HP INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TESLA, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTL BUSINESS MACHINES CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUPONT DE NEMOURS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMAZON.COM INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "cap_gain_over_200", "note": "Capital-gain marks are low-contrast on several rows; recorded visible marks row by row."}
+  ],
+  "page_confidence": "medium"
+}

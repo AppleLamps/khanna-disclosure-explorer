@@ -1,0 +1,35 @@
+{
+  "pdf_page": 62,
+  "printed_label": "Page 62 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "PHILIP MORRIS INTERNATIONAL IN 5.125% 02/15/2030", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PHILIP MORRIS INTL. INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PLUG POWER INC. CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES 2.2% 11/01/2024 SR LIEN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES 2.2% 11/01/2024 USD", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, 2.55% 01/22/2030 U", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, 2.55% 01/22/2030", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "POOL CORP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PPG INDUSTRIES, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PRINCIPAL FINANCIAL GROUP, INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PROCTER & GAMBLE COMPANY (THE) CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PROLOGIS INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PRUDENTIAL FINANCIAL INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PTC INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PUBLIC STORAGE CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "QUALCOMM INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "QUANTA SERVICES INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "QUANTUMSCAPE CORP CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "QUEST DIAGNOSTICS INCORPORATED CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1995 Trust", "note": "No group header printed on this page; context inferred from surrounding attachment pages."},
+    {"row": 6, "field": "asset_name", "read": "PNC FINANCIAL SERVICES GROUP, 2.55% 01/22/2030 U", "note": "Name is truncated at the asset-name column edge."}
+  ],
+  "page_confidence": "medium"
+}

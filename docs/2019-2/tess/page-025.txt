@@ -1,0 +1,112 @@
+Areco Schedule A
+
+Rohit Khanna 25 of 210
+
+SP, DC, JT
+
+ay
+
+SP SP
+
+BC
+
+DC
+
+Istock Name
+Ticker
+
+Transaction
+cement
+
+MICROSOFT
+
+CORP(MSFT)
+MSFT
+
+MICROSOFT
+CORP(MSFT)
+
+NETFLIX INC(NFLX)
+MSFT NFLX
+
+P P,S
+
+[velue of Asset
+
+A: None
+
+B: $1-$1,000
+
+C: $1,001-$15,000
+
+D: $15,001-$50,000
+
+NETFLIX INC(NFLX)
+NFLX
+P,S
+
+NIKE INC B(NKE)
+NKE
+P
+
+E: $50,001-$100,000
+
+F: $100,001-$250,000
+
+G: $250,001-$500,000
+
+H: $500,001-$1,000,000
+
+1; $1,000,001-$5,000,000
+
+J: $5,000,001-$25,000,000
+
+K: $25,000,001-$50,000,000
+
+L: Over $50,000,000
+
+Type of Income
+
+Spouse/OC Asset over $1,000
+
+None
+
+OlWidends
+
+Rent
+
+Interest
+
+Capital Gains
+
+Excepted/Blind Trust
+
+Tax-Deferred
+
+January 1, 2019 - Ded
+
+B: $1-$200
+
+C; $201-$1,000
+
+Other Type of Income
+Amount of Income: AA: None es oe
+
+D: $1,001-82,500
+
+E: $2,501-$5,000
+
+F: $5,001-515,000
+
+1G: $15,001-$50,000
+
+H: $50,001-$100,000
+
+I: $100,001-$1,000,000
+
+J: $1,000,001-$5,000,000
+
+K: Over $5,000,000
+
+Spouse/DC income over $1,04
+

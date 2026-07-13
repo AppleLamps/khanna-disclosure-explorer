@@ -1,0 +1,41 @@
+{
+  "pdf_page": 302,
+  "printed_label": "Page 302 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "CENTENE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL/INGG FLEX EURO PM @ 63 EXP 12/08/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 442 EXP 02/16/2024", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 459 EXP 03/15/2024", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALMART INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBVIE INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MERCK & CO, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KEURIG DR PEPPER INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THERMO FISHER SCIENTIFIC INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BRISTOL-MYERS SQUIBB COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALTRIA GROUP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAMPBELL SOUP CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CVS HEALTH CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "12/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PHILIP MORRIS INTL INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BROWN FORMAN CORP CL B CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MILLS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "12/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BIOGEN INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORTEVA, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KROGER COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CLOROX CO (THE) (DELAWARE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CIGNA GROUP/THE CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "12/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WHIRLPOOL CORP. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 2, "field": "asset_name", "read": "CALL/INGG FLEX EURO PM @ 63 EXP 12/08/2023", "note": "Underlying letters after CALL/ are small; best read from image and tesseract."},
+    {"field": "tx_type", "note": "Several stock-sale rows show both Sale and Partial Sale marks; recorded as Sale to match nearby 2023-14 Schedule B convention."}
+  ],
+  "page_confidence": "medium"
+}

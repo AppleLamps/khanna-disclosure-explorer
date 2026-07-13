@@ -1,0 +1,41 @@
+{
+  "pdf_page": 320,
+  "printed_label": "Page 320 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "3M COMPANY 2.875% 10/15/2027 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 10/", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Hedge Fund Select ELT Associates LLC Commitment", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/1/2023", "notification_date": null, "amount": "$1,000,001-$5,000,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION HYBRID MTN 10/", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DELL INTERNATIONAL L.L.C. 5.25% 02/01/2028", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FOX CORPORATION 4.709% 01/25/2029 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NXP BV/NXP FUNDING LLC 5.55% 12/01/2028 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY HYBRID 12/10/2026 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE BANK OF NOVA SCOTIA 4.5% 12/16/2025 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "RELX CAPITAL INC 3.0% 05/22/2030 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC 2.272% 12/01/2028 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "T-MOBILE USA, INC. 3.375% 04/15/2029 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SIMON PROPERTY GROUP, L.P. 3.375% 12/01/2027 U", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS FINL CO 5.85% 04/06/2030", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TORONTO-DOMINION BANK (THE) MTN 4.108% 06/08", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMGEN INC. 5.25% 03/02/2030", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 07/", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BAT INTL FINANCE PLC 4.448% 03/16/2028 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ENTERGY CORPORATION 2.95% 09/01/2028 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/2/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "XCEL ENERGY INC 2.6% 12/01/2029 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/2/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CROWN CASTLE INTL CORP 1.05% 07/15/2026 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/2/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REALTY INCOME CORPORATION 4.125% 10/15/2026", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DTE ENERGY COMPANY 2.85% 10/01/2026 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK 1.25% 06/22/2026 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST MAJOR NEW ST REV 5% 12/15/27 JD", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/1/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Tiger Global Crossover Access LLC Class A1 Series 11", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/25/2023", "notification_date": null, "amount": "$100,001-$250,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several long bond descriptions on rows 2, 4, 13, 15, and 17 are clipped at the asset-column boundary; visible text is preserved rather than expanded."},
+    {"field": "tx_type", "note": "Rows 13-18 show marks in both Sale and Partial Sale columns; recorded as Sale to match nearby 2023-14 Schedule B convention while preserving this note."}
+  ],
+  "page_confidence": "medium"
+}

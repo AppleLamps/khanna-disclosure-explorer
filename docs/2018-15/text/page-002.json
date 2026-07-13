@@ -1,0 +1,18 @@
+{
+  "pdf_page": 2,
+  "printed_label": "Page 2 of 11",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Areco"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Equinix Inc", "tx_type": "Purchase", "date": "11/09/2018", "notification_date": "12/04/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Celgene Corp", "tx_type": "Sale", "date": "11/09/2018", "notification_date": "12/04/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Nvidia Corporation", "tx_type": "Purchase", "date": "11/28/2018", "notification_date": "12/04/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CME Group Inc", "tx_type": "Sale", "date": "11/28/2018", "notification_date": "12/04/2018", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "Adobe Inc", "tx_type": "Purchase", "date": "11/28/2018", "notification_date": "12/04/2018", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

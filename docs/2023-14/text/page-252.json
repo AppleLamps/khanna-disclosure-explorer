@@ -1,0 +1,40 @@
+{
+  "pdf_page": 252,
+  "printed_label": "Page 252 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "INCYTE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAPRI HOLDINGS LIMITED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ENCOMPASS HEALTH CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HARLEY-DAVIDSON INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MATTEL, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TRIMBLE INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HEALTHCARE REALTY TRUST INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EPAM SYSTEMS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "RITHM CAPITAL CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KILROY REALTY CORPORATION COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIVE NATION ENTERTAINMENT INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "IONIS PHARMACEUTICALS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CBRE GROUP, INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NEWELL BRANDS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GODADDY INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 IN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO S&", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/19/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TORONTO DOMINION BANK LINKED TO S&P 500 IND", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/24/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAPPED BUFFERED ENHANCED PARTICIPATION LIN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/26/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TORONTO DOMINION BANK LINKED TO BASKET OF", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/21/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROYAL BANK OF CANADA LINKED TO BASKET OF IN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/27/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMAZON.COM INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBVIE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AVANTOR FUNDING, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CVS HEALTH CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MCCORMICK & CO NON VTG SHRS CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several structured note names are clipped at the asset-name column edge; visible wording was preserved."}
+  ],
+  "page_confidence": "medium"
+}

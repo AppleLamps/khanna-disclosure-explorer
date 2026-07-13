@@ -1,0 +1,37 @@
+{
+  "pdf_page": 17,
+  "printed_label": "Page 17 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "CF INDUSTRIES HOLDINGS INC COM USD", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CNA FINANCIAL CORP", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "COLGATE-PALMOLIVE CO COM USD1.00", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CORNING INC", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CORTEVA INC COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "COSTCO WHOLESALE CORP COM USD0.0", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CSX CORP COM USD1", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CUMMINS INC", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DISCOVER FINANCIAL SERVICES", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DOVER CORP COM USD1.00", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DOW INC COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "DUPONT DE NEMOURS INC COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "EBAY INC. COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "EL PASO TEX GO REF AND IMPT BDS 05.0", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ELI LILLY AND CO", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "EMERSON ELECTRIC CO", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "EQUINIX INC COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ESTEE LAUDER COMPANIES INC COM US", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "FLOWER MOUND TEX CTFS OBLIG SER. 2", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "value", "read": "None", "note": "Continuation of '2020 Khanna Children Trust' list from p.16; every holding marked value 'None' (Block B col A) and income DIVIDENDS with amount at col II ($1-$200) unless noted."},
+    {"row": 15, "field": "income_types", "read": "DIVIDENDS", "note": "EL PASO TEX GO REF AND IMPT BDS (municipal bond) marked DIVIDENDS; probable INTEREST. Name truncated at cell edge (rate/date cut off). Amount col III ($201-$1,000)."},
+    {"row": 20, "field": "income_types", "read": "DIVIDENDS", "note": "FLOWER MOUND TEX CTFS OBLIG (municipal certificates) marked DIVIDENDS; probable INTEREST. Name truncated at cell edge. Amount col III ($201-$1,000)."},
+    {"row": 1, "field": "asset_name", "read": "CF INDUSTRIES HOLDINGS INC COM USD", "note": "name truncated at cell edge; also applies to rows 7 (Costco USD0.0), 19 (Estee Lauder ...COM US)"}
+  ],
+  "page_confidence": "high"
+}

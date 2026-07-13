@@ -1,0 +1,35 @@
+{
+  "pdf_page": 31,
+  "printed_label": "Page 31 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "SBA COMMUNICATIONS CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SEMPRA ENERGY HYBRID PERPETUAL USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SEMPRA ENERGY HYBRID PERPETUAL USD JRSUB LIQ", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SHERWIN-WILLIAMS CO CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SMS Investors", "eif": true, "value": "$15,001-$50,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX BUFFE", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX BUFFE", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX CNTN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX CNTN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SOUTHERN COMPANY (THE) HYBRID 01/15/2051 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SOUTHERN COMPANY (THE) HYBRID 01/15/2051 USD", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SPOTIFY TECHNOLOGY S.A. CMN", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SS&C TECHNOLOGIES HOLDINGS, IN CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Strategic Investors XI Access", "eif": true, "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "STRYKER CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "TAKE TWO INTERACTIVE SOFTWARE INC", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "TARGET CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "TEXAS INSTRUMENTS INC, CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO BASKET OF IN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 5, "field": "asset_name", "read": "SMS Investors", "note": "Fund row has EIF and PTN clearly marked; name is short and OCR/visual agree."},
+    {"row": 15, "field": "income_types", "read": "[NONE]", "note": "Strategic Investors XI Access has EIF checked and NONE income; no PTN write-in visible on this row."}
+  ],
+  "page_confidence": "medium"
+}

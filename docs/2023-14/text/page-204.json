@@ -1,0 +1,42 @@
+{
+  "pdf_page": 204,
+  "printed_label": "Page 204 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FORTINET, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DOLLAR TREE STORES, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MCDONALDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/20/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE HOME DEPOT, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BRISTOL-MYERS SQUIBB COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "D.R. HORTON, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TARGET CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE HERSHEY COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITED RENTALS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARRIER GLOBAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THERMO FISHER SCIENTIFIC INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EDWARDS LIFESCIENCES CORPORATI CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SIMON PROPERTY GROUP INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALBEMARLE CORP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EQUIFAX INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PFIZER INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICROSOFT CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGENERON PHARMACEUTICAL INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NIKE CLASS-B CMN CLASS B", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "7/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CONAGRA BRANDS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ORGANON & CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CLOROX CO (THE) (DELAWARE) CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INSULET CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "7/28/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type/cap_gain_over_200", "note": "Sale, partial-sale, and capital-gain checkbox marks are best-read from the page image."},
+    {"field": "asset_name", "note": "A few security names are clipped at the asset-name column edge; visible wording was preserved."},
+    {"field": "amount", "note": "General Motors reads as amount bucket B; remaining rows read as amount bucket A from the page image."}
+  ],
+  "page_confidence": "medium"
+}

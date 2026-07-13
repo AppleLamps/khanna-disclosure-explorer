@@ -1,0 +1,40 @@
+{
+  "pdf_page": 198,
+  "printed_label": "Page 198 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "ELECTRONIC ARTS CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ADVANCED MICRO DEVICES, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MERCK & CO., INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HUMANA INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MILLS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MARSH & MCLENNAN CO INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COSTCO WHOLESALE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DOMINION ENERGY GAS HLDG 2.6% 11/16/2024 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AGILENT TECHNOLOGIES, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "QUALCOMM INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORP MTN 1.2% 08/05/2025 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CADENCE DESIGN SYSTEMS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMAZON.COM INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERISK ANALYTICS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMGEN INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REPUBLIC SERVICES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "RESMED INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ACTIVISION BLIZZARD, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MCKESSON CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGENERON PHARMACEUTICAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PROCTER & GAMBLE COMPANY (THE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CME GROUP INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ABBOTT LABORATORIES CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INSULET CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SERVICENOW INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "amount", "note": "All rows read as amount bucket A from the page image."}
+  ],
+  "page_confidence": "high"
+}

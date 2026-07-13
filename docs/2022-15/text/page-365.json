@@ -1,0 +1,27 @@
+{
+  "pdf_page": 365,
+  "printed_label": "Page 365 of 367",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind":"tx","owner":"DC","asset_name":"NETFLIX INC (NFLX)","tx_type":"Purchase","cap_gain_over_200":false,"date":"2/2/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"MATCH GROUP INC (MTCH)","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/7/2022","notification_date":null,"amount":"$50,001-$100,000"},
+    {"kind":"tx","owner":"DC","asset_name":"NETFLIX INC (NFLX)","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/7/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"SNAP INC CL A (SNAP)","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/7/2022","notification_date":null,"amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ALIGN TECHNOLOGY (ALGN)","tx_type":"Partial Sale","cap_gain_over_200":false,"date":"1/7/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"SPDR S&P 500 ETF TRUST (SPY)","tx_type":"Partial Sale","cap_gain_over_200":false,"date":"1/7/2022","notification_date":null,"amount":"$100,001-$250,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ILLUMINA INC (ILMN)","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/7/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"PAYPAL HLDGS INC COM (PYPL)","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/7/2022","notification_date":null,"amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"VISA INC CL A (V)","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/7/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"MSILF TREASURY SECURITIES INST (MSUSX)","tx_type":"Purchase","cap_gain_over_200":false,"date":"1/3/2022","notification_date":null,"amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"BIO RAD LAB A (BIO)","tx_type":"Purchase","cap_gain_over_200":false,"date":"8/20/2022","notification_date":null,"amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"PE PREMIER BLACKSTONE LIFE SCIENCES V (8B262)","tx_type":"Purchase","cap_gain_over_200":false,"date":"QUARTERLY","notification_date":null,"amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"DC","asset_name":"RIVERVIEW SOF I LP (BAQ57)","tx_type":"Purchase","cap_gain_over_200":false,"date":"QUARTERLY","notification_date":null,"amount":"$1,001-$15,000"}
+  ],
+  "free_text": "Two additional visible Schedule B lines have owner DC and date N/A but no transaction type, capital-gain, or amount marks: TRG II ONSHORE(AII14); CPI ASIA ONSHORE - CLASS B(AII51).",
+  "uncertainties": [
+    {"row":12,"field":"asset_name","read":"PE PREMIER BLACKSTONE LIFE SCIENCES V (8B262)","note":"Page 365 scan is slightly fuzzy; identifier matched against Schedule A page 107 OCR/local transcription."}
+  ],
+  "page_confidence": "medium"
+}

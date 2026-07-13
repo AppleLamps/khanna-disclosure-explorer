@@ -1,0 +1,34 @@
+{
+  "pdf_page": 3,
+  "printed_label": "Page 3 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "Kayne Anderson Real Estate Opportunistic Debt", "value": "$250,001-$500,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Kayne Credit Opportunities Fund (QP), L.P.", "value": "$15,001-$50,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$50,001-$100,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Kayne Anderson MLP Fund, L.P.", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": "PTN", "amount_of_income": "$1,000,001-$5,000,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Kayne Anderson Renewable Infrastructure Fund", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Draper Fisher Jurvetson Growth Fund 2006, LP", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Resilience Fund II LP", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Resilience Fund IV LP", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Strategic Value FNBA Investors LP, First Natl Bancshares", "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$100,001-$1,000,000", "transaction": null},
+    {"kind": "group", "text": "2010 Grandchildren Trust"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Kayne Anderson MLP Fund, L.P.", "value": "None", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$100,001-$1,000,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Kayne Anderson Renewable Infrastructure Fund", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Kayne Anderson Real Estate Partners III, L.P.", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Kayne Anderson Energy Fund 6, LP", "value": "$15,001-$50,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$5,001-$15,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Resilience Fund II LP", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Resilience Fund III LP", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Resilience Fund IV LP", "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Resilience OneSky Fund", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "layout / EIF", "read": "All rows EIF-checked; rows 1-8 are a continuation", "note": "Every asset row on this page has the EIF (Excepted Investment Fund) column checked (no dedicated schema field). Rows 1-8 have no group header on this page; they continue the prior page's 'M&R Trust Partnership - 2020 Trust FBO Khanna Children' portfolio. 'PTN' write-in in Block C 'Other Type of Income' is recorded in other_income_spec."},
+    {"row": 2, "field": "income_types", "read": "CAPITAL GAINS + PTN", "note": "Kayne Anderson MLP Fund (first): Block C X best read as CAPITAL GAINS (could be INTEREST); amount col X ($1,000,001-$5,000,000) could be XI."},
+    {"row": 11, "field": "value", "read": "$15,001-$50,000 (col D)", "note": "Kayne Anderson Energy Fund 6 value X ambiguous between col D and col E ($50,001-$100,000)."},
+    {"row": 13, "field": "value", "read": "Resilience III $50,001-$100,000 (E); Resilience IV $100,001-$250,000 (F); OneSky $100,001-$250,000 (F)", "note": "Block B value column for the lower Resilience rows (III/IV/OneSky) has +/-1 bucket uncertainty."}
+  ],
+  "page_confidence": "medium"
+}

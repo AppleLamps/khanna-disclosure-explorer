@@ -1,0 +1,172 @@
+{
+  "files": [
+    {
+      "bytes": 6660190,
+      "format": "csv",
+      "path": "data/normalized/assets.csv",
+      "records": 23099,
+      "sha256": "8f6014037505ba2ce94f2ed89b5526106fd9af7a5abc5b1d5a68ac55629057da"
+    },
+    {
+      "bytes": 17210004,
+      "format": "jsonl",
+      "path": "data/normalized/assets.jsonl",
+      "records": 23099,
+      "sha256": "42f274f3682c796dc43468d50e37e9022ed2fb15ac951c267bf28f7cb0ae3e68"
+    },
+    {
+      "bytes": 16537,
+      "format": "csv",
+      "path": "data/normalized/documents.csv",
+      "records": 127,
+      "sha256": "44c274bdfcfc5fcfea472836a604fc75cd7d6d4ff38d6517dc03edabb0ef71c4"
+    },
+    {
+      "bytes": 28657,
+      "format": "jsonl",
+      "path": "data/normalized/documents.jsonl",
+      "records": 127,
+      "sha256": "f263700a3d1a74a582861a656cf792b231700079ae0e2ca594b98037c2e395a9"
+    },
+    {
+      "bytes": 24079399,
+      "format": "csv",
+      "path": "data/normalized/page_rows.csv",
+      "records": 106890,
+      "sha256": "c7c7d79fa17edea03dc4f171e460421af250765a1ef079eec3cf37eb88fe24dd"
+    },
+    {
+      "bytes": 88757546,
+      "format": "jsonl",
+      "path": "data/normalized/page_rows.jsonl",
+      "records": 106890,
+      "sha256": "1084ff8b2e1d32b2876604cb004af102124f12abd727dbf1eedd16559449fa06"
+    },
+    {
+      "bytes": 1116217,
+      "format": "csv",
+      "path": "data/normalized/pages.csv",
+      "records": 4057,
+      "sha256": "fd01c4f9017c4b4f752c15856bc1446be3d41ec6bfe59b5414851da805c3239c"
+    },
+    {
+      "bytes": 2129757,
+      "format": "jsonl",
+      "path": "data/normalized/pages.jsonl",
+      "records": 4057,
+      "sha256": "1534ca84da5a25114f22598b08a94397b7615a13ddbd22baf67ec9aafd002534"
+    },
+    {
+      "bytes": 14556789,
+      "format": "csv",
+      "path": "data/normalized/transactions.csv",
+      "records": 48281,
+      "sha256": "3fad7a0d3ac198dbb02a39e853e9762ac6780524808a2eec1795c4d1d4728696"
+    },
+    {
+      "bytes": 38148151,
+      "format": "jsonl",
+      "path": "data/normalized/transactions.jsonl",
+      "records": 48281,
+      "sha256": "d4cda95d01bc02e82013efac7741327e78c6a10551537f88a718d8f2689045d3"
+    },
+    {
+      "bytes": 4874985,
+      "format": "csv",
+      "path": "data/normalized/uncertainties.csv",
+      "records": 17307,
+      "sha256": "866efcc107caa6f903b2e4585eff5f39f87837510af80176e3c9ea4b88a09080"
+    },
+    {
+      "bytes": 6460648,
+      "format": "jsonl",
+      "path": "data/normalized/uncertainties.jsonl",
+      "records": 17307,
+      "sha256": "483ef078e61a646e4aed60cfd81e76f9b8f677b67f1ce3332fec98f38f36b349"
+    },
+    {
+      "bytes": 2120,
+      "format": "json",
+      "path": "data/quality-report.json",
+      "records": 1,
+      "sha256": "e1d057f9a9d0dd8f173bd9c36c1ffd63d2b5e9046c6ebf8343a773cc33745157"
+    }
+  ],
+  "license": "CC0-1.0 for original dataset contributions; see DATA_LICENSE.md",
+  "schema_version": "1.0.0",
+  "source_coverage": {
+    "compiled_year_files": 11,
+    "confidence_distribution": {
+      "high": 1858,
+      "low": 299,
+      "medium": 1891,
+      "medium-high": 1,
+      "medium-low": 8
+    },
+    "missing_or_invalid_records": 0,
+    "normalized_records": {
+      "assets": 23099,
+      "documents": 127,
+      "page_rows": 106890,
+      "pages": 4057,
+      "transactions": 48281,
+      "uncertainties": 17307
+    },
+    "owner_code_distribution": {
+      "DC": 29481,
+      "JT": 14,
+      "SP": 73006,
+      "not_stated": 4389
+    },
+    "page_images": 4057,
+    "page_row_kind_distribution": {
+      "asset": 28131,
+      "group": 2494,
+      "tx": 76265
+    },
+    "page_source_json": 4057,
+    "page_type_distribution": {
+      "cover": 15,
+      "letter": 10,
+      "other": 29,
+      "ptr_cover": 104,
+      "ptr_transactions": 1469,
+      "schedule_a": 1097,
+      "schedule_b": 1320,
+      "schedule_c": 3,
+      "schedule_d": 7,
+      "schedule_h": 3
+    },
+    "pending_pages": 0,
+    "source_pdfs": 127,
+    "tesseract_text_files": 4057,
+    "valid_page_source_json": 4057,
+    "years": [
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ]
+  },
+  "title": "Ro Khanna financial disclosure open data",
+  "years": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ]
+}

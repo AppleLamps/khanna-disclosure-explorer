@@ -1,0 +1,41 @@
+{
+  "pdf_page": 169,
+  "printed_label": "Page 169 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SBA COMMUNICATIONS CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TARGET CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/30/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KKR & CO. INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PARKER-HANNIFIN CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGAL REXNORD CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FERGUSON PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FERGUSON PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WELLS FARGO & CO (NEW) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMAZON.COM INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN INTL GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/19/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/LLY FLEX EURO PM @ 495 EXP 10/06/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN INTL GROUP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARRIER GLOBAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ELI LILLY & CO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALPHABET INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "XYLEM INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/2/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "amount", "note": "Amounts are transcribed from visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

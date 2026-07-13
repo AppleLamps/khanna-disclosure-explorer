@@ -1,0 +1,41 @@
+{
+  "pdf_page": 222,
+  "printed_label": "Page 222 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "HASBRO, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CITIGROUP INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BOSTON SCIENTIFIC CORP. COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VULCAN MATERIALS CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTODESK, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERISIGN, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CROWN CASTLE INTL CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TELEDYNE TECHNOLOGIES INCORPOR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GE HEALTHCARE TECHNOLOGIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COMCAST CORPORATION CMN CLASS A VOTING", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "POOL CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EXPEDIA GROUP INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NIKE CLASS-B CMN CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JOHNSON & JOHNSON CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "11/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MC DONALDS CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FORD MOTOR COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE HOME DEPOT, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PROLOGIS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LOWES COMPANIES INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "APTIV PLC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AIRBNB, INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITED RENTALS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type/cap_gain_over_200", "note": "Page switches from purchases to sales at Johnson & Johnson; Johnson & Johnson also has a capital-gain checkbox mark."},
+    {"field": "amount", "note": "Johnson & Johnson, Bank of America, and McDonalds read as amount bucket B; all other rows read as amount bucket A."}
+  ],
+  "page_confidence": "high"
+}

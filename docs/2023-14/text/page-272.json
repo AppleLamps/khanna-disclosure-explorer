@@ -1,0 +1,40 @@
+{
+  "pdf_page": 272,
+  "printed_label": "Page 272 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "CONAGRA BRANDS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERISOURCEBERGEN CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TYSON FOODS INC CL-A CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GEN DIGITAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CARDINAL HEALTH, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KEURIG DR PEPPER INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SYSCO CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BNP PARIBAS SPONSORED ADR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERTEX PHARMACEUTICALS INCORPO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AVANTOR FUNDING, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 415 EXP 08/31/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 410 EXP 08/16/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 407 EXP 08/18/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 400 EXP 07/14/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 419 EXP 08/04/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTUITIVE SURGICAL, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MERCK & CO., INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STARBUCKS CORP. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WELLS FARGO & CO (NEW) CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBVIE INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BLACKROCK, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COPART INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ARTHUR J GALLAGHER & CO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."}
+  ],
+  "page_confidence": "medium"
+}

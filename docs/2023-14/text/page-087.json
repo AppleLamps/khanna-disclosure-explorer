@@ -1,0 +1,36 @@
+{
+  "pdf_page": 87,
+  "printed_label": "Page 87 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "CHENY INC CMN CLASS A", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CHIPOTLE MEXICAN GRILL, INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CHUBB LIMITED CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CHURCH & DWIGHT CO., INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CIGNA GROUP/THE CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CINCINNATI FINANCIAL CRP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CINTAS CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CISCO SYSTEMS, INC. CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CITIGROUP INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CITIGROUP INC. LINKED TO S&P 500 INDEX", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CITIGROUP INC. LINKED TO S&P 500 INDEX CNTINGT", "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CITIGROUP INC. LINKED TO S&P 500 INDEX UPSIDE LE", "value": "$1,000,001-$5,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CITIGROUP INC. STRUCTURED NOTE DUE 04/26/2024", "value": "$1,000,001-$5,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CITIZENS FINANCIAL GROUP, INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CLARK CNTY NEV SCH DIST GO 5% 06/15/23 JD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CLARK CNTY NEV WTR RECLAMATION DB 5.000% 07/01/23", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CLOROX CO (THE) (DELAWARE) CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CME GROUP INC. CMN CLASS A", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "COCA-COLA COMPANY (THE) CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "COCA-COLA EUROPEAN PARTNERS PLC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1994 Trust", "note": "No group header printed on this page; context inferred from preceding completed pages in the same alphabetical SP asset sequence."},
+    {"row": 11, "field": "asset_name", "read": "CNTINGT", "note": "Printed name is truncated in the asset-name column; transcribed visible text only."},
+    {"row": 12, "field": "asset_name", "read": "UPSIDE LE", "note": "Printed name is truncated in the asset-name column; transcribed visible text only."}
+  ],
+  "page_confidence": "medium"
+}

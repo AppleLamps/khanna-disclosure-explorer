@@ -1,0 +1,41 @@
+{
+  "pdf_page": 191,
+  "printed_label": "Page 191 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "FORD MOTOR COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WASTE MANAGEMENT INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHUBB LIMITED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MERCK & CO., INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "METTLER-TOLEDO INTL CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERTEX PHARMACEUTICALS INCORPO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROYALTY PHARMA PLC 2.2% 09/02/2030 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CVS HEALTH CORPORATION 3.75% 04/01/2030 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COCA-COLA COMPANY (THE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NORFOLK SOUTHERN CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DOLLAR GENERAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "IQVIA HOLDINGS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "3M COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MCKESSON CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PHILIP MORRIS INTL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "RAYMOND JAMES FINANCIAL, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REVVITY INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CISCO SYSTEMS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EATON CORP PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COMCAST CORPORATION CMN CLASS A VOTING", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTEL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "APTIV PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ELEVANCE HEALTH INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SHERWIN-WILLIAMS CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Long security names are clipped at the right edge of the asset column; visible wording was preserved."},
+    {"field": "amount", "note": "All rows read as amount bucket A from the page image."}
+  ],
+  "page_confidence": "high"
+}

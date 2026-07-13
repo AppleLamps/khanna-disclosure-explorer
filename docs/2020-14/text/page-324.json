@@ -1,0 +1,209 @@
+{
+  "pdf_page": 324,
+  "printed_label": "Page 324 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "M & R Trust Partnership"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Capital call for TPG Tech Adjacencies Access",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "8/10/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Capital Call for BSSCP II",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "8/31/2020",
+      "notification_date": null,
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Capital Call for Petershill II",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "1/14/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Capital Call for WSCPVIII",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/21/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Capital Call for WSCPVII",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "8/24/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Capital Call for WSCPVII",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/13/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Capital call for KKR Access",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "5/4/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Capital call for GPOP II",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "2/26/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Capital Call for W8BP",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "3/1/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Capital call for TPG Tech Adjacencies Access",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "2/10/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Capital Call for W8BP",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "2/21/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Capital call for Vintage VIII/West Street Access",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "12/31/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Global Long Short Partners",
+      "tx_type": "Exchange",
+      "cap_gain_over_200": false,
+      "date": "4/1/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Hedge Fund Select: JANA Partner Qualified LLC",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "4/1/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FX Spot - EURO",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "1/2/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Global Long Short Partners",
+      "tx_type": "Exchange",
+      "cap_gain_over_200": false,
+      "date": "4/1/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Global Long Short Partners",
+      "tx_type": "Exchange",
+      "cap_gain_over_200": false,
+      "date": "1/1/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Global Long Short Partners",
+      "tx_type": "Exchange",
+      "cap_gain_over_200": false,
+      "date": "7/1/2020",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 10,
+      "field": "asset_name",
+      "read": "Capital Call for W8BP",
+      "note": "Short fund acronym is scan-noisy; tesseract reads WEP, but image appears W8BP."
+    },
+    {
+      "row": 12,
+      "field": "asset_name",
+      "read": "Capital Call for W8BP",
+      "note": "Short fund acronym is scan-noisy; tesseract reads WEP, but image appears W8BP."
+    }
+  ],
+  "page_confidence": "medium"
+}

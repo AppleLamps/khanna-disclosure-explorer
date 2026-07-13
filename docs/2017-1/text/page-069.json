@@ -1,0 +1,102 @@
+{
+  "pdf_page": 69,
+  "printed_label": "Page 69 of 149",
+  "section": "Schedule B: Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment spreadsheet in transposed layout: 4 transaction columns, field rows. The 'SP, DC, JT' row and the 'Transaction' row are solid black across all 4 columns (formatting artifact) - owner is not readable on this page. EIF row blank for all columns. Footer/sheet label: 'MS Areco'. Note printed below table.",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "MS Areco"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "MSILF Tax Emept Port Inst",
+      "ticker": "MTXXX",
+      "eif": false,
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "04/18/2017",
+      "notification_date": null,
+      "amount": "G: $250,001-$500,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "MSILF Tax Emept Port Inst",
+      "ticker": "MTXXX",
+      "eif": false,
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "04/28/2017",
+      "notification_date": null,
+      "amount": "B: $1-$1,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "MSILF Tax Emept Port Inst",
+      "ticker": "MTXXX",
+      "eif": false,
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "05/31/2017",
+      "notification_date": null,
+      "amount": "B: $1-$1,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "MSILF Tax Emept Port Inst",
+      "ticker": "MTXXX",
+      "eif": false,
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "06/30/2017",
+      "notification_date": null,
+      "amount": "B: $1-$1,000"
+    }
+  ],
+  "free_text": "Note: Dependent Child reporting was not applicable last year\n\nFooter: MS Areco",
+  "uncertainties": [
+    {
+      "row": "all",
+      "field": "owner",
+      "read": null,
+      "note": "'SP, DC, JT' row is solid black across all 4 columns; owner designation unreadable (likely same fill artifact as 'Transaction' row)"
+    },
+    {
+      "row": "all",
+      "field": "asset_name",
+      "read": "MSILF Tax Emept Port Inst",
+      "note": "transcribed verbatim; 'Emept' appears to be a typo of 'Exempt' in the original"
+    },
+    {
+      "row": 2,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 3,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 4,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 5,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    }
+  ],
+  "page_confidence": "high"
+}

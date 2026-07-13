@@ -1,0 +1,37 @@
+{
+  "pdf_page": 46,
+  "printed_label": "Page 46 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "CHARLES SCHWAB CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHARTER COMMUNICATIONS, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHEMED CORP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHIPOTLE MEXICAN GRILL, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHUBB LIMITED CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHURCH & DWIGHT CO., INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CIGNA GROUP/THE CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CINCINNATI FINANCIAL CRP CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CINTAS CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CISCO SYSTEMS, INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 03/20/2030 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 03/20/2030 USD SR LIEN CPN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 04/23/2029 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 04/23/2029 USD SR LIEN CPN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 05/15/2024 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 07/24/2028 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 07/24/2028 USD SR LIEN CPN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 11/05/2030 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 11/05/2030 USD SR LIEN CPN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1995 Trust", "note": "No group header printed on this page; context inferred from surrounding attachment pages."},
+    {"row": 1, "field": "amount_of_income", "read": "None", "note": "Charles Schwab marks dividends but Block D appears to mark the None column."},
+    {"row": 7, "field": "amount_of_income", "read": "None", "note": "CIGNA has dividends plus transactions; amount mark is hard to distinguish from Block D I on the scan."},
+    {"row": 10, "field": "value", "read": "$15,001-$50,000", "note": "CISCO value mark may be in adjacent $1,001-$15,000 column; best read from full page is column D."}
+  ],
+  "page_confidence": "medium"
+}

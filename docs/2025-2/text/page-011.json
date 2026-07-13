@@ -1,0 +1,31 @@
+{
+  "pdf_page": 11,
+  "printed_label": "11 of 28",
+  "section": "PERIODIC TRANSACTION REPORT",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "PACCAR INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MARTIN MARIETTA MATERIALS,INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE HOME DEPOT, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FREEPORT-MCMORAN INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SALESFORCE INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ANSYS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITED RENTALS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NASDAQ INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN TOWER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FASTENAL COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PPG INDUSTRIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTUITIVE SURGICAL, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AVERY DENNISON CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BIO-TECHNE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CELANESE CORPORATION COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PTC INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "partial_sale/cap_gain_over_200", "read": "cap_gain checked on PACCAR/ANSYS/NASDAQ/INTUITIVE/JPMORGAN; partial checked on HOME DEPOT/FREEPORT/ANSYS/UNITED RENTALS/NASDAQ/AMERICAN TOWER/INTUITIVE/BIO-TECHNE", "note": "Two narrow columns (Capital-Gains-Exceed-$200 and Partial-Transaction) faint; column assignment medium confidence. All rows are Sales in bucket A."}
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,40 @@
+{
+  "pdf_page": 155,
+  "printed_label": "Page 155 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "ISHARES TR 0-3 MNTH TREASRY", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "RTX CORPORATION COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STARBUCKS CORP COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BRISTOL-MYERS SQUIBB CO COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CISCO SYSTEMS INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ISHARES TR 0-3 MNTH TREASRY", "tx_type": "Sale", "cap_gain_over_200": false, "date": "12/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JOHNSON & JOHNSON COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ISHARES 0-3 MONTH TREASURY BOND ETF", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NEXTERA ENERGY INC COM", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ACCENTURE PLC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EATON CORPORATION PLC", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COCA-COLA CO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CONOCOPHILLIPS COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TARGET CORP", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ZOETIS INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BROADCOM INC COM", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/15/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ZOETIS INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BROADCOM INC COM", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EATON CORPORATION PLC", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNION PAC CORP COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/21/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "RAYTHEON TECHNOLOGIES CORP COM", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/21/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "group", "text": "Monita and Usha Ahuja 2010 Irrev Trust FBO Grandchildren"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HEDGE FUND SELECT: ELT ASSOCIATES LLC COMM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/7/2023", "notification_date": null, "amount": "$500,001-$1,000,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "A few purchase marks near the top are faint but align with neighboring purchase rows and visible amount/date cells."},
+    {"field": "amount", "note": "Amounts are transcribed from visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

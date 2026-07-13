@@ -1,0 +1,42 @@
+{
+  "pdf_page": 80,
+  "printed_label": "Page 80 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1995 Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "REALTY INCOME CORPORATION CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "REFUGIO TEX INDPT SCH DIST GO 3% 02/15/21 FA ULTD TAX SCH BLDG BDS 2016 UT BNK QUAL BEO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "REGENCY CENTERS CORPORATION CMN", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "REGENERON PHARMACEUTICAL INC CMN", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "REINSURANCE GROUP AMER INC CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "REPUBLIC SERVICES INC CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "RESMED INC. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "RICHLAND CNTY S C DB 3% 02/27/20 FA GO BANS 2019A BTM REFUNDED 02/27/20 UT BEO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "RICHLAND CNTY S C SCH DIST NO GO 5% 05/01/23 MN 002 GO BDS 2011B PREREF 05/01/21 UT BEO SR LIEN", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROBERT HALF INTERNATIONAL INC. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROBERTSON CNTY TENN GO 2% 05/01/20 MN GO SCH BDS 2014 UT BEO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROCKWELL AUTOMATION INC CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROKU, INC. CMN", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROLLINS INC. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROPER TECHNOLOGIES INC CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROSS STORES,INC CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROUND ROCK TEX INDPT SCH DIST GO 5% 08/01/21 FA ULTD TAX SCH BLDG AND REF BDS 2016 UT BEO SR LIEN", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROYAL CARIBBEAN GROUP ISIN: LR0008862161", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROYAL GOLD, INC. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROYAL OAK CITY MICH SCH DIST GO 5% 05/01/21 MN ULTD TAX GO BLDG AND SITE BDS 2018 UT BEO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "RTS/T-MOBILE US, INC. EXP07/31/2020", "value": null, "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "RYDER SYSTEM INC CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": null, "field": "value", "read": null, "note": "Block B (Value of Asset) columns unresolvable under heavy grey stipple; all value=null."},
+    {"row": null, "field": "income_types", "read": null, "note": "Block C read best-effort under stipple; INTEREST assigned to muni bonds, DIVIDENDS to dividend equities, CAPITAL GAINS to growth/no-dividend/sold positions; low-confidence."},
+    {"row": null, "field": "amount_of_income", "read": null, "note": "Block D (Amount of Income) columns unresolvable under stipple; all amount_of_income=null."},
+    {"row": null, "field": "transaction", "read": null, "note": "Block E (Transaction) unresolvable under stipple; all transaction=null."},
+    {"row": 19, "field": "asset_name", "read": "ROYAL CARIBBEAN GROUP ISIN: LR0008862161", "note": "ISIN digits partly obscured; label printed as 'IBIN'/'ISIN'; digit string uncertain."}
+  ],
+  "page_confidence": "medium"
+}

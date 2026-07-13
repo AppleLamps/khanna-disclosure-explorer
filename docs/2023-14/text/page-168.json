@@ -1,0 +1,41 @@
+{
+  "pdf_page": 168,
+  "printed_label": "Page 168 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "HONEYWELL INTL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LABORATORY CORPORATION OF AMER CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LABORATORY CORPORATION OF AMER CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LABORATORY CORPORATION OF AMER CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/LLY FLEX EURO PM @ 490 EXP 09/01/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ELI LILLY & CO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KKR & CO. INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PARKER-HANNIFIN CORP. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MARSH & MCLENNAN CO INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SHERWIN-WILLIAMS CO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SHERWIN-WILLIAMS CO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/19/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROSS STORES, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARMAX, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CVS HEALTH CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ACCENTURE PLC CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/6/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "amount", "note": "Amounts are transcribed from visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

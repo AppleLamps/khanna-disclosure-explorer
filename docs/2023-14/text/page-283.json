@@ -1,0 +1,40 @@
+{
+  "pdf_page": 283,
+  "printed_label": "Page 283 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DOLLAR GENERAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THERMO FISHER SCIENTIFIC INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIVENT CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SBA COMMUNICATIONS CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAMDEN PROPERTY TRUST CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GARMIN LTD CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PNC FINANCIAL SERVICES GROUP, CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ASSURANT, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHUBB LIMITED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BROWN & BROWN, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FASTENAL COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BROWN FORMAN CORP CL B CMN CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HEALTHPEAK PROPERTIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALLSTATE CORPORATION COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PHILIP MORRIS INTL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TARGET CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/19/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 6, "field": "asset_name", "read": "LIVENT CORPORATION CMN", "note": "Initial L is heavy in the scan; cross-checked against the clearer crop and transcribed as visible."}
+  ],
+  "page_confidence": "medium"
+}

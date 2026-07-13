@@ -1,0 +1,20 @@
+{
+  "pdf_page": 2,
+  "printed_label": "Page 2 of 13",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind":"group","text":"M&R Trust Partnership"},
+    {"kind":"tx","owner":"DC","asset_name":"UBER TECHNOLOGIES INC","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/17/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"AUTODESK INC DELAWARE","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/17/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"UNITEDHEALTH GP INC","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/18/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"VERISK ANALYTICS INC COM","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/18/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"UBER TECHNOLOGIES INC","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/21/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"AUTODESK INC DELAWARE","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/21/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"AUTODESK INC DELAWARE","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/27/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

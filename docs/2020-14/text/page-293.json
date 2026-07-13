@@ -1,0 +1,42 @@
+{
+  "pdf_page": 293,
+  "printed_label": "Page 293 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1995 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BALL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ECHOSTAR CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PAYPAL HOLDINGS, INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SALESFORCE.COM, INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENUINE PARTS CO. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE WILLIAMS COMPANIES, INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TAPESTRY, INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HUNTINGTON INGALLS INDUSTRIES, INC.", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COPART INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHENIERE ENERGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CDW CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MGM RESORTS INTERNATIONAL CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIVE NATION ENTERTAINMENT INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ARTHUR J GALLAGHER & CO CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TRANSOCEAN LTD, CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EXPEDIA GROUP INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WHIRLPOOL CORP. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CENTENE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CENTENE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WESTERN DIGITAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FREEPORT-MCMORAN INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NOBLE ENERGY INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NORTONLIFELOCK IN CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN AIRLINES GROUP INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "IQVIA HOLDINGS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KINDER MORGAN INC CMN CLASS P", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/24/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 24, "field": "asset_name", "read": "NORTONLIFELOCK IN CMN", "note": "suffix after NORTONLIFELOCK appears degraded; could be INC but visible text reads IN"}
+  ],
+  "page_confidence": "medium"
+}

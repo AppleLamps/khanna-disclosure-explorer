@@ -1,0 +1,41 @@
+{
+  "pdf_page": 221,
+  "printed_label": "Page 221 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "FIRST SOLAR, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROBERT HALF INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MGM RESORTS INTERNATIONAL CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WARNER BROS DISCOVERY INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CAMDEN PROPERTY TRUST CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ETSY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KIMCO REALTY CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN AIRLINES GROUP INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HOST HOTELS & RESORTS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SEALED AIR CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CERIDIAN HCM HOLDING INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BATH & BODY WORKS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIFTH THIRD BANCORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TAPESTRY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HEALTHPEAK PROPERTIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INVITATION HOMES INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HUNTINGTON BANCSHARES INCORPOR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INVESCO LTD. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITED AIRLINES HOLDINGS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WHIRLPOOL CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "IDEXX LABORATORIES CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PRINCIPAL FINANCIAL GROUP, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ZEBRA TECHNOLOGIES INC CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHARTER COMMUNICATIONS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "date", "note": "Several lower-page dates were read from enlarged image crops; Healthpeak, Invesco, United Airlines, Whirlpool, and Principal are best reads."},
+    {"field": "amount", "note": "All rows read as amount bucket A from the page image."}
+  ],
+  "page_confidence": "medium"
+}

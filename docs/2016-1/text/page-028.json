@@ -1,0 +1,105 @@
+{
+  "pdf_page": 28,
+  "printed_label": "28/116",
+  "section": "Schedule A - Assets and \"unearned Income\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "eif": null,
+      "asset_name": "Hamlin High Div Equity Inst",
+      "ticker": "HHDFX",
+      "value": "A: None",
+      "income_types": ["Dividends", "Capital Gains"],
+      "other_income_spec": null,
+      "amount_of_income_current_year": "A: None",
+      "amount_of_income_preceding_year": "G: $15,001-$50,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "eif": null,
+      "asset_name": "Ecolab Inc",
+      "ticker": "ECL",
+      "value": "A: None",
+      "income_types": ["Dividends", "Capital Gains"],
+      "other_income_spec": null,
+      "amount_of_income_current_year": "A: None",
+      "amount_of_income_preceding_year": "E: $2,501-$5,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "eif": null,
+      "asset_name": "IHS INC Com",
+      "ticker": "IHS",
+      "value": "A: None",
+      "income_types": ["Capital Gains"],
+      "other_income_spec": null,
+      "amount_of_income_current_year": "A: None",
+      "amount_of_income_preceding_year": "D: $1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "eif": null,
+      "asset_name": "Nike Inc CL B",
+      "ticker": "NKE",
+      "value": "A: None",
+      "income_types": ["Dividends", "Capital Gains"],
+      "other_income_spec": null,
+      "amount_of_income_current_year": "A: None",
+      "amount_of_income_preceding_year": "D: $1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "eif": null,
+      "asset_name": "21st Century Fox CL A",
+      "ticker": "FOXA",
+      "value": "A: None",
+      "income_types": ["Dividends", "Capital Gains"],
+      "other_income_spec": null,
+      "amount_of_income_current_year": "A: None",
+      "amount_of_income_preceding_year": "A: None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "eif": null,
+      "asset_name": "Amazon Inc",
+      "ticker": "AMZN",
+      "value": "A: None",
+      "income_types": ["Capital Gains"],
+      "other_income_spec": null,
+      "amount_of_income_current_year": "A: None",
+      "amount_of_income_preceding_year": "G: $15,001-$50,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "eif": null,
+      "asset_name": "Priceline GRP Inc.",
+      "ticker": "PCLN",
+      "value": "A: None",
+      "income_types": ["Capital Gains"],
+      "other_income_spec": null,
+      "amount_of_income_current_year": "A: None",
+      "amount_of_income_preceding_year": "E: $2,501-$5,000",
+      "transaction": null
+    }
+  ],
+  "free_text": "Typed attachment grid (transposed layout, footer 'MS ARECO Schedule A 12.31.16'): one asset per column, seven asset columns; selections are black-filled cells. EIF row blank for all columns. Value of Asset row 'A: None' is black-filled across all seven columns; Amount of Income: Current Year 'A: None' is black-filled across all seven columns. Header: 'Name: Rohit Khanna', 'Page ___ of ___' (blank).",
+  "uncertainties": [
+    {"row": 3, "field": "ticker", "read": "IHS", "note": "printed with wide letter spacing ('I H S'); tesseract reads IHS"}
+  ],
+  "page_confidence": "high"
+}

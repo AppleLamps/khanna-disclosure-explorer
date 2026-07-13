@@ -1,0 +1,289 @@
+{
+  "pdf_page": 33,
+  "printed_label": "Page 33 of 67",
+  "section": "Periodic Transaction Report - transactions",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "DOVER CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "lkeveor? CMI",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "MORGAN STANLEY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "T ROWE PRICE GROUP INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "!REXFORD INDL RLTY INC CMN {|",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "MICRON TECHNOLOGY, INC, CMIN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "STRYKER CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "ARENS, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "NTL BUSINESS MACHINES CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "RESMED INC",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "fUALEDNans INE CMA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "ACCENTURE PLE CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date is blank, illegible, or an impossible OCR year in the source evidence"
+    },
+    {
+      "row": 2,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date is blank, illegible, or an impossible OCR year in the source evidence"
+    },
+    {
+      "row": 3,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date is blank, illegible, or an impossible OCR year in the source evidence"
+    },
+    {
+      "row": 4,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date is blank, illegible, or an impossible OCR year in the source evidence"
+    },
+    {
+      "row": 5,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date is blank, illegible, or an impossible OCR year in the source evidence"
+    },
+    {
+      "row": 6,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date is blank, illegible, or an impossible OCR year in the source evidence"
+    },
+    {
+      "row": 7,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date is blank, illegible, or an impossible OCR year in the source evidence"
+    },
+    {
+      "row": 8,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date is blank, illegible, or an impossible OCR year in the source evidence"
+    },
+    {
+      "row": 9,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date is blank, illegible, or an impossible OCR year in the source evidence"
+    },
+    {
+      "row": 10,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date is blank, illegible, or an impossible OCR year in the source evidence"
+    },
+    {
+      "row": 11,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date is blank, illegible, or an impossible OCR year in the source evidence"
+    },
+    {
+      "row": 12,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date is blank, illegible, or an impossible OCR year in the source evidence"
+    },
+    {
+      "row": 1,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "owner mark is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 2,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "owner mark is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 3,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "owner mark is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 4,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "owner mark is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 5,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "owner mark is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 6,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "owner mark is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 7,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "owner mark is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 8,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "owner mark is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 9,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "owner mark is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 10,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "owner mark is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 11,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "owner mark is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 12,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "owner mark is not recoverable from the degraded row evidence"
+    }
+  ],
+  "page_confidence": "low"
+}

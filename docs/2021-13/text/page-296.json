@@ -1,0 +1,289 @@
+{
+  "pdf_page": 296,
+  "printed_label": "Page 296 of 303",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WELLS FARGO & CO (NEW) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/2/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VISA INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/8/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ABBVIE INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/5/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GILEAD SCIENCES CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/8/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KKR & CO. INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/8/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TEXAS INSTRUMENTS INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/8/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIRST REPUBLIC BANK CMN SERIES",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/6/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHARTER COMMUNICATIONS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/6/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MARSH & MCLENNAN CO INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/8/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZYNGA INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/8/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DEERE & COMPANY CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "7/8/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNIVERSITY COLO ENTERPRISE SYS REV 4% 06/01/22",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "8/19/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KING CNTY WASH SWR REV REV 5% 07/01/22 JJ",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "8/24/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNIVERSITY ALA GEN REV REV 4% 07/01/22 JJ",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "8/4/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIDELITY NATL INFO SVCS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "8/30/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NORTH CAROLINA ST LTD OBLIG REV 5% 06/01/22 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/21/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MAINE ST GO 5% 06/01/22 JD",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/8/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FOLLETT TEX INDPT SCH DIST GO 4% 02/15/22 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/13/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HOUSTON TEX INDPT SCH DIST GO 5% 02/15/22 FA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/13/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/15/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/3/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NASDAQ INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/27/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/2/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NASDAQ INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/23/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NASDAQ INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/28/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/10/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "9/14/2021",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 12,
+      "field": "asset_name",
+      "read": "UNIVERSITY COLO ENTERPRISE SYS REV 4% 06/01/22",
+      "note": "Maturity suffix after 06/01/22 not clearly legible in the crop."
+    }
+  ],
+  "page_confidence": "medium"
+}

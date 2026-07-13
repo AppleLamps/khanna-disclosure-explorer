@@ -1,0 +1,358 @@
+{
+  "pdf_page": 18,
+  "printed_label": "Page 18 of 28",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AUTOMATIC DATA PROCESSING INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/19/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KEYCORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/19/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LINCOLN NATL.CORP.INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/19/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AVANTOR FUNDING, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/22/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ADVANCE AUTO PARTS, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/19/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALBEMARLE CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/19/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHARLES RIV LABS INTL INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/19/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGENERON PHARMACEUTICAL INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/19/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SANOFI SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/12/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AVANTOR FUNDING, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/5/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AVANTOR FUNDING, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/1/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ING GROEP N.V. SPONS ADR SPONSORED ADR CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/12/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CALL/INVOFLEX EURO PM @ 167.5 EXP 05/12/2023",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/12/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CALL/SNY FLEX EURO PM @ 50 EXP 05/12/2023",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/12/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CALL/NVS FLEX EURO PM @ 92 EXP 06/12/2023",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/12/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 384 EXP 07/21/2023",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/4/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 397 EXP 08/18/2023",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 387 EXP 07/31/2023",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "5/11/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SPDR S&P 500 ETF TRUST",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$500,001-$1,000,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICROSOFT CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$250,001-$500,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "APPLE INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$250,001-$500,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SPDR S&P 500 ETF TRUST",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/10/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$100,001-$250,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SPDR S&P 500 ETF TRUST",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/3/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$100,001-$250,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SPDR S&P 500 ETF TRUST",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/8/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$100,001-$250,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE HOME DEPOT, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$100,001-$250,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JOHNSON & JOHNSON CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$100,001-$250,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALPHABET INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "5/23/2023",
+      "notification_date": "6/2/2023",
+      "amount": "$100,001-$250,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 2,
+      "field": "asset_name/date",
+      "read": "KEYCORP CMN",
+      "note": "OCR asset text was VF CORP CMN; normalized from matching annual Schedule B row (score 0.74)."
+    },
+    {
+      "row": 5,
+      "field": "asset_name/date",
+      "read": "ADVANCE AUTO PARTS, INC. CMN",
+      "note": "OCR merged the date into asset field; read as 05/19/23."
+    },
+    {
+      "row": 13,
+      "field": "asset_name/date",
+      "read": "CALL/INVOFLEX EURO PM @ 167.5 EXP 05/12/2023",
+      "note": "OCR asset text was CALL/NVO FLEX EURO PM @ 157.5 EX; normalized from matching annual Schedule B row (score 0.79)."
+    },
+    {
+      "row": 16,
+      "field": "asset_name/date",
+      "read": "PUT/XSP @ 384 EXP 07/21/2023",
+      "note": "OCR asset text was puT/xse @ 384 EX; normalized from matching annual Schedule B row (score 0.65)."
+    },
+    {
+      "row": 17,
+      "field": "asset_name/date",
+      "read": "PUT/XSP @ 397 EXP 08/18/2023",
+      "note": "OCR asset text was PUT/KSP @ 397 EX; normalized from matching annual Schedule B row (score 0.65)."
+    },
+    {
+      "row": 18,
+      "field": "asset_name/date",
+      "read": "PUT/XSP @ 387 EXP 07/31/2023",
+      "note": "OCR asset text was PUT/xse \u00a9 387 EX; normalized from matching annual Schedule B row (score 0.65)."
+    },
+    {
+      "row": 24,
+      "field": "asset_name/tx_type/amount",
+      "read": "SPDR SBP 500 ETF TRUST",
+      "note": "Could not confidently match OCR row to annual Schedule B; OCR line: SP |SPDR SBP 500 ETF TRUST x x 05/0a/23| 06/02/23 x"
+    },
+    {
+      "row": 24,
+      "field": "asset_name/date/amount",
+      "read": "SPDR S&P 500 ETF TRUST",
+      "note": "OCR read SPDR SBP and 05/0a/23; normalized to matching annual Schedule B row dated 5/8/2023."
+    }
+  ],
+  "page_confidence": "medium"
+}

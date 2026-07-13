@@ -1,0 +1,42 @@
+{
+  "pdf_page": 125,
+  "printed_label": "Page 125 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "YUM BRANDS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALGREENS BOOTS ALLIANCE, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUPONT DE NEMOURS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/21/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/2/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/19/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/1/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HILTON WORLDWIDE HOLDINGS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/1/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIVE NATION ENTERTAINMENT INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/3/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUPONT DE NEMOURS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/21/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ECOLAB INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FIDELITY NATL INFO SVCS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PRUDENTIAL FINANCIAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ZOETIS INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AT&T INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/27/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL DYNAMICS CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHARTER COMMUNICATIONS, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FIREEYE, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AT&T INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/25/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NVIDIA CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AT&T INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/31/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "XILINX INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WELLS FARGO & CO (NEW) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ORACLE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SHERWIN-WILLIAMS CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AT&T INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/9/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUKE ENERGY CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": null, "field": "page", "read": null, "note": "Heavily degraded/stippled scan; transaction-type and amount-column X marks were still consistently visible."}
+  ],
+  "page_confidence": "medium"
+}

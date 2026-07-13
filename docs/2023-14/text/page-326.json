@@ -1,0 +1,26 @@
+{
+  "pdf_page": 326,
+  "printed_label": "Page 326 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "PE PREMIER BLKSTONE LSCI V CPV", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DYNATRACE INC", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "1/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CADENCE DESIGN SYSTEM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DYNATRACE INC", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "1/12/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMAZON COM INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MSPBNA PREFERRED SAVINGS- QC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MSBNA PREFERRED SAVINGS- QC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTODESK INC DELAWARE", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "2/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALPHABET INC CL A", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FORTIVE", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/30/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HOME DEPOT", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/12/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 6, "field": "asset_name", "read": "MSPBNA PREFERRED SAVINGS- QC", "note": "Second character sequence is faint; could be MSBNA/MSPBNA. Preserved best visual reading."},
+    {"row": 7, "field": "asset_name", "read": "MSBNA PREFERRED SAVINGS- QC", "note": "First letters differ slightly from row 6 in the scan; preserved best visual reading."}
+  ],
+  "page_confidence": "medium"
+}

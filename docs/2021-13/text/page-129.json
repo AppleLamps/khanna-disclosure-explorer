@@ -1,0 +1,33 @@
+{
+  "pdf_page": 129,
+  "printed_label": "Page 129 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "QORVO, INC. CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "QUALCOMM INC CMN", "value": "$100,001-$250,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "QUANTA SERVICES INC CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "QUEST DIAGNOSTICS INCORPORATED CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "RALPH LAUREN CORP CMN CLASS A", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "RAYMOND JAMES FINANCIAL, INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "REALTY INCOME CORPORATION CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "REDMOND WASH GO 2% 12/01/21 JD LTD", "value": "$1-$1,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "REGENCY CENTERS CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "REGENERON PHARMACEUTICAL INC CMN", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "value": "$100,001-$250,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "REINSURANCE GROUP AMER INC CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "REPLIGEN CORP CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "REPUBLIC SERVICES INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "RESMED INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "RINGCENTRAL, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROCKWELL AUTOMATION INC CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROKU, INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROLLINS INC. CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 10, "field": "income_types/amount_of_income", "read": "NONE; $1,001-$2,500", "note": "checkboxes appear under NONE and amount column IV, an unusual combination"}
+  ],
+  "page_confidence": "medium"
+}

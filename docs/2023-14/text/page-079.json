@@ -1,0 +1,36 @@
+{
+  "pdf_page": 79,
+  "printed_label": "Page 79 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "AIKEN CNTY S C CONS SCH DIST GO 5% 03/01/23 MS", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AIR PRODUCTS & CHEMICALS INC CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AIRBNB, INC. CMN CLASS A", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ALASKA AIR GROUP INC(DEL HLDG) CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ALBEMARLE CORP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ALCOA CORPORATION CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ALLSTATE CORPORATION COMMON STOCK", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ALNYLAM PHARMACEUTICALS, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ALPHABET INC. CMN CLASS A", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ALTRIA GROUP, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AMAZON.COM INC CMN", "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AMCOR PLC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AMEDISYS, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AMERICAN EXPRESS CO. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AMERICAN INTL GROUP, INC. CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AMERICAN TOWER CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AMERIPRISE FINANCIAL, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AMERISOURCEBERGEN CORPORATION CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AMETEK INC (NEW) CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1994 Trust", "note": "No group header printed on this page; context inferred from the page 78 header."},
+    {"row": 10, "field": "amount_of_income", "read": "$15,001-$50,000", "note": "Alphabet amount checkbox is far right and visually faint; bucket may need second review."},
+    {"row": 16, "field": "amount_of_income", "read": "$2,501-$5,000", "note": "AIG amount checkbox is faint but appears in the $2,501-$5,000 column."}
+  ],
+  "page_confidence": "medium"
+}

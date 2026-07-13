@@ -1,0 +1,41 @@
+{
+  "pdf_page": 214,
+  "printed_label": "Page 214 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "VISA INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "XYLEM INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYCHEX, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CORTEVA, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INGERSOLL RAND INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARRIER GLOBAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROLLINS INC. REGOFF SCTASK0796636", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DENTSPLY SIRONA INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FRANKLIN RESOURCES INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTERCONTINENTAL EXCHANGE INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STERIS PUBLIC LIMITED COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DARDEN RESTAURANTS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ELI LILLY & CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "C.H. ROBINSON WORLDWIDE, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NEWMONT CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PACCAR INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTERNATIONAL PAPER CO. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTL BUSINESS MACHINES CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ORGANON & CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "U.S. BANCORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "T. ROWE PRICE GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMPHENOL CORP CL-A (NEW) CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHUBB LIMITED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALPHABET INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Rollins row includes visible account/code suffix as printed."},
+    {"field": "amount", "note": "All rows read as amount bucket A from the page image."}
+  ],
+  "page_confidence": "high"
+}

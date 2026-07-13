@@ -1,0 +1,43 @@
+{
+  "pdf_page": 122,
+  "printed_label": "Page 122 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HALLIBURTON COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMAZON.COM INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHEVRON CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/1/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BOOKING HOLDINGS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUBLIC SVC ENTERPRISE GROUP HOLDING CO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KINDER MORGAN INC CMN CLASS P", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTEL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STARBUCKS CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "U.S. BANCORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "QUALCOMM INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ZOETIS INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NEWS CORPORATION CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMDOCS LIMITED ORDINARY SHARES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PROLOGIS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MC DONALDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EASTMAN CHEMICAL COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CVS HEALTH CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BECTON, DICKINSON AND COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINNACLE WEST CAPITAL CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DANAHER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED PARCEL SERVICE, INC. CLASS B COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PFIZER INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THERMO FISHER SCIENTIFIC INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUPONT DE NEMOURS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/30/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ORACLE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/17/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": null, "field": "page", "read": null, "note": "Heavily degraded/stippled scan; transaction-type and amount-column X marks were still consistently visible."},
+    {"row": 7, "field": "asset_name", "read": "KINDER MORGAN INC CMN CLASS P", "note": "Final class letter is degraded; appears to read CLASS P."}
+  ],
+  "page_confidence": "medium"
+}

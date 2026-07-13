@@ -1,0 +1,36 @@
+{
+  "pdf_page": 6,
+  "printed_label": "Page 6 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "Citymark US Apt Fund III", "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Oak Street MAI Special Opportunity Fund", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund VI, LP", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Oak Trust Net Lease Trust OP Units", "value": "$500,001-$1,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Citymark TX5 Co-Invest Fund", "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Areco Golf/Mayfield Sand Ridge, Country Club, Cleveland, OH", "value": "Spouse/DC Asset over $1,000,000", "income_types": [], "other_income_spec": null, "amount_of_income": "$1,000,001-$5,000,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Barrington Golf Club, Country Club, Aurora, OH", "value": "Spouse/DC Asset over $1,000,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "FIDELITY GOVERNMENT CASH RESERVES", "value": "$500,001-$1,000,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VANGUARD SPECIALIZED FUNDS DIV APP", "value": "$500,001-$1,000,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNITED STATES TREAS BILLS ZERO CPN", "value": "$15,001-$50,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNITED STATES TREAS BILLS ZERO CPN", "value": "$50,001-$100,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL (SPX) NEW S&P 500 INDEX JUN 21 24 $4600", "value": "$50,001-$100,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CALL (SPX) NEW S&P 500 INDEX JUN 21 24 $4700", "value": "$250,001-$500,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PUT (SPX) NEW S&P 500 INDEX JUN 21 24 $3200", "value": "$15,001-$50,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "PUT (SPX) NEW S&P 500 INDEX JUN 21 24 $3900", "value": "$50,001-$100,000", "income_types": [], "other_income_spec": null, "amount_of_income": null, "transaction": "P"},
+    {"kind": "group", "text": "ARECO LP Commercial Property"},
+    {"kind": "group", "text": "- 2020 Trust FBO Khanna Children"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Location: Walton, OH 44146", "value": "Spouse/DC Asset over $1,000,000", "income_types": ["RENT"], "other_income_spec": null, "amount_of_income": "$1,000,001-$5,000,000", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "layout / continuation", "note": "Rows 1-15 have no group header on this page; they continue the prior page's 'ARECO LP / - 2020 Trust FBO Khanna Children' portfolio. EIF (Excepted Investment Fund) checked for rows 1-5 (Citymark US Apt III, Oak Street MAI, MAI Capital VI, Oak Trust Net Lease, Citymark TX5). NOT checked for golf clubs, Fidelity, Vanguard, Treas, options, or Walton. This page repeats the same asset names as page 4 but under a different sub-trust, with different value/amount buckets."},
+    {"row": 5, "field": "income_types / amount_of_income", "read": "Areco Golf: value col M (Spouse/DC over $1M), no income type, amount col X", "note": "Areco Golf/Mayfield Sand Ridge shows Block B value col M and a Block D amount ($1,000,001-$5,000,000, col X) with NO Block C type checkbox - internally inconsistent; transcribed as seen. Amount could be col IX. Name truncated on page (Cleveland, OH inferred)."},
+    {"row": 6, "field": "income_types / amount_of_income", "read": "Barrington Golf: no Block C or Block D marks", "note": "Barrington Golf Club: Block B value col M only; no income type and no amount checkbox marked."},
+    {"row": 7, "field": "amount_of_income", "read": "Fidelity col VII, Vanguard col VI", "note": "Fidelity DIVIDENDS amount col VII ($15,001-$50,000) and Vanguard col VI ($5,001-$15,000) each +/-1 uncertain."},
+    {"row": 17, "field": "amount_of_income", "read": "Walton amount col X", "note": "Location: Walton, OH 44146 (2020 Trust FBO Khanna Children): value col M, RENT, amount col X ($1,000,001-$5,000,000); amount could be col IX. Note this same property appears on page 5 under the 2010 Grandchildren Trust with a smaller value/amount."}
+  ],
+  "page_confidence": "medium"
+}

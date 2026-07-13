@@ -1,0 +1,130 @@
+of
+
+Schedule A - Assets and "Unearned Income" Name: Rohit Khanna Page
+ENF .
+SP, DC, JT SP SP SP
+
+Stock Name
+
+Barclays Autocallable Structured Note
+on worst of Eurostoxx 50 Index & S&P
+500 Index with contingent quarterly
+payment of 2.2875%
+
+Barclays Trigger PLUS Structured Note
+on the Eurostoxx 50 index
+
+Morgan Stanley Participation
+Securities Structured Note on the MS
+Smartinvest Equity Index
+
+Ticker
+
+SPTWG
+
+SPSOQH
+
+[Value of Asset
+
+A: None
+
+B: $1-$1,000
+
+SPQRD
+
+IC: $1,001-$15,000
+
+D: $15,003-$50,000
+
+E: $50,001-$100,000
+
+F: $100,001-$250,000
+
+G: $250,001-$500,000
+
+H: $500,001-$1,000,000
+
+7: $1,000,001-$5,000,000
+
+1: $5,000,001-$ 25,000,000
+
+K: $25,000,001-550,000,000
+
+L: Over $50,000,000
+
+Spouse/OC Asset over $1,000,000
+
+Type of Income
+
+None
+
+[Dividends
+
+Rent
+
+Interest
+
+Capital Gains
+
+Excepted/Blind Trust
+
+Tax-Deferred
+
+Other Type of Income
+
+an acca sa
+Amount of Income: Current Year
+
+~ |A: None
+
+B: $1-5200
+
+C: $201-$1,000
+
+D: $1,001-$2,500
+
+€: $2,501-$5,000
+
+F: $5,001-$15,000
+
+G: $15,001-$50,000
+
+H: $50,001-$100,000
+
+(: $100,001-$1,000,000
+
+J: $1,000,001-$5,000,000
+
+IK: Over $5,000,000
+
+Spouse/DC income over $1,000,000
+Amount of Income: Preceding Year A: None
+january 1, 2016 - December 31,2016 [B: $1-$200
+
+C: $201-$1,000
+
+0: $1,001-$2,500
+
+JE: $2,501-$5,000
+
+F: $5,001-$15,000
+
+G: $15,001-$50,000
+
+1: $50,001-$100,000
+
+SS ees
+a
+a
+
+1: $100,001-$1,000,000
+
+3: $1,000,001-$5,000,000
+
+K: Over $5,000,000
+
+Spouse/DC Income over $1,000,000
+
+MS M R Schedule A 12.31.16
+
+$/116

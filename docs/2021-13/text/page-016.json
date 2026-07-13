@@ -1,0 +1,40 @@
+{
+  "pdf_page": 16,
+  "printed_label": "Page 16 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "2020 Khanna Children Trust"},
+    {"kind": "asset", "owner": "DC", "asset_name": "3M CO", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ABBOTT LABORATORIES", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ALLSTATE CORP COM USD0.01", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ALVIN TEX INDPT SCH DIST ULTD TAX 05.", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMCOR PLC ORD USD0.01 ISIN #JE00BJ1F", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERISOURCEBERGEN CORPORATION C", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMGEN INC", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ANALOG DEVICES INC COM USD0.16 2/3", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "APPLE INC", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "APPLIED MATERIALS INC COM USD0.01", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "AVERY DENNISON CORP COM USD1", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC COM USD1.", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BELL CNTY TEX COMB TAX AND REV CTF", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BK OF AMERICA CORP COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BLACKROCK INC COM USD0.01", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BREAD FINANCIAL HOLDINGS INC COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CAPITAL ONE FINANCIAL CORP COM USD", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CATERPILLAR INC COM", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "group_text", "read": "2020 Khanna Children Trust", "note": "portfolio subheader; a solid black redaction bar covers the Block B/C/D checkbox area on this header row"},
+    {"row": 2, "field": "value", "read": "None", "note": "Every holding on this page is marked value 'None' (Block B col A); the trust's individual line items are reported with no per-line value (aggregate presumably elsewhere). Applies to all rows on page."},
+    {"row": 5, "field": "income_types", "read": "DIVIDENDS", "note": "ALVIN TEX INDPT SCH DIST (municipal bond) marked DIVIDENDS; probable INTEREST. Name truncated at cell edge (rate/maturity cut off)."},
+    {"row": 6, "field": "asset_name", "read": "AMCOR PLC ORD USD0.01 ISIN #JE00BJ1F", "note": "ISIN truncated at cell edge"},
+    {"row": 14, "field": "income_types", "read": "DIVIDENDS", "note": "BELL CNTY TEX COMB TAX AND REV CTF (municipal certificates) marked DIVIDENDS; probable INTEREST. Name truncated at cell edge."},
+    {"row": 7, "field": "asset_name", "read": "AMERISOURCEBERGEN CORPORATION C", "note": "name truncated at cell edge (COM)"},
+    {"row": 13, "field": "asset_name", "read": "BAXTER INTERNATIONAL INC COM USD1.", "note": "name truncated at cell edge (USD1.00)"},
+    {"row": 18, "field": "asset_name", "read": "CAPITAL ONE FINANCIAL CORP COM USD", "note": "name truncated at cell edge"}
+  ],
+  "page_confidence": "high"
+}

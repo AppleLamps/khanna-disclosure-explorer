@@ -1,0 +1,42 @@
+{
+  "pdf_page": 253,
+  "printed_label": "Page 253 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "HORMEL FOODS CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PFIZER INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AVANTOR FUNDING, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NATIONAL GRID PLC SPONSORED ADR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ST LOUIS MO ARPT REV REV 5% 07/01/23 JJ", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOREHEAD ST UNIV KY GEN RCPTS REV 5% 10/01/4", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STANLEY BLACK & DECKER, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DOUGLAS EMMETT, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LUMEN TECHNOLOGIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TYSON FOODS INC CL-A CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELANCO ANIMAL HEALTH INCORPORA CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "OLAPLEX HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LINCOLN NATL CORP INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL/SNY FLEX EURO PM @ 51 EXP 04/14/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL/NVO FLEX EURO PM @ 155 EXP 04/14/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL/NVS FLEX EURO PM @ 91 EXP 04/14/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/SPX @ 3975 EXP 06/21/2024", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/19/2023", "notification_date": null, "amount": "$500,001-$1,000,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL/SPX @ 4700 EXP 06/21/2024", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/19/2023", "notification_date": null, "amount": "$500,001-$1,000,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/SPX @ 3275 EXP 06/21/2024", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/19/2023", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 385 EXP 06/16/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 376 EXP 07/21/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 389 EXP 06/30/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/19/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 390 EXP 06/09/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALPHABET INC. CMN CLASS C", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GRAPHIC PACKAGING HLDGCO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIONS GATE ENTERTAINMENT CORP. CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$50,001-$100,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "amount", "note": "SPX option rows use larger amount buckets; amount columns were read from the visible right-side X marks."},
+    {"field": "asset_name", "note": "Morehead State University bond row is clipped at the asset-name column edge; visible wording was preserved."}
+  ],
+  "page_confidence": "medium"
+}

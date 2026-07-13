@@ -1,0 +1,25 @@
+{
+  "pdf_page": 9,
+  "printed_label": "Rohit Khanna Page 9 of 9",
+  "section": "Periodic Transaction Report - Transactions",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BAKER HUGHES CO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "04/07/2020",
+      "notification_date": "05/04/2020",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    "Single transaction row on final page (9 of 9); Capital Gain over $200 and Partial Sale columns read as unmarked."
+  ],
+  "page_confidence": "high"
+}

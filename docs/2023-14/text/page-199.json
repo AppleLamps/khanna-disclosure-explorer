@@ -1,0 +1,41 @@
+{
+  "pdf_page": 199,
+  "printed_label": "Page 199 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "SALESFORCE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REALTY INCOME CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KROGER COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CORTEVA, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LAMB WESTON HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NASDAQ INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CROWN CASTLE INTL CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INCYTE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FORTINET, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TAKE TWO INTERACTIVE SOFTWARE INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HOLOGIC INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTODESK, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTL BUSINESS MACHINES CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY HYBRID MTN 01/24/2029 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MONSTER BEVERAGE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALIGN TECHNOLOGY, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ANSYS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SYSCO CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTUIT INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTUITIVE SURGICAL, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BLACKROCK, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SYNOPSYS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "T-MOBILE US, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AT&T INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/26/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "amount", "note": "The first three sale rows read as amount bucket B; the remaining sale rows read as amount bucket A."}
+  ],
+  "page_confidence": "medium"
+}

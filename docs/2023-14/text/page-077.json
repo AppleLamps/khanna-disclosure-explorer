@@ -1,0 +1,37 @@
+{
+  "pdf_page": 77,
+  "printed_label": "Page 77 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "S&P GLOBAL INC. CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SAN FRANCISCO CALIF CITY & GO 5% 06/15/23 JD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SNAP INC. CMN CLASS A", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX BUFFE", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX BUFFE", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX CNTN", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SOCIETE GENERALE LINKED TO S&P 500 INDEX CNTN", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 INDE", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 INDE", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 INDE", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 INDE", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TORONTO DOMINION BANK LINKED TO S&P 500 INDEX", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TORONTO DOMINION BANK LINKED TO S&P 500 INDEX", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TORONTO DOMINION BANK LINKED TO S&P 500 INDEX", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TRIBOROUGH BRDG & TUNL AUTH N REV 5% 05/15/28", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "TRIBOROUGH BRDG & TUNL AUTH NY REV 5.0000% 1", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "UNIVERSITY OKLA REVS REV 1.1710% 07/01/25 JJ", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "UNIVERSITY OKLA REVS REV 1.1710% 07/01/25 JJ TAX", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "UTIL DEBT SECURTZTION AUTH NY REV 5.000% 06/1", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1995 Trust", "note": "No group header printed on this page; context inferred from surrounding attachment pages."},
+    {"row": 1, "field": "amount_of_income", "read": "$1,001-$2,500", "note": "S&P Global amount checkbox is faint but appears in the $1,001-$2,500 column."},
+    {"row": 16, "field": "asset_name", "read": "TRIBOROUGH BRDG & TUNL AUTH NY REV 5.0000% 1", "note": "Printed asset name is truncated at the asset-name column edge."},
+    {"row": 20, "field": "asset_name", "read": "UTIL DEBT SECURTZTION AUTH NY REV 5.000% 06/1", "note": "Printed asset name is truncated at the asset-name column edge and uses the printed spelling SECURTZTION."}
+  ],
+  "page_confidence": "medium"
+}

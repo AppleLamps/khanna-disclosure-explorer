@@ -1,0 +1,34 @@
+{
+  "pdf_page": 99,
+  "printed_label": "Page 99 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "WIX COM LTD CMN", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WOODWARD INC CMN", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WORLD WRESTLING ENTERTAINMENT C", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WYNN RESORTS, LIMITED CMN", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "XCEL ENERGY INC. CMN", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "XEROX HOLDINGS CORP CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "XILINX INCORPORATED CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "XYLEM INC. CMN", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "YANDEX N.V. CMN", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "YUM BRANDS, INC. CMN", "eif": false, "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "YUM CHINA HOLDINGS, INC. CMN", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ZEBRA TECHNOLOGIES INC CMN CLASS", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ZIMMER BIOMET HOLDINGS INC", "eif": false, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ZOETIS INC. CMN CLASS A", "eif": false, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ZOOM VIDEO COMMUNICATIONS INC CM", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ZYNGA INC. CMN CLASS A", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "group", "text": "Ritu Ahuja Declaration Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ADOBE INC CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 3, "field": "asset_name", "read": "WORLD WRESTLING ENTERTAINMENT C", "note": "right edge is clipped by the grid"},
+    {"row": 12, "field": "asset_name", "read": "ZEBRA TECHNOLOGIES INC CMN CLASS", "note": "class suffix is clipped"},
+    {"row": 15, "field": "asset_name", "read": "ZOOM VIDEO COMMUNICATIONS INC CM", "note": "right edge is clipped"}
+  ],
+  "page_confidence": "medium"
+}

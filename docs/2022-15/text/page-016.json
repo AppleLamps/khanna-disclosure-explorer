@@ -1,0 +1,344 @@
+{
+  "pdf_page": 16,
+  "printed_label": "Page 16 of 367",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "BANK OF AMERICA CORPORATION HYBRID PERPETUAL USD",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "BANK OF NEW YORK MELLON CORPOR HYBRID PERPETUAL USD",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "BANK OF NOVA SCOTIA (THE) HYBRID PERPETUAL USD",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "BECTON, DICKINSON AND COMPANY CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "BIONTECH SE SPONSORED ADR CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "BLOCK, INC. CMN CLASS A",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "BOOKING HOLDINGS INC. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "BORGWARNER INC. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "Broad Street Senior Credit Partners II, L.P.",
+      "eif": true,
+      "value": "$100,001-$250,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": "PTN",
+      "amount_of_income": "$5,001-$15,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "BROADCOM INC. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/AAPL FLEX EURO PM 155 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/AAPL FLEX EURO PM 170 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/AAPL FLEX EURO PM 162.5 EXP 01/07/2022",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/AMT FLEX EURO PM @ 230 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/APTV FLEX EURO PM 108 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/APTV FLEX EURO PM 112.5 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/APTV FLEX EURO PM 117.5 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/AXP FLEX EURO PM @ 165 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/AXP FLEX EURO PM @ 175 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/CSCO FLEX EURO PM 49 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/CSCO FLEX EURO PM 53 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/CVS FLEX EURO PM @ 107.5 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/CVS FLEX EURO PM @ 110 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/CVS FLEX EURO PM @ 110 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "checkbox_columns",
+      "read": "best-effort from dense attached Schedule A grid",
+      "note": "Repeated-grid geometry and quadrant crops used; some exact value/income amount buckets are marginal in the scan and should be reviewed against the page image."
+    }
+  ],
+  "page_confidence": "medium"
+}

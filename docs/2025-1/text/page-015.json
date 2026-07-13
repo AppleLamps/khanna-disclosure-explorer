@@ -1,0 +1,29 @@
+{
+  "pdf_page": 15,
+  "printed_label": "Page 15 of 34",
+  "section": "SCHEDULE B - TRANSACTIONS (Periodic Transaction Report)",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "AMPHENOL CORP CL-A (NEW) CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PFIZER INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LINDE PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EATON CORP PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FASTENAL COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MEDTRONIC PUBLIC LIMITED COMPA CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SYNOPSYS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROPER TECHNOLOGIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PARKER-HANNIFIN CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EMERSON ELECTRIC CO. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTERCONTINENTAL EXCHANGE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "XYLEM INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AUTOMATIC DATA PROCESSING INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CVS HEALTH CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REPUBLIC SERVICES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBOTT LABORATORIES CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CDW CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

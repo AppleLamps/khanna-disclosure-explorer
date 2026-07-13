@@ -1,0 +1,210 @@
+{
+  "pdf_page": 4,
+  "printed_label": "Rohit Khanna Page 4 of 28",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OKTA, INC. CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "03/03/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "CORNING INCORPORATED CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OKTA, INC. CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/17/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "AMERICAN INTL GROUP, INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ABBOTT LABORATORIES CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "OKTA, INC. CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/19/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "HARTFORD INSURANCE GROUP INC/T CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "03/03/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DUN & BRADSTREET HOLDINGS, INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/25/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "MICRON TECHNOLOGY, INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/17/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "Ahuja Khanna Children Irrevocable Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BANK OF MONTREAL LINKED TO S&P 500 INDEX",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/27/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "TORONTO DOMINION BANK LINKED TO S&P 500 INDEX",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/13/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ADOBE INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "BANK OF AMERICA CORP CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LAM RESEARCH CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ALPHABET INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "PROCTER & GAMBLE COMPANY (THE) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "LINDE PLC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/12/25",
+      "notification_date": "04/07/25",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "tx_type/cap_gain_over_200/partial_sale",
+      "read": "Several upper-block sale and partial-sale checkboxes",
+      "note": "Page 4 image is legible but small; upper block has multiple sale, capital-gain, and partial-transaction marks. Amount marks are clear: upper block A, lower trust rows mostly B except Linde A."
+    }
+  ],
+  "page_confidence": "medium"
+}

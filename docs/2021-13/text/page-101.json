@@ -1,0 +1,36 @@
+{
+  "pdf_page": 101,
+  "printed_label": "Page 101 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "INTUITIVE SURGICAL, INC. CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "LONG IS PWR AUTH N Y ELEC SYS REV 1", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "LOS ANGELES CNTY CALIF REDEV REV A", "eif": false, "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MATCH GROUP, INC. CMN", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "META PLATFORMS INC-CLASS A CMN CL", "eif": false, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "METROPOLITAN TRANS AUTH REV 5.0000", "eif": false, "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "METROPOLITAN TRANSN AUTH N Y REV", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "METROPOLITAN TRANSN AUTH N Y REV", "eif": false, "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MICROSOFT CORPORATION CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "MONROE CNTY N Y GO 5% 06/01/23 JD", "eif": false, "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MONROE CNTY N Y IDA SCH FAC REV 5%", "eif": false, "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NY ST DORM AUTH ST PERS REV 5%", "eif": false, "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NY ST ENV FACS CORP REV 5% 10/1/22", "eif": false, "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NASSAU CNTY NY GO 5% 10/01/24 AO GO", "eif": false, "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NASSAU CNTY NY INTERIM FIN REV 0.70", "eif": false, "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "NETFLIX, INC. CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEW YORK N Y CITY TRANSITIONAL REV", "eif": false, "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEW YORK N Y GO 5% 08/01/26 FA GO BQ", "eif": false, "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEW YORK ST DORM AUTH SALES REV 5", "eif": false, "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several municipal bond descriptions are clipped at the right edge of Block A; transcribed visible text only."},
+    {"row": 2, "field": "income_types", "read": "NONE", "note": "Long Island Power Auth row mark appears under NONE; bond row may be expected to be INTEREST but image alignment reads NONE."},
+    {"row": 7, "field": "income_types", "read": "NONE", "note": "First Metropolitan Transn Auth N Y Rev row's income mark appears aligned under NONE."},
+    {"row": 17, "field": "income_types", "read": "NONE", "note": "New York City Transitional Rev row's income mark appears aligned under NONE."}
+  ],
+  "page_confidence": "medium"
+}

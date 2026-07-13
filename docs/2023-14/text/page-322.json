@@ -1,0 +1,41 @@
+{
+  "pdf_page": 322,
+  "printed_label": "Page 322 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "BLACKSTONE GROUP INC/THE CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GARTNER, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EDWARDS LIFESCIENCES CORPORATI CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MARVELL TECHNOLOGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DYNATRACE HOLDINGS LLC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UBER TECHNOLOGIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ANALOG DEVICES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ATLASSIAN CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ECOLAB INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BIO-RAD LABORATORIES, INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE HOME DEPOT, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERALTO CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ARTHUR J GALLAGHER & CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HAMILTON CNTY OHIO SALES TAX REV 5% 12/01/30", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/7/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM 5.986% 10/03/", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 04/23/2029 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION HYBRID MTN 06/", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTONATION INC 4.75% 06/01/2030 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY HYBRID MTN 07/22/2028 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TIGER GLOBAL CROSSOVER ACCESS", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/25/2023", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for TPG Tech Adjacencies II Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/2/2023", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for RedBird 2019 Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/28/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for WSSCPIII", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "2/2/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for WSCP VIII", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/23/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for WSGG", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/4/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Capital call for Carlyle Opportunities Access", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "7/14/2023", "notification_date": null, "amount": "$100,001-$250,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Rows 15 and 17 are clipped after the bond maturity/coupon text; visible text is preserved."},
+    {"field": "amount", "note": "Amount buckets were assigned from mark positions in the image; private-fund capital-call rows are clearer than the cropped bond-name endings."}
+  ],
+  "page_confidence": "medium"
+}

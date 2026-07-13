@@ -1,0 +1,40 @@
+{
+  "pdf_page": 181,
+  "printed_label": "Page 181 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "CHARTER COMMUNICATIONS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "M&T BANK CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AT&T INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EMERSON ELECTRIC CO. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FEDEX CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COMCAST CORPORATION CMN CLASS A VOTING", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LOEWS CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MARSH & MCLENNAN CO INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN EXPRESS CO. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SHERWIN-WILLIAMS CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BROWN FORMAN CORP CL B CMN CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DOW INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NETAPP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CME GROUP INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALTRIA GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHUBB LIMITED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HIGHWOODS PROPERTIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRANSUNION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LYONDELLBASELL INDUSTRIES N.V. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRIMBLE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTERNATIONAL PAPER CO. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KILROY REALTY CORPORATION COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VENTAS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VORNADO REALTY TRUST CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CITIZENS FINANCIAL GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/24/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "amount", "note": "Amounts are transcribed from the visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "high"
+}

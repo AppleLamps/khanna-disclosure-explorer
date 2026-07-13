@@ -1,0 +1,36 @@
+{
+  "pdf_page": 58,
+  "printed_label": "Page 58 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "MCKESSON CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MEDICAL PROPERTIES TRUST INC CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MEDTRONIC PUBLIC LIMITED COMPA CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MERCADOLIBRE, INC. CMN", "value": "$1-$1,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MERCK & CO., INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "META PLATFORMS INC-CLASS A CMN CLASS A", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "METLIFE, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "METTLER-TOLEDO INTL CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MGM RESORTS INTERNATIONAL CMN", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MICROCHIP TECHNOLOGY INCORPORA CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MICROSOFT CORPORATION CMN", "value": "$100,001-$250,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MID-AMERICA APT CMNTYS INC CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MODERNA, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MOLINA HEALTHCARE, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MONDELEZ INTERNATIONAL, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MONOLITHIC POWER SYSTEMS, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MONSTER BEVERAGE CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MOODY'S CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1995 Trust", "note": "No group header printed on this page; context inferred from surrounding attachment pages."},
+    {"row": 3, "field": "asset_name", "read": "MEDTRONIC PUBLIC LIMITED COMPA CMN", "note": "Printed name is visibly truncated before COMPANY."},
+    {"row": 10, "field": "asset_name", "read": "MICROCHIP TECHNOLOGY INCORPORA CMN", "note": "Printed name is visibly truncated before INCORPORATED."}
+  ],
+  "page_confidence": "medium"
+}

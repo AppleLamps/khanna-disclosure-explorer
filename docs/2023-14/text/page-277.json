@@ -1,0 +1,40 @@
+{
+  "pdf_page": 277,
+  "printed_label": "Page 277 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "IDEX CORPORATION COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GRAPHIC PACKAGING HLDGCO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DOVER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUBLIC STORAGE CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SENSATA TECHNOLOGIES HOLDING P CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NORTHERN TRUST CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE PROGRESSIVE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CARRIER GLOBAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ASTRAZENECA PLC SPONS ADR SPONSORED ADR", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/30/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NEWMONT CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GRAPHIC PACKAGING HLDGCO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ACCENTURE PLC CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COSTCO WHOLESALE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNILEVER PLC (NEW) SPONSORED ADR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GRAPHIC PACKAGING HLDGCO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIVENT CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROCKWELL AUTOMATION INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SBA COMMUNICATIONS CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/9/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "AstraZeneca row includes the repeated SPONS ADR/SPONSORED ADR wording visible in the source image."}
+  ],
+  "page_confidence": "high"
+}

@@ -1,0 +1,41 @@
+{
+  "pdf_page": 225,
+  "printed_label": "Page 225 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SYNCHRONY FINANCIAL CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALPHABET INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "S&P GLOBAL INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERALTO CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KEYSIGHT TECHNOLOGIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DENTSPLY SIRONA INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHARLES RV LABS INTL INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DELTA AIR LINES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CAESARS ENTERTAINMENT INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BIO-TECHNE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TERADYNE INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HIGHWOODS PROPERTIES INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARMAX INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ENPHASE ENERGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SOUTHWEST AIRLINES CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DOCUSIGN, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ORGANON & CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRANSUNION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MATCH GROUP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BIO-RAD LABORATORIES, INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LABORATORY CORPORATION OF AMER CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JOHNSON & JOHNSON CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MC DONALDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GILEAD SCIENCES CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/5/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "All 11/3/2023 rows read as Sale; the three 12/5/2023 rows read as Purchase."},
+    {"field": "amount", "note": "Johnson & Johnson reads as amount bucket B; all other rows read as amount bucket A."}
+  ],
+  "page_confidence": "high"
+}

@@ -1,0 +1,18 @@
+{
+  "pdf_page": 1,
+  "printed_label": "Rohit Khanna Page 1 of 20",
+  "section": "UNITED STATES HOUSE OF REPRESENTATIVES - Periodic Transaction Report",
+  "page_type": "ptr_cover",
+  "filer": "Rohit Khanna",
+  "rows": [],
+  "free_text": "**UNITED STATES HOUSE OF REPRESENTATIVES \u2014 Periodic Transaction Report**\n\n- **NAME:** Rohit Khanna\n- **OFFICE TELEPHONE:** 202-225-2631\n- [X] Member of the U.S. House of Representatives \u2014 State: CA, District: 17\n- [ ] Officer or Employee \u2014 Employing Office: (blank)\n- Did you purchase any shares that were allocated as a part of an Initial Public Offering? [ ] Yes  [X] No\n- Initial report checked; amendment unchecked.\n- Date of Report Being Amended: (blank)\n- Received stamp/marking: HAND DELIVERED / Legislative Resource Center, Office of the Clerk.\n\nTransaction grid contains only the printed example row (Mega Corp); no real transaction rows on the cover.",
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "received stamp",
+      "read": "HAND DELIVERED / Legislative Resource Center",
+      "note": "Timestamp is degraded in the scan and not fully legible."
+    }
+  ],
+  "page_confidence": "medium"
+}

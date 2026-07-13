@@ -1,0 +1,41 @@
+{
+  "pdf_page": 195,
+  "printed_label": "Page 195 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTODESK, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIDELITY NATL INFO SVCS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN INTL GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GE HEALTHCARE TECHNOLOGIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITED AIRLINES HOLDINGS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TERADYNE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WELLTOWER INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CITIGROUP INC. HYBRID 04/23/2029 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CBRE GROUP, INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMPHENOL CORP CL-A (NEW) CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BUNGE LIMITED ORD CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "S&P GLOBAL INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NXP SEMICONDUCTORS N.V. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MARSH & MCLENNAN CO INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DEXCOM, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, 2.55% 01/22/2030", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CDW CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OLD DOMINION FREIGHT LINE, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MOLINA HEALTHCARE, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SYSCO CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AGILENT TECHNOLOGIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MOTOROLA SOLUTIONS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTOMATIC DATA PROCESSING INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "QUALCOMM INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DANAHER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "The PNC bond name is clipped at the asset-name column edge; visible wording was completed using the matching holding name on earlier 2023 pages."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."}
+  ],
+  "page_confidence": "medium"
+}

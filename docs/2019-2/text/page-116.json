@@ -1,0 +1,25 @@
+{
+  "pdf_page": 116,
+  "printed_label": "Rohit Khanna 116 of 210",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "M and R Schedule B"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MSILF TREASURY SECURITIES INST(MSUXX)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "08/20/2019", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BLACKROCK LIQ MUNICASH INST(MCSXX)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "08/30/2019", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MSILF TREASURY SECURITIES INST(MSUXX)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "08/30/2019", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ESTEE LAUDER CO INC CL A(EL)", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "09/04/2019", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTUIT INC(INTU)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "09/04/2019", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTUITIVE SURGICAL INC(ISRG)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "09/04/2019", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "S&P GLOBAL INC COM(SPGI)", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "09/04/2019", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VISA INC CL A(V)", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "09/04/2019", "notification_date": null, "amount": "$1-$1,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALIGN TECHNOLOGY(ALGN)", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "09/06/2019", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ECOLAB INC(ECL)", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "09/06/2019", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "layout", "read": "transposed Schedule B: 10 columns = 10 transactions; fields run down the rows. No printed A-L amount-label column (buckets inferred by position). MSUXX(col1), MCSXX(col2), MSUXX(col3) are marked EIF in the top header row."}
+  ],
+  "page_confidence": "high"
+}

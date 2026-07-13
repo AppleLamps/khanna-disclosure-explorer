@@ -1,0 +1,15 @@
+{
+  "pdf_page": 7,
+  "printed_label": "Page 7 of 8",
+  "section": "Periodic Transaction Report — attached transaction table (continuation)",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "AETNA INC CMN", "tx_type": "Sale", "date": "02/27/2017", "notification_date": "03/07/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HENRY SCHEIN INC COMMON STOCK", "tx_type": "Sale", "date": "02/27/2017", "notification_date": "03/07/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROSS STORES,INC CMN", "tx_type": "Purchase", "date": "02/27/2017", "notification_date": "03/07/2017", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": "Continuation page — no group header printed; rows continue the RA '94 Trust block.",
+  "uncertainties": [],
+  "page_confidence": "high"
+}

@@ -1,0 +1,344 @@
+{
+  "pdf_page": 40,
+  "printed_label": "Page 40 of 67",
+  "section": "Periodic Transaction Report - transactions",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BERKSHIRE HATHAWAY INC, CLASS B",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LIBERTY MEDIA CORPORATION SERIES A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MERCADOLIBRE, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INSULET CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE PROGRESSIVE CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TRADE DESK INC. (THE) CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "STORE CAPITAL CORPORATION CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KKR & CO, INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VERISIGN, INC, CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PROLOGIS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CLOUDFLARE,INC. CMN CLASSA",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FRANKLIN RESOURCES INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "URBAN OUTFITTERS INC CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NVR, INC. CMN",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BALL CORPORATION CMN )",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SNOWFLAKE INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FEDERAL REALTY INVESTMENT TRUS CM",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "[UNKNOWN]",
+      "notification_date": "06/02/2022",
+      "amount": "[UNKNOWN]"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 2,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 3,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 4,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 5,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 6,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 7,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 8,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 10,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 11,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 12,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 16,
+      "field": "tx_type",
+      "read": "Purchase",
+      "note": "normalized from the repeated single purchase-column mark visible before the transaction date"
+    },
+    {
+      "row": 16,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "amount checkbox/column is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 17,
+      "field": "tx_type",
+      "read": "Purchase",
+      "note": "normalized from the repeated single purchase-column mark visible before the transaction date"
+    },
+    {
+      "row": 17,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 17,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "amount checkbox/column is not recoverable from the degraded row evidence"
+    },
+    {
+      "row": 9,
+      "field": "asset_name",
+      "read": "VERISIGN, INC, CMN",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 13,
+      "field": "asset_name",
+      "read": "URBAN OUTFITTERS INC CMN",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 14,
+      "field": "asset_name",
+      "read": "NVR, INC. CMN",
+      "note": "asset name reconciled from degraded OCR; verify against page/quadrant image"
+    },
+    {
+      "row": 13,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 16,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 9,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 14,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    },
+    {
+      "row": 15,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "transaction date not set exactly because OCR row count does not align with JSON rows on this degraded page"
+    }
+  ],
+  "page_confidence": "low"
+}

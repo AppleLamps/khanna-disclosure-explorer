@@ -1,44 +1,72 @@
-# Ro Khanna — Financial Disclosure Explorer (2024)
+# Ro Khanna Financial Disclosure Open Data
 
-An independent, searchable transcription of Rep. Ro Khanna's (CA-17) 2024 annual House Financial Disclosure Report, presented as a static website for political transparency.
+An open, reproducible data dump and static explorer of Rep. Ro Khanna's U.S. House financial
+disclosure filings from 2016–2026. The repository includes the source PDFs, 4,057 page images,
+page-level structured transcriptions, raw Tesseract text, normalized analysis tables, quality
+reports, and the code used to compile them.
 
-**Official source filing:** https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/9115596.pdf (333-page paper scan, no machine-readable text; a copy is in `disclosures.pdf`).
+The data is designed for independent analysis. Every normalized record links back to a page,
+source JSON file, and scan. Dollar figures remain the statutory ranges reported on the forms;
+the filings generally do not disclose exact values.
 
-## Run it
+## Use the data
+
+Start with [`data/README.md`](data/README.md). The main tables are in `data/normalized/`, in
+both newline-delimited JSON and CSV:
+
+- `assets` — annual Schedule A holdings with numeric lower and upper bounds.
+- `transactions` — annual Schedule B and PTR transactions with reported and ISO dates.
+- `documents`, `pages`, and `page_rows` — source/provenance indexes and every raw row.
+- `uncertainties` — OCR and transcription warnings linked to individual pages.
+
+`data/manifest.json` provides row counts and SHA-256 checksums. `data/quality-report.json`
+records the latest full audit.
+
+## Reproduce the release
+
+Python 3 is the only runtime dependency:
+
+```sh
+make open-data
+```
+
+That command recompiles every year, rebuilds the normalized dump, and fails if the structural
+audit finds missing source artifacts, pending pages, blank required text, or invalid ranges.
+
+## Run the website
 
 ```sh
 python3 -m http.server 8742
 # open http://localhost:8742/
 ```
 
-Everything is static — `index.html`, the per-year `data-*.js` files, `timeline-data.js`, and images. Deploy by serving this directory on any static host.
+The explorer is static: `index.html`, `data-YYYY.js`, `timeline-data.js`, and the page images.
+The Overview, Assets, Transactions, and Document views allow browsing the same source-backed
+records without writing code.
 
-## Deploy to Vercel
+## Repository map
 
-The repo is zero-config for Vercel:
+```text
+data/normalized/       generated JSONL and CSV analysis tables
+data/manifest.json     checksums, counts, coverage, schema version
+data/quality-report.json structural audit result
+docs/src/              original PDFs for 2016–2023 and 2025–2026
+docs/<document>/pages/ readable page scans
+docs/<document>/text/  page-level structured transcriptions
+docs/<document>/tess/  raw Tesseract output
+ocr/                   equivalent 2024 source/transcription pipeline
+data-YYYY.js           generated website datasets
+scripts/               release and audit tooling
+```
 
-1. [vercel.com/new](https://vercel.com/new) → import `khanna-disclosure-explorer` from GitHub.
-2. Keep all defaults (no framework, no build command — it's detected as a static deployment). Deploy.
-3. The site is served at `https://khanna-disclosure-explorer.vercel.app/` (the app lives at the repo root; `vercel.json` sets long-lived caching for the page scans).
+## Method and limitations
 
-Or from the CLI: `npm i -g vercel && vercel --prod` in this directory.
+The filings are image scans. Pages were transcribed from full-page images and high-resolution
+crops, cross-checked against Tesseract, and annotated with uncertainties. This is a best-effort
+transcription and can contain errors. Verify consequential findings against the included scans
+and official filings. Open-ended reported ranges retain a null upper bound and an explicit
+`*_has_open_upper_bound` flag; they must not be treated as zero.
 
-`.vercelignore` uploads only what the site serves (`index.html`, `data.js`, `assets/`, `ocr/pages/`), skipping the source PDF and pipeline files. The social-card tags (`og:url`, `og:image`, `twitter:image`) are hardcoded to the default project URL above — update them in `index.html` if you rename the project or attach a custom domain.
-
-## What's in the site
-
-- **Overview** — evidence-first summary, key findings, ownership attribution, annual holdings history, public-position context, holdings by asset class, largest holdings, family trusts & partnerships, and trading activity
-- **Assets** — all Schedule A line-items: search, filters (class, owner, portfolio, value, income type), plain-English "what it is" descriptor per asset, CSV export
-- **Transactions** — all Schedule B trades: search, filters, CSV export
-- **Document** — the original scan side-by-side with the structured transcription, page by page, with uncertain readings flagged
-
-## How the transcription was made (`ocr/`)
-
-The filing is a pure image scan. Each page was transcribed by a large vision model reading the full page plus four overlapping high-resolution crops (for the fine print and checkbox-column positions), cross-checked against Tesseract OCR, with uncertain readings flagged per cell (`ocr/SPEC.md`). An independent second-pass verification (`ocr/VERIFY.md`) re-reads every page against the first-pass JSON. Per-page structured data lives in `ocr/text/page-NNN.json`; `ocr/compile.py` builds `site/data.js`.
-
-All dollar figures are the statutory range buckets the form requires — the filing never states exact values, and some holdings are reported only as "over $1,000,000" with no upper bound.
-
-## Caveats
-
-- This is an unofficial, best-effort transcription. For authoritative data, consult the original filing.
-- The header/social-card photo is Getty Images editorial content (Kevin Dietsch); using it on a public site may require an editorial license.
+Code is MIT licensed. Contributor-created transcriptions and normalized data are dedicated to
+the public domain under CC0. See [`DATA_LICENSE.md`](DATA_LICENSE.md) for source-material and
+third-party-rights caveats.

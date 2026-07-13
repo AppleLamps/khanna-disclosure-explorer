@@ -1,0 +1,16 @@
+{
+  "pdf_page": 60,
+  "printed_label": "60/116",
+  "section": "Schedule A - Assets and \"unearned Income\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Transposed spreadsheet-style Schedule A attachment (MS ARECO Schedule A 12.31.16): assets are columns, value/income buckets are rows, filled (blacked) cells are the selections. Transcribed one row per asset column. Separate 'Amount of Income: Current Year' and 'Amount of Income: Preceding Year (January 1, 2016 - December 31, 2016)' blocks recorded as amount_of_income_current_year and amount_of_income_preceding_year. EIF row blank for all columns.",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "Starwood Property Trust Inc", "ticker": "STWD", "value": "A: None", "income_types": ["Dividends", "Capital Gains"], "other_income_spec": null, "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "B: $1-$200", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Sykes Enterprises Inc", "ticker": "SYKE", "value": "A: None", "income_types": ["Capital Gains"], "other_income_spec": null, "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "A: None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "Terex Cp New Del", "ticker": "TEX", "value": "A: None", "income_types": ["Dividends", "Capital Gains"], "other_income_spec": null, "amount_of_income_current_year": "A: None", "amount_of_income_preceding_year": "C: $201-$1,000", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

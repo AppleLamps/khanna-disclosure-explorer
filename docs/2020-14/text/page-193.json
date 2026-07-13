@@ -1,0 +1,42 @@
+{
+  "pdf_page": 193,
+  "printed_label": "Page 193 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "LARCH CAPITAL GROUP LTD. CMN", "tx_type": "Sale", "partial_sale": false, "cap_gain_over_200": false, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HANESBRANDS INC. CMN", "tx_type": "Sale", "partial_sale": false, "cap_gain_over_200": false, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "QORVO, INC. CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED AIRLINES HOLDINGS INC CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EDWARDS LIFESCIENCES CORPORATI CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HEALTHPEAK PROPERTIES INC CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DENTSPLY SIRONA INC CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SKYWORKS SOLUTIONS, INC. CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NEWS CORPORATION CMN CLASS A", "tx_type": "Sale", "partial_sale": false, "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VARIAN MEDICAL SYSTEMS INC CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KILROY COMPANY CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": true, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CINCINNATI FINANCIAL CRP CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "9/1/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EBAY INC. CMN", "tx_type": "Sale", "partial_sale": false, "cap_gain_over_200": false, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "XYLEM INC. CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINNACLE FINL PARTNERS INC CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": true, "date": "1/8/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTERPUBLIC GROUP COS CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AFFILIATED MANAGERS GROUP INC CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CADENCE DESIGN SYSTEMS INC CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": true, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HANESBRANDS INC. CMN", "tx_type": "Sale", "partial_sale": false, "cap_gain_over_200": false, "date": "8/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FLEETCOR TECHNOLOGIES, INC. CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": true, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "N V R INC CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHUBB LIMITED CMN", "tx_type": "Sale", "partial_sale": false, "cap_gain_over_200": false, "date": "9/1/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "IRON MOUNTAIN INCORPORATED CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HD SUPPLY HOLDINGS, INC. CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CONAGRA BRANDS INC CMN", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": true, "date": "2/11/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "partial_sale": false, "cap_gain_over_200": true, "date": "4/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROYAL CARIBBEAN CRUISES LTD ISIN: LR0008862868", "tx_type": "Partial Sale", "partial_sale": true, "cap_gain_over_200": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 5, "field": "asset_name", "read": "EDWARDS LIFESCIENCES CORPORATI CMN", "note": "Name appears truncated as printed/OCR."},
+    {"row": 25, "field": "cap_gain_over_200", "read": "true", "note": "Capital gain mark is faint but aligns with the row."}
+  ],
+  "page_confidence": "medium"
+}

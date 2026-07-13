@@ -1,0 +1,21 @@
+{
+  "pdf_page": 18,
+  "printed_label": "Rohit Khanna 18 of 210",
+  "section": "Schedule A: Assets and \"Unearned\" Income",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table, transposed spreadsheet layout: one asset per column, attribute labels down the left. Selections are black-filled cells. Sheet title 'Areco Schedule A'. Five asset columns on this page (AMERICAN TOWER and AMAZON each appear twice under different owners).",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "ALLERGAN PLC SHS", "ticker": "AGN", "eif": null, "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P, S(Part), S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICAN TOWER REIT COM(AMT)", "ticker": "AMT", "eif": null, "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S(Part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AMERICAN TOWER REIT COM(AMT)", "ticker": "AMT", "eif": null, "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S(Part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "AMAZON COM INC(AMZN)", "ticker": "AMZN", "eif": null, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMAZON COM INC(AMZN)", "ticker": "AMZN", "eif": null, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 3, "field": "amount_of_income", "read": "$1,001-$2,500", "note": "AMERICAN TOWER (SP) amount band read at row D; AGN and AMT(DC) sit at row B ($1-$200); slight column-alignment ambiguity between B and D bands"},
+    {"row": 4, "field": "income_types", "read": "NONE", "note": "both AMAZON columns marked income type None and amount None despite Sale (S) transaction; recorded as shown on form"}
+  ],
+  "page_confidence": "high"
+}

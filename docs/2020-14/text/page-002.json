@@ -1,0 +1,14 @@
+{
+  "pdf_page": 2,
+  "printed_label": "Page 2 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Blank Schedule A grid form page with printed column headers (Block A Assets/Income Sources; Block B Value of Asset columns A-M; Block C Type of Income; Block D Amount of Income columns I-XII; Block E Transaction). Contains only the three pre-printed grey example rows (Mega Corp Stock / Simon & Schuster / ABC Hedge Fund) and the filer's notation 'Please see the attached'. No filer asset data on this page; actual holdings are in the attached typed tables on following pages.",
+  "rows": [
+    {"kind": "group", "text": "Please see the attached"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

@@ -1,0 +1,35 @@
+{
+  "pdf_page": 90,
+  "printed_label": "Page 90 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "QURATE RETAIL INC CMN SERIES A", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "RAYTHEON TECHNOLOGIES CORPORAT", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "REALTY INCOME CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "REGENCY CENTERS CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "REGENERON PHARMACEUTICAL INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "REINSURANCE GROUP AMER INC CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "RELIANCE STEEL & ALUMINUM CO CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "RENAISSANCE RE HOLDINGS LTD CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "REPUBLIC SERVICES INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "RESMED INC. CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "REYNOLDS CONSUMER PRODUCTS INC", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "RICHLAND CNTY SC SCH DIST NO GO 5", "value": "$1-$1,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "RINGCENTRAL, INC. CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ROCKWELL AUTOMATION INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ROLLINS INC. CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ROPER TECHNOLOGIES INC CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ROSS STORES,INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ROUND ROCK TEX INDPT SCH DIST GO 5", "value": "$1-$1,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 2, "field": "asset_name", "read": "RAYTHEON TECHNOLOGIES CORPORAT", "note": "asset-name cell clips the final letters"},
+    {"row": 13, "field": "asset_name", "read": "RICHLAND CNTY SC SCH DIST NO GO 5", "note": "bond description clipped after coupon"},
+    {"row": 19, "field": "asset_name", "read": "ROUND ROCK TEX INDPT SCH DIST GO 5", "note": "bond description clipped after coupon"}
+  ],
+  "page_confidence": "medium"
+}

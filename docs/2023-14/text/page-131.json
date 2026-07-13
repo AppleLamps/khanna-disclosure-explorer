@@ -1,0 +1,36 @@
+{
+  "pdf_page": 131,
+  "printed_label": "Page 131 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "HEDGE FUND SELECT: MILLENNIUM LLC CLASS A SER", "value": "$1,000,001-$5,000,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "KKR PRINCIPAL OPPORTUNITIES ACCESS LP", "value": "$500,001-$1,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$50,001-$100,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MOUNT KELLETT CAPITAL PARTNERS II ACCESS LP", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "PETERSHILL II LP", "value": "$1,000,001-$5,000,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "REDBIRD SERIES 2019 ACCESS LLC", "value": "$1,000,001-$5,000,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "SMS INVESTORS LP", "value": "$50,001-$100,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TIGER GLOBAL CROSSOVER ACCESS LLC CLASS A1 S", "value": "$500,001-$1,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TIGER GLOBAL CROSSOVER ACCESS LLC CLASS A1 S", "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "TIGER GLOBAL CROSSOVER ACCESS LLC CLASS A1 S", "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TPG TECH ADJACENCIES ACCESS LLC", "value": "$1,000,001-$5,000,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$5,001-$15,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TPG TECH ADJACENCIES II ACCESS LLC", "value": "$500,001-$1,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VINTAGE IV LP", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VINTAGE VIII/WEST STREET CAPITAL PARTNERS VIII A", "value": "$1,000,001-$5,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEST STREET CAPITAL PARTNERS CO-INVEST A, SLP", "value": "$1,000,001-$5,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEST STREET CAPITAL PARTNERS VII LP.", "value": "$1,000,001-$5,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEST STREET CAPITAL PARTNERS VIII, L.P.", "value": "$500,001-$1,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEST STREET ENERGY PARTNERS, L.P.", "value": "$50,001-$100,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$5,001-$15,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEST STREET GLOBAL GROWTH PARTNERS L.P.", "value": "$1,000,001-$5,000,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEST STREET PRIVATE MARKETS 2022, L.P.", "value": "$1,000,001-$5,000,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEST STREET SENIOR CREDIT PARTNERS III, L.P.", "value": "$1,000,001-$5,000,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$50,001-$100,000", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "context", "read": "MAR Trust Partnership / 2020 Trust FBO Khanna Children continuation", "note": "The page continues the private-fund block from page 130."},
+    {"field": "asset_name", "note": "Several long fund names are clipped at the Block A edge; transcribed visible text only."},
+    {"field": "checkbox_grid", "note": "Private-fund Block B and Block D marks are tightly spaced; values and amounts are medium-low confidence."}
+  ],
+  "page_confidence": "medium-low"
+}

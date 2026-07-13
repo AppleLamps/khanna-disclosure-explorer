@@ -1,0 +1,101 @@
+Schedule B: Transactions
+
+Page 63 of 149
+Rohit Khanna
+
+ENF
+
+SP, DC, JT
+
+SP
+
+SP
+
+sP
+
+SP
+
+SP SP SP SP
+
+Security Name
+
+Ecolab Inc
+
+Equinix inc Com Par $0.001
+
+Facebook
+
+IHS Markit LTD
+
+IHS Markit LTD | fllumina tne] tllumina Inc | Illumina Inc
+
+Ticker
+
+Transaction
+
+Amount of Transaction
+
+A: None
+
+ECL
+
+EQIX
+
+FB
+
+B: $1-$1,000
+
+C: $1,001-$15,000
+
+D: $15,001-$50,000
+
+INFO
+
+INFO ILMN ILMN ILMIN
+
+E: $50,001-$100,000
+
+F: $100,001-$250,000
+
+G: $250,001-$500,000
+
+H: $500,001-$1,000,000
+
+{; $1,000,001-$5,000,000
+
+J: $5,000,001-$25,000,000
+
+K: $25,000,001-$50,000,000
+
+L: Over $50,000,000
+
+Spouse/DC Asset over $1,000,000
+
+Type of Transaction
+
+Purchase
+
+Sale
+
+Partial Sale
+
+Exchange
+
+Capital Gain
+
+Capital Gain Exceeded $200
+
+Transaction Date
+
+11/21/2017
+
+3/13/2017
+
+3/13/2017
+
+1/5/2017
+
+3/13/2017 2/1/2017 | 3/13/2017 | 4/27/2017
+
+MS MR Trust Partnership
+

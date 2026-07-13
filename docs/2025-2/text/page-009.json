@@ -1,0 +1,32 @@
+{
+  "pdf_page": 9,
+  "printed_label": "9 of 28",
+  "section": "PERIODIC TRANSACTION REPORT",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "MGM RESORTS INTERNATIONAL CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OTIS WORLDWIDE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARRIER GLOBAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HUNTINGTON BANCSHARES INCORPOR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AIRBNB, INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SUPER MICRO COMPUTER, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KKR & CO. INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITEDHEALTH GROUP INCORPORATE CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTUIT INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DANAHER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MERCK & CO., INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BLACKROCK FUNDING, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "QUALCOMM INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ADVANCED MICRO DEVICES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "U.S. BANCORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BOSTON SCIENTIFIC CORP. COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 10, "field": "cap_gain_over_200", "read": "true (INTUIT)", "note": "Capital-Gains-Exceed-$200 and Partial-Transaction are two adjacent narrow columns; faint scan. INTUIT read as cap-gain checked; other sales read as partial. Column assignment medium confidence."},
+    {"row": 9, "field": "partial_sale", "read": "partial checked on sales 9,11,13,14,15,17", "note": "Partial Transaction column X placement on sale rows is low-contrast; best read."}
+  ],
+  "page_confidence": "medium"
+}

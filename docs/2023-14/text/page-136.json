@@ -1,0 +1,35 @@
+{
+  "pdf_page": 136,
+  "printed_label": "Page 136 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "GARTNER, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "GENERAL MOTORS FINL CO 4.3% 04/06/2029 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "GENERAL MOTORS FINL CO 5.85% 04/06/2030", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "GENERAL MOTORS FINL CO 5.85% 04/06/2030 USD SR", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GLOBAL PAYMENTS INC. 3.2% 08/15/2029 USD SR LIEN", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GREEN BAY WIS HSG AUTH HSG REV REV 4.7500% 04", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO ESTX BANKS (EUR) PR", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO EURO STOXX 50 PR", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO S&P 500 INDEX CNTNG", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCE CORP. LINKED TO S&P 500 INDEX SNOWG", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "GS FINANCIAL SQUARE TREASURY SOLUTIONS FUND", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$150,001-$500,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HAMILTON CNTY OHIO SALES TAX REV 6% 12/01/30 JE", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HAMILTON CNTY OHIO SALES TAX REV 5% 12/01/30 JD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HEDGE FUND SELECT: ELT ASSOCIATES LLC COMMIT", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HOME DEPOT, INC. (THE) 2.7% 04/15/2025 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HUMANA INC. 3.7% 03/23/2029 USD SR LIEN", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HYBRID 04/22/2027 USD", "value": "$50,001-$100,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HYBRID 04/23/2029 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "IDEXX LABORATORIES CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "INGERSOLL-RAND LUXEMBOURG FINA 3.55% 11/01/20", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several long security names are visibly truncated at the right edge of Block A and retain only the visible text."},
+    {"field": "checkbox_grid", "note": "Hi-res image supports the overall readings, but several value and amount cells are low-to-medium contrast."}
+  ],
+  "page_confidence": "medium"
+}

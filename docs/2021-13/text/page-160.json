@@ -1,0 +1,42 @@
+{
+  "pdf_page": 160,
+  "printed_label": "Page 160 of 303",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "OTIS WORLDWIDE CORP COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/4/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYPAL HLDGS INC COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/4/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROKU INC COM CL A AVERAGE PRICE", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/4/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SHERWIN-WILLIAMS CO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/4/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STRYKER CORPORATION COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/4/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TAIWAN SEMICONDUCTOR", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/4/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TEXAS INSTRUMENTS INC COM USD1.00", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/4/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VISA INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/2/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ACTIVISION BLIZZARD INC COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/5/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FARFETCH LTD COM USD0.04 CLASS A AVERAGE PRIC", "tx_type": "Sale", "cap_gain_over_200": false, "date": "11/23/2022", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MASTERCARD INCORPORATED CL A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/24/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ADOBE SYSTEMS INCORPORATED COM AVERAGE", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/8/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DISNEY WALT CO COM AVERAGE", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/8/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HOME DEPOT INC AVERAGE", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "12/9/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRANSDIGM GROUP INC AVERAGE", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/9/2021", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ACTIVISION BLIZZARD INC COM", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/16/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMAZON.COM INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/16/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROKU INC COM CL A AVERAGE PRICE", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/17/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "group", "text": "MURA Holdings"},
+    {"kind": "group", "text": "- 2020 Trust FBO Khanna Children"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Riverside Technology Capital Solutions II - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/5/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Riverside Technology Capital Solutions II - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/5/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Riverside Technology Capital Solutions II - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Riverside Technology Capital Solutions II Select - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/5/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Riverside Technology Capital Solutions II Select - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/5/2021", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Riverside Technology Capital Solutions II Select - CC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/3/2021", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 10, "field": "date", "read": "11/23/2022", "note": "Printed date appears to be 11/23/2022 although surrounding rows are 2021."},
+    {"row": 12, "field": "tx_type", "read": "Partial Sale", "note": "Both Sale and Partial Sale boxes appear marked; recorded as Partial Sale."},
+    {"row": 14, "field": "tx_type", "read": "Partial Sale", "note": "Both Sale and Partial Sale boxes appear marked; recorded as Partial Sale."}
+  ],
+  "page_confidence": "high"
+}

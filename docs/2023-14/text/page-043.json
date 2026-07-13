@@ -1,0 +1,37 @@
+{
+  "pdf_page": 43,
+  "printed_label": "Page 43 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF NEW YORK MELLON CORPOR HYBRID MTN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF NEW YORK MELLON CORPOR HYBRID MTN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BATH & BODY WORKS, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC 1.322% 11/29/2024 SR LIEN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC 1.322% 11/29/2024 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BECTON, DICKINSON AND COMPANY 3.734% 12/15/2026", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BECTON, DICKINSON AND COMPANY 3.734% 12/15/2026", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BECTON, DICKINSON AND COMPANY CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BEST BUY CO INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BIOGEN INC. CMN", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P, S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BIO-RAD LABORATORIES, INC CMN CLASS A", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P, S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BIO-TECHNE CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P, S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BLACKROCK, INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BLACKSTONE GROUP INC/THE CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BLOCK, INC. CMN CLASS A", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BNP PARIBAS LINKED TO S&P 500 INDEX", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BNP PARIBAS LINKED TO S&P 500 INDEX CNTNGNT CF", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BNP PARIBAS LINKED TO S&P 500 INDEX CNTNGNT CF", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ahuja Khanna Children Irrevocable Trust", "note": "No group header printed on this page; it continues the group begun on page 39."},
+    {"row": 0, "field": "asset_name", "read": "BANK OF NEW YORK MELLON CORPOR HYBRID MTN", "note": "Right side of asset name/date is clipped."},
+    {"row": 6, "field": "asset_name", "read": "BECTON, DICKINSON AND COMPANY 3.734% 12/15/2026", "note": "Right side of asset name is clipped in the image/OCR."},
+    {"row": 18, "field": "asset_name", "read": "BNP PARIBAS LINKED TO S&P 500 INDEX CNTNGNT CF", "note": "Final characters are clipped; OCR reads CNTNGNT CF/CH inconsistently across rows."}
+  ],
+  "page_confidence": "medium"
+}

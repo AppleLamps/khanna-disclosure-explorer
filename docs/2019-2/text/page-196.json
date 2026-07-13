@@ -1,0 +1,1323 @@
+{
+  "pdf_page": 196,
+  "printed_label": "Rohit Khanna 196 of 210",
+  "section": "Schedule B: Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ULTA BEAUTY INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DOMINION RESOURCES INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE BANK OF NY MELLON CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TARGET CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COMMSCOPE HLDGS CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ANTERO MIDSTREAM CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICROCHIP TECHNOLOGY INCORPORA CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MONSTER BEVERAGE CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MARATHON PETROLEUM CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTERNATIONAL PAPER CO CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTERN MIDSTREAM PARTNERS LP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AVNET TECHNOLOGY INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FREEPORT-MCMORAN INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALCOA INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THE WILLIAMS COMPANIES INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TRANSCANADA CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GENTEX INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ANDERSON COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BIOGEN IDEC INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHECK POINT SOFTWARE TECH LTD CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GOODYEAR TIRE & RUBBER COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REALTY CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTERCONTINENTAL EXCHANGE INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KELLOGG COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CELANESE CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CIMAREX INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CHEMOURS COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HUMANA INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DICKER BANILTO LP UNITS CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CONSTELLATION BRANDS INC CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CARDINAL CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VERTEX PHARMACEUTICALS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ELDON FINANCIAL INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NOMAD FOODS LTD CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALBEMARLE INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EQT CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CONSTELLATION BRANDS INC CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ANTERO MIDSTREAM CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZIONS BANCORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MARATHON OIL CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ACTIVISION BLIZZARD INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ARISTA NETWORKS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AUTODESK INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TYSON INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BUCKEYE PARTNERS LP UNITS CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MACON CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALTERO MIDSTREAM CORP CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DCP MIDSTREAM INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VIACOM INC CMN CLASS B",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIDELITY TECHNOLOGY INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CROWN PHARMACEUTICAL INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ILLUMINA INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALEXANDRIA REAL ESTATE EQUITIES INC",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BOSTON PROPERTY COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTEGRATED DEVICE TECH CO CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "KROGER COMPANY CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HANMI MEDICAL HOLDINGS INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "STEPANOS FINANCIAL CORP INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "[UNKNOWN]",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "text",
+      "read": "Ritu Ahuja 1994 Trust",
+      "note": "group header is degraded; year could be 1995"
+    },
+    {
+      "row": 1,
+      "field": "date",
+      "read": null,
+      "note": "date column is not reliably legible row-by-row in the degraded scan; asset-name inventory preserved from enlarged image crop"
+    },
+    {
+      "row": 1,
+      "field": "tx_type",
+      "read": "Partial Sale",
+      "note": "P/PS/FS column marks are degraded; most rows appear to be sale/partial-sale transactions, encoded as Partial Sale pending row-level review"
+    },
+    {
+      "row": 1,
+      "field": "amount",
+      "read": "$1,001-$15,000",
+      "note": "amount marks generally align with column A, but row-level exceptions may exist; best-effort default used"
+    },
+    {
+      "row": 1,
+      "field": "cap_gain_over_200",
+      "read": null,
+      "note": "capital-gain checkmarks are too faint/ambiguous to resolve consistently"
+    },
+    {
+      "row": 2,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 2,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 3,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 3,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 4,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 4,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 5,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 5,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 6,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 6,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 7,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 7,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 8,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 8,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 9,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 9,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 10,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 10,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 11,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 11,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 12,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 12,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 13,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 13,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 14,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 14,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 15,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 15,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 16,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 16,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 17,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 17,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 18,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 18,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 19,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 19,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 20,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 20,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 21,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 21,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 22,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 22,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 23,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 23,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 24,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 24,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 25,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 25,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 26,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 26,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 27,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 27,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 28,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 28,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 29,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 29,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 30,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 30,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 31,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 31,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 32,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 32,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 33,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 33,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 34,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 34,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 35,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 35,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 36,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 36,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 37,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 37,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 38,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 38,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 39,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 39,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 40,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 40,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 41,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 41,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 42,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 42,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 43,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 43,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 44,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 44,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 45,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 45,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 46,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 46,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 47,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 47,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 48,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 48,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 49,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 49,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 50,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 50,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 51,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 51,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 52,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 52,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 53,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 53,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 54,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 54,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 55,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 55,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 56,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 56,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 57,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 57,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 58,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 58,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 59,
+      "field": "date",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 59,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    }
+  ],
+  "page_confidence": "low"
+}

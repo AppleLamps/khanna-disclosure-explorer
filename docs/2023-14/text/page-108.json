@@ -1,0 +1,35 @@
+{
+  "pdf_page": 108,
+  "printed_label": "Page 108 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "SYNCHRONY FINANCIAL CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SYNOPSYS INC. CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SYNOVUS FINANCIAL CORP CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SYSCO CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "T. ROWE PRICE GROUP, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TAIWAN SEMICONDUCTOR MFG ADS LTD ADS 1ADS E", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TAKE TWO INTERACTIVE SOFTWARE INC", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TAKEDA PHARMACEUTICAL CO LTD SPONSORED ADR", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TARGET CORPORATION CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TE CONNECTIVITY LTD CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TELEDYNE TECHNOLOGIES INCORPOR CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TEMPUR SEALY INTERNATIONAL INC CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TESLA, INC. CMN", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO BASKET OF IN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO BASKET OF IN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 INDEX", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 INDEX", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE BANK OF NOVA SCOTIA LINKED TO S&P 500 INDEX", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "THE BANK OF NY MELLON CORP CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1994 Trust", "note": "No group header printed on this page; context inferred from earlier Schedule A pages."},
+    {"row": 15, "field": "asset_name", "read": "THE BANK OF NOVA SCOTIA linked-note rows", "note": "Several structured-note names are clipped at the right edge; parent compiler can supply complete descriptions."}
+  ],
+  "page_confidence": "medium"
+}

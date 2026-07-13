@@ -1,0 +1,138 @@
+{
+  "pdf_page": 41,
+  "printed_label": "Rohit Khanna Page 41 of 41",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "MURA Holdings"
+    },
+    {
+      "kind": "group",
+      "text": "Ritu Ahtuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NETFLIX INC",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/18/2026",
+      "notification_date": "02/18/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NTUITIVE SURGICAL INC",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/18/2026",
+      "notification_date": "02/18/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ABBOTT LABORATORIES",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/18/2026",
+      "notification_date": "02/18/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "MURA Holdings"
+    },
+    {
+      "kind": "group",
+      "text": "Monte and Usha Ahuja 2010 Irrev Trust FBO"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Grandchlldren NETFLIXING",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/18/2026",
+      "notification_date": "02/18/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "NTUITIVE SURGICALINC",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/18/2026",
+      "notification_date": "02/18/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "FTI CONSULTING INC",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/18/2026",
+      "notification_date": "02/18/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "DANAHER CORPORATION COM",
+      "tx_type": "Exchange",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/18/2026",
+      "notification_date": "02/18/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "ABBOTT LABORATORIES",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/18/2026",
+      "notification_date": "02/18/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "2020 Trust FBO Khanna Children"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "NETFLIXINC",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "02/18/2026",
+      "notification_date": "02/18/2026",
+      "amount": "$15,001-$50,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 11,
+      "field": "date",
+      "read": "DC ARBOTTLABORATORES",
+      "note": "date or notification date not fully captured by OCR; left null if not visible in extracted row"
+    }
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,41 @@
+{
+  "pdf_page": 187,
+  "printed_label": "Page 187 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "PHILIP MORRIS INTL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN TOWER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ORGANON & CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRIMBLE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "3M COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STANLEY BLACK & DECKER, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MPLX LP 4.875% 12/01/2024 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NORTHERN TRUST CORPORATION 3.95% 10/30/2025", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 07/", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRANSCANADA PIPELINES 1.0% 10/12/2024 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HUMANA INC. 3.125% 08/15/2029 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MODERNA, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REALTY INCOME CORP 4.625% 11/01/2025 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FISERV, INC. 3.85% 06/01/2025 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BECTON, DICKINSON AND COMPANY 3.734% 12/15/2", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EMERA US FINANCE LP 3.55% 06/15/2026 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALIGN TECHNOLOGY, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALBEMARLE CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EDWARDS LIFESCIENCES CORPORATI CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CATALENT, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NORWEGIAN CRUISE LINE HLDG LTD CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WARNER BROS DISCOVERY INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MPLX LP 2.65% 08/15/2030 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARNIVAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MATCH GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARMAX, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several bond/security names are clipped at the asset-name column edge; visible issuer/security wording was preserved."},
+    {"field": "amount", "note": "Amounts are transcribed from the visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

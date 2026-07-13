@@ -1,0 +1,41 @@
+{
+  "pdf_page": 270,
+  "printed_label": "Page 270 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "REGENERON PHARMACEUTICAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HUMANA INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE TRAVELERS COMPANIES, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REALTY INCOME CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MORGAN STANLEY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP CLAS", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MILLS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMCOR PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALTRIA GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LINDE PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VICI PROPERTIES INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CME GROUP INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COSTCO WHOLESALE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NORFOLK SOUTHERN CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AIR PRODUCTS & CHEMICALS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOTOROLA SOLUTIONS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WATERS CORPORATION COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PHILIP MORRIS INTL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AT&T INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "W.R. BERKLEY CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HORMEL FOODS CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE BANK OF NY MELLON CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORTEVA, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/28/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "The third row appears only as COMMON STOCK in the visible asset column; the preceding issuer text is not visible in the source image."},
+    {"field": "asset_name", "note": "COGNIZANT TECHNOLOGY SOLUTIONS row is clipped after CLAS; visible wording was preserved."}
+  ],
+  "page_confidence": "medium"
+}

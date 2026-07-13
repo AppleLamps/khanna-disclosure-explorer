@@ -1,0 +1,38 @@
+{
+  "pdf_page": 45,
+  "printed_label": "Page 45 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO S&P", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CAPITAL ONE FINANCIAL CORP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CAPPED BUFFERED ENHANCED PARTICIPATION LINKG", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CAPRI HOLDINGS LIMITED CMN", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CARDINAL HEALTH, INC. CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CARMAX, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CARNIVAL CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CARRIER GLOBAL CORPORATION CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CATALENT, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CBRE GROUP, INC. CMN CLASS A", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CDW CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CELANESE CORPORATION COMMON STOCK", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CENCORA INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CENTENE CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CENTERPOINT ENERGY RES 1.75% 10/01/2030 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CENTERPOINT ENERGY RES 1.75% 10/01/2030 USD SR", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CERIDIAN HCM HOLDING INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CF INDUSTRIES HOLDINGS, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CHARLES RIV LABS INTL INC CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1995 Trust", "note": "No group header printed on this page; context inferred from surrounding attachment pages."},
+    {"row": 1, "field": "asset_name", "read": "CANADIAN IMPERIAL BANK OF COMM LINKED TO S&P", "note": "Name is visibly truncated at the asset-name column edge."},
+    {"row": 3, "field": "asset_name", "read": "CAPPED BUFFERED ENHANCED PARTICIPATION LINKG", "note": "Name is visibly truncated; final word may be LINKED/LINKG."},
+    {"row": 5, "field": "value", "read": "None", "note": "CARDINAL HEALTH value X appears in the leftmost Block B column, despite dividend/capital-gain income and sale transaction."},
+    {"row": 14, "field": "amount_of_income", "read": "None", "note": "CENCORA amount mark is near Block D I; no transaction printed."}
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,31 @@
+{
+  "pdf_page": 144,
+  "printed_label": "Page 144 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "SPDR S&P 500 ETF TRUST", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$50,001-$150,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "THERMO FISHER SCIENTIFIC", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "TRGI ONSHORE", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "UBER TECHNOLOGIES INC", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "UNITEDHEALTH GP INC", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "VANGUARD DIVIDEND APPRECIATION", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$50,001-$150,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VERALTO CORP", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P, E"},
+    {"kind": "asset", "owner": "DC", "asset_name": "VERISK ANALYTICS INC COM", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "VISA INC CL A", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "WELLS FARGO & CO 3.9000% PREFERRED STOCK", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "WEST PHARMACEUTICAL SVCS INC", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK DEPOSIT PROGRAM", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Cash", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MSBNA PREFERRED SAVINGS - QC", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MSILF TREASURY SECURITIES INST", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MSPBNA PREFERRED SAVINGS - QC", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Page appears to begin a later account/group but no group heading is visible on the cropped page."},
+    {"field": "checkbox_grid", "note": "Most marks are clear; a few cash/savings rows are close to grid lines."}
+  ],
+  "page_confidence": "medium"
+}

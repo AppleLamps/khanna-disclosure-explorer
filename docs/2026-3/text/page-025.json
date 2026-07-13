@@ -1,0 +1,226 @@
+{
+  "pdf_page": 25,
+  "printed_label": "Rohit Khanna Page 25 of 43",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 660 EXP a",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/19/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CALL/NGG FLEX EURO PM @ 85 EXP j",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/13/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CALL/CCEP FLEX EURO PM 94 EXP = PUT/XSP @ 610 EXP",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/13/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 610 EXP 1",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/30/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "l PUT/XSP @ 625 EXP \u201d",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/19/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VISAINC CMN CLASSA",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/23/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MASTERCARD INCORPORATED CMN CLASSA",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/23/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "INTL BUSINESS MACHINES CORP CMN x . xX fe",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/23/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BERKSHIRE HATHAWAY INC CLASS B",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "03/23/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MARSH ORD CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/23/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ORACLE CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "03/23/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BOSTON SCIENTIFIC CORP COMMON STOCK",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "partial_sale": true,
+      "date": "03/23/2026",
+      "notification_date": "04/02/2026",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ADOBE INC CMN = Wx ye Fh JX",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "03/23/2026",
+      "notification_date": "04/02/2024",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 1,
+      "field": "date",
+      "read": null,
+      "note": "Date was not safely parsed from OCR; source row remains visible in the page image."
+    },
+    {
+      "row": 2,
+      "field": "date",
+      "read": null,
+      "note": "Date was not safely parsed from OCR; source row remains visible in the page image."
+    },
+    {
+      "row": 3,
+      "field": "date",
+      "read": null,
+      "note": "Date was not safely parsed from OCR; source row remains visible in the page image."
+    },
+    {
+      "row": 4,
+      "field": "date",
+      "read": null,
+      "note": "Date was not safely parsed from OCR; source row remains visible in the page image."
+    },
+    {
+      "row": 5,
+      "field": "date",
+      "read": null,
+      "note": "Date was not safely parsed from OCR; source row remains visible in the page image."
+    },
+    {
+      "row": null,
+      "field": "checkbox_columns",
+      "read": "OCR-assisted extraction",
+      "note": "Type/capital-gain/partial and amount fields were transcribed from rotated OCR plus visible grid positions; rows with multiple adjacent X marks are lower confidence."
+    },
+    {
+      "row": 1,
+      "field": "date/notification_date",
+      "read": "03/19/26 / 04/02/26",
+      "note": "Filled after validation from rotated OCR/page image because initial parser captured a maturity date or missed the notification cell."
+    },
+    {
+      "row": 2,
+      "field": "date/notification_date",
+      "read": "03/13/26 / 04/02/26",
+      "note": "Filled after validation from rotated OCR/page image because initial parser captured a maturity date or missed the notification cell."
+    },
+    {
+      "row": 3,
+      "field": "date/notification_date",
+      "read": "03/13/26 / 04/02/26",
+      "note": "Filled after validation from rotated OCR/page image because initial parser captured a maturity date or missed the notification cell."
+    },
+    {
+      "row": 4,
+      "field": "date/notification_date",
+      "read": "03/30/26 / 04/02/26",
+      "note": "Filled after validation from rotated OCR/page image because initial parser captured a maturity date or missed the notification cell."
+    },
+    {
+      "row": 5,
+      "field": "date/notification_date",
+      "read": "03/19/26 / 04/02/26",
+      "note": "Filled after validation from rotated OCR/page image because initial parser captured a maturity date or missed the notification cell."
+    }
+  ],
+  "page_confidence": "medium"
+}

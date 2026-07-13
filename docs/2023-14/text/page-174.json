@@ -1,0 +1,40 @@
+{
+  "pdf_page": 174,
+  "printed_label": "Page 174 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "ZIMMER BIOMET HOLDINGS INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AVANTOR FUNDING, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN INTL GROUP, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALPHABET INC. CMN CLASS C", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ZIMMER BIOMET HOLDINGS INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ZIMMER BIOMET HOLDINGS INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SENSATA TECHNOLOGIES HOLDING P CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ZIMMER BIOMET HOLDINGS INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "12/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALPHABET INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COSTCO WHOLESALE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "APPLE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PFIZER INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MC DONALDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMAZON.COM INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MERCK & CO., INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SALESFORCE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MEDTRONIC PUBLIC LIMITED COMPA CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTEL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MCKESSON CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CITIGROUP INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "1/11/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Ahuja Khanna Children Irrevocable Trust appears as a group header before the final rows and is not represented as a transaction row."},
+    {"field": "tx_type/cap_gain_over_200", "note": "Sale, partial-sale, and capital-gain checkbox marks are best-read from the page image."},
+    {"field": "amount", "note": "Amounts are transcribed from the visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

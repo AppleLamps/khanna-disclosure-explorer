@@ -1,0 +1,42 @@
+{
+  "pdf_page": 165,
+  "printed_label": "Page 165 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "CISCO SYSTEMS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SOUTHERN COMPANY (THE) HYBRID 01/15/2051 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NEXTERA ENERGY CAPITAL HOLDING HYBRID 05/01/2079", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHARLES SCHWAB CORPORATION (THE) HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALLY FINANCIAL INC. HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PARTNERRE FINANCE B LLC HYBRID 10/01/2050 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HUNTINGTON BANCSHARES INCORPOR HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TARGET CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LABORATORY CORPORATION OF AMER CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/20/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHARLES SCHWAB CORPORATION (THE) HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/12/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PNC FINANCIAL SERVICES GROUP, HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALLSTATE CORPORATION (THE) PFD USD1.8438", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "M&T BANK CORPORATION HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TARGET CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/NVDA FLEX EURO PM 315 EXP 06/02/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/LLY FLEX EURO PM @ 400 EXP 06/02/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/MRVL FLEX EURO PM 47 EXP 06/02/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "6/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ISHARES RUSSELL 1000 VALUE", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/27/2023", "notification_date": null, "amount": "$1,000,001-$5,000,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICROSOFT CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ENBRIDGE INC. HYBRID 01/15/2083 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICROSOFT CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MARVELL TECHNOLOGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STRYKER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/2/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several hybrid preferred/security names are clipped at the asset-name column edge; visible issuer/security wording was preserved."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "amount", "note": "Amounts are transcribed from visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

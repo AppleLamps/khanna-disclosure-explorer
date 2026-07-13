@@ -1,0 +1,41 @@
+{
+  "pdf_page": 321,
+  "printed_label": "Page 321 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST WTR DEV AUTH REV REV 5% 12/01/28-CA J", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/23/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST GO 5% 09/01/29 MS", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/19/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST SPL OBLIG REV 5.000% 02/01/30 FA", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/30/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST WTR DEV AUTH WTR REV 5% 12/01/30-CA J", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST SPL OBLIG REV 5.000% 10/01/26 AO", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OHIO ST WTR DEV AUTH WTR REV 5% 06/01/26 JD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "10/23/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WELLS FARGO & COMPANY HYBRID PERPETUAL US", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/26/2023", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GREEN BAY WIS HSG AUTH HSG REV REV 4.7500%", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/19/2023", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITEDHEALTH GROUP INCORPORATE CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VISA INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMAZON.COM INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALPHABET INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SERVICENOW INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN TOWER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/26/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERISK ANALYTICS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DANAHER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/26/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THERMO FISHER SCIENTIFIC INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MSCI INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CADENCE DESIGN SYSTEMS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ADOBE INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NIKE CLASS-B CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WEST PHARMACEUTICAL SERVICES INC", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FORTIVE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "IDEXX LABORATORIES CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CHIPOTLE MEXICAN GRILL, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MONOLITHIC POWER SYSTEMS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/26/2023", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Top bond rows are slightly clipped at the right edge of the asset column; visible text preserved."},
+    {"field": "amount", "note": "Amount buckets were assigned from mark positions in the full-page and quadrant crops; some row-level bucket boundaries are tight on this degraded scan."}
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,30 @@
+{
+  "pdf_page": 7,
+  "printed_label": "Page 7 of 13",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind":"tx","owner":"DC","asset_name":"PAYPAL HOLDINGS, INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"VICI PROPERTIES INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CROWN CASTLE INTL CORP CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"SBA COMMUNICATIONS CORPORATION CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/20/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ARCHER-DANIELS-MIDLAND COMPANY CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CROWN CASTLE INTL CORP CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/20/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"GARMIN LTD CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"S&P GLOBAL INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ALPHABET INC. CMN CLASS A","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CHARTER COMMUNICATIONS, INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/20/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"ALIGN TECHNOLOGY, INC CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"CITIGROUP INC. HYBRID 07/24/2028 USD","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"BANK OF AMERICA CORP CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/20/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"DANAHER CORPORATION CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"WALT DISNEY COMPANY (THE) CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/20/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"FORTINET, INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"DOLLAR TREE STORES, INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"DC","asset_name":"MC DONALDS CORP CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

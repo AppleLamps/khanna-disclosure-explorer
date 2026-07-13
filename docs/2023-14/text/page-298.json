@@ -1,0 +1,40 @@
+{
+  "pdf_page": 298,
+  "printed_label": "Page 298 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "DISCOVER FINANCIAL SERVICES CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTUIT INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALPHABET INC. CMN CLASS C", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FORTIVE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTERPUBLIC GROUP COS CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COOPER COMPANIES INC (NEW) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AIR PRODUCTS & CHEMICALS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "IDEX CORPORATION COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TELEDYNE TECHNOLOGIES INCORPOR CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED RENTALS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE KRAFT HEINZ CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALPHABET INC. CMN CLASS C", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DOVER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STATE STREET CORPORATION (NEW) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DEXCOM, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BALL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PRINCIPAL FINANCIAL GROUP, INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LINCOLN NATL.CORP,INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE BANK OF NY MELLON CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FRANKLIN RESOURCES INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WATERS CORPORATION COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CONSTELLATION BRANDS INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALPHABET INC. CMN CLASS C", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INCYTE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUIFAX INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/31/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows 9, 12, 15, 18, and 24 have marks in both Sale and Partial Sale columns; recorded as Sale to match nearby 2023-14 Schedule B convention while preserving this note."}
+  ],
+  "page_confidence": "medium"
+}

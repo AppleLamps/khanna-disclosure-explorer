@@ -1,0 +1,34 @@
+{
+  "pdf_page": 23,
+  "printed_label": "Page 23 of 34",
+  "section": "Periodic Transaction Report",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "CADENCE DESIGN SYSTEMS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COPART, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 580 EXP 03/28/2025", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/30/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 555 EXP 03/07/2025", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/10/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 560 EXP 03/21/2025", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/03/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 575 EXP 03/14/2025", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/16/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PROCTER & GAMBLE COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MERCK & CO., INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WASTE MANAGEMENT INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INTUIT INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CINTAS CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NASDAQ INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMETEK INC (NEW) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ADOBE INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DANAHER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "01/17/2025", "notification_date": "02/04/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 3, "field": "asset_name", "read": "PUT/XSP @ 580 EXP 03/28/2025", "note": "options row; underlying printed as XSP with wide gap before @ strike; strike/exp read from crop"},
+    {"row": 4, "field": "asset_name", "read": "PUT/XSP @ 555 EXP 03/07/2025", "note": "options row; strike 555 legible"},
+    {"row": 5, "field": "asset_name", "read": "PUT/XSP @ 560 EXP 03/21/2025", "note": "options row; strike 560 legible"},
+    {"row": 6, "field": "asset_name", "read": "PUT/XSP @ 575 EXP 03/14/2025", "note": "options row; strike 575 legible"}
+  ],
+  "page_confidence": "medium"
+}

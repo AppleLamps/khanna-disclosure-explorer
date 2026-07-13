@@ -1,0 +1,32 @@
+{
+  "pdf_page": 7,
+  "printed_label": "Page 7 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "PAYPAL HLDGS INC", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "S&P GLOBAL INC COM", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "SNAP INC CL A", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "VISA INC", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICAN TOWER CORP NEW", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "EQUINIX INC", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Oak Street MAI Special Opportunity Fund", "eif": true, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "group", "text": "ARECO LP Commercial Property - 2010 Grandchildren Trust"},
+    {"kind": "asset", "owner": "DC", "asset_name": "Location: Walton, OH 44146", "value": "$100,001-$250,000", "income_types": ["RENT"], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "group", "text": "ARECO LP - 2020 Trust FBO Khanna Children"},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Wealth Income and Growth Fund, LP", "eif": true, "value": "$15,001-$50,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund II, LP", "eif": true, "value": "$1,001-$15,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$50,001-$100,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund III, LP", "eif": true, "value": "$250,001-$500,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$50,001-$100,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "Park Center Plaza Holdings LP", "eif": true, "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "MAI Capital Income and Growth Fund IV, LP", "eif": true, "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$15,001-$50,000", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 2, "field": "amount_of_income", "read": "$1-$200 (Block D col II)", "note": "Dividend stocks (S&P Global, Visa, American Tower, Equinix) amount X sits one column right of the None column (col I, anchored by PAYPAL/SNAP None-income rows) = col II ($1-$200). Same column for all four rows; II-vs-III boundary is tight."},
+    {"row": 7, "field": "value", "read": "$15,001-$50,000 (col D)", "note": "Oak Street: leftmost X read as EIF box (fund); value X one column right of the col-C stock rows = col D. Could be col E."},
+    {"row": 9, "field": "value/income_types", "note": "Location: Walton, OH 44146 (ARECO LP Commercial Property): value X read as Block B col F ($100,001-$250,000); Block C X read as RENT (col 3) plus 'PTN' write-in in Other; Block D X col VII. Column reads at grid resolution, RENT vs CAPITAL GAINS possible."},
+    {"row": 12, "field": "amount_of_income", "note": "MAI Capital II & III amount X one column right of the other funds (col VIII, $50,001-$100,000); other funds col VII ($15,001-$50,000)."}
+  ],
+  "page_confidence": "medium"
+}

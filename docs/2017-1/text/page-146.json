@@ -1,0 +1,32 @@
+{
+  "pdf_page": 146,
+  "printed_label": "Page 146 of 149",
+  "section": "Schedule B - Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Grandchildren's Trust (DC reporting not applicable last year)"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "07/31/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ENTEGRIS, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "07/31/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "09/26/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/05/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/06/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/18/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "11/02/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "11/13/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LIVE NATION ENTERTAINMENT INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/03/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LIVE NATION ENTERTAINMENT INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/09/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PERKINELMER, INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "08/28/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PERKINELMER, INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "09/14/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALMART INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "08/03/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALMART INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "08/04/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALMART INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "08/10/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALMART INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "08/11/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WESTLAKE CHEMICAL CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "08/03/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WESTLAKE CHEMICAL CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "08/08/17", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WESTLAKE CHEMICAL CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "08/10/17", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

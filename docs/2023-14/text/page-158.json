@@ -1,0 +1,41 @@
+{
+  "pdf_page": 158,
+  "printed_label": "Page 158 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL ELECTRIC COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "2/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALLSTATE CORPORATION COMMON STOCK", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NEXTERA ENERGY, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WELLS FARGO & CO (NEW) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGAL REXNORD CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN INTL GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LEAR CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGAL REXNORD CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIRST REPUBLIC BANK CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGAL REXNORD CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIRST REPUBLIC BANK CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGAL REXNORD CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LEAR CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NIKE CLASS B CMN CLASS B", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALLNVDA FLEX EURO PM 192.5 EXP 03/03/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "3/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PEPSICO, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIRST REPUBLIC BANK CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BOOKING HOLDINGS INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "APTIV PLC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BOOKING HOLDINGS INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "3/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALPHABET INC. CMN CLASS A", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MICROSOFT CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "3/16/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "CALLNVDA option name is transcribed as printed/visible; spacing is unclear in the scan."},
+    {"field": "amount", "note": "Amounts are transcribed from visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

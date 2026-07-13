@@ -1,0 +1,41 @@
+{
+  "pdf_page": 251,
+  "printed_label": "Page 251 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "DUPONT DE NEMOURS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HENRY SCHEIN INC COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PURE STORAGE INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BLACKROCK, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WESTERN DIGITAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FREEPORT-MCMORAN INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NOVO-NORDISK A/S ADR ADR CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERTEX PHARMACEUTICALS INCORPO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALBEMARLE CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BIOMARIN PHARMACEUTICAL INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERISIGN, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LABORATORY CORPORATION OF AMER CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HORMEL FOODS CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE KRAFT HEINZ CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMEDISYS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ESTEE LAUDER COS INC CL-A CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ETSY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VORNADO REALTY TRUST CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNIVERSAL HEALTH SVC CL B CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PAYCOM SOFTWARE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAMDEN PROPERTY TRUST CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SBA COMMUNICATIONS CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DOCUSIGN, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PERKINELMER, INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELEVANCE HEALTH INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "3/14/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "asset_name", "note": "Several long asset names are clipped at the asset-name column edge; visible wording was preserved."}
+  ],
+  "page_confidence": "medium"
+}

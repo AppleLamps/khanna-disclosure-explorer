@@ -1,0 +1,41 @@
+{
+  "pdf_page": 310,
+  "printed_label": "Page 310 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "AIR LEASE CORPORATION HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PARAMOUNT GLOBAL HYBRID 03/30/2082 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHARLES SCHWAB CORPORATION (TH) HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HCA HEALTHCARE, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HUNTINGTON BANCSHARES INCORPOR HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LEAR CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KKR & CO. INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HUMANA INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "STRYKER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALLSTATE CORPORATION (THE) PFD 7.3750 SERIES", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/15/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PARKER-HANNIFIN CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ENBRIDGE INC. HYBRID 01/15/2083 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CENTERPOINT ENERGY, INC HYBRID PERPETUAL USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SEMPRA ENERGY HYBRID PERPETUAL USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUKE ENERGY CORPORATION HYBRID PERPETUAL", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ENERGY TRANSFER OPERATING LP FRN 11/01/2066", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CMS ENERGY CORPORATION HYBRID 06/01/2050 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EMERA INCORPORATED HYBRID 06/15/2076 USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "N V R INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DOMINION ENERGY, INC. HYBRID PERPETUAL USD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBOTT LABORATORIES CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows 24 and 26 show Sale and Partial Sale marks; recorded as Sale to match nearby 2023-14 Schedule B convention."},
+    {"field": "asset_name", "note": "Several long hybrid security names are clipped at the right edge of the asset column; recorded from visible text and tesseract cross-check."}
+  ],
+  "page_confidence": "medium"
+}

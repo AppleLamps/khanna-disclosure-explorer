@@ -1,0 +1,40 @@
+{
+  "pdf_page": 285,
+  "printed_label": "Page 285 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "FIDELITY NATL INFO SVCS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UBS GROUP AG CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE TRAVELERS COMPANIES, INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUBLIC STORAGE CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VICI PROPERTIES INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REALTY INCOME CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMCOR PLC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AON PUBLIC LIMITED COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MILLS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOTOROLA SOLUTIONS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BIOGEN INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NORTHERN TRUST CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CARRIER GLOBAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HORMEL FOODS CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AT&T INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DEXCOM, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "QUEST DIAGNOSTICS INCORPORATED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NEWMONT CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CITIGROUP INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "UNILEVER PLC (NEW) SPONSORED ADR CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SANOFI SPONSORED ADR CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NVIDIA CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."}
+  ],
+  "page_confidence": "high"
+}

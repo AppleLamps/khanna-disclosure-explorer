@@ -1,0 +1,129 @@
+{
+  "pdf_page": 33,
+  "printed_label": "Page 33 of 33",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "MURA Holdings"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Broadcom Inc Com",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "June 1, 2023",
+      "notification_date": "June 5, 2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Broadcom Inc Com",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "June 13, 2023",
+      "notification_date": "June 15, 2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Zoetis Inc",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "June 13, 2023",
+      "notification_date": "June 15, 2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "MURA Holdings - Grandchildren Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Broadcom Inc Com",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "June 1, 2023",
+      "notification_date": "June 5, 2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Broadcom Inc Com",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "June 13, 2023",
+      "notification_date": "June 15, 2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Zoetis Inc",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "June 13, 2023",
+      "notification_date": "June 15, 2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "MURA Holdings - 2020 Trust FBO Khanna Children"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Broadcom Inc Com",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "June 1, 2023",
+      "notification_date": "June 5, 2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Broadcom Inc Com",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "June 13, 2023",
+      "notification_date": "June 15, 2023",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Zoetis Inc",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "June 13, 2023",
+      "notification_date": "June 15, 2023",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": "page",
+      "field": "group headings",
+      "note": "MURA group subtitles are degraded; headings normalized to the convention used in nearby PTR examples."
+    }
+  ],
+  "page_confidence": "medium"
+}

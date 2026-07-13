@@ -1,0 +1,267 @@
+{
+  "filer": "Rohit Khanna",
+  "free_text": null,
+  "page_confidence": "medium",
+  "page_type": "schedule_a",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "pdf_page": 114,
+  "printed_label": "Page 114 of 327",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ALLY FINANCIAL INC. HYBRID PERPETUAL USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ALLY FINANCIAL INC. HYBRID PERPETUAL USD SER B",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ALPHABET INC. CMN CLASS A",
+      "value": "None",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AMAZON.COM INC CMN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$2,501-$5,000",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AMERICAN EXPRESS COMPANY 5.95% 11/05/2027 USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AMERICAN EXPRESS COMPANY 5.85% 11/05/2027 USD",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AMERICAN EXPRESS COMPANY HYBRID PERPETUAL I",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AMERICAN EXPRESS COMPANY HYBRID PERPETUAL I",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AMERICAN-INTL GROUP, INC. CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AMERICAN TOWER CORP 1.3% 09/15/2025 USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AMERICAN TOWER CORP 1.3% 09/15/2025 USD SR LIEN",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AMGEN INC. 5.15% 03/02/2028",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AMGEN INC. 5.15% 03/02/2028 USD SR LIEN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "ANKENY IOWA GO 5% 06/01/23 JD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AON CORP/AON GLOBAL HOLD 2.85% 05/28/2027 USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AON CORP/AON GLOBAL HOLD 2.85% 05/28/2027 USD",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "INTEREST",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "APOLLO GLOBAL MANAGEMENT, INC. PFD 7.625000/ 4",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "APOLLO GLOBAL MANAGEMENT, INC. PFD USD1.90624",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AT&T INC. PFD USD1.2500(5.00%) SERIES A",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1-$200",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "AUSTIN TEX WTR & WASTEWATER REV 5% 11/15/23 MJ",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    }
+  ],
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "context",
+      "read": "continuation of Ritu Ahuja 1995 Trust",
+      "note": "No group header printed on this page; context inferred from previous page."
+    },
+    {
+      "row": "multiple",
+      "field": "asset_name",
+      "read": "truncated bond/preferred names",
+      "note": "Several long hybrid/perpetual security names reach the Block A edge; parent compilation can fill descriptions."
+    }
+  ]
+}

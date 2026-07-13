@@ -1,0 +1,575 @@
+{
+  "pdf_page": 4,
+  "printed_label": "Page 4 of 7",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ALPHABET INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SYNCHRONY FINANCIAL CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AUTOZONE, INC. CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNITED RENTALS, INC. CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GENESEE & WYOMING INC CMN CLASS A",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BOOKING HOLDINGS INC CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HEWLETT PACKARD ENTERPRISE CO CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CINTAS CORPORATION CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "RED HAT, INC. CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WEYERHAEUSER COMPANY CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SEMGROUP CORPORATION CMN CLASS A",
+      "tx_type": "Sale",
+      "date": "09/14/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NVIDIA CORPORATION CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TWENTY-FIRST CENTURY FOX, INC. CMN CLASS B",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CONCHO RESOURCES INC. CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DOLLAR TREE STORES, INC. CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AT&T INC. CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TECHNIPFMC PLC CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SOUTHERN COPPER CORPORATION CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BOSTON PROPERTIES, INC. COMMON STOCK",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "E*TRADE FINANCIAL CORPORATION CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ONEOK INC CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "JACOBS ENGINEERING GRP CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HCA HEALTHCARE, INC CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "J B HUNT TRANS SVCS INC CMN",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EQUINIX, INC. REIT",
+      "tx_type": "Sale",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TEXTRON INC.DEL. CMN",
+      "tx_type": "[UNKNOWN]",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OLD DOMINION FGHT LINES INC CMN",
+      "tx_type": "[UNKNOWN]",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PVH CORP CMN",
+      "tx_type": "[UNKNOWN]",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HELMERICH & PAYNE INC. CMN",
+      "tx_type": "[UNKNOWN]",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MARTIN MARIETTA MATERIALS,INC CMN",
+      "tx_type": "[UNKNOWN]",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "XPO LOGISTICS INC CMN",
+      "tx_type": "[UNKNOWN]",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TRACTOR SUPPLY COMPANY CMN",
+      "tx_type": "[UNKNOWN]",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "VERISK ANALYTICS, INC. CMN",
+      "tx_type": "[UNKNOWN]",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "A.O. SMITH CORP (DEL) CMN",
+      "tx_type": "[UNKNOWN]",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZIONS BANCORP CMN",
+      "tx_type": "[UNKNOWN]",
+      "date": "09/25/2018",
+      "notification_date": "10/03/2018",
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja 1994 Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FACEBOOK, INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "date": "09/28/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FACEBOOK, INC. CMN CLASS A",
+      "tx_type": "Purchase",
+      "date": "09/11/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK",
+      "tx_type": "Purchase",
+      "date": "09/20/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MORGAN STANLEY CMN",
+      "tx_type": "Purchase",
+      "date": "09/28/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AXALTA COATING SYSTEMS LTD. CMN",
+      "tx_type": "Purchase",
+      "date": "09/05/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AXALTA COATING SYSTEMS LTD. CMN",
+      "tx_type": "Purchase",
+      "date": "09/13/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CITIGROUP INC. CMN",
+      "tx_type": "Purchase",
+      "date": "09/11/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DISCOVERY INC - A CMN SERIES A",
+      "tx_type": "Sale",
+      "date": "09/13/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "APPLE INC. CMN",
+      "tx_type": "Sale",
+      "date": "09/05/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORP CMN",
+      "tx_type": "Sale",
+      "date": "09/11/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORP CMN",
+      "tx_type": "Sale",
+      "date": "09/28/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIRST DATA CORPORATION CMN CLASS A",
+      "tx_type": "Sale",
+      "date": "09/13/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ORACLE CORPORATION CMN",
+      "tx_type": "Sale",
+      "date": "09/14/2018",
+      "notification_date": "10/03/2018",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 26,
+      "field": "tx_type/amount",
+      "read": "TEXTRON INC.DEL. CMN through ZIONS BANCORP CMN (10 rows) have transaction date 09/25/18 and notification 10/03/18 but no Type-of-Transaction X and no Amount-column X visible in the scan",
+      "note": "These 10 rows (TEXTRON, OLD DOMINION FGHT LINES, PVH CORP, HELMERICH & PAYNE, MARTIN MARIETTA, XPO LOGISTICS, TRACTOR SUPPLY, VERISK ANALYTICS, A.O. SMITH, ZIONS BANCORP) recorded with tx_type=null and amount=null; marks genuinely absent/illegible. Context (surrounding rows all Sale/col A) suggests they may be sales but not transcribed as such per no-guess rule."
+    },
+    {
+      "row": 26,
+      "field": "tx_type",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 26,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 27,
+      "field": "tx_type",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 27,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 28,
+      "field": "tx_type",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 28,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 29,
+      "field": "tx_type",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 29,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 30,
+      "field": "tx_type",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 30,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 31,
+      "field": "tx_type",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 31,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 32,
+      "field": "tx_type",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 32,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 33,
+      "field": "tx_type",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 33,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 34,
+      "field": "tx_type",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 34,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 35,
+      "field": "tx_type",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 35,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    }
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,40 @@
+{
+  "pdf_page": 273,
+  "printed_label": "Page 273 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "NASDAQ INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CVS HEALTH CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TE CONNECTIVITY LTD CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/28/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "OLD DOMINION FREIGHT LINE, INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BORGWARNER INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE PROGRESSIVE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AGILENT TECHNOLOGIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERISK ANALYTICS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "3M COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ARISTA NETWORKS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WESTROCK COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HILTON WORLDWIDE HOLDINGS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SYNOPSYS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GARTNER, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROCKWELL AUTOMATION INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MONDELEZ INTERNATIONAL, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "QUANTA SERVICES INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "RESMED INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HEALTHPEAK PROPERTIES INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOODY'S CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MONSTER BEVERAGE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NVIDIA CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TELEDYNE TECHNOLOGIES INCORPOR CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DOLLAR TREE STORES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THERMO FISHER SCIENTIFIC INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "6/29/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."}
+  ],
+  "page_confidence": "high"
+}

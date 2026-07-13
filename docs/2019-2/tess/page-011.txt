@@ -1,0 +1,104 @@
+M and R SchedulaA
+
+Rohit Khanna 11 of 210
+
+EIF
+
+SP, DC, SF
+
+SP
+
+[Stock Name
+
+FACEBOOK INC CL-A(FB)
+
+ALPHASET INC CL
+A(GOOGL}
+
+ILLUMINA INC{ILMN)
+
+IHS MARKIT LTOUINFO)
+
+Ticker
+
+GOOGL
+
+ILMIN
+
+INFO
+
+Transaction
+
+P
+
+[Value of Asset
+
+A: None
+
+J8: $1-$1,000
+
+[c: $1,001-$15,000
+
+1: $15,001-$50,000
+
+{E: $80,001-$100,000
+
+iF: $100,001-$250,000
+
+IG: $250,001-5500,000
+
+|H: $500,001-S1,000,000
+
+jl; $1,000,001-$5,000,000
+
+LJ: $5,000,001-$25,000,000
+
+1X: $25,000,001-550,000,000
+
+IL: Over $50,000,000
+
+Asset over $1,000,000
+
+Type of income
+
+None
+
+[Dlvidends
+
+IRent
+
+finterest
+
+{Capital Gains
+
+[Excepted/Biind Trust
+
+[Tax-Deferred
+
+JOther Type of Income
+
+jAmount of income: Preceeding Year
+January 1, 2019 - December 31, 2019
+
+A: None
+
+[B: $1-$200
+
+: $204-51,000
+
+D: $1,001-52,500
+
+F $5,004-$15,000
+
+IG: $15,001-$50,000
+
+IH: $50,001-$100,000
+
+Il: $100,001-$1,000,000
+
+{J $1,000,001-$5,000,000
+
+Ik: Over $5,000,000
+
+{Spouse/DC Income over $1,000,000
+

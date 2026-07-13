@@ -1,0 +1,35 @@
+{
+  "pdf_page": 2,
+  "printed_label": "Page 2 of 3",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Grandchildren Trust"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CBS CORPORATION CMN CLASS B", "tx_type": "Sale", "date": "07/31/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Sale", "date": "07/31/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DEVON ENERGY CORPORATION (NEW) CMN", "tx_type": "Sale", "date": "07/31/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Sale", "date": "07/31/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "USG CORP (NEW) CMN", "tx_type": "Sale", "date": "07/31/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIREEYE, INC. CMN", "tx_type": "Sale", "date": "07/31/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERSUM MATERIALS, INC. CMN", "tx_type": "Sale", "date": "07/31/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE MOSAIC COMPANY CMN", "tx_type": "Sale", "date": "07/31/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ENTEGRIS, INC. CMN", "tx_type": "Sale", "date": "07/31/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Purchase", "date": "08/03/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WESTLAKE CHEMICAL CORPORATION CMN", "tx_type": "Sale", "date": "08/03/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WAL MART STORES INC CMN", "tx_type": "Sale", "date": "08/03/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HANESBRANDS INC. CMN", "tx_type": "Purchase", "date": "08/04/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WAL MART STORES INC CMN", "tx_type": "Sale", "date": "08/04/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WESTLAKE CHEMICAL CORPORATION CMN", "tx_type": "Sale", "date": "08/08/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HANESBRANDS INC. CMN", "tx_type": "Purchase", "date": "08/08/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WAL MART STORES INC CMN", "tx_type": "Sale", "date": "08/10/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WESTLAKE CHEMICAL CORPORATION CMN", "tx_type": "Sale", "date": "08/10/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WAL MART STORES INC CMN", "tx_type": "Sale", "date": "08/11/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PERKINELMER INC CMN", "tx_type": "Sale", "date": "08/28/2017", "notification_date": "09/14/2017", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": "Typed attachment table (\"Grandchildren Trust\" section header). Header stamp: \"Name: Rohit Khanna  Page 2 of 3\". All 20 transactions checked in amount column A ($1,001-$15,000); all notification dates 09/14/17.",
+  "uncertainties": [
+    {"row": 19, "field": "date", "read": "08/11/2017", "note": "tesseract read 08/12/17, but full-page and both quadrant crops clearly show 08/11/17"}
+  ],
+  "page_confidence": "high"
+}

@@ -1,0 +1,40 @@
+{
+  "pdf_page": 219,
+  "printed_label": "Page 219 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITED PARCEL SERVICE, INC. CLASS B COMMON", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "3M COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JOHNSON CONTROLS INTERNATIONAL CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TARGET CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STARBUCKS CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGENERON PHARMACEUTICAL INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "APPLIED MATERIALS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "U.S. BANCORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN EXPRESS CO. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KEYCORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STRYKER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "METTLER-TOLEDO INTL CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MID-AMERICA APT CMNTYS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LULULEMON ATHLETICA INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PALO ALTO NETWORKS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HILTON WORLDWIDE HOLDINGS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COPART, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COSTAR GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CBRE GROUP, INC. CMN CLASS A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LKQ CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COMERICA INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AGILENT TECHNOLOGIES, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EATON CORP PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NORTHERN TRUST CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "11/3/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "amount", "note": "All rows read as amount bucket A from the page image."}
+  ],
+  "page_confidence": "high"
+}

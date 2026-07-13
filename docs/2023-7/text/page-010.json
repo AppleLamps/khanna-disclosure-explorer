@@ -1,0 +1,30 @@
+{
+  "pdf_page": 10,
+  "printed_label": "Page 10 of 13",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind":"tx","owner":"SP","asset_name":"BAXTER INTERNATIONAL INC CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"SP","asset_name":"BAXTER INTERNATIONAL INC CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/31/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"MOHAWK INDUSTRIES INC COMMON STOCK","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"SENSATA TECHNOLOGIES HOLDING P CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"ABG LTD SPONSORED ADR CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/14/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"MOHAWK INDUSTRIES INC COMMON STOCK","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/05/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"TAIWAN SEMICONDUCTOR MFG ADS LTD ADS 1ADS EQUALS 5ORDS","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/14/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"CALL/TSM FLEX EURO PM @ 93 EXP 07/14/2023","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/14/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"CALL/STM FLEXEURO PM @ 47 EXP 07/14/2023","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/14/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"PUT/XSP @ 421 EXP 09/15/2023","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/06/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"PUT/XSP @ 445 EXP 05/08/2023","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/26/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"PUT/XSP @ 459 EXP 09/29/2023","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/20/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"PUT/XSP @ 432 EXP 08/25/2023","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/13/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"WALGREENS BOOTS ALLIANCE, INC. CMN","tx_type":"Purchase","cap_gain_over_200":false,"partial_sale":false,"date":"07/28/2023","notification_date":"08/01/2023","amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"SP","asset_name":"GENERAL MOTORS COMPANY CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/19/2023","notification_date":"08/01/2023","amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"SP","asset_name":"SENSATA TECHNOLOGIES HOLDING P CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/19/2023","notification_date":"08/01/2023","amount":"$15,001-$50,000"},
+    {"kind":"tx","owner":"SP","asset_name":"ELANCO ANIMAL HEALTH INCORPORA CMN","tx_type":"Sale","cap_gain_over_200":false,"partial_sale":true,"date":"07/25/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"},
+    {"kind":"tx","owner":"SP","asset_name":"URBAN OUTFITTERS INC CMN","tx_type":"Sale","cap_gain_over_200":true,"partial_sale":true,"date":"07/03/2023","notification_date":"08/01/2023","amount":"$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [{"row":1,"field":"amount","read":"$15,001-$50,000","note":"Amount check is in column B on the crop; many subsequent rows are column A."},{"row":10,"field":"date","read":"07/06/2023","note":"OCR read the transaction date as 07/08/23, but the image appears closer to 07/06/23."}],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,279 @@
+{
+  "pdf_page": 36,
+  "printed_label": "Rohit Khanna Page 36 of 65",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "Ritu Ahuja Declaration of Trust"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BANKOFAMERICA CORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MICROSOFT CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "DISTRICT COLUMBIA INCOME TAX REV E",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "01/28/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OHNSON & JOHNSON CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ABBVIE INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "COCA-COLA COMPANY (THE) CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "APPLE JNC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FAIRFAX CMNTY VA ECONOMIC DEV REVL]",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "01/28/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BLACKROCK FUNDING, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MASTERCARD INCORPORATED CMN CLA",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ABBOTT LABORATORIES CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THEHOME DEPOT, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EL PASO CMNTY TEX GO 3.2660% 02/15/2",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "01/28/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PITTCNTY NCLTD OBLIG REV 14910% SP_PITTCNTY NCLTD OBLIG REV 14910%",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "01/28/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LINDE PLCMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NDST FIN AUTH WASTEWATER UTTREY",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "01/28/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "THERMO FISHER SCIENTIFIC INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "UNITEDHEALTH GROUP INCORPORATE &",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": true,
+      "date": "01/29/2026",
+      "notification_date": "02/03/2026",
+      "amount": "$15,001-$50,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 3,
+      "field": "date",
+      "read": {
+        "kind": "tx",
+        "owner": "SP",
+        "asset_name": "DISTRICT COLUMBIA INCOME TAX REV E",
+        "tx_type": "Sale",
+        "cap_gain_over_200": true,
+        "partial_sale": false,
+        "date": null,
+        "notification_date": "02/03/2026",
+        "amount": "$15,001-$50,000"
+      },
+      "note": "Transaction-date cell was not read confidently from the source image; date left null explicitly."
+    },
+    {
+      "row": 4,
+      "field": "date",
+      "read": {
+        "kind": "tx",
+        "owner": "SP",
+        "asset_name": "OHNSON & JOHNSON CMN",
+        "tx_type": "Sale",
+        "cap_gain_over_200": true,
+        "partial_sale": true,
+        "date": null,
+        "notification_date": "02/03/2026",
+        "amount": "$15,001-$50,000"
+      },
+      "note": "Transaction-date cell was not read confidently from the source image; date left null explicitly."
+    },
+    {
+      "row": 5,
+      "field": "date",
+      "read": {
+        "kind": "tx",
+        "owner": "SP",
+        "asset_name": "ABBVIE INC. CMN",
+        "tx_type": "Sale",
+        "cap_gain_over_200": true,
+        "partial_sale": true,
+        "date": null,
+        "notification_date": "02/03/2026",
+        "amount": "$15,001-$50,000"
+      },
+      "note": "Transaction-date cell was not read confidently from the source image; date left null explicitly."
+    },
+    {
+      "row": 10,
+      "field": "date",
+      "read": {
+        "kind": "tx",
+        "owner": "SP",
+        "asset_name": "MASTERCARD INCORPORATED CMN CLA",
+        "tx_type": "Sale",
+        "cap_gain_over_200": true,
+        "partial_sale": true,
+        "date": null,
+        "notification_date": "03/29/2026",
+        "amount": "$15,001-$50,000"
+      },
+      "note": "Transaction-date cell was not read confidently from the source image; date left null explicitly."
+    }
+  ],
+  "page_confidence": "medium"
+}

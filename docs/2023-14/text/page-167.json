@@ -1,0 +1,42 @@
+{
+  "pdf_page": 167,
+  "printed_label": "Page 167 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "ABBOTT LABORATORIES CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARMAX, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "APOLLO GLOBAL MANAGEMENT, INC. PFD 7.625000", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/16/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TARGET CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CARRIER GLOBAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SHERWIN-WILLIAMS CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/31/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALPHABET INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/4/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/22/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SHERWIN-WILLIAMS CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Corvex Dynamic Equity Select LLC Class BA Series 1", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/1/2023", "notification_date": null, "amount": "$250,001-$500,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Tiger Global Crossover Access LLC Class A1 Series 11", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/25/2023", "notification_date": null, "amount": "$100,001-$250,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INTUITIVE SURGICAL, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/1/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "N V R INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HUMANA INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LABORATORY CORPORATION OF AMER CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGAL REXNORD CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TARGET CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/19/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HCA HEALTHCARE, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MEDTRONIC PUBLIC LIMITED COMPA CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LABORATORY CORPORATION OF AMER CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SS&C TECHNOLOGIES HOLDINGS, IN CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LEAR CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/13/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EXTRA SPACE STORAGE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/25/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Private fund series names and a few issuer suffixes are small; visible wording was preserved."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "amount", "note": "Amounts are transcribed from visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

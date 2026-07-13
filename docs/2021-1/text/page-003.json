@@ -1,0 +1,20 @@
+{
+  "pdf_page": 3,
+  "printed_label": "Page 3 of 6",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Arco LP"},
+    {"kind": "group", "text": "2020 Trust FBO Khanna Children"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Netflix Inc.", "tx_type": "Purchase", "cap_gain_over_200": false, "partial_sale": false, "date": "01/22/2021", "notification_date": "02/02/2021", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Paypal Holdings Inc", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/22/2021", "notification_date": "02/02/2021", "amount": "$1,001-$15,000"},
+    {"kind": "group", "text": "Grandchildren's Trust"},
+    {"kind": "tx", "owner": "DC", "asset_name": "Paypal Holdings Inc", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "01/22/2021", "notification_date": "02/02/2021", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "text", "read": "Arco LP", "note": "Short group label partly obscured by heavy horizontal bar; first letters are somewhat unclear."}
+  ],
+  "page_confidence": "medium"
+}

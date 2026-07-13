@@ -1,0 +1,42 @@
+{
+  "pdf_page": 217,
+  "printed_label": "Page 217 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COSTAR GROUP, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MODERNA, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "QUANTA SERVICES INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "W.W. GRAINGER INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GE HEALTHCARE TECHNOLOGIES INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NORTHERN TRUST CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PROLOGIS INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CLOROX CO (THE) (DELAWARE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "US Equity Stock", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BROWN-FORMAN CORP CL B CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SERVICENOW INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WARNER BROS DISCOVERY INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PAYCOM SOFTWARE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "INSULET CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SALESFORCE INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ROPER TECHNOLOGIES INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MCCORMICK & CO NON VTG SHRS CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KROGER COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COPART, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CORE GROUP, INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CAMPBELL SOUP CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "IDEXX LABORATORIES CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTODESK, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "US Equity Stock and Core Group names were transcribed exactly as visible on the page image."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale boxes marked are encoded as Partial Sale, matching nearby transcription convention."},
+    {"field": "amount", "note": "All rows read as amount bucket A from the page image."}
+  ],
+  "page_confidence": "medium-high"
+}

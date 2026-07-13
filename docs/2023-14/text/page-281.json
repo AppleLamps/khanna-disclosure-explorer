@@ -1,0 +1,41 @@
+{
+  "pdf_page": 281,
+  "printed_label": "Page 281 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "BATH & BODY WORKS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NVIDIA CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALLSTATE CORPORATION COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KELLOGG COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VF CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MCKESSON CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "T-MOBILE US, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALBEMARLE CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HENRY SCHEIN INC COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KEYSIGHT TECHNOLOGIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REGENERON PHARMACEUTICAL INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELECTRONIC ARTS CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/9/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ROLLINS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GARTNER, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "8/3/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PFIZER INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CROWN CASTLE INTL CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MC DONALDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CVS HEALTH CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WASTE MANAGEMENT INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KELLOGG COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NASDAQ INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICROSOFT CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KEURIG DR PEPPER INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALTRIA GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "amount", "note": "Purchase amount buckets were read from the high-resolution page image; Pfizer appears in bucket C, later purchase rows in bucket B."}
+  ],
+  "page_confidence": "medium"
+}

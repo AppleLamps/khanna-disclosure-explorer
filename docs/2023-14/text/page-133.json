@@ -1,0 +1,35 @@
+{
+  "pdf_page": 133,
+  "printed_label": "Page 133 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "AUTONATION INC 4.75% 06/01/2030 USD SR LIEN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 07/23", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 07/24", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 09/25", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 10/24", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION MTN 4.45% 03/03/24", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF MONTREAL HYBRID MTN 01/22/2027 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF MONTREAL MTN 1.26% 09/15/2026 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF NEW YORK MELLON CORP HYBRID MTN", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BAT INTL FINANCE PLC 4.448% 03/16/2028 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BAT INTL FINANCE PLC 4.448% 03/16/2028 USD SR LIE", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC 1.915% 02/01/2027 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BAXTER INTERNATIONAL INC 2.272% 12/01/2028 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BELL CANADA 0.75% 03/17/2024 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BIO-RAD LABORATORIES, INC CMN CLASS A", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BLACKSTONE GROUP INC/THE CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BROADCOM INC, 5.0% 04/15/2030 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BROADCOM INC, 5.0% 04/15/2030 USD SER WI SR LIEN", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "CADENCE DESIGN SYSTEMS INC CMN", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "CANADIAN IMPERIAL BANK 1.25% 06/22/2026 USD", "value": "None", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several bank/bond descriptions are clipped at the right edge of Block A; dates and suffixes are best reads from OCR plus image."},
+    {"field": "checkbox_grid", "note": "Most rows read as fixed-income interest/$1-$200; several value and income marks are visually cramped and medium confidence."}
+  ],
+  "page_confidence": "medium"
+}

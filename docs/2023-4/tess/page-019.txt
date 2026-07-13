@@ -1,0 +1,108 @@
+ATURA Holdiegs
+mse
+
+SP
+
+Call (SPX) New S&P 500 JUN 22 24
+
+elt
+
+ay Sen
+
+04/27/23 04/28/23
+
+i
+
+SP
+
+Call (SPX) New S&P 500 JUN 21 24
+$4700
+
+04/27/23 04/28/23
+
+SP
+
+Put (SPX) New S&P 500 JUN 21 24
+$3200
+
+04/27/23 04/28/23
+
+Put (SPX) New S&P 500 SUN 21 24
+$3900
+
+SAURA Holdings
+Grandchifdren Trust (Khanna Portion)
+
+Call (SPX) New S&P S00 JUN 21 24
+$4600
+
+04/27/23 04/28/23
+
+04/27/23 04/28/23
+
+oc
+
+Call (SPX} New S&P 500 JUN 21 24
+$4700
+
+04/27/23 04/28/23
+
+oc
+
+Put (SPX) New S&P SOOJUN 21 24
+$3200
+
+04/27/23 04/28/23
+
+Put (SPX) New S&P 500 JUN 21 24
+$3900
+
+MURA Holdings
+2020 Trust FBQ Khanna Children
+
+Oc
+
+Call (SPX) New S&P 500 JUN 21 24
+$4600
+
+04/27/23 04/28/23
+
+04/27/23 04/28/23 x
+
+Call (SPX) New S&P SOOJUN 21 24
+184700
+
+04/27/23 04/28/23
+
+8
+
+Put (SPX) New S&P S00 JUN 21 24
+$3200
+
+04/27/23 04/28/23
+
+Put (SPX) New S&P SOO JUN 21 24
+$3900
+
+ARECO
+Grandchildren Trust (Khanna Portion}
+
+Call (SPX) New S&P SOO JUN 21 24
+$4600
+
+04/27/23 04/28/23
+
+04/27/23 04/28/23 x
+
+8
+
+Call (SPX) New S&P SOOJUN 22 24
+$4700
+
+04/27/23 04/28/23 x
+
+Put (SPX) New S&P 500 JUN 21 24
+$3200
+
+04/27/23 04/28/23 x
+

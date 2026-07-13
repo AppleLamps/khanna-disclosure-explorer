@@ -1,0 +1,41 @@
+{
+  "pdf_page": 76,
+  "printed_label": "Page 76 of 326",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1995 Trust"},
+    {"kind": "asset", "owner": "SP", "asset_name": "O'REILLY AUTOMOTIVE, INC. CMN", "value": null, "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ORLANDO FLA UTILS COMMN UTIL REV 5% 10/01/20 AO SYS REV REV REF BDS 2016 A BEO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "OSHKOSH CORPORATION CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "OTIS WORLDWIDE CORPORATION CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "OWENS CORNING CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PACCAR INC CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PACKAGING CORP OF AMERICA COMMON STOCK", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PACWEST BANCORP CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PALM BEACH CNTY FLA SOLID REV 5% 10/01/20 AO WASTE AUTH REV REF REV BDS 2011 BEO SR LIEN S-T X-ORD RDM", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PARK HOTELS & RESORTS INC. CMN", "value": null, "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PARKER-HANNIFIN CORP. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PARSLEY ENERGY, INC. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PAYCHEX, INC. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PAYCOM SOFTWARE, INC. CMN", "value": null, "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PAYPAL HOLDINGS, INC. CMN", "value": null, "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PBF ENERGY INC CMN", "value": null, "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PEMBINA PIPELINE CORPORATION CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PENNSYLVANIA ST GEN OBLI GO 5.3750% 07/01/20 JJ 3RD-RFDG-SER 2004 UT FSA BEO", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PENNSYLVANIA ST GO 5% 02/01/21 FA GO BDS 2016 UT BEO SR LIEN", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PENNSYLVANIA ST GO 5% 11/15/20 MN GO BDS FIRST SERIES 2011 UT BEO SR LIEN", "value": null, "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PEPSICO, INC. CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PERKINELMER, INC CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "PERRIGO CO PLC CMN", "value": null, "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": null, "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": null, "field": "value", "read": null, "note": "Block B (Value of Asset) columns unresolvable under heavy grey stipple; all value=null."},
+    {"row": null, "field": "income_types", "read": null, "note": "Block C read best-effort under stipple; INTEREST assigned to municipal-bond rows, DIVIDENDS/NONE to equities; low-confidence."},
+    {"row": null, "field": "amount_of_income", "read": null, "note": "Block D (Amount of Income) columns unresolvable under stipple; all amount_of_income=null."},
+    {"row": null, "field": "transaction", "read": null, "note": "Block E (Transaction) unresolvable under stipple; all transaction=null."}
+  ],
+  "page_confidence": "medium"
+}

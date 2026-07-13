@@ -1,0 +1,13 @@
+{
+  "pdf_page": 1,
+  "printed_label": "Page 1 of 40",
+  "section": "Periodic Transaction Report - cover",
+  "page_type": "ptr_cover",
+  "filer": "Rohit Khanna",
+  "rows": [],
+  "free_text": "# UNITED STATES HOUSE OF REPRESENTATIVES\n## Periodic Transaction Report\n\nName: Rohit Khanna. Office telephone appears as 202-225-2631. Filer status: Member of the U.S. House of Representatives, State CA, District 17. IPO question: No checked. Report type: Initial Report checked. Official use stamp: Legislative Resource Center, 2023 NOV -8 AM 10:07, Office of the Clerk. Transaction grid contains only the pre-printed example row and the note \"Please see the attached\"; no real transaction rows appear on this cover page.",
+  "uncertainties": [
+    "Cover-page OCR is degraded around the stamp/district area; no real transaction rows are visible."
+  ],
+  "page_confidence": "medium"
+}

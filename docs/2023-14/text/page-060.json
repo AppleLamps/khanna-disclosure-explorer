@@ -1,0 +1,37 @@
+{
+  "pdf_page": 60,
+  "printed_label": "Page 60 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "NORFOLK SOUTHERN CORP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NORTHERN TRUST CORP 3.15% 05/03/2029 USD", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NORTHERN TRUST CORP 3.15% 05/03/2029 USD SR LI", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NORTHERN TRUST CORP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NORTHERN TRUST CORPORATION 3.95% 10/30/2025 U", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NORTHERN TRUST CORPORATION 3.95% 10/30/2025", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NORWEGIAN CRUISE LINE HLDG LTD CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NUCOR CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NVIDIA CORPORATION CMN", "value": "$100,001-$250,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NXP BV/NXP FDG/NXP USA 4.3% 06/18/2029 USD", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "NXP BV/NXP FDG/NXP USA 4.3% 06/18/2029 USD SR LI", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "NXP SEMICONDUCTORS N.V. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OHIO ST GO 5% 08/01/25 FA", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OHIO ST GO 5% 08/01/25 FA HIGHER EDU GO REF BDS", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "OHIO ST GO 5% 09/15/25 MS", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OHIO ST GO 5% 09/15/25 MS COMMON SCHS GO REF", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "OHIO ST MENTAL HEALTH CAP FACS REV 5.0000% 06/", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OHIO ST MENTAL HEALTH CAP FACS REV 5.0000% 06/", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "OHIO ST SPL OBLIG REV 5.0000% 04/01/28-CA AO", "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "OHIO ST SPL OBLIG REV 5.0000% 04/01/28-CA AO CAP", "value": "$15,001-$50,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1995 Trust", "note": "No group header printed on this page; context inferred from surrounding attachment pages."},
+    {"row": 3, "field": "asset_name", "read": "NORTHERN TRUST CORP 3.15% 05/03/2029 USD SR LI", "note": "Name is truncated at the asset-name column edge."},
+    {"row": 5, "field": "asset_name", "read": "NORTHERN TRUST CORPORATION 3.95% 10/30/2025 U", "note": "Name is truncated at the asset-name column edge."},
+    {"row": 11, "field": "asset_name", "read": "NXP BV/NXP FDG/NXP USA 4.3% 06/18/2029 USD SR LI", "note": "Name is truncated at the asset-name column edge."}
+  ],
+  "page_confidence": "medium"
+}

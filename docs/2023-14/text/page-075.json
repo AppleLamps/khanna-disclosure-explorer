@@ -1,0 +1,37 @@
+{
+  "pdf_page": 75,
+  "printed_label": "Page 75 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 500", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 500", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "MORGAN STANLEY FINANCE LLC LINKED TO S&P 500 K", "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "N Y CITY MUN WTR FIN AUTH REV 5% 06/15/27-CA JD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "N Y CITY MUN WTR FIN AUTH REV 5% 06/15/27-CA JD", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "N Y N Y CTY TRNSTNL FIN AUTH REV 5.0000% 11/01/24", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NY ST ENV FACS CORP REV 5% 10/15/28 AO REVOLVIN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NY ST DORM AUTH ST PERS REV 5% 02/15/24 FA INCO", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NASSAU CNTY N Y GO 5% 10/01/24 AO GO INPT REF B", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NASSAU CNTY N Y INTERIM FIN REV 0.7090% 11/15/25", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NETFLIX, INC. CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEW YORK N Y CITY TRANSITIONAL REV 5% 07/15/25", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEW YORK N Y CITY TRANSITIONAL REV 5% 07/15/25", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEW YORK N Y CITY TRANSITIONAL REV 5% 07/15/28 J", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEW YORK NY GO 1.2160% 06/01/26 FA", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEW YORK N Y GO 5% 08/01/26 FA GO BDS FISCAL 20", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NEW YORK ST DORM AUTH REVS NON REV 5% 10/01/4", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NIKE CLASS-B CMN CLASS B", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "NY CITY TRANSITIONAL FIN AUTH GO 5.000% 11/01/24", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "NY ST DORM AUTH REVS REV 1.1800% 07/01/26 JJ TAX", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1995 Trust", "note": "No group header printed on this page; context inferred from surrounding attachment pages."},
+    {"row": 10, "field": "amount_of_income", "read": "None", "note": "Interest/amount alignment for the Nassau interim finance row is faint; amount appears to be the None column."},
+    {"row": 20, "field": "amount_of_income", "read": "None", "note": "Bottom-row amount checkbox is faint and close to the first amount column."},
+    {"row": 6, "field": "asset_name", "read": "NY ST ENV FACS CORP REV 5% 10/15/28 AO REVOLVIN", "note": "Printed asset name is truncated at the asset-name column edge."}
+  ],
+  "page_confidence": "medium"
+}

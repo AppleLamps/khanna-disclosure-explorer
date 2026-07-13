@@ -1,0 +1,108 @@
+M&R Schedule B - Transactions
+
+Page 192 of 309
+Rohit Khanna
+
+EIF
+
+EIF
+
+EIF
+
+SP, DC, JT
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+Security Name
+
+Invesco
+Variable Rate
+ETF
+
+Invesco
+Variable Rate
+ETF
+
+Adobe Inc
+
+Adobe Inc
+
+Adabe Inc
+
+Ticker
+
+Transaction
+
+Amount of Transaction
+
+A: None
+
+VRIG
+
+VRIG
+
+ADBE
+
+ADBE
+
+ADBE
+
+B: $1-$1,000
+
+C: $1,001-$15,000
+
+D: $15,001-$50,000
+
+E: $50,001-$100,000
+
+F: $100,001-$250,000
+
+G: $250,001-$500,000
+
+H: $500,001-$1,000,000
+
+I: $1,000,001-$5,000,000
+
+J: $5,000,001-$25,000,000
+
+K: $25,000,001-$50,000,000
+
+L: Over $50,000,000
+
+Spouse/DC Asset over $1,000,000
+a anaaseae
+
+Type of Transaction
+
+Purchase
+
+Sale
+
+Partial Sale
+
+Exchange
+
+Capital Gain
+
+Capital Gain Exceeded $200
+
+Transaction Date
+
+2/5/2018
+
+9/12/2018
+
+4/6/2018
+
+4/10/2018
+
+5/15/2018
+

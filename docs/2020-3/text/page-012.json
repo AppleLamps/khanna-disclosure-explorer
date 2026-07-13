@@ -1,0 +1,18 @@
+{
+  "pdf_page": 12,
+  "printed_label": "Page 12 of 13",
+  "section": "Periodic Transaction Report - Amount of Transaction grid (continuation)",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "C.H. ROBINSON WORLDWIDE, INC. CMN", "tx_type": "Sale", "date": "02/11/2020", "notification_date": "03/02/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EOG RESOURCES INC CMN", "tx_type": "Sale", "date": "02/11/2020", "notification_date": "03/02/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Sale", "date": "02/11/2020", "notification_date": "03/02/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WESTERN MIDSTREAM PARTNERS LP CMN", "tx_type": "Sale", "date": "02/21/2020", "notification_date": "03/02/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LYONDELLBASELL INDUSTRIES N.V. CMN CLASS A", "tx_type": "Sale", "date": "02/11/2020", "notification_date": "03/02/2020", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TAKE TWO INTERACTIVE SOFTWARE INC", "tx_type": "Sale", "date": "02/11/2020", "notification_date": "03/02/2020", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

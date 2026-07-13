@@ -1,0 +1,107 @@
+{
+  "pdf_page": 133,
+  "printed_label": "Rohit Khanna 133 of 210",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "NETFLIX INC (NFLX)",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NETFLIX INC (NFLX)",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "NVIDIA CORPORATION (NVDA)",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NVIDIA CORPORATION (NVDA)",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "12/27/2019",
+      "notification_date": null,
+      "amount": "[UNKNOWN]"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "layout",
+      "read": "TRANSPOSED 'Areco Schedule B' grid (final/narrow sheet of the Areco block, continuation of p.122-132): each COLUMN is one transaction (4 columns only). No EIF markers. Header rows give owner (DC/SP), asset name, ticker, Transaction type (S/S(Part)), and Transaction Date (bottom row, all 12/27/2019). The left-hand ROW-LABEL column (Amount of Transaction A-L buckets, Type of Transaction, Capital Gain) is off-page on the preceding sheet (p.122). The amount matrix and Capital Gain rows are unlabeled here and degraded (X marks are dark bars), so amount=null and cap_gain_over_200=null for every tx.",
+      "note": "use the p.122 'Areco Schedule B' A-L bucket/Type/Capital-Gain label key to resolve amounts by row position"
+    },
+    {
+      "row": 1,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 1,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 2,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 2,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 3,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 3,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 4,
+      "field": "amount",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 4,
+      "field": "cap_gain_over_200",
+      "read": false,
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    }
+  ],
+  "page_confidence": "medium"
+}

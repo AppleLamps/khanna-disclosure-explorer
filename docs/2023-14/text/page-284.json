@@ -1,0 +1,41 @@
+{
+  "pdf_page": 284,
+  "printed_label": "Page 284 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TOPGOLF CALLAWAY BRANDS CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIVENT CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NOVO-NORDISK A/S ADR ADR CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 439 EXP 09/29/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL/JBS FLEX EURO PM @ 23 EXP 09/08/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CALL/NVO FLEX EURO PM @ 180 EXP 09/08/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "9/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 408 EXP 12/15/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 413 EXP 11/30/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 435 EXP 10/27/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/7/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 432 EXP 11/03/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/11/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 429 EXP 11/17/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/14/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUT/XSP @ 415 EXP 11/10/2023", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "JOHNSON & JOHNSON CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/6/2023", "notification_date": null, "amount": "$50,001-$100,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ABBOTT LABORATORIES CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BRISTOL-MYERS SQUIBB COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COCA-COLA COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WALMART INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COLGATE-PALMOLIVE CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WELLS FARGO & CO (NEW) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN TOWER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CENTENE CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REPUBLIC SERVICES INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ELEVANCE HEALTH INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KIMBERLY-CLARK CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "9/6/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."},
+    {"field": "amount", "note": "Bottom stock-sale amount buckets were read from the bottom-right crop; Johnson & Johnson appears in bucket C, the following stock rows mostly in bucket B, and the last three in bucket A."}
+  ],
+  "page_confidence": "medium"
+}

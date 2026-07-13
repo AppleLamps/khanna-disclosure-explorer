@@ -1,0 +1,37 @@
+{
+  "pdf_page": 26,
+  "printed_label": "Page 26 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "Growth and Emerging Markets Private Equity Managers", "eif": true, "value": "$100,001-$250,000", "income_types": [], "other_income_spec": "PTN", "amount_of_income": "$2,501-$5,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HARTFORD FINANCIAL SRVCS GROUP CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HCA HEALTHCARE, INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HEDGE FUND SELECT: ELT ASSOCIATES LLC COMMIT", "eif": true, "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$1,000,001-$5,000,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HONEYWELL INTL INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HSBC BANK PLC LINKED TO S&P 500 INDEX", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HSBC BANK PLC LINKED TO S&P 500 INDEX CNTNGNT", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HUMANA INC, CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HUNTINGTON BANCSHARES INCORPOR HYBRID PERP", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "HUNTINGTON BANCSHARES INCORPOR HYBRID PERP", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HUNTINGTON BANCSHARES INCORPOR HYBRID", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "HYBRID PERPETUAL USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "INTUITIVE SURGICAL, INC. CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ISHARES PREFERRED & INCOME SECURITIES ETF", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ISHARES RUSSELL 1000 GROWTH ETF", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$100,001-$1,000,000", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ISHARES RUSSELL 1000 VALUE", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ISHARES RUSSELL 1000 VALUE ETF", "value": "$500,001-$1,000,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$100,001-$1,000,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO. HYBRID PERPETUAL USD SE", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "JPMORGAN CHASE & CO. HYBRID PERPETUAL USD SE", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 4, "field": "amount_of_income", "read": "$1,000,001-$5,000,000", "note": "Hedge fund row has EIF and a very far-right amount mark; retained literal read though value None + very large amount is unusual"},
+    {"row": 12, "field": "asset_name", "read": "HYBRID PERPETUAL USD", "note": "visible asset name lacks issuer because it appears as continuation/truncated text"},
+    {"row": 15, "field": "amount_of_income", "read": "$100,001-$1,000,000", "note": "ISHARES RUSSELL 1000 GROWTH amount mark appears in high column IX; large capital gain amount is plausible but column is visually cramped"},
+    {"row": 17, "field": "amount_of_income", "read": "$100,001-$1,000,000", "note": "ISHARES RUSSELL 1000 VALUE ETF amount mark appears in high column IX; verify during compilation if totals look off"}
+  ],
+  "page_confidence": "medium"
+}

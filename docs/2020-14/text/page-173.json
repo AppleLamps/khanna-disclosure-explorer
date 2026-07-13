@@ -1,0 +1,42 @@
+{
+  "pdf_page": 173,
+  "printed_label": "Page 173 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "11/13/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AGILENT TECHNOLOGIES, INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "1/8/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CORNING INCORPORATED CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "9/3/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAESARS ENTERTAINMENT CORP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "3/2/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NIKE CLASS-B CMN CLASS B", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "3/24/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PFIZER INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "9/29/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BECTON, DICKINSON AND COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "3/5/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FIREEYE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "12/22/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VALERO ENERGY CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "12/31/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BECTON, DICKINSON AND COMPANY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "1/8/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KINDER MORGAN INC CMN CLASS P", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "3/6/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GILEAD SCIENCES CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "12/15/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "3/6/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "OCCIDENTAL PETROLEUM CORP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "3/5/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VIACOMCBS INC. CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "3/27/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ARCH CAPITAL GROUP LTD. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "5/20/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LAM RESEARCH CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "3/24/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TJX COMPANIES INC (NEW) CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "4/14/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "5/20/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ENTEGRIS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "1/2/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "11/20/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NORTHROP GRUMMAN CORP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "12/31/2020", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MOHAWK INDUSTRIES INC COMMON STOCK", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "3/10/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "JPMORGAN CHASE & CO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHEVRON CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "12/31/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PFIZER INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "4/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EXELON CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 23, "field": "cap_gain_over_200", "read": "false", "note": "bottom rows are noisy; no separate capital-gains X visible beyond the partial-sale mark"},
+    {"row": 27, "field": "cap_gain_over_200", "read": "false", "note": "bottom row is degraded; no clear capital-gains X visible"}
+  ],
+  "page_confidence": "medium"
+}

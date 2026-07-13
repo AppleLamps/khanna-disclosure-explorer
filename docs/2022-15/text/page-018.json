@@ -1,0 +1,344 @@
+{
+  "pdf_page": 18,
+  "printed_label": "Page 18 of 367",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/NEE FLEX EURO PM @ 99 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/NKE FLEX EURO PM @ 111 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/NKE FLEX EURO PM @ 127.5 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/NVDA FLEX EURO PM 175 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/NVDA FLEX EURO PM 162.5 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/ODFL FLEX EURO PM 320 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/PG FLEX EURO PM @ 147.5 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/PG FLEX EURO PM @ 147.5 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/PG FLEX EURO PM @ 157.5 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/PG FLEX EURO PM @ 135 EXP 12/02/2022",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/PYPL FLEX EURO PM 94 EXP 01/06/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CALL/PYPL FLEX EURO PM 88 EXP 02/03/2023",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CAPITAL ONE FINANCIAL CO HYBRID PERPETUAL USD",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CAPITAL ONE FINANCIAL CORP PFD USD1.2600(5.00%) SERIES",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CAPITAL ONE FINANCIAL CORPORAT HYBRID PERPETUAL USD",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CARLYLE OPPORTUNITIES ACCESS LLC",
+      "eif": true,
+      "value": "$100,001-$250,000",
+      "income_types": [
+        "OTHER"
+      ],
+      "other_income_spec": "PTN",
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CARMAX, INC. CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CARRIER GLOBAL CORPORATION CMN",
+      "eif": false,
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CARVANA CO. CMN CLASS A",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CATERPILLAR INC (DELAWARE) CMN",
+      "eif": false,
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CBM INVESTORS, LP.",
+      "eif": true,
+      "value": "$100,001-$250,000",
+      "income_types": [
+        "OTHER"
+      ],
+      "other_income_spec": "PTN",
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CHARLES SCHWAB CORPORATION (THE) HYBRID PERPETUAL",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CHARLES SCHWAB CORPORATION (THE) HYBRID PERPETUAL USD",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CHARTER COMMUNICATIONS, INC. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "S,S(part)"
+    },
+    {
+      "kind": "asset",
+      "owner": "DC",
+      "asset_name": "CHIPOTLE MEXICAN GRILL, INC. CMN",
+      "eif": false,
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": "P,S,S(part)"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "checkbox_columns",
+      "read": "best-effort from dense attached Schedule A grid",
+      "note": "Repeated-grid geometry and quadrant crops used; some exact value/income amount buckets are marginal in the scan and should be reviewed against the page image."
+    }
+  ],
+  "page_confidence": "medium"
+}

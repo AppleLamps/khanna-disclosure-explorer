@@ -1,0 +1,12 @@
+{
+  "pdf_page": 2,
+  "printed_label": "Page 2 of 309",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "layout_note": "Blank Schedule A grid template (Blocks A-E with printed instructions and column headers). Only the greyed printed Example rows (Mega Corp Stock, Simon & Schuster, ABC Hedge Fund) appear, which are ignored per convention. First data row of Block A reads 'Please see the attached'; all data cells are empty. Actual holdings are in the typed attachment tables on following pages.",
+  "rows": [],
+  "free_text": "Schedule A grid header page. Block A first data row: \"Please see the attached\". No filer data rows on this page (only the printed example rows). Footer: \"Use additional sheets if more space is required.\"",
+  "uncertainties": [],
+  "page_confidence": "high"
+}

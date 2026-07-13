@@ -1,0 +1,45 @@
+{
+  "pdf_page": 27,
+  "printed_label": "Page 27 of 27",
+  "section": "Periodic Transaction Report - attached transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Air Products and Chemicals Inc",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "12/01/2022",
+      "notification_date": "01/05/2023",
+      "amount": "$250,001-$500,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Air Products and Chemicals Inc",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "12/01/2022",
+      "notification_date": "01/05/2023",
+      "amount": "$250,001-$500,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Air Products and Chemicals Inc",
+      "tx_type": "Sale",
+      "cap_gain_over_200": true,
+      "partial_sale": false,
+      "date": "12/01/2022",
+      "notification_date": "01/05/2023",
+      "amount": "$250,001-$500,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "medium"
+}

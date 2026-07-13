@@ -1,0 +1,40 @@
+{
+  "pdf_page": 307,
+  "printed_label": "Page 307 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "FOX VLY TECHNICAL COLLEGE DIST GO 4% 12/01/23", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/4/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BANK OF AMERICA CORPORATION HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MORGAN STANLEY PFD USD1.7188(6.88%) SERIES H", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHARLES SCHWAB CORPORATION (TH) HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TRANSCANADA TRUST HYBRID 06/15/2076 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ENBRIDGE INC. HYBRID 01/15/2083 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FLORIDA ST DB 5% 07/01/23 JJ", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/6/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WELLS FARGO & COMPANY HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BANK OF AMERICA CORPORATION HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VOYA FINANCIAL, INC. HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/27/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DISCOVER FINANCIAL SERVICES HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CITIZENS FINANCIAL GROUP, INC. HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BANK OF NOVA SCOTIA (THE) HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VODAFONE GROUP PUBLIC LIMITED HYBRID 04/04/2081", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WELLS FARGO & COMPANY PFD 6.6250 CLASS A SH", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PNC FINANCIAL SVS GROUP INC HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TRUIST FINANCIAL CORPORATION HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MORGAN STANLEY PFD USD1.5938(6.38%) SERIES I", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/21/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MARKEL CORPORATION HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/25/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CITIGROUP INC. HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PRUDENTIAL FINANCIAL, INC. HYBRID 09/01/2052 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PNC FINANCIAL SERVICES GROUP, HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN EXPRESS COMPANY HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "4/27/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several long hybrid security names are clipped at the right edge of the asset column; recorded from visible text and tesseract cross-check."}
+  ],
+  "page_confidence": "medium"
+}

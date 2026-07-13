@@ -1,0 +1,41 @@
+{
+  "pdf_page": 255,
+  "printed_label": "Page 255 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "WALT DISNEY COMPANY (THE) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ON SEMICONDUCTOR CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "METLIFE, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AT&T INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICROSOFT CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CITIGROUP INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CARRIER GLOBAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "INFINERA CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$15,001-$50,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP CLAS", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BROWN FORMAN CORP CL B CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EQUINIX, INC. REIT", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUPONT DE NEMOURS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DUPONT DE NEMOURS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "APOLLO GLOBAL MANAGEMENT INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ARCHER-DANIELS-MIDLAND COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SYNCHRONY FINANCIAL CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VULCAN MATERIALS CO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EAST WEST BANCORP INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAPITAL ONE FINANCIAL CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KIMCO REALTY CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REGIONS FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AUTOMATIC DATA PROCESSING INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "4/10/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "The Cognizant row is clipped at the asset-name column edge; visible wording was preserved."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."}
+  ],
+  "page_confidence": "medium"
+}

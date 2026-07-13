@@ -1,0 +1,102 @@
+{
+  "pdf_page": 74,
+  "printed_label": "Page 74 of 149",
+  "section": "Schedule B: Transactions",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "layout_note": "Typed attachment table, transposed spreadsheet layout: one transaction per column (4 columns), attribute labels down the left (EIF; SP, DC, JT; Security Name; Ticker; Transaction; Amount of Transaction A-L + Spouse/DC; Type of Transaction; Capital Gain; Transaction Date). Selections are black-filled cells. The 'SP, DC, JT' row and the 'Transaction' row are continuous black bands across all four columns (no letters visible). Amount fills: B (cols 1-2), E (col 3), C (col 4). Type of Transaction: Purchase band spans cols 1-2, Partial Sale band spans cols 3-4. Footer group label: 'MS Areco'.",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "MS Areco"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "MSILF Tax Emept Port Inst",
+      "ticker": "MTXXX",
+      "eif": null,
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/30/2017",
+      "notification_date": null,
+      "amount": "$1-$1,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "MSILF Tax Emept Port Inst",
+      "ticker": "MTXXX",
+      "eif": null,
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "date": "11/30/2017",
+      "notification_date": null,
+      "amount": "$1-$1,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "MSILF Tax Emept Port Inst",
+      "ticker": "MTXXX",
+      "eif": null,
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "12/4/2017",
+      "notification_date": null,
+      "amount": "$50,001-$100,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "[UNKNOWN]",
+      "asset_name": "MSILF Tax Emept Port Inst",
+      "ticker": "MTXXX",
+      "eif": null,
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "12/4/2017",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": "Note: Dependent Child reporting was not applicable last year",
+  "uncertainties": [
+    {
+      "row": "1-4",
+      "field": "owner",
+      "read": "SP, DC, JT row is a solid black band across all four columns",
+      "note": "owner letter not visible under the black fill; recorded null for all four transactions"
+    },
+    {
+      "row": "1-4",
+      "field": "asset_name",
+      "read": "MSILF Tax Emept Port Inst",
+      "note": "transcribed verbatim; 'Emept' as printed, tesseract agrees"
+    },
+    {
+      "row": 2,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 3,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 4,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    },
+    {
+      "row": 5,
+      "field": "owner",
+      "read": "[UNKNOWN]",
+      "note": "Audit repair: source scan/transcription did not provide a reliable value; retained as explicit uncertainty rather than guessing."
+    }
+  ],
+  "page_confidence": "high"
+}

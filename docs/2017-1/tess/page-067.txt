@@ -1,0 +1,122 @@
+Schedule B: Transactions
+
+Page 67 of 149
+Rohit Khanna
+
+EIF
+
+EIF
+
+EIF
+
+$P, DC, JT
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+Security Name
+
+Tesla Inc.
+
+Box Inc.
+(Received ina
+distributon
+from an EIF
+
+MS Trigger PLUS Based on
+the Value of the EURO
+STOXX Banks Index due
+Nov 5, 2019
+
+iShares Russell
+2000 ETF
+
+Riverview Strategic
+Opportunities Fund | LP
+
+Riverview Strategic
+Opportunities Fund | LP
+
+Ticker
+
+Transaction
+
+Amount of Transaction
+
+A: None
+
+TSLA
+
+BOX
+
+SPWQR
+
+IWM
+
+B: $1-$1,000
+
+C: $1,001-$15,000
+
+D: $15,001-$50,000
+
+E: $50,001-$100,000
+
+F: $100,001-$250,000
+
+BAQS7DPV
+
+BAQS7DPV
+
+G: $250,001-$500,000
+
+H: $500,001-$1,000,000
+
+I: $1,000,001-$5,000,000
+
+J: $5,000,001-$25,000,000
+
+K: $25,000,001-$50,000,000
+
+L: Over $50,000,000
+
+Spouse/DC Asset over $1,000,000
+
+Type of Transaction
+
+Purchase
+
+Sale
+
+Partial Sale
+
+Exchange
+
+Capital Gain
+
+Capital Gain Exceeded $200
+
+Transaction Date
+
+3/24/2017
+
+11/10/2017
+
+10/12/2017
+
+5/22/2017
+
+1/31/2017
+
+5/30/2017
+
+MS MR Trust Partnership
+

@@ -1,0 +1,41 @@
+{
+  "pdf_page": 161,
+  "printed_label": "Page 161 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "DUKE ENERGY CORPORATION HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CVS HEALTH CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EMERA INCORPORATED HYBRID 06/15/2076 USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HCA HEALTHCARE, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "COMERICA INCORPORATED HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF NEW YORK MELLON CORPOR HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FIFTH THIRD BANCORP HYBRID PERPETUAL USD", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TEXAS INSTRUMENTS INC, CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KKR & CO. INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GENERAL MOTORS COMPANY CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PARKER-HANNIFIN CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CAPITAL ONE FINANCIAL CORPORAT HYBRID PERPETUAL", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CATERPILLAR INC (DELAWARE) CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STRYKER CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HUMANA INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AT&T INC. PFD USD1.2500(5.00%) SERIES A", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNION PACIFIC CORP. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "LEAR CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/10/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OLD DOMINION FREIGHT LINE, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MORGAN STANLEY PFD USD1.6250(6.50%) SERIES H", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/26/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/LLY FLEX EURO PM @ 350 EXP 05/05/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/MSFT FLEX EURO PM 285 EXP 05/05/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CALL/PG FLEX EURO PM @ 147.5 EXP 05/05/2023", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "5/5/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ISHARES RUSSELL 1000 GROWTH ETF", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$250,001-$500,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Some preferred-security names are clipped at the right edge of the asset-name column."},
+    {"field": "amount", "note": "Amounts are transcribed from the visible A-K grid marks; no notification-date column is present on this form."}
+  ],
+  "page_confidence": "medium"
+}

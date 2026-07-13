@@ -1,0 +1,43 @@
+{
+  "pdf_page": 177,
+  "printed_label": "Page 177 of 326",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "group", "text": "Ritu Ahuja 1994 Trust"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICROCHIP TECHNOLOGY INCORPORA CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HUMANA INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE TRAVELERS COMPANIES, INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FIDELITY NATL INFO SVCS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CONOCOPHILLIPS CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "12/31/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE BANK OF NY MELLON CORP CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "3/5/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAESARS ENTERTAINMENT CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "2/27/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EDISON INTERNATIONAL CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "12/31/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SEMPRA ENERGY CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "6/23/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAESARS ENTERTAINMENT CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "2/27/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DEVON ENERGY CORPORATION (NEW) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "10/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CERNER CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAESARS ENTERTAINMENT CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "2/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "COPART INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "4/14/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PUBLIC SVC ENTERPRISE GROUP HOLDING CO", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "5/20/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "THE SOUTHERN CO. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "7/28/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ALBEMARLE CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "9/16/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "HANESBRANDS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "7/27/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "1/30/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FEDEX CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "8/1/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CAESARS ENTERTAINMENT CORP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": false, "date": "2/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERIZON COMMUNICATIONS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "EXELON CORPORATION CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "9/29/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DEVON ENERGY CORPORATION (NEW) CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "10/7/2020", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SERVICENOW INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "3/24/2020", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 1, "field": "asset_name", "read": "MICROCHIP TECHNOLOGY INCORPORA CMN", "note": "Name appears truncated before the usual incorporated ending on the form/scan."},
+    {"row": 27, "field": "tx_type", "read": "Partial Sale", "note": "Bottom row type mark is degraded but aligns with Partial Sale column."}
+  ],
+  "page_confidence": "medium"
+}

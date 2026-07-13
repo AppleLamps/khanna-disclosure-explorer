@@ -1,0 +1,40 @@
+{
+  "pdf_page": 207,
+  "printed_label": "Page 207 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTOMATIC DATA PROCESSING INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CINTAS CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MCCORMICK & CO NON VTG SHRS CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HUMANA INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "NASDAQ INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "UNITED RENTALS, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ZIMMER BIOMET HOLDINGS INC", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PALO ALTO NETWORKS INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "FORTIVE CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CAMPBELL SOUP CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "WALGREENS BOOTS ALLIANCE, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CONAGRA BRANDS INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "KENVUE INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRUIST FINANCIAL CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMCOR PLC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HOLOGIC INCORPORATED CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SBA COMMUNICATIONS CORPORATION CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HEALTHPEAK PROPERTIES INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "T. ROWE PRICE GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "SOUTHWEST AIRLINES CO CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ALTRIA GROUP, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AUTODESK, INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TELEFLEX INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "CERIDIAN HCM HOLDING INC. CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "OLD DOMINION FREIGHT LINE, INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/28/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ABBVIE INC CMN", "tx_type": "Purchase", "cap_gain_over_200": false, "date": "8/29/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "amount", "note": "All rows read as amount bucket A from the page image."}
+  ],
+  "page_confidence": "high"
+}

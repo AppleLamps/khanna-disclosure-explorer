@@ -1,0 +1,33 @@
+{
+  "pdf_page": 65,
+  "printed_label": "Page 65 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICAN AIRLINES GROUP INC CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICAN ELECTRIC POWER INC CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICAN EXPRESS CO. CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICAN FINANCIAL GROUP INC CMN", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICAN INTL GROUP, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICAN TOWER CORPORATION CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICAN WATER WORKS CO, INC.", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERICOLD REALTY TRUST, INC CMN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERIPRISE FINANCIAL, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMERISOURCEBERGEN CORPORATION", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMETEK INC (NEW) CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMGEN INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$2,501-$5,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AMPHENOL CORP CL-A (NEW) CMN CL A", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ANALOG DEVICES, INC. CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ANNALY CAPITAL MANAGEMENT, INC CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "ANSYS, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AON PUBLIC LIMITED COMPANY CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "APOLLO GLOBAL MANAGEMENT INC CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "APPLE INC. CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S(part)"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 13, "field": "asset_name", "read": "AMPHENOL CORP CL-A (NEW) CMN CL A", "note": "last characters are tight against the grid line"}
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,312 @@
+{
+  "pdf_page": 340,
+  "printed_label": "Page 340 of 367",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "FIFTH THIRD BANCORP CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MARRIOTT INTERNATIONAL, INC CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/29/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGENCY CENTERS CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LIBERTY BROADBAND CORPORATION CMN CLASS C",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CDW CORPORATION CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/29/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "METTLER-TOLEDO INTL CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/29/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "TAKE TWO INTERACTIVE SOFTWARE INC",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "NVR INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "BUILDERS FIRSTSOURCE, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MATCH GROUP, INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CBRE GROUP, INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "SHOPIFY INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LENNAR CORPORATION CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "HEWLETT PACKARD ENTERPRISE CO CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "EXPEDITORS INTERNATIONAL OF WA CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "LIBERTY BROADBAND CORPORATION CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "CLOUDFLARE, INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "AMERCO CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZOOMINFO TECHNOLOGIES INC CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "OKTA, INC. CMN CLASS A",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "MATTEL, INC. CMN",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "9/8/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 320 EXP 01/20/2023",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "10/19/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 345 EXP 12/02/2022",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "10/19/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "PUT/XSP @ 357 EXP 12/09/2022",
+      "tx_type": "Sale",
+      "cap_gain_over_200": false,
+      "date": "10/27/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTINGHOUSE AIR BRAKE TECHNOL CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "10/17/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "REGIONS FINANCIAL CORPORATION CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "10/25/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "WESTINGHOUSE AIR BRAKE TECHNOL CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": true,
+      "date": "10/26/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "GARTNER, INC. CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "10/20/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ADOBE INC CMN",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "10/11/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "ZOETIS INC. CMN CLASS A",
+      "tx_type": "Partial Sale",
+      "cap_gain_over_200": false,
+      "date": "10/20/2022",
+      "notification_date": null,
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": null,
+  "uncertainties": [],
+  "page_confidence": "high"
+}

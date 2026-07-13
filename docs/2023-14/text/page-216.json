@@ -1,0 +1,42 @@
+{
+  "pdf_page": 216,
+  "printed_label": "Page 216 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "DC", "asset_name": "AMERICAN EXPRESS CO. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "GILEAD SCIENCES CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AIR PRODUCTS & CHEMICALS INC CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HP INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "STARBUCKS CORP. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HCA HEALTHCARE, INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TARGET CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HILTON WORLDWIDE HOLDINGS INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "YUM BRANDS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "MASTERCARD INCORPORATED CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "PALO ALTO NETWORKS INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE BANK OF NY MELLON CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "3M COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "THE HERSHEY COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "IQVIA HOLDINGS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "METTLER-TOLEDO INTL CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "JOHNSON CONTROLS INTERNATIONAL CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AMETEK INC (NEW) CMN", "tx_type": "Partial Sale", "cap_gain_over_200": true, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TEXAS INSTRUMENTS INC. CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "AGILENT TECHNOLOGIES, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "ELEVANCE HEALTH INC CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HEWLETT PACKARD ENTERPRISE CO CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "EDWARDS LIFESCIENCES CORPORATI CMN", "tx_type": "Partial Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "IDEX CORPORATION COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "TRACTOR SUPPLY COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "10/8/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "DC", "asset_name": "HARTFORD FINANCIAL SRVCS GROUP CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "10/2/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Edwards Lifesciences name appears clipped at the asset-name column edge; visible wording was preserved."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale boxes marked are encoded as Partial Sale, matching nearby transcription convention."},
+    {"field": "amount", "note": "All rows read as amount bucket A from the page image."}
+  ],
+  "page_confidence": "high"
+}

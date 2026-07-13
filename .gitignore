@@ -1,9 +1,7 @@
 # Regenerable OCR intermediates (rebuild with: pdftoppm + ocr/crop.py + tesseract per ocr/prep.sh)
 ocr/hires/
 ocr/quads/
-ocr/tess/
 
 .DS_Store
 docs/*/hires/
 docs/*/quads/
-docs/*/tess/

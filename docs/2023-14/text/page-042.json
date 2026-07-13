@@ -1,0 +1,37 @@
+{
+  "pdf_page": 42,
+  "printed_label": "Page 42 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "ARISTA NETWORKS, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ARTHUR J GALLAGHER & CO CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AT&T INC. CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P, S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AUTODESK, INC. CMN", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AUTOMATIC DATA PROCESSING INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P, S, S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AUTONATION INC 4.75% 06/01/2030 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AUTONATION INC 4.75% 06/01/2030 USD SR LIEN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "AUTOZONE, INC. CMN", "value": "$1,001-$15,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P, S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AVALONBAY COMMUNITIES INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AVERY DENNISON CORPORATION CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P, S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BALL CORPORATION CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORP CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P, S"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 07/23", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 07/23", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 10/22", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 10/22", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 10/24", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBRID MTN 10/24", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF MONTREAL 5.2% 12/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF MONTREAL 5.2% 12/12/2024 SR LIEN", "value": "$1,001-$15,000", "income_types": ["INTEREST"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ahuja Khanna Children Irrevocable Trust", "note": "No group header printed on this page; it continues the group begun on page 39."},
+    {"row": 12, "field": "asset_name", "read": "BANK OF AMERICA CORPORATION HYBRID MTN 07/23", "note": "Asset name is visibly clipped after the date."},
+    {"row": 14, "field": "asset_name", "read": "BANK OF AMERICA CORPORATION HYBRID MTN 10/22", "note": "Asset name is visibly clipped after the date."},
+    {"row": 16, "field": "asset_name", "read": "BANK OF AMERICA CORPORATION HYBRID MTN 10/24", "note": "Asset name is visibly clipped after the date."}
+  ],
+  "page_confidence": "medium"
+}

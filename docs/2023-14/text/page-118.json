@@ -1,0 +1,36 @@
+{
+  "pdf_page": 118,
+  "printed_label": "Page 118 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "CMS ENERGY CORPORATION HYBRID 06/01/2050 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "COMERICA INCORPORATED HYBRID PERPETUAL USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "COMERICA INCORPORATED HYBRID PERPETUAL USD", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CROWN CASTLE INTL CORP 1.35% 07/15/2025 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CROWN CASTLE INTL CORP 1.35% 07/15/2025 USD SR", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DEERE & COMPANY CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DELL INT LLC / EMC CORP 4.9% 10/01/2026 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DELL INT LLC / EMC CORP 4.9% 10/01/2026 USD SR LIE", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DISCOVER FINANCIAL SERVICES HYBRID PERPETUAL", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DISCOVER FINANCIAL SERVICES HYBRID PERPETUAL", "value": "$1,001-$15,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DOLLAR GENERAL CORPORATION 4.15% 11/01/2025 U", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DOLLAR GENERAL CORPORATION 4.15% 11/01/2025 U", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DOMINION ENERGY, INC. HYBRID PERPETUAL USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DOMINION ENERGY, INC. HYBRID PERPETUAL USD SE", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DOW CHEMICAL COMPANY (THE) 2.1% 11/15/2030 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DU PAGE CNTY ILL HIGH SCH DIST GO 4% 01/15/24 JJ", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DU PAGE CNTY ILL HIGH SCH DIST GO 4% 01/15/24 JJ", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DUKE ENERGY CORPORATION HYBRID PERPETUAL U", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "DUKE ENERGY CORPORATION HYBRID PERPETUAL U", "value": "$1-$1,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "DUKE ENERGY FLORIDA, LLC 2.5% 12/01/2029 USD", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1994 Trust", "note": "No group header printed on this page; context inferred from earlier Schedule A pages."},
+    {"row": 1, "field": "asset_name", "read": "bond/preferred-security rows", "note": "Several names are clipped at the right edge of Block A."},
+    {"row": 13, "field": "income_types", "read": "DIVIDENDS", "note": "The x mark is close to the first income columns; read as dividends with $201-$1,000 amount."}
+  ],
+  "page_confidence": "medium"
+}

@@ -1,0 +1,64 @@
+{
+  "pdf_page": 28,
+  "printed_label": "Rohit Khanna Page 28 of 28",
+  "section": "Periodic Transaction Report - transaction table",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {
+      "kind": "group",
+      "text": "MURA Holdings — RAJH"
+    },
+    {
+      "kind": "tx",
+      "owner": "SP",
+      "asset_name": "Apple Global Management Inc",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "7-Mar-25",
+      "notification_date": "31-Mar-25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "MURA Holdings — Grandchildren Trust (Dennis Portion)"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Apple Global Management Inc",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "7-Mar-25",
+      "notification_date": "31-Mar-25",
+      "amount": "$1,001-$15,000"
+    },
+    {
+      "kind": "group",
+      "text": "MURA Holdings — 2020 Trust FBO Khanna Children"
+    },
+    {
+      "kind": "tx",
+      "owner": "DC",
+      "asset_name": "Apple Global Management Inc",
+      "tx_type": "Purchase",
+      "cap_gain_over_200": false,
+      "partial_sale": false,
+      "date": "7-Mar-25",
+      "notification_date": "31-Mar-25",
+      "amount": "$1,001-$15,000"
+    }
+  ],
+  "free_text": "Final page. Typed-spreadsheet attachment format with three MURA Holdings blocks. Each row is Apple Global Management Inc, Purchase, transaction date 7-Mar-25, notification date 31-Mar-25, amount bucket A ($1,001-$15,000). No Capital Gains or Partial Transaction boxes checked.",
+  "uncertainties": [
+    {
+      "row": 2,
+      "field": "group.text",
+      "read": "Grandchildren Trust (Dennis Portion)",
+      "note": "Small italic subheader; 'Dennis Portion' is the best read from the scan."
+    }
+  ],
+  "page_confidence": "medium"
+}

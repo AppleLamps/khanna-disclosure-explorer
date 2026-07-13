@@ -1,0 +1,31 @@
+{
+  "pdf_page": 21,
+  "printed_label": "21 of 28",
+  "section": "PERIODIC TRANSACTION REPORT",
+  "page_type": "ptr",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "UNITED PARCEL SERVICE, INC. CLASS B COMMON STOCK", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": false, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "APPLIED MATERIALS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "REGENERON PHARMACEUTICAL INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BLACKROCK FUNDING, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BECTON, DICKINSON AND COMPANY CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "OKTA, INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/28/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "SS&C TECHNOLOGIES HOLDINGS, IN CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/27/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AMERICAN TOWER CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/04/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BLACKSTONE GROUP INC/THE CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINTEREST INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/24/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MICRON TECHNOLOGY, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/24/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "PINTEREST INC CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "partial_sale": true, "date": "02/25/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VERTEX PHARMACEUTICALS INCORPO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ZOETIS INC. CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FREEPORT-MCMORAN INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "partial_sale": true, "date": "02/19/2025", "notification_date": "03/05/2025", "amount": "$1,001-$15,000"}
+  ],
+  "free_text": "All rows continue the \"Ritu Ahuja 1994 Trust\" group (no repeated header). All Sales, all amount bucket A ($1,001-$15,000), all notification date 03/05/2025. Nearly all are partial sales (Partial Transaction column checked) except row 1 (UPS). Capital Gains Exceed $200 checked on rows 5,7,8,10,12,13,14. MICRON TECHNOLOGY and PINTEREST each appear twice (partial sales on multiple dates).",
+  "uncertainties": [
+    {"row": 5, "field": "cap_gain_over_200", "read": "true for rows 5,7,8,10,12,13,14", "note": "Capital Gains Exceed $200 column is narrow and adjacent to Partial Transaction; per-row split read from rotated crops, medium confidence. All rows confidently Sales in bucket A."}
+  ],
+  "page_confidence": "medium"
+}

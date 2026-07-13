@@ -1,0 +1,41 @@
+{
+  "pdf_page": 266,
+  "printed_label": "Page 266 of 327",
+  "section": "SCHEDULE B - TRANSACTIONS",
+  "page_type": "schedule_b",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "tx", "owner": "SP", "asset_name": "VENTAS, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/19/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "VIATRIS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/19/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LIBERTY GLOBAL, PLC. CMN CLASS C", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MASTERCARD INCORPORATED CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "AT&T INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/19/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "JOHNSON & JOHNSON CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/19/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "LKQ CORPORATION CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "CHUBB LIMITED CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/19/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ESTEE LAUDER COS INC CL-A CMN CLASS A", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ESSEX PROPERTY TRUST INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/19/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "DIGITAL REALTY TRUST, INC. CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/19/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "URBAN OUTFITTERS INC CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/18/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FOX CORPORATION CMN CLASS B", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "NATIONAL GRID PLC SPONSORED ADR CMN", "tx_type": "Sale", "cap_gain_over_200": true, "date": "5/12/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BANK OF AMERICA CORP CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/23/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "GRAPHIC PACKAGING HLDGCO CMN", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/17/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "WEST VIRGINIA ST GO 5% 12/01/23 JD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KING CNTY WASH GO 5% 12/01/23 JD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BALTIMORE MD PROJ REV REV 5.000% 07/01/26 C", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MURFREESBORO TENN GO 5% 08/01/23 JD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "KENTUCKY INFRASTRUCTURE AUTH REV 5% 02/01", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "BEXAR CNTY TEX DB 5.0000% 06/15/30 JD", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "MANASSAS VA GO 5% 07/01/23 JJ", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "FLORIDA ST TPK AUTH TPK REV REV 5% 07/01/23 JJ", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/24/2023", "notification_date": null, "amount": "$1,001-$15,000"},
+    {"kind": "tx", "owner": "SP", "asset_name": "ST LOUIS MO ARPT REV REV 5% 07/01/23 JJ", "tx_type": "Sale", "cap_gain_over_200": false, "date": "5/24/2023", "notification_date": null, "amount": "$1,001-$15,000"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"field": "asset_name", "note": "Several bond rows are clipped at the asset-name column edge; visible wording was preserved."},
+    {"field": "tx_type", "note": "Rows with both Sale and Partial Sale marks are normalized as Sale to match the existing 2023 Schedule B local JSON convention."}
+  ],
+  "page_confidence": "medium"
+}

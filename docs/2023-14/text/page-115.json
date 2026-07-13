@@ -1,0 +1,280 @@
+{
+  "filer": "Rohit Khanna",
+  "free_text": null,
+  "page_confidence": "medium",
+  "page_type": "schedule_a",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "pdf_page": 115,
+  "printed_label": "Page 115 of 327",
+  "rows": [
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORP CMN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORPORATION HYBRID 12/20/2028",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORPORATION HYBRID 12/20/2028",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "INTEREST",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORPORATION HYBRID PERPETUAL",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORPORATION HYBRID PERPETUAL",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORPORATION HYBRID PERPETUAL",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORPORATION HYBRID PERPETUAL",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF AMERICA CORPORATION HYBRID PERPETUAL",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF NEW YORK MELLON CORPOR HYBRID 04/26/2027",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF NEW YORK MELLON CORPOR HYBRID 04/26/2027",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "INTEREST",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$1,001-$2,500",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF NEW YORK MELLON CORPOR HYBRID PERPETUAL",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF NEW YORK MELLON CORPOR HYBRID PERPETUAL",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF NEW YORK MELLON CORPOR HYBRID PERPETUAL",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF NEW YORK MELLON CORPOR HYBRID PERPETUAL",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF NOVA SCOTIA (THE) 1.3% 09/15/2026 USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF NOVA SCOTIA (THE) 1.3% 09/15/2026 USD SR LIEN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "INTEREST"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF NOVA SCOTIA (THE) HYBRID PERPETUAL USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BANK OF NOVA SCOTIA (THE) HYBRID PERPETUAL USD",
+      "value": "$1,001-$15,000",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BAXTER INTERNATIONAL INC 2.272% 12/01/2028 USD",
+      "value": "None",
+      "income_types": [
+        "NONE"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "None",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BAXTER INTERNATIONAL INC 2.272% 12/01/2028 USD SR LIEN",
+      "value": "$15,001-$50,000",
+      "income_types": [
+        "INTEREST",
+        "CAPITAL GAINS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": null
+    },
+    {
+      "kind": "asset",
+      "owner": "SP",
+      "asset_name": "BECTON, DICKINSON AND COMPANY CMN",
+      "value": "None",
+      "income_types": [
+        "DIVIDENDS"
+      ],
+      "other_income_spec": null,
+      "amount_of_income": "$201-$1,000",
+      "transaction": "P"
+    }
+  ],
+  "uncertainties": [
+    {
+      "row": 0,
+      "field": "context",
+      "read": "continuation of Ritu Ahuja 1995 Trust",
+      "note": "No group header printed on this page; context inferred from previous page."
+    },
+    {
+      "row": "multiple",
+      "field": "asset_name",
+      "read": "repeated hybrid/perpetual rows",
+      "note": "Several asset names are visibly truncated and differentiated only by continuation text beyond the cell edge."
+    }
+  ]
+}

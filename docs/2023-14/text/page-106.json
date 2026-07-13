@@ -1,0 +1,36 @@
+{
+  "pdf_page": 106,
+  "printed_label": "Page 106 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "ROSS STORES, INC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROYAL BANK OF CANADA LINKED TO BASKET OF INDI", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROYAL BANK OF CANADA LINKED TO BASKET OF INDH", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROYAL BANK OF CANADA LINKED TO S&P 500 INDEX", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "ROYAL BANK OF CANADA LINKED TO S&P 500 INDEX C", "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "S&P GLOBAL INC. CMN", "value": "$50,001-$100,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SALESFORCE INC CMN", "value": "$50,001-$100,000", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SANDOZ GROUP AG ADR CMN", "value": "None", "income_types": ["CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SANOFI SPONSORED ADR CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SBA COMMUNICATIONS CORPORATION CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SCHNEIDER ELECTRIC SE UNSPONSORED ADR (FRAN", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SCHNEIDER ELECTRIC SE UNSPONSORED ADR (FRAN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SEAGATE TECHNOLOGY HOLDIN PLC CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "SEALED AIR CORPORATION CMN", "value": "None", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SENSATA TECHNOLOGIES HOLDING P CMN", "value": "$100,001-$250,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$5,001-$15,000", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SERVICENOW INC CMN", "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SHELL PLC SPONSORED ADR CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1,001-$2,500", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SHERWIN-WILLIAMS CO CMN", "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": "P,S,S(part)"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SIEMENS AKTIENGESELLSCHAFT SPONSORED ADR C", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "SIMON PROPERTY GROUP INC CMN", "value": "$1,001-$15,000", "income_types": ["DIVIDENDS", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$201-$1,000", "transaction": "P,S"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1994 Trust", "note": "No group header printed on this page; context inferred from earlier Schedule A pages."},
+    {"row": 15, "field": "amount_of_income", "read": "$5,001-$15,000", "note": "SENSATA Block D mark is slightly close to neighboring amount columns; best visual read is $5,001-$15,000."},
+    {"row": 11, "field": "asset_name", "read": "SCHNEIDER ELECTRIC SE UNSPONSORED ADR (FRAN", "note": "Two Schneider rows are truncated at the right edge of the asset-name cell."}
+  ],
+  "page_confidence": "medium"
+}

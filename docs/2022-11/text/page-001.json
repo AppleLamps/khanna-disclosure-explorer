@@ -1,0 +1,17 @@
+{
+  "pdf_page": 1,
+  "printed_label": "Page 1 of 21",
+  "section": "Periodic Transaction Report cover",
+  "page_type": "ptr_cover",
+  "filer": "Rohit Khanna",
+  "rows": [],
+  "free_text": "# Periodic Transaction Report\n\nNAME: Rohit Khanna  \nOFFICE TELEPHONE: 202-226-2634  \nSTATUS: Member of the U.S. House of Representatives  \nREPORT TYPE: Initial Report checked; Amendment not checked.  \nAMENDMENT DATE: not applicable.  \nPUBLIC REPORT QUESTION: No checked.  \nDATE OF REPORT BEING AMENDED: blank.\n\nThe cover includes the standard PTR transaction-grid example row for Mega Corp. Common Stock; no real transactions appear on this page.",
+  "uncertainties": [
+    {
+      "field": "cover",
+      "read": "No checked for public-report question",
+      "note": "Cover scan is degraded around the yes/no prompt; checkbox placement reads as No."
+    }
+  ],
+  "page_confidence": "medium"
+}

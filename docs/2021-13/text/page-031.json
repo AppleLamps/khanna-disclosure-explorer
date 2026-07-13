@@ -1,0 +1,39 @@
+{
+  "pdf_page": 31,
+  "printed_label": "Page 31 of 303",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "DC", "asset_name": "APPLE INC. CMN", "eif": false, "value": "$100,001-$250,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "APTIV PLC CMN", "eif": false, "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ARCHER-DANIELS-MIDLAND COMPANY C", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AT&T INC. CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AT&T INC. PFD USD1.1875(4.75%) SERIES", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "ATLASSIAN CORPORATION PLC CMN CLA", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "AXALTA COATING SYSTEMS LTD. CMN", "eif": false, "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORP CMN", "eif": false, "value": "$250,001-$500,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBR", "eif": false, "value": "$1-$1,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBR", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF AMERICA CORPORATION HYBR", "eif": false, "value": "$15,001-$50,000", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF NEW YORK MELLON CORPOR H", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF NEW YORK MELLON CORPOR H", "eif": false, "value": "$15,001-$50,000", "income_types": ["INTEREST", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF NEW YORK MELLON CORPOR H", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BANK OF NOVA SCOTIA (THE) HYBRID PE", "eif": false, "value": "$15,001-$50,000", "income_types": ["INTEREST", "CAPITAL GAINS"], "other_income_spec": null, "amount_of_income": "$1-$200", "transaction": null},
+    {"kind": "asset", "owner": "DC", "asset_name": "BECTON, DICKINSON AND COMPANY CM", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BERKSHIRE HATHAWAY INC. CLASS B", "eif": false, "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S(part)"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BIONTECH SE SPONSORED ADR CMN", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "DC", "asset_name": "BLOCK, INC. CMN CLASS A", "eif": false, "value": "$15,001-$50,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 2, "field": "asset_name", "read": "ARCHER-DANIELS-MIDLAND COMPANY C", "note": "Name truncated at cell border (likely '...COMPANY CMN')."},
+    {"row": 4, "field": "asset_name", "read": "AT&T INC. PFD USD1.1875(4.75%) SERIES", "note": "Name truncated at cell border (series designation cut off)."},
+    {"row": 5, "field": "asset_name", "read": "ATLASSIAN CORPORATION PLC CMN CLA", "note": "Name truncated at cell border (likely 'CLASS A')."},
+    {"row": 8, "field": "asset_name", "read": "BANK OF AMERICA CORPORATION HYBR", "note": "Rows 9-11 are three BANK OF AMERICA CORPORATION HYBRID tranches, names truncated at cell border; distinguishing coupon/series cut off."},
+    {"row": 11, "field": "asset_name", "read": "BANK OF NEW YORK MELLON CORPOR H", "note": "Rows 12-14 are three BANK OF NEW YORK MELLON CORPORATION HYBRID tranches, names truncated at cell border."},
+    {"row": 14, "field": "asset_name", "read": "BANK OF NOVA SCOTIA (THE) HYBRID PE", "note": "Name truncated at cell border (likely 'HYBRID PERPETUAL')."},
+    {"row": 15, "field": "asset_name", "read": "BECTON, DICKINSON AND COMPANY CM", "note": "Name truncated at cell border (likely 'COMPANY CMN')."}
+  ],
+  "page_confidence": "medium"
+}

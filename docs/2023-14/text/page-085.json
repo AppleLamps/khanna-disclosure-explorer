@@ -1,0 +1,37 @@
+{
+  "pdf_page": 85,
+  "printed_label": "Page 85 of 327",
+  "section": "SCHEDULE A - ASSETS & \"UNEARNED INCOME\"",
+  "page_type": "schedule_a",
+  "filer": "Rohit Khanna",
+  "rows": [
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/TAK FLEX EURO PM @ 14.5 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/TAK FLEX EURO PM @ 15 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/TSM FLEX EURO PM @ 107 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/TSM FLEX EURO PM @ 110 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/TSM FLEX EURO PM @ 98 EXP 07/14/2023", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/UBS FLEX EURO PM @ 26 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/UBS FLEX EURO PM @ 28 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/UBS FLEX EURO PM @ 31 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/UBS FLEX EURO PM @ 22 EXP 08/11/2023", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/UBS FLEX EURO PM @ 23 EXP 09/08/2023", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/UL FLEX EURO PM @ 50 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/UL FLEX EURO PM @ 51 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/VOD FLEX EURO PM @ 10 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/VOD FLEX EURO PM @ 10.5 EXP 01/12/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CALL/VOD FLEX EURO PM @ 9.5 EXP 02/09/2024", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CAMDEN PROPERTY TRUST CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CAMPBELL SOUP CO CMN", "value": "None", "income_types": ["DIVIDENDS"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P,S"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO BASKET", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"},
+    {"kind": "asset", "owner": "SP", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO BASKET", "value": "$50,001-$100,000", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": null},
+    {"kind": "asset", "owner": "SP", "asset_name": "CANADIAN IMPERIAL BANK OF COMM LINKED TO S&P", "value": "None", "income_types": ["NONE"], "other_income_spec": null, "amount_of_income": "None", "transaction": "P"}
+  ],
+  "free_text": null,
+  "uncertainties": [
+    {"row": 0, "field": "context", "read": "continuation of Ritu Ahuja 1994 Trust", "note": "No group header printed on this page; context inferred from prior pages."},
+    {"row": null, "field": "asset_name", "read": "option rows", "note": "Option descriptions on the first 15 rows are OCR-noisy but visually consistent with None/NONE/None and blank transaction."},
+    {"row": 18, "field": "asset_name", "read": "CANADIAN IMPERIAL BANK OF COMM LINKED TO BASKET", "note": "Printed structured-note name is truncated at the asset-name column edge."},
+    {"row": 19, "field": "asset_name", "read": "CANADIAN IMPERIAL BANK OF COMM LINKED TO S&P", "note": "Printed structured-note name is truncated at the asset-name column edge."}
+  ],
+  "page_confidence": "medium"
+}
