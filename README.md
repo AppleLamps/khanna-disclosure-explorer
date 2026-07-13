@@ -40,9 +40,9 @@ python3 -m http.server 8742
 # open http://localhost:8742/
 ```
 
-The explorer is static: `index.html`, `data-YYYY.js`, `timeline-data.js`, and the page images.
-The Overview, Assets, Transactions, and Document views allow browsing the same source-backed
-records without writing code.
+The explorer is static: `index.html`, generated `summary-data.js`, `data-YYYY.js`,
+`timeline-data.js`, and the page images. The bare URL opens a lightweight 2016–2026 summary;
+choose a filing year to browse its Overview, Assets, Transactions, and Document views.
 
 ## Repository map
 
@@ -50,6 +50,7 @@ records without writing code.
 data/normalized/       generated JSONL and CSV analysis tables
 data/manifest.json     checksums, counts, coverage, schema version
 data/quality-report.json structural audit result
+summary-data.js         generated all-years website summary
 docs/src/              original PDFs for 2016–2023 and 2025–2026
 docs/<document>/pages/ readable page scans
 docs/<document>/text/  page-level structured transcriptions

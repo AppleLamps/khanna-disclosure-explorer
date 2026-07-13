@@ -90,6 +90,13 @@
       "path": "data/quality-report.json",
       "records": 1,
       "sha256": "ecbf553ed6d50de0da5632937dc309b6e8384ba621bc5ebeafbdec8672b53cb3"
+    },
+    {
+      "bytes": 39279,
+      "format": "js",
+      "path": "summary-data.js",
+      "records": 1,
+      "sha256": "b560b1746ac155b132621bcb4e28b78f0f59948005d6b5810c92c28a1d49623b"
     }
   ],
   "license": "CC0-1.0 for original dataset contributions; see DATA_LICENSE.md",

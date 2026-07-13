@@ -3,29 +3,29 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ro Khanna Finances, Net Worth &amp; Stock Trades | Financial Disclosure Explorer</title>
+<title>Ro Khanna Financial Disclosures: 2016–2026 Summary</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💸</text></svg>">
 <link rel="canonical" href="https://khanna-disclosure-explorer.vercel.app/">
 
 <!-- Social sharing. Absolute URLs point at the default Vercel domain for this repo
      (project "khanna-disclosure-explorer"). If you rename the Vercel project or add a
      custom domain, update og:url, og:image, and twitter:image below. -->
-<meta name="description" content="Search Ro Khanna's finances, estimated net worth range, assets, investments, and stock trades from House financial disclosures, with source PDFs and scanned pages.">
+<meta name="description" content="Analyze Ro Khanna’s source-linked financial disclosures across 2016–2026, including reported transaction volume, statutory amount ranges, top traded companies, and annual holdings.">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <meta name="keywords" content="Ro Khanna finances, Ro Khanna net worth, Ro Khanna trades, Ro Khanna stock trades, Ro Khanna financial disclosure, congressional stock trades">
 <meta name="author" content="Khanna Disclosure Explorer">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Ro Khanna Financial Disclosure Explorer">
 <meta property="og:url" content="https://khanna-disclosure-explorer.vercel.app/">
-<meta property="og:title" content="Ro Khanna Finances, Net Worth &amp; Stock Trades">
-<meta property="og:description" content="Searchable House disclosure data for Ro Khanna's finances, assets, estimated net worth range, and stock trades, linked back to the original scanned filings.">
+<meta property="og:title" content="Ro Khanna Financial Disclosures: 2016–2026 Summary">
+<meta property="og:description" content="An all-years briefing on reported transaction activity, statutory amount ranges, top traded companies, and annual holdings, linked to source filings.">
 <meta property="og:image" content="https://khanna-disclosure-explorer.vercel.app/assets/og-image.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Rep. Ro Khanna speaking at a House hearing">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ro Khanna Finances, Net Worth &amp; Stock Trades">
-<meta name="twitter:description" content="Search Ro Khanna's finances, assets, estimated net worth range, and stock trades from House financial disclosures.">
+<meta name="twitter:title" content="Ro Khanna Financial Disclosures: 2016–2026 Summary">
+<meta name="twitter:description" content="Explore reported transaction activity, amount ranges, top traded companies, and annual holdings across Ro Khanna’s 2016–2026 disclosures.">
 <meta name="twitter:image" content="https://khanna-disclosure-explorer.vercel.app/assets/og-image.jpg">
 <meta name="twitter:image:alt" content="Rep. Ro Khanna speaking at a House hearing">
 <script type="application/ld+json">
@@ -304,6 +304,31 @@
   .photo-credit{font-size:11px;color:#98a2b3}
   .dbar button:disabled{opacity:.4;cursor:not-allowed}
 
+  /* all-years landing page */
+  .summary-intro{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(260px,.7fr);gap:24px;align-items:stretch;margin:28px 0 18px}
+  .summary-intro-main{background:linear-gradient(135deg,#101828 0%,#1d365d 100%);color:#fff;border-radius:16px;padding:30px;box-shadow:var(--shadow)}
+  .summary-intro-main .section-kicker{color:#f2c94c}.summary-intro-main h2{font-size:34px;line-height:1.08;margin:7px 0 12px;max-width:760px}
+  .summary-intro-main p{color:#d0d5dd;font-size:15px;line-height:1.65;max-width:760px;margin:0}
+  .summary-coverage{background:#fff8dd;border:1px solid #f2d675;border-radius:16px;padding:22px;display:flex;flex-direction:column;justify-content:center}
+  .summary-coverage strong{font-family:Georgia,serif;font-size:28px;color:#101828}.summary-coverage span{color:#667085;font-size:13px;line-height:1.5;margin-top:6px}
+  .summary-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:0 0 18px}.summary-grid .card{min-width:0}.summary-grid .card .v{font-size:25px}
+  .summary-columns{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(280px,.75fr);gap:18px;align-items:start}
+  .summary-chart{display:grid;gap:8px;margin-top:16px}
+  .year-bar{display:grid;grid-template-columns:46px minmax(0,1fr) 74px;gap:10px;align-items:center;font-size:12px}.year-bar a{font-weight:750}
+  .year-bar-track,.dist-track,.company-track{height:12px;background:#edf1f5;border-radius:999px;overflow:hidden}.year-bar-track span,.dist-track span,.company-track span{display:block;height:100%;background:var(--accent);border-radius:inherit}
+  .year-bar.ptr .year-bar-track span{background:#7aa7e8}.year-bar strong{text-align:right;font-variant-numeric:tabular-nums}
+  .summary-table{width:100%;border-collapse:collapse;font-size:12px;margin-top:10px}.summary-table th,.summary-table td{padding:7px 8px;border-bottom:1px solid var(--line);text-align:right}
+  .summary-table th:first-child,.summary-table td:first-child{text-align:left}.summary-table th{color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:.05em}
+  .company-list{display:grid;gap:11px;margin-top:16px}.company-item{border:1px solid var(--line);border-radius:12px;padding:13px 14px;background:#fff}
+  .company-item summary{cursor:pointer;list-style:none}.company-item summary::-webkit-details-marker{display:none}.company-head{display:grid;grid-template-columns:minmax(150px,1fr) minmax(120px,1.2fr) 86px;gap:12px;align-items:center}
+  .company-name{font-weight:800;color:var(--ink)}.company-meta{color:var(--muted);font-size:11px;margin-top:3px}.company-count{text-align:right;font-weight:800;font-variant-numeric:tabular-nums}
+  .company-detail{padding-top:10px;margin-top:10px;border-top:1px solid var(--line)}
+  .dist-list{display:grid;gap:12px;margin-top:15px}.dist-row{display:grid;grid-template-columns:minmax(120px,1fr) 72px;gap:8px;align-items:center}.dist-label{font-size:12px;display:flex;justify-content:space-between;gap:8px}.dist-label b{font-variant-numeric:tabular-nums}.dist-track{grid-column:1/-1;height:8px}
+  .summary-method{font-size:13px;line-height:1.65;color:var(--muted)}
+  .summary-timeline-svg{width:100%;height:auto;display:block;min-width:680px}.summary-timeline-wrap{overflow-x:auto;margin-top:12px}
+  .summary-timeline-band{fill:#dbeafe;opacity:.75}.summary-timeline-hi{fill:none;stroke:#7aa7e8;stroke-width:2.5}.summary-timeline-lo{fill:none;stroke:var(--accent);stroke-width:3}
+  .summary-timeline-point{fill:#fff;stroke:var(--accent);stroke-width:2}.summary-axis{font-size:10px;fill:#98a2b3}.summary-year-label{font-size:11px;fill:#667085}
+
   @media(max-width:980px){
     .story-lead{grid-template-columns:1fr}
     .story-aside{grid-template-columns:repeat(3,1fr);border-left:0;border-top:1px solid rgba(255,255,255,.1)}
@@ -377,6 +402,9 @@
     .docgrid[data-mobile-pane="text"] .dpane.img{display:none}
     .dpane.img{max-height:none}
     .dpane.txt{max-height:none;padding:12px 10px 30px}
+    .summary-intro{grid-template-columns:1fr;gap:10px;margin-top:16px}.summary-intro-main{padding:22px 18px}.summary-intro-main h2{font-size:27px}
+    .summary-grid{grid-template-columns:1fr 1fr}.summary-columns{grid-template-columns:1fr}.company-head{grid-template-columns:minmax(120px,1fr) 90px}.company-track{display:none}
+    .summary-grid .card .v{font-size:21px}.year-bar{grid-template-columns:38px minmax(0,1fr) 64px}
   }
 </style>
 </head>
@@ -409,6 +437,69 @@
 
   <!-- ============ OVERVIEW ============ -->
   <section class="view on" id="v-overview" role="tabpanel" aria-labelledby="tab-overview">
+    <div id="summary-overview" hidden>
+      <div class="summary-intro">
+        <div class="summary-intro-main">
+          <span class="section-kicker">2016–2026 disclosure record</span>
+          <h2>A decade of reported holdings and transaction activity</h2>
+          <p>Explore the combined record, then choose a filing year to inspect individual transaction rows, annual holdings, scans, and transcriptions.</p>
+        </div>
+        <div class="summary-coverage" id="summary-coverage"></div>
+      </div>
+      <div class="summary-grid" id="summary-cards"></div>
+
+      <div class="panel findings-panel">
+        <div class="section-heading">
+          <div><span class="section-kicker">What the combined record shows</span><h2>Important findings</h2></div>
+        </div>
+        <div class="findings" id="summary-findings"></div>
+      </div>
+
+      <div class="summary-columns">
+        <div class="panel">
+          <div class="section-heading"><div><span class="section-kicker">Reported activity</span><h2>Transaction rows by year</h2></div></div>
+          <p class="note">Annual Schedule B rows are used for 2017–2024; separately filed PTR rows are used for the PTR-only 2025–2026 views. The two sources are not added together within annual years.</p>
+          <div class="summary-chart" id="summary-year-chart" role="group" aria-label="Bar chart of reported transaction rows by year"></div>
+          <details class="data-details"><summary>View annual transaction values</summary><div id="summary-year-table"></div></details>
+        </div>
+        <div class="panel">
+          <div class="section-heading"><div><span class="section-kicker">Transaction mix</span><h2>Purchases and sales</h2></div></div>
+          <div class="dist-list" id="summary-type-dist"></div>
+          <p class="note">Partial and full sales are grouped as sales. Unreadable transaction codes remain unknown.</p>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="section-heading">
+          <div><span class="section-kicker">Most frequent common stocks</span><h2>Top companies traded</h2></div>
+          <span class="note">Ranked by reported row count</span>
+        </div>
+        <p class="note">Share classes and common label variants are combined. Funds, bonds, options, non-company assets, and illegible labels are excluded from this ranking but remain included in overall totals.</p>
+        <div class="company-list" id="summary-companies"></div>
+      </div>
+
+      <div class="panel timeline-panel">
+        <div class="section-heading"><div><span class="section-kicker">Annual filings only</span><h2>Reported holdings over time</h2></div></div>
+        <p class="note">These are annual snapshots, not cumulative holdings. The upper line is a calculated floor in years with open-ended ranges; 2025 and 2026 have no annual holdings statement in this dataset.</p>
+        <div id="summary-holdings-chart"></div>
+        <details class="data-details"><summary>View annual holdings values</summary><div id="summary-holdings-table"></div></details>
+      </div>
+
+      <div class="summary-columns">
+        <div class="panel"><div class="section-heading"><div><span class="section-kicker">Reported amount labels</span><h2>Transaction amount ranges</h2></div></div><div class="dist-list" id="summary-amount-dist"></div></div>
+        <div>
+          <div class="panel"><div class="section-heading"><div><span class="section-kicker">Security type</span><h2>Asset classes</h2></div></div><div class="dist-list" id="summary-class-dist"></div></div>
+          <div class="panel"><div class="section-heading"><div><span class="section-kicker">Filing attribution</span><h2>Reported owner codes</h2></div></div><div class="dist-list" id="summary-owner-dist"></div><p class="note">Owner codes describe whose reportable interest appears on the form. They do not identify who directed a trade.</p></div>
+        </div>
+      </div>
+
+      <div class="panel summary-method">
+        <h2>How to read these totals</h2>
+        <p>House disclosures report statutory ranges rather than exact dollar amounts. Summing their lower and upper bounds does not measure spending, sale proceeds, profit, or net worth, and an open-ended range means the calculated upper total remains only a floor. The records cover interests reported for the member, spouse, and dependent children; they do not establish who made an investment decision or imply wrongdoing.</p>
+        <p>The source filings are paper scans transcribed and linked page by page. OCR and transcription can be wrong, so consequential findings should be checked against the scans available in each year’s Document view.</p>
+      </div>
+    </div>
+    <div id="year-overview">
     <div class="story-lead" id="storylead"></div>
     <div class="cards compact-cards" id="statcards"></div>
     <div class="panel findings-panel" id="panel-findings">
@@ -474,6 +565,7 @@
           <ul class="plain" id="txsum"></ul>
         </div>
       </div>
+    </div>
     </div>
   </section>
 
@@ -542,12 +634,15 @@
 
 <script>
 const FD_YEARS = {'2016':'data-2016.js','2017':'data-2017.js','2018':'data-2018.js','2019':'data-2019.js','2020':'data-2020.js','2021':'data-2021.js','2022':'data-2022.js','2023':'data-2023.js','2024':'data-2024.js','2025':'data-2025.js','2026':'data-2026.js'};
-const FD_YEAR = (()=>{const y=new URLSearchParams(location.search).get('year');return FD_YEARS[y]?y:'2024';})();
+const FD_YEAR = (()=>{const y=new URLSearchParams(location.search).get('year');return FD_YEARS[y]?y:'all';})();
+const FD_IS_SUMMARY = FD_YEAR === 'all';
 (() => {
   const base = 'https://khanna-disclosure-explorer.vercel.app/';
-  const url = FD_YEAR === '2024' ? base : `${base}?year=${FD_YEAR}`;
-  const title = `Ro Khanna ${FD_YEAR} Finances, Net Worth & Stock Trades`;
-  const desc = `Search Ro Khanna's ${FD_YEAR} finances, estimated net worth range, assets, investments, and stock trades from House financial disclosures.`;
+  const url = FD_IS_SUMMARY ? base : `${base}?year=${FD_YEAR}`;
+  const title = FD_IS_SUMMARY ? 'Ro Khanna Financial Disclosures: 2016–2026 Summary' : `Ro Khanna ${FD_YEAR} Finances, Net Worth & Stock Trades`;
+  const desc = FD_IS_SUMMARY
+    ? 'Analyze Ro Khanna’s source-linked financial disclosures across 2016–2026, including reported transaction volume, statutory amount ranges, top traded companies, and annual holdings.'
+    : `Search Ro Khanna's ${FD_YEAR} finances, estimated net worth range, assets, investments, and stock trades from House financial disclosures.`;
   document.title = title;
   document.querySelector('link[rel="canonical"]').href = url;
   document.querySelector('meta[name="description"]').content = desc;
@@ -557,17 +652,26 @@ const FD_YEAR = (()=>{const y=new URLSearchParams(location.search).get('year');r
   document.querySelector('meta[name="twitter:title"]').content = title;
   document.querySelector('meta[name="twitter:description"]').content = desc;
 })();
-document.write('<script src="'+FD_YEARS[FD_YEAR]+'"><\/script>');
+document.write(FD_IS_SUMMARY
+  ? '<script src="summary-data.js"><\/script>'
+  : '<script src="summary-data.js"><\/script><script src="'+FD_YEARS[FD_YEAR]+'"><\/script><script src="timeline-data.js"><\/script>');
 </script>
-<script src="timeline-data.js"></script>
 <script>
 (() => {
 const D = window.FD_DATA || {pages:[],assets:[],transactions:[]};
 const META = D.meta || {};
-if (META.kicker) document.querySelector('.kicker').textContent = META.kicker;
-const srcEl = document.getElementById('srclink'); if (srcEl && !srcEl.getAttribute('href').length) srcEl.href = D.source_pdf;
-if (document.getElementById('srclink')) document.getElementById('srclink').href = D.source_pdf;
-document.getElementById('srclink2').href = D.source_pdf;
+const repositoryDataUrl = 'https://github.com/AppleLamps/khanna-disclosure-explorer/tree/main/data';
+if(FD_IS_SUMMARY){
+  document.querySelector('.kicker').textContent = '2016–2026 · U.S. House financial disclosures · California 17th';
+  document.querySelector('.deck').textContent = 'A source-linked, all-years view of reported holdings, income, and transaction activity for the member, spouse, and dependent children.';
+  document.querySelector('.why').innerHTML = '<b>Why this exists:</b> House filings submitted as paper scans are difficult to search or analyze. This independent transcription combines the record while preserving year-level links to the underlying filings and their statutory value ranges.';
+  document.getElementById('srclink2').href = repositoryDataUrl;
+  document.getElementById('srclink2').textContent = 'source data and filings';
+} else {
+  if (META.kicker) document.querySelector('.kicker').textContent = META.kicker;
+  const srcEl = document.getElementById('srclink'); if (srcEl) srcEl.href = D.source_pdf;
+  document.getElementById('srclink2').href = D.source_pdf;
+}
 // year selector in the tab bar
 (() => {
   const wrap = document.createElement('div');
@@ -576,8 +680,8 @@ document.getElementById('srclink2').href = D.source_pdf;
   lbl.className = 'yl'; lbl.textContent = 'Filing year'; lbl.htmlFor = 'yearsel';
   const sel = document.createElement('select');
   sel.id = 'yearsel'; sel.title = 'Choose filing year'; sel.setAttribute('aria-label','Choose filing year');
-  sel.innerHTML = Object.keys(FD_YEARS).map(y=>`<option value="${y}"${y===FD_YEAR?' selected':''}>${y}</option>`).join('');
-  sel.onchange = () => { location.href = location.pathname + (sel.value==='2024' ? '' : '?year='+sel.value); };
+  sel.innerHTML = `<option value="all"${FD_IS_SUMMARY?' selected':''}>All years</option>`+Object.keys(FD_YEARS).map(y=>`<option value="${y}"${y===FD_YEAR?' selected':''}>${y}</option>`).join('');
+  sel.onchange = () => { location.href = location.pathname + (sel.value==='all' ? '' : '?year='+sel.value); };
   wrap.appendChild(lbl); wrap.appendChild(sel);
   document.querySelector('nav.tabs').appendChild(wrap);
 })();
@@ -585,12 +689,84 @@ document.getElementById('srclink2').href = D.source_pdf;
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const fmt$ = n => {
   if (n == null) return '—';
+  if (n >= 1e9) return '$' + (n/1e9).toFixed(2).replace(/\.?0+$/,'') + 'B';
   if (n >= 1e6) return '$' + (n/1e6).toFixed(n >= 10e6 ? 1 : 2).replace(/\.?0+$/,'') + 'M';
   if (n >= 1e3) return '$' + Math.round(n/1e3) + 'K';
   return '$' + n.toLocaleString();
 };
 const exact$ = n => '$' + Math.round(n).toLocaleString();
 const rng$ = (lo,hi) => lo==null?'—':(lo===0&&hi===0?'None':(hi==null?fmt$(lo)+'+':fmt$(lo)+' – '+fmt$(hi)));
+
+function summaryRange(r){
+  if(!r || !r.known_rows)return 'None';
+  const value = r.minimum===r.maximum_floor ? fmt$(r.minimum) : `${fmt$(r.minimum)} – ${fmt$(r.maximum_floor)}`;
+  return value + (r.open_ended ? '+' : '');
+}
+const pct = value => `${(value*100).toFixed(value < .01 ? 1 : 1)}%`;
+function renderDistribution(id, rows, limit=8){
+  const target=document.getElementById(id); if(!target)return;
+  const shown=rows.slice(0,limit), rest=rows.slice(limit).reduce((n,row)=>n+row.count,0);
+  const display=rest ? [...shown,{label:'All other labels',count:rest,share:rest/(window.FD_SUMMARY.transactions.count||1)}] : shown;
+  const max=Math.max(...display.map(row=>row.count),1);
+  target.innerHTML=display.map(row=>`<div class="dist-row"><div class="dist-label"><span>${esc(row.label)}</span><b>${row.count.toLocaleString()} · ${esc(pct(row.share))}</b></div><div class="dist-track" aria-hidden="true"><span style="width:${Math.max(.5,row.count/max*100)}%"></span></div></div>`).join('');
+}
+function renderSummary(){
+  const S=window.FD_SUMMARY;
+  if(!S){ document.getElementById('summary-overview').innerHTML='<div class="panel"><h2>Summary data unavailable</h2><p>Please reload the page or choose a filing year.</p></div>'; return; }
+  document.getElementById('summary-overview').hidden=false;
+  document.getElementById('year-overview').hidden=true;
+  document.getElementById('tab-overview').textContent='Summary';
+  ['assets','txs','doc'].forEach(v=>{document.getElementById('tab-'+v).hidden=true;document.getElementById('v-'+v).hidden=true;});
+  const C=S.coverage, TX=S.transactions, H=S.highlights, totalRange=TX.range;
+  document.getElementById('summary-coverage').innerHTML=`<span class="section-kicker">Coverage</span><strong>${C.first_year}–${C.last_year}</strong><span>${C.documents.toLocaleString()} filings · ${C.pages.toLocaleString()} source pages. ${C.last_year} currently includes ${C.latest_year_ptr_documents} PTRs and is not a completed year.</span>`;
+  const cards=[
+    ['Reported transaction rows',TX.count.toLocaleString(),'2017–2026; the 2016 filing contains no transaction rows'],
+    ['Combined statutory range',summaryRange(totalRange),'sum of disclosed buckets, not exact capital or proceeds'],
+    ['Source record',C.pages.toLocaleString()+' pages',`${C.documents.toLocaleString()} filings with page-level provenance`],
+    ['Years covered',`${C.first_year}–${C.last_year}`,`${C.last_year} is partial; annual holdings currently run through 2024`],
+  ];
+  document.getElementById('summary-cards').innerHTML=cards.map(([k,v,d])=>`<div class="card"><div class="k">${esc(k)}</div><div class="v">${esc(v)}</div><div class="d">${esc(d)}</div></div>`).join('');
+
+  const busiest=TX.by_year.find(row=>row.year===H.busiest_year);
+  const owners=Object.fromEntries(TX.owners.map(row=>[row.label,row]));
+  const top=S.top_companies[0];
+  const findings=[
+    [`${H.busiest_year}`,`${H.busiest_year_count.toLocaleString()} rows`,`${summaryRange(busiest.range)} in reported transaction ranges.`,`?year=${H.busiest_year}#txs`],
+    [pct(H.standard_bucket_share),`${H.standard_bucket_count.toLocaleString()} smallest-bucket labels`,'Rows reported with the standard $1,001–$15,000 amount label.','#summary-amount-dist'],
+    [pct(H.common_stock_share),'common-stock rows',`${H.common_stock_count.toLocaleString()} of ${TX.count.toLocaleString()} reported transaction rows.`,'#summary-class-dist'],
+    [top.count.toLocaleString(),`${top.name} rows`,`The most frequently reported normalized common-stock company, spanning ${top.first_year}–${top.last_year}.`,`?year=${top.last_year}#txs?company=${encodeURIComponent(top.name)}&cls=Common+stock`],
+    [owners.Spouse.count.toLocaleString(),'spouse-coded rows',`${pct(owners.Spouse.share)} of the record; dependent-child interests account for ${owners['Dependent children'].count.toLocaleString()} rows.`,'#summary-owner-dist'],
+    [`${H.minimum_holdings_peak_year} / ${H.upper_holdings_peak_year}`,'different holdings peaks','The annual minimum peaks in 2022; the calculated upper floor peaks in 2024. Neither is exact net worth.','#summary-holdings-chart'],
+  ];
+  document.getElementById('summary-findings').innerHTML=findings.map(([n,k,d,href])=>`<article class="finding"><span class="section-kicker">${esc(k)}</span><strong class="finding-num">${esc(n)}</strong><p>${esc(d)}</p><a href="${esc(href)}">Inspect evidence →</a></article>`).join('');
+
+  const maxYear=Math.max(...TX.by_year.map(row=>row.count),1);
+  document.getElementById('summary-year-chart').innerHTML=TX.by_year.map(row=>`<div class="year-bar${row.ptr_only?' ptr':''}"><a href="?year=${row.year}">${row.year}</a><div class="year-bar-track" aria-hidden="true"><span style="width:${row.count?Math.max(1,row.count/maxYear*100):0}%"></span></div><strong>${row.count.toLocaleString()}</strong></div>`).join('');
+  document.getElementById('summary-year-chart').setAttribute('aria-label',`Reported transaction rows by year. ${H.busiest_year} is highest with ${H.busiest_year_count.toLocaleString()} rows.`);
+  document.getElementById('summary-year-table').innerHTML=`<table class="summary-table"><thead><tr><th>Year</th><th>Source</th><th>Rows</th><th>Minimum sum</th><th>Maximum floor</th></tr></thead><tbody>${TX.by_year.map(row=>`<tr><td><a href="?year=${row.year}">${row.year}</a></td><td>${row.ptr_only?'PTRs':'Schedule B'}</td><td>${row.count.toLocaleString()}</td><td>${fmt$(row.range.minimum)}</td><td>${fmt$(row.range.maximum_floor)}${row.range.open_ended?'+':''}</td></tr>`).join('')}</tbody></table>`;
+  renderDistribution('summary-type-dist',TX.types,6);
+
+  const maxCompany=Math.max(...S.top_companies.map(row=>row.count),1);
+  document.getElementById('summary-companies').innerHTML=S.top_companies.map((company,index)=>`<details class="company-item"${index===0?' open':''}><summary><div class="company-head"><div><div class="company-name">${index+1}. ${esc(company.name)}</div><div class="company-meta">${company.purchases.toLocaleString()} purchases · ${company.sales.toLocaleString()} sales · ${summaryRange(company.range)}</div></div><div class="company-track" aria-hidden="true"><span style="width:${company.count/maxCompany*100}%"></span></div><div class="company-count">${company.count.toLocaleString()} rows</div></div></summary><div class="company-detail"><table class="summary-table"><thead><tr><th>Year</th><th>Rows</th><th>Purchases</th><th>Sales</th><th>Range</th></tr></thead><tbody>${company.years.map(row=>`<tr><td><a href="?year=${row.year}#txs?company=${encodeURIComponent(company.name)}&cls=Common+stock">${row.year}</a></td><td>${row.count.toLocaleString()}</td><td>${row.purchases.toLocaleString()}</td><td>${row.sales.toLocaleString()}</td><td>${summaryRange(row.range)}</td></tr>`).join('')}</tbody></table></div></details>`).join('');
+
+  const holdings=S.holdings.by_year, W=900,HH=260,L=62,R=20,Tp=18,B=40,plotW=W-L-R,plotH=HH-Tp-B;
+  const rawMax=Math.max(...holdings.map(row=>row.holdings.maximum_floor),1), step=50000000, axisMax=Math.ceil(rawMax/step)*step;
+  const x=i=>L+(holdings.length===1?plotW/2:i/(holdings.length-1)*plotW), y=value=>Tp+plotH-value/axisMax*plotH;
+  const loPts=holdings.map((row,i)=>`${x(i)},${y(row.holdings.minimum)}`).join(' '), hiPts=holdings.map((row,i)=>`${x(i)},${y(row.holdings.maximum_floor)}`).join(' ');
+  const bandPts=hiPts+' '+holdings.map((row,i)=>`${x(holdings.length-1-i)},${y(holdings[holdings.length-1-i].holdings.minimum)}`).join(' ');
+  const ticks=[0,axisMax/2,axisMax];
+  document.getElementById('summary-holdings-chart').innerHTML=`<div class="summary-timeline-wrap"><svg class="summary-timeline-svg" viewBox="0 0 ${W} ${HH}" role="img" aria-labelledby="summary-holdings-title summary-holdings-desc"><title id="summary-holdings-title">Reported annual holdings ranges from 2016 through 2024</title><desc id="summary-holdings-desc">The minimum sum peaks in 2022 and the calculated upper floor peaks in 2024. Values are annual disclosure snapshots, not cumulative totals.</desc>${ticks.map(value=>`<line class="timeline-grid" x1="${L}" y1="${y(value)}" x2="${W-R}" y2="${y(value)}"></line><text class="summary-axis" x="${L-8}" y="${y(value)+4}" text-anchor="end">${fmt$(value)}</text>`).join('')}<polygon class="summary-timeline-band" points="${bandPts}"></polygon><polyline class="summary-timeline-hi" points="${hiPts}"></polyline><polyline class="summary-timeline-lo" points="${loPts}"></polyline>${holdings.map((row,i)=>`<circle class="summary-timeline-point" cx="${x(i)}" cy="${y(row.holdings.minimum)}" r="4"><title>${row.year}: ${summaryRange(row.holdings)}</title></circle><text class="summary-year-label" x="${x(i)}" y="${HH-14}" text-anchor="middle">${row.year}</text>`).join('')}</svg></div><div class="timeline-legend"><span><i class="legend-line"></i>sum of minimums</span><span><i class="legend-line hi"></i>sum of maximums (a floor when open-ended)</span></div>`;
+  document.getElementById('summary-holdings-table').innerHTML=`<table class="summary-table"><thead><tr><th>Year</th><th>Line items</th><th>Minimum sum</th><th>Maximum floor</th><th>Open-ended</th></tr></thead><tbody>${holdings.map(row=>`<tr><td><a href="?year=${row.year}">${row.year}</a></td><td>${row.count.toLocaleString()}</td><td>${fmt$(row.holdings.minimum)}</td><td>${fmt$(row.holdings.maximum_floor)}${row.holdings.open_ended?'+':''}</td><td>${row.holdings.open_ended}</td></tr>`).join('')}</tbody></table>`;
+
+  renderDistribution('summary-amount-dist',TX.amount_labels,8);
+  renderDistribution('summary-class-dist',TX.asset_classes,7);
+  renderDistribution('summary-owner-dist',TX.owners,4);
+  document.getElementById('fstats').textContent=`Combined release status: ${C.documents.toLocaleString()} filings and ${C.pages.toLocaleString()} source pages across ${C.first_year}–${C.last_year}. The ${C.last_year} view currently contains ${C.latest_year_ptr_documents} periodic transaction reports and is incomplete.`;
+}
+
+if(FD_IS_SUMMARY){ renderSummary(); return; }
+document.getElementById('summary-overview').hidden=true;
+document.getElementById('year-overview').hidden=false;
 
 // ---------- tabs ----------
 const tabs = document.querySelectorAll('nav.tabs button');
@@ -748,7 +924,7 @@ function annualDocProgress(){
     const bandPts=hiPts+' '+annualTimeline.map((r,i)=>`${x(annualTimeline.length-1-i)},${y(annualTimeline[annualTimeline.length-1-i].holdings.lo)}`).join(' ');
     const ticks=[0,axisMax/2,axisMax];
     document.getElementById('timeline-chart').innerHTML=`<div class="timeline-wrap"><svg class="timeline-svg" viewBox="0 0 ${W} ${H}" role="img" aria-labelledby="timeline-title timeline-desc"><title id="timeline-title">Reported annual holdings from ${annualTimeline[0].year} through ${annualTimeline[annualTimeline.length-1].year}</title><desc id="timeline-desc">Two lines show the sums of statutory minimum and maximum value ranges. Maximums are lower-bound calculations when a filing contains open-ended holdings.</desc>${ticks.map(v=>`<line class="timeline-grid" x1="${L}" y1="${y(v)}" x2="${W-R}" y2="${y(v)}"></line><text class="timeline-axis" x="${L-8}" y="${y(v)+4}" text-anchor="end">${esc(fmt$(v))}</text>`).join('')}<polygon class="timeline-band" points="${bandPts}"></polygon><polyline class="timeline-hi" points="${hiPts}"></polyline><polyline class="timeline-lo" points="${loPts}"></polyline>${annualTimeline.map((r,i)=>`<circle class="timeline-point${r.year===FD_YEAR?' current':''}" cx="${x(i)}" cy="${y(r.holdings.lo)}" r="${r.year===FD_YEAR?5:3.5}"><title>${esc(`${r.year}: ${fmt$(r.holdings.lo)} – ${fmt$(r.holdings.hi)}${r.holdings.open?'+':''}`)}</title></circle><text class="timeline-label" x="${x(i)}" y="${H-15}" text-anchor="middle">${r.year}</text>`).join('')}</svg></div><div class="timeline-legend"><span><i class="legend-line"></i>sum of minimums</span><span><i class="legend-line hi"></i>sum of maximums${annualTimeline.some(r=>r.holdings.open)?' (sometimes a floor)':''}</span></div>`;
-    document.getElementById('timeline-table').innerHTML=`<table class="mini-table"><thead><tr><th>Year</th><th>Minimum sum</th><th>Maximum sum</th><th>Open-ended</th></tr></thead><tbody>${annualTimeline.map(r=>`<tr${r.year===FD_YEAR?' class="current"':''}><td><a href="${r.year==='2024'?location.pathname:location.pathname+'?year='+r.year}">${r.year}</a></td><td>${esc(fmt$(r.holdings.lo))}</td><td>${esc(fmt$(r.holdings.hi))}${r.holdings.open?'+':''}</td><td>${r.holdings.open}</td></tr>`).join('')}</tbody></table>`;
+    document.getElementById('timeline-table').innerHTML=`<table class="mini-table"><thead><tr><th>Year</th><th>Minimum sum</th><th>Maximum sum</th><th>Open-ended</th></tr></thead><tbody>${annualTimeline.map(r=>`<tr${r.year===FD_YEAR?' class="current"':''}><td><a href="${location.pathname+'?year='+r.year}">${r.year}</a></td><td>${esc(fmt$(r.holdings.lo))}</td><td>${esc(fmt$(r.holdings.hi))}${r.holdings.open?'+':''}</td><td>${r.open}</td></tr>`).join('')}</tbody></table>`;
   }
   if (ptrOnly) {
     ['panel-clsbars','panel-tophold','panel-groups'].forEach(id=>{const el=document.getElementById(id); if(el) el.style.display='none';});
@@ -906,6 +1082,13 @@ aTable.apply();
 
 // ================= TRANSACTIONS TAB =================
 const tfEls = Object.fromEntries(['q','type','cls','month','amt','clear','cnt','more'].map(k=>[k,document.getElementById('tf-'+k)]));
+let tfCompany = null, tfCompanyNames = new Set();
+function setTransactionCompany(company){
+  tfCompany = company || null;
+  const summaryCompany = (window.FD_SUMMARY?.top_companies||[]).find(row=>row.name===tfCompany);
+  const summaryYear = summaryCompany?.years.find(row=>row.year===+FD_YEAR);
+  tfCompanyNames = new Set(summaryYear?.asset_names||[]);
+}
 fillSel(tfEls.type,'All types', uniq(T,'tx_type').sort());
 fillSel(tfEls.cls,'All classes', uniq(T,'cls').sort());
 const months = uniq(T, t=>{const m=(t.date||'').match(/^(\d{1,2})\/\d{1,2}\/(\d{4})$/); return m?`${m[2]}-${String(m[1]).padStart(2,'0')}`:null;}).sort();
@@ -927,7 +1110,7 @@ const tTable = makeTable({
     {h:'Page', sort:'page', w:'8%', cell:pgLink('tx')},
   ],
   filters:[
-    r=>!tfEls.q.value || (r.name+' '+(r.group||'')).toLowerCase().includes(tfEls.q.value.toLowerCase()),
+    r=>tfCompany ? tfCompanyNames.has(r.name) : (!tfEls.q.value || (r.name+' '+(r.group||'')).toLowerCase().includes(tfEls.q.value.toLowerCase())),
     r=>!tfEls.type.value || r.tx_type===tfEls.type.value,
     r=>!tfEls.cls.value || r.cls===tfEls.cls.value,
     r=>{if(!tfEls.month.value)return true; const m=(r.date||'').match(/^(\d{1,2})\/\d{1,2}\/(\d{4})$/); return m && `${m[2]}-${String(m[1]).padStart(2,'0')}`===tfEls.month.value;},
@@ -935,9 +1118,9 @@ const tTable = makeTable({
   ],
 });
 ['q','type','cls','month','amt'].forEach(k=>{
-  tfEls[k].addEventListener(k==='q'?'input':'change', ()=>{tTable.reset(); tfEls.clear.style.display='inline';});
+  tfEls[k].addEventListener(k==='q'?'input':'change', ()=>{if(k==='q')setTransactionCompany(null);tTable.reset(); tfEls.clear.style.display='inline';});
 });
-tfEls.clear.onclick=()=>{tfEls.q.value='';['type','cls','month'].forEach(k=>tfEls[k].value='');tfEls.amt.value='0';tfEls.clear.style.display='none';tTable.reset();};
+tfEls.clear.onclick=()=>{setTransactionCompany(null);tfEls.q.value='';['type','cls','month'].forEach(k=>tfEls[k].value='');tfEls.amt.value='0';tfEls.clear.style.display='none';tTable.reset();};
 tTable.apply();
 
 // ================= CSV EXPORT =================
@@ -988,7 +1171,7 @@ function syncHash(){
     const qs = p.toString(); if(qs) h += '?'+qs;
   } else if(v==='txs'){
     const p = new URLSearchParams();
-    if(tfEls.q.value) p.set('q', tfEls.q.value);
+    if(tfCompany) p.set('company',tfCompany); else if(tfEls.q.value) p.set('q', tfEls.q.value);
     if(tfEls.type.value) p.set('type', tfEls.type.value);
     if(tfEls.cls.value) p.set('cls', tfEls.cls.value);
     if(tfEls.month.value) p.set('month', tfEls.month.value);
@@ -1021,7 +1204,7 @@ function applyHash(){
       aTable.reset(); showView('assets');
       aTable.showIndex(rid); highlightRow(document.getElementById('atable'), rid);
     } else {
-      tfEls.q.value=''; ['type','cls','month'].forEach(k=>tfEls[k].value=''); tfEls.amt.value='0';
+      setTransactionCompany(null); tfEls.q.value=''; ['type','cls','month'].forEach(k=>tfEls[k].value=''); tfEls.amt.value='0';
       tTable.reset(); showView('txs');
       tTable.showIndex(rid); highlightRow(document.getElementById('ttable'), rid);
     }
@@ -1036,7 +1219,8 @@ function applyHash(){
       if(p.get('sort')) aTable.setSort(p.get('sort'), +(p.get('dir')||-1));
       aTable.reset();
     } else if(v==='txs'){
-      tfEls.q.value = p.get('q')||''; tfEls.type.value = p.get('type')||'';
+      setTransactionCompany(p.get('company'));
+      tfEls.q.value = tfCompany || p.get('q')||''; tfEls.type.value = p.get('type')||'';
       tfEls.cls.value = p.get('cls')||'';
       tfEls.month.value = p.get('month')||''; tfEls.amt.value = p.get('amt')||'0';
       if(p.get('sort')) tTable.setSort(p.get('sort'), +(p.get('dir')||-1));

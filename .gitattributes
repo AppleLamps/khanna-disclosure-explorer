@@ -6,3 +6,4 @@ data/normalized/*.csv text eol=lf
 data/normalized/*.jsonl text eol=lf
 data/manifest.json text eol=lf
 data/quality-report.json text eol=lf
+summary-data.js text eol=lf

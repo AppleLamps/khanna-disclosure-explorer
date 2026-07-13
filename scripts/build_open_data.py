@@ -41,6 +41,24 @@ DOCUMENT_TYPES = {
     "periodic_transaction_report",
     "other",
 }
+COMPANY_ALIASES = [
+    ("Alphabet", re.compile(r"^\s*(?:ALPHABET|GOOGLE)\b", re.I)),
+    ("Walt Disney", re.compile(r"^\s*(?:THE\s+)?(?:WALT\s+DISNEY|DISNEY\s+WALT)\b", re.I)),
+    ("Berkshire Hathaway", re.compile(r"^\s*BERKSHIRE\s+HATHAWAY\b", re.I)),
+    ("Amazon", re.compile(r"^\s*(?:DE\s+)?AMAZON(?:\.COM|\s+COM|\s+INC)\b", re.I)),
+    ("Bank of America", re.compile(r"^\s*BANK\s+OF\s+AMERICA\b", re.I)),
+    ("Pfizer", re.compile(r"^\s*PFIZER\b", re.I)),
+    ("Micron Technology", re.compile(r"^\s*MICRON\b", re.I)),
+    ("General Motors", re.compile(r"^\s*GENERAL\s+MOTORS\b", re.I)),
+    ("Microsoft", re.compile(r"^\s*MICROSOFT\b", re.I)),
+    ("AT&T", re.compile(r"^\s*AT\s*&?\s*T\b", re.I)),
+    ("Merck", re.compile(r"^\s*MERCK\b", re.I)),
+    ("Apple", re.compile(r"^\s*APPLE\s+(?:INC|JNC)\b", re.I)),
+    ("Home Depot", re.compile(r"^\s*(?:THE\s+)?HOME\s+DEPOT\b", re.I)),
+    ("PepsiCo", re.compile(r"^\s*PEPSICO\b", re.I)),
+    ("Starbucks", re.compile(r"^\s*STARBUCKS\b", re.I)),
+    ("Texas Instruments", re.compile(r"^\s*TEXAS\s+INSTRUMENTS\b", re.I)),
+]
 
 
 def clean(value):
@@ -93,6 +111,191 @@ def document_type(label):
 
 def relative_posix(path, root=ROOT):
     return path.relative_to(root).as_posix()
+
+
+def normalized_transaction_type(value):
+    value = (clean(value) or "").casefold()
+    if "purchase" in value:
+        return "Purchase"
+    if "sale" in value or value in {"s", "s(part)"}:
+        return "Sale"
+    if "exchange" in value:
+        return "Exchange"
+    return "Unknown"
+
+
+def canonical_company(row):
+    if row.get("asset_class") != "Common stock":
+        return None
+    name = clean(row.get("asset_name"))
+    if not name or re.search(r"ILLEGIBLE|UNKNOWN|UNIDENTIFIED", name, re.I):
+        return None
+    for company, pattern in COMPANY_ALIASES:
+        if pattern.search(name):
+            return company
+    fallback = re.sub(r"\([^)]*\)", " ", name.upper())
+    fallback = re.sub(
+        r"\b(?:CMN|COM|COMMON STOCK|INCORPORATED|INC|CORPORATION|CORP|COMPANY|CO|LTD|PLC|"
+        r"CLASS [A-Z]|CL [A-Z]|USD\d+(?:\.\d+)?|NEW|DELAWARE)\b",
+        " ",
+        fallback,
+    )
+    fallback = re.sub(r"[^A-Z0-9&.' -]", " ", fallback)
+    fallback = re.sub(r"\s+", " ", fallback).strip(" -.,")
+    return fallback.title() or None
+
+
+def sum_ranges(rows, min_key, max_key):
+    minimum = maximum_floor = open_count = known_count = 0
+    for row in rows:
+        lo, hi = row.get(min_key), row.get(max_key)
+        if lo is None:
+            continue
+        known_count += 1
+        minimum += lo
+        if hi is None:
+            open_count += 1
+            maximum_floor += lo
+        else:
+            maximum_floor += hi
+    return {
+        "minimum": minimum,
+        "maximum_floor": maximum_floor,
+        "open_ended": open_count,
+        "known_rows": known_count,
+    }
+
+
+def distribution(rows, key, missing="Not stated"):
+    counts = Counter((row.get(key) if row.get(key) not in (None, "") else missing) for row in rows)
+    total = len(rows) or 1
+    return [
+        {"label": label, "count": count, "share": count / total}
+        for label, count in sorted(counts.items(), key=lambda item: (-item[1], str(item[0])))
+    ]
+
+
+def build_summary(documents, pages, assets, transactions):
+    by_year = defaultdict(list)
+    for row in transactions:
+        by_year[row["year"]].append(row)
+    yearly_transactions = []
+    for year in range(2016, 2027):
+        rows = by_year[year]
+        type_counts = Counter(normalized_transaction_type(row.get("transaction_type")) for row in rows)
+        yearly_transactions.append({
+            "year": year,
+            "ptr_only": year >= 2025,
+            "count": len(rows),
+            "range": sum_ranges(rows, "amount_min_usd", "amount_max_usd"),
+            "types": dict(sorted(type_counts.items())),
+        })
+
+    yearly_holdings = []
+    for year in range(2016, 2025):
+        rows = [row for row in assets if row["year"] == year]
+        yearly_holdings.append({
+            "year": year,
+            "count": len(rows),
+            "holdings": sum_ranges(rows, "value_min_usd", "value_max_usd"),
+            "income": sum_ranges(rows, "income_min_usd", "income_max_usd"),
+        })
+
+    companies = defaultdict(list)
+    for row in transactions:
+        company = canonical_company(row)
+        if company:
+            companies[company].append(row)
+    top_companies = []
+    for company, rows in companies.items():
+        types = Counter(normalized_transaction_type(row.get("transaction_type")) for row in rows)
+        years = []
+        for year, year_rows in sorted(
+            ((year, [row for row in rows if row["year"] == year]) for year in {row["year"] for row in rows})
+        ):
+            year_types = Counter(normalized_transaction_type(row.get("transaction_type")) for row in year_rows)
+            years.append({
+                "year": year,
+                "count": len(year_rows),
+                "purchases": year_types["Purchase"],
+                "sales": year_types["Sale"],
+                "asset_names": sorted({row["asset_name"] for row in year_rows}),
+                "range": sum_ranges(year_rows, "amount_min_usd", "amount_max_usd"),
+            })
+        top_companies.append({
+            "name": company,
+            "count": len(rows),
+            "purchases": types["Purchase"],
+            "sales": types["Sale"],
+            "exchanges": types["Exchange"],
+            "unknown": types["Unknown"],
+            "first_year": min(row["year"] for row in rows),
+            "last_year": max(row["year"] for row in rows),
+            "range": sum_ranges(rows, "amount_min_usd", "amount_max_usd"),
+            "years": years,
+        })
+    top_companies.sort(key=lambda row: (-row["count"], row["name"]))
+
+    transaction_types = Counter(normalized_transaction_type(row.get("transaction_type")) for row in transactions)
+    amount_labels = distribution(transactions, "reported_amount", "Unknown / unreadable")
+    owner_labels = {"SP": "Spouse", "DC": "Dependent children", "JT": "Joint", None: "Not stated"}
+    owner_counts = Counter(owner_labels.get(row.get("owner_code"), row.get("owner_code") or "Not stated") for row in transactions)
+    total_transactions = len(transactions)
+    total_range = sum_ranges(transactions, "amount_min_usd", "amount_max_usd")
+    busiest = max(yearly_transactions, key=lambda row: row["count"])
+    standard_bucket_count = sum(row.get("reported_amount") == "$1,001-$15,000" for row in transactions)
+    common_stock_count = sum(row.get("asset_class") == "Common stock" for row in transactions)
+    latest_ptr_documents = sum(
+        row["year"] == 2026 and row["document_type"] == "periodic_transaction_report" for row in documents
+    )
+    minimum_peak = max(yearly_holdings, key=lambda row: row["holdings"]["minimum"])
+    upper_peak = max(yearly_holdings, key=lambda row: row["holdings"]["maximum_floor"])
+
+    return {
+        "schema_version": "1.0.0",
+        "coverage": {
+            "first_year": 2016,
+            "last_year": 2026,
+            "transaction_first_year": 2017,
+            "transaction_last_year": 2026,
+            "documents": len(documents),
+            "pages": len(pages),
+            "latest_year_ptr_documents": latest_ptr_documents,
+            "latest_year_complete": False,
+        },
+        "transactions": {
+            "count": total_transactions,
+            "range": total_range,
+            "by_year": yearly_transactions,
+            "types": [
+                {"label": label, "count": count, "share": count / total_transactions}
+                for label, count in sorted(transaction_types.items(), key=lambda item: (-item[1], item[0]))
+            ],
+            "amount_labels": amount_labels,
+            "asset_classes": distribution(transactions, "asset_class"),
+            "owners": [
+                {"label": label, "count": count, "share": count / total_transactions}
+                for label, count in sorted(owner_counts.items(), key=lambda item: (-item[1], item[0]))
+            ],
+        },
+        "holdings": {"by_year": yearly_holdings},
+        "top_companies": top_companies[:15],
+        "highlights": {
+            "busiest_year": busiest["year"],
+            "busiest_year_count": busiest["count"],
+            "standard_bucket_count": standard_bucket_count,
+            "standard_bucket_share": standard_bucket_count / total_transactions,
+            "common_stock_count": common_stock_count,
+            "common_stock_share": common_stock_count / total_transactions,
+            "minimum_holdings_peak_year": minimum_peak["year"],
+            "upper_holdings_peak_year": upper_peak["year"],
+        },
+        "methodology": {
+            "annual_transaction_years": list(range(2017, 2025)),
+            "ptr_only_years": [2025, 2026],
+            "transaction_unit": "reported transaction rows",
+        },
+    }
 
 
 def owner(value):
@@ -162,6 +365,13 @@ def write_json(path, value):
     with path.open("w", encoding="utf-8", newline="\n") as fh:
         json.dump(value, fh, indent=2, ensure_ascii=False, sort_keys=True)
         fh.write("\n")
+
+
+def write_javascript(path, variable, value):
+    with path.open("w", encoding="utf-8", newline="\n") as fh:
+        fh.write(f"window.{variable} = ")
+        json.dump(value, fh, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+        fh.write(";\n")
 
 
 def csv_value(value):
@@ -391,6 +601,8 @@ def build():
     for name, rows in tables.items():
         write_jsonl(OUT / f"{name}.jsonl", rows)
         write_csv(OUT / f"{name}.csv", rows)
+    summary_path = ROOT / "summary-data.js"
+    write_javascript(summary_path, "FD_SUMMARY", build_summary(documents, pages, assets, transactions))
 
     for rel in sorted(source_images | source_jsons | source_tess | source_pdfs):
         if not rel or not (ROOT / rel).is_file():
@@ -498,6 +710,8 @@ def build():
             })
     files.append({"path": "data/quality-report.json", "format": "json", "records": 1,
                   "bytes": report_path.stat().st_size, "sha256": sha256(report_path)})
+    files.append({"path": "summary-data.js", "format": "js", "records": 1,
+                  "bytes": summary_path.stat().st_size, "sha256": sha256(summary_path)})
     manifest = {
         "title": "Ro Khanna financial disclosure open data",
         "schema_version": SCHEMA_VERSION,

@@ -20,7 +20,8 @@ Each table is available as newline-delimited JSON (`.jsonl`) and UTF-8 CSV:
 
 `manifest.json` lists row counts, SHA-256 checksums, source coverage, schema version, and license.
 `quality-report.json` contains the most recent structural audit. The canonical schema is
-`schema/open-data.schema.json`.
+`schema/open-data.schema.json`. The build also writes the compact website aggregate
+`../summary-data.js`; it is generated from these normalized tables and must not be hand-edited.
 
 ## Important semantics
 
