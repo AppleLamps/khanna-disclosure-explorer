@@ -9,11 +9,12 @@
     "nullableInteger": {"type": ["integer", "null"]},
     "document": {
       "type": "object",
-      "required": ["document_id", "year", "title", "page_count", "source_pdf_path"],
+      "required": ["document_id", "year", "title", "document_type", "page_count", "source_pdf_path"],
       "properties": {
         "document_id": {"$ref": "#/$defs/identifier"},
         "year": {"type": "integer", "minimum": 2016},
         "title": {"$ref": "#/$defs/identifier"},
+        "document_type": {"enum": ["annual_disclosure", "extension_request", "gift_disclosure_waiver", "new_member_disclosure", "periodic_transaction_report", "other"]},
         "page_count": {"type": "integer", "minimum": 1},
         "source_pdf_path": {"$ref": "#/$defs/identifier"}
       }

@@ -65,7 +65,8 @@
     {
       "check": "unparsed_dates_preserved",
       "counts": {
-        "transaction_date": 1672
+        "notification_date": 1,
+        "transaction_date": 1701
       },
       "severity": "info"
     },

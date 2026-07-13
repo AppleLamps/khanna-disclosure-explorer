@@ -33,6 +33,14 @@ PAGE_TYPES = {
     "schedule_c", "schedule_d", "schedule_h", "other",
 }
 PAGE_TYPE_ALIASES["ptr"] = "ptr_transactions"
+DOCUMENT_TYPES = {
+    "annual_disclosure",
+    "extension_request",
+    "gift_disclosure_waiver",
+    "new_member_disclosure",
+    "periodic_transaction_report",
+    "other",
+}
 
 
 def clean(value):
@@ -49,19 +57,42 @@ def clean_multiline(value):
     return value or None
 
 
-def parse_date(value):
+def parse_date(value, filing_year):
     value = clean(value)
     if not value or value.startswith("["):
         return None
     for fmt in ("%m/%d/%Y", "%m/%d/%y", "%d-%b-%y", "%d-%b-%Y"):
         try:
             parsed = dt.datetime.strptime(value, fmt).date()
-            if parsed.year > dt.date.today().year + 1:
-                parsed = parsed.replace(year=parsed.year - 100)
+            # Annual disclosures can include prior reporting periods, while a
+            # PTR notification can fall in the following calendar year. Reject
+            # OCR-corrupted years instead of turning them into plausible but
+            # false historical dates.
+            if not filing_year - 2 <= parsed.year <= filing_year + 1:
+                return None
             return parsed.isoformat()
         except ValueError:
             pass
     return None
+
+
+def document_type(label):
+    normalized = (clean(label) or "").casefold()
+    if "gift disclosure waiver" in normalized:
+        return "gift_disclosure_waiver"
+    if "extension" in normalized:
+        return "extension_request"
+    if "periodic transaction" in normalized or re.search(r"\bptr\b", normalized):
+        return "periodic_transaction_report"
+    if "form b" in normalized or "new member" in normalized:
+        return "new_member_disclosure"
+    if "annual" in normalized and "financial disclosure" in normalized:
+        return "annual_disclosure"
+    return "other"
+
+
+def relative_posix(path, root=ROOT):
+    return path.relative_to(root).as_posix()
 
 
 def owner(value):
@@ -125,6 +156,12 @@ def write_jsonl(path, rows):
         for row in rows:
             fh.write(json.dumps(row, ensure_ascii=False, sort_keys=True, separators=(",", ":")))
             fh.write("\n")
+
+
+def write_json(path, value):
+    with path.open("w", encoding="utf-8", newline="\n") as fh:
+        json.dump(value, fh, indent=2, ensure_ascii=False, sort_keys=True)
+        fh.write("\n")
 
 
 def csv_value(value):
@@ -230,9 +267,9 @@ def build():
                         "income_max_usd": income_max,
                         "transaction_type": clean(row.get("tx_type") or row.get("transaction")),
                         "transaction_date_reported": reported_date,
-                        "transaction_date_iso": parse_date(reported_date),
+                        "transaction_date_iso": parse_date(reported_date, int(doc.split("-", 1)[0])),
                         "notification_date_reported": notification_date,
-                        "notification_date_iso": parse_date(notification_date),
+                        "notification_date_iso": parse_date(notification_date, int(doc.split("-", 1)[0])),
                         "reported_amount": clean(row.get("amount")),
                         "amount_min_usd": amount_min,
                         "amount_max_usd": amount_max,
@@ -262,9 +299,7 @@ def build():
                 "year": int(doc.split("-", 1)[0]),
                 "title": clean(doc_pages[0].get("doc_label")) or data.get("filing"),
                 "filer": clean(data.get("filer")),
-                "document_type": "annual_disclosure" if "Annual" in (doc_pages[0].get("doc_label") or "") else (
-                    "extension_request" if "Extension" in (doc_pages[0].get("doc_label") or "") else "periodic_transaction_report"
-                ),
+                "document_type": document_type(doc_pages[0].get("doc_label")),
                 "page_count": len(doc_pages),
                 "source_pdf_path": pdf,
             })
@@ -311,7 +346,8 @@ def build():
             code, label, reported_owner = owner(item.get("owner"))
             reported_date = clean(item.get("date"))
             notification = clean(item.get("notification_date"))
-            date_iso, notification_iso = parse_date(reported_date), parse_date(notification)
+            date_iso = parse_date(reported_date, int(year))
+            notification_iso = parse_date(notification, int(year))
             if reported_date and not date_iso:
                 unparsed_dates["transaction_date"] += 1
             if notification and not notification_iso:
@@ -370,15 +406,15 @@ def build():
             issues.append({"check": "source_json_valid", "path": rel, "error": str(error), "severity": "error"})
     actual_sources = {
         "page_images": {
-            str(path.relative_to(ROOT)) for pattern in ("docs/*/pages/page-*.jpg", "ocr/pages/page-*.jpg")
+            relative_posix(path) for pattern in ("docs/*/pages/page-*.jpg", "ocr/pages/page-*.jpg")
             for path in ROOT.glob(pattern)
         },
         "page_source_json": {
-            str(path.relative_to(ROOT)) for pattern in ("docs/*/text/page-*.json", "ocr/text/page-*.json")
+            relative_posix(path) for pattern in ("docs/*/text/page-*.json", "ocr/text/page-*.json")
             for path in ROOT.glob(pattern)
         },
         "tesseract_text_files": {
-            str(path.relative_to(ROOT)) for pattern in ("docs/*/tess/page-*.txt", "ocr/tess/page-*.txt")
+            relative_posix(path) for pattern in ("docs/*/tess/page-*.txt", "ocr/tess/page-*.txt")
             for path in ROOT.glob(pattern)
         },
     }
@@ -412,6 +448,10 @@ def build():
                 issues.append({"check": "page_reference", "table": table_name,
                                "record_id": next(value for key, value in row.items() if key.endswith("_id")),
                                "severity": "error"})
+    for row in documents:
+        if row["document_type"] not in DOCUMENT_TYPES:
+            issues.append({"check": "document_type", "record_id": row["document_id"],
+                           "value": row["document_type"], "severity": "error"})
     pending = sum(row["page_type_raw"] == "pending" for row in pages)
     if pending:
         issues.append({"check": "no_pending_pages", "count": pending, "severity": "error"})
@@ -443,14 +483,14 @@ def build():
         "notes": notes,
     }
     report_path = ROOT / "data" / "quality-report.json"
-    report_path.write_text(json.dumps(report, indent=2, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8")
+    write_json(report_path, report)
 
     files = []
     for path in sorted(OUT.glob("*")):
         if path.is_file():
             stem = path.stem
             files.append({
-                "path": str(path.relative_to(ROOT)),
+                "path": relative_posix(path),
                 "format": path.suffix.lstrip("."),
                 "records": len(tables[stem]),
                 "bytes": path.stat().st_size,
@@ -466,9 +506,7 @@ def build():
         "files": files,
         "source_coverage": report["checks"],
     }
-    (ROOT / "data" / "manifest.json").write_text(
-        json.dumps(manifest, indent=2, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8"
-    )
+    write_json(ROOT / "data" / "manifest.json", manifest)
     return report
 
 

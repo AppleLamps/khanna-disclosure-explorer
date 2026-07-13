@@ -1,6 +1,12 @@
 # Regenerable OCR intermediates (rebuild with: pdftoppm + ocr/crop.py + tesseract per ocr/prep.sh)
 ocr/hires/
 ocr/quads/
+__pycache__/
+*.pyc
+.codegraph/
+
+# Third-party comparison snapshot; not part of the source-backed release.
+data/ro_khanna_trades.json
 
 .DS_Store
 docs/*/hires/

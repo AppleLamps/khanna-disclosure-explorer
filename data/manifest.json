@@ -15,32 +15,32 @@
       "sha256": "42f274f3682c796dc43468d50e37e9022ed2fb15ac951c267bf28f7cb0ae3e68"
     },
     {
-      "bytes": 16537,
+      "bytes": 16526,
       "format": "csv",
       "path": "data/normalized/documents.csv",
       "records": 127,
-      "sha256": "44c274bdfcfc5fcfea472836a604fc75cd7d6d4ff38d6517dc03edabb0ef71c4"
+      "sha256": "e9f8b5fe9b201901e4f0d393ba0f8d3a005874cb4ecc747d6309ad2eccc9aefa"
     },
     {
-      "bytes": 28657,
+      "bytes": 28646,
       "format": "jsonl",
       "path": "data/normalized/documents.jsonl",
       "records": 127,
-      "sha256": "f263700a3d1a74a582861a656cf792b231700079ae0e2ca594b98037c2e395a9"
+      "sha256": "17d487b9897a951a117590f3e627d72ebc53ddc9a6bc9f9127812e98b95b5662"
     },
     {
-      "bytes": 24079399,
+      "bytes": 24079059,
       "format": "csv",
       "path": "data/normalized/page_rows.csv",
       "records": 106890,
-      "sha256": "c7c7d79fa17edea03dc4f171e460421af250765a1ef079eec3cf37eb88fe24dd"
+      "sha256": "3080f88cb7a7f1105153b9a48c190331bb40920b9c6e56fb205bfb917bf92a17"
     },
     {
-      "bytes": 88757546,
+      "bytes": 88757274,
       "format": "jsonl",
       "path": "data/normalized/page_rows.jsonl",
       "records": 106890,
-      "sha256": "1084ff8b2e1d32b2876604cb004af102124f12abd727dbf1eedd16559449fa06"
+      "sha256": "efcf7ddf96f9a408ebf6495f33ce7db8000c890676ae84528a0303de725a36a6"
     },
     {
       "bytes": 1116217,
@@ -57,18 +57,18 @@
       "sha256": "1534ca84da5a25114f22598b08a94397b7615a13ddbd22baf67ec9aafd002534"
     },
     {
-      "bytes": 14556789,
+      "bytes": 14556489,
       "format": "csv",
       "path": "data/normalized/transactions.csv",
       "records": 48281,
-      "sha256": "3fad7a0d3ac198dbb02a39e853e9762ac6780524808a2eec1795c4d1d4728696"
+      "sha256": "23bea34789e36dd57b84ea87d347ce06bae16d7a6a74831f7e4c913fea7f36b9"
     },
     {
-      "bytes": 38148151,
+      "bytes": 38147911,
       "format": "jsonl",
       "path": "data/normalized/transactions.jsonl",
       "records": 48281,
-      "sha256": "d4cda95d01bc02e82013efac7741327e78c6a10551537f88a718d8f2689045d3"
+      "sha256": "9e873a39757c4535c04c6db5bd2b35d5b058ba3fd86b497e9923d078b2d7d91f"
     },
     {
       "bytes": 4874985,
@@ -85,11 +85,11 @@
       "sha256": "483ef078e61a646e4aed60cfd81e76f9b8f677b67f1ce3332fec98f38f36b349"
     },
     {
-      "bytes": 2120,
+      "bytes": 2152,
       "format": "json",
       "path": "data/quality-report.json",
       "records": 1,
-      "sha256": "e1d057f9a9d0dd8f173bd9c36c1ffd63d2b5e9046c6ebf8343a773cc33745157"
+      "sha256": "ecbf553ed6d50de0da5632937dc309b6e8384ba621bc5ebeafbdec8672b53cb3"
     }
   ],
   "license": "CC0-1.0 for original dataset contributions; see DATA_LICENSE.md",

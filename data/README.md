@@ -28,9 +28,12 @@ Each table is available as newline-delimited JSON (`.jsonl`) and UTF-8 CSV:
   disclosed bounds. A null maximum with `*_has_open_upper_bound=true` means the form reported an
   open-ended amount such as “over $1,000,000”; it does not mean zero or missing data.
 - `*_reported` fields preserve the transcription exactly enough to audit parsing. Parsed ISO
-  dates are nullable; ambiguous or explicitly unknown dates remain in their reported field.
+  dates are nullable; ambiguous, explicitly unknown, or implausible OCR-derived dates remain in
+  their reported field rather than being coerced into a different year.
 - `owner_code` contains only normalized filing codes (`SP`, `DC`, `JT`, or `SELF`). Illegible or
   unknown source values become null there and remain visible in `owner_reported`.
+- `document_type` is one of `annual_disclosure`, `new_member_disclosure`,
+  `periodic_transaction_report`, `extension_request`, `gift_disclosure_waiver`, or `other`.
 - On asset and transaction rows, `collection_page_number` is the page's position in a year's
   combined website dataset. `document_page_number` is its page number within the individual
   source PDF/image directory. The canonical `pages` table contains each physical source page

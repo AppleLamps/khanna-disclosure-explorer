@@ -1,3 +1,8 @@
 # Raw OCR output is preserved byte-for-byte, including Tesseract's trailing blank lines.
 docs/*/tess/*.txt -whitespace
 ocr/tess/*.txt -whitespace
+# Published checksums must describe identical bytes on every checkout.
+data/normalized/*.csv text eol=lf
+data/normalized/*.jsonl text eol=lf
+data/manifest.json text eol=lf
+data/quality-report.json text eol=lf

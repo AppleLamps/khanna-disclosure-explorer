@@ -1,5 +1,5 @@
 document_id,year,title,filer,document_type,page_count,source_pdf_path
-2016-1,2016,"2016 Financial Disclosure (Form B, new member)",Rep. Ro Khanna (CA-17),periodic_transaction_report,116,docs/src/2016-1.pdf
+2016-1,2016,"2016 Financial Disclosure (Form B, new member)",Rep. Ro Khanna (CA-17),new_member_disclosure,116,docs/src/2016-1.pdf
 2017-10,2017,Periodic Transaction Report #9 (filed 2017),Rep. Ro Khanna (CA-17),periodic_transaction_report,3,docs/src/2017-10.pdf
 2017-11,2017,Periodic Transaction Report #10 (filed 2017),Rep. Ro Khanna (CA-17),periodic_transaction_report,6,docs/src/2017-11.pdf
 2017-12,2017,Periodic Transaction Report #11 (filed 2017),Rep. Ro Khanna (CA-17),periodic_transaction_report,7,docs/src/2017-12.pdf
@@ -24,7 +24,7 @@ document_id,year,title,filer,document_type,page_count,source_pdf_path
 2018-17,2018,Periodic Transaction Report — Amendment (Nov 2018),Rep. Ro Khanna (CA-17),periodic_transaction_report,2,docs/src/2018-17.pdf
 2018-18,2018,Financial Disclosure Extension Request,Rep. Ro Khanna (CA-17),extension_request,1,docs/src/2018-18.pdf
 2018-2,2018,Periodic Transaction Report #1 (filed 2018),Rep. Ro Khanna (CA-17),periodic_transaction_report,7,docs/src/2018-2.pdf
-2018-3,2018,Gift Disclosure Waiver Request,Rep. Ro Khanna (CA-17),periodic_transaction_report,1,docs/src/2018-3.pdf
+2018-3,2018,Gift Disclosure Waiver Request,Rep. Ro Khanna (CA-17),gift_disclosure_waiver,1,docs/src/2018-3.pdf
 2018-4,2018,2018 Annual Financial Disclosure (Form A),Rep. Ro Khanna (CA-17),annual_disclosure,309,docs/src/2018-4.pdf
 2018-5,2018,Periodic Transaction Report #2 (filed 2018),Rep. Ro Khanna (CA-17),periodic_transaction_report,5,docs/src/2018-5.pdf
 2018-6,2018,Periodic Transaction Report #3 (filed 2018),Rep. Ro Khanna (CA-17),periodic_transaction_report,9,docs/src/2018-6.pdf
